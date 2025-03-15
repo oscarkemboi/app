@@ -1,214 +1,628 @@
 {
-  "2025-03-03": [
-    {
-      "Date": "2025-03-03",
-      "Team A": "FC Utrecht (Yout",
-      "Team B": "FC Oss",
-      "League": "Netherlands - Eerste Divisie",
-      "Prediction": "Under2.5",
-      "Original Pred.": "Under2.5",
-      "Confidence": 0.6758625037668172,
-      "Possible Score": "1-0 / 0-0",
-      "Odds": 2.05,
-      "Actual Score": ""
-    },
-    {
-      "Date": "2025-03-03",
-      "Team A": "Juventus",
-      "Team B": "Verona",
-      "League": "Italy - Serie A",
-      "Prediction": "Under2.5",
-      "Original Pred.": "Under2.5",
-      "Confidence": 0.690086405774285,
-      "Possible Score": "1-0 / 0-0",
-      "Odds": 2.08,
-      "Actual Score": ""
-    }
-  ],
-  "2025-03-02": [
-    {
-      "Date": "2025-03-02",
-      "Team A": "Club Leon",
-      "Team B": "Club Tijuana",
-      "League": "Mexico - Liga MX",
-      "Prediction": "Under2.5",
-      "Original Pred.": "Under2.5",
-      "Confidence": 0.5829781779789108,
-      "Possible Score": "1-0 / 0-0",
-      "Odds": 2.29,
-      "Actual Score": ""
-    },
-    {
-      "Date": "2025-03-02",
-      "Team A": "OFK Malzenice",
-      "Team B": "Povazska Bystric",
-      "League": "Slovakia - 2. Liga",
-      "Prediction": "Under2.5",
-      "Original Pred.": "Under2.5",
-      "Confidence": 0.5443697664168048,
-      "Possible Score": "1-0 / 0-0",
-      "Odds": 2.03,
-      "Actual Score": ""
-    },
-    {
-      "Date": "2025-03-02",
-      "Team A": "Caykur Rizespor",
-      "Team B": "Alanyaspor",
-      "League": "Turkey - Super Lig",
-      "Prediction": "Under2.5",
-      "Original Pred.": "Under2.5",
-      "Confidence": 0.5424993742878377,
-      "Possible Score": "1-0 / 0-0",
-      "Odds": 2.12,
-      "Actual Score": ""
-    },
-    {
-      "Date": "2025-03-02",
-      "Team A": "Benatky n. Jiz.",
-      "Team B": "Sokol Brozany",
-      "League": "Czech Republic - Cfl - Group B",
-      "Prediction": "Under2.5",
-      "Original Pred.": "Under2.5",
-      "Confidence": 0.7382661032071433,
-      "Possible Score": "1-0 / 0-0",
-      "Odds": 2.16,
-      "Actual Score": ""
-    },
-    {
-      "Date": "2025-03-02",
-      "Team A": "Fluminense RJ",
-      "Team B": "Volta Redonda",
-      "League": "Brazil - Campeonato Carioca",
-      "Prediction": "Under2.5",
-      "Original Pred.": "Under2.5",
-      "Confidence": 0.535436904498761,
-      "Possible Score": "1-0 / 0-0",
-      "Odds": 2.33,
-      "Actual Score": ""
-    }
-  ],
-  "2025-03-01": [
-    {
-      "Date": "2025-03-01",
-      "Team A": "Brisbane Roar",
-      "Team B": "Melbourne Victor",
-      "League": "Australia - League A",
-      "Prediction": "Under2.5",
-      "Original Pred.": "Under2.5",
-      "Confidence": 0.555195957025266,
-      "Possible Score": "1-0 / 0-0",
-      "Odds": 2.23,
-      "Actual Score": "1-1"
-    },
-    {
-      "Date": "2025-03-01",
-      "Team A": "Uthai Thani Fore",
-      "Team B": "Buriram PEA",
-      "League": "Thailand - Thai League 1",
-      "Prediction": "Under2.5",
-      "Original Pred.": "Under2.5",
-      "Confidence": 0.5353264985987991,
-      "Possible Score": "1-0 / 0-0",
-      "Odds": 2.24,
-      "Actual Score": "0-0"
-    },
-    {
-      "Date": "2025-03-01",
-      "Team A": "Persik Kediri",
-      "Team B": "Dewa United",
-      "League": "Indonesia - Liga Primer",
-      "Prediction": "Under2.5",
-      "Original Pred.": "Under2.5",
-      "Confidence": 0.6550532609410505,
-      "Possible Score": "1-0 / 0-0",
-      "Odds": 2.13,
-      "Actual Score": ""
-    },
-    {
-      "Date": "2025-03-01",
-      "Team A": "Penrhiwceiber Ra",
-      "Team B": "Llantwit Major",
-      "League": "Wales - Cymru South",
-      "Prediction": "Under2.5",
-      "Original Pred.": "Under2.5",
-      "Confidence": 0.6012927209237251,
-      "Possible Score": "1-0 / 0-0",
-      "Odds": 2.11,
-      "Actual Score": ""
-    },
-    {
-      "Date": "2025-03-01",
-      "Team A": "Institute FC",
-      "Team B": "Ballinamallard U",
-      "League": "Northern Ireland - Nifl Championship",
-      "Prediction": "Under2.5",
-      "Original Pred.": "Under2.5",
-      "Confidence": 0.5795352653577307,
-      "Possible Score": "1-0 / 0-0",
-      "Odds": 2.26,
-      "Actual Score": ""
-    },
-    {
-      "Date": "2025-03-01",
-      "Team A": "Rushall Olympic",
-      "Team B": "Radcliffe Boroug",
-      "League": "England - Vanarama National League North",
-      "Prediction": "Under2.5",
-      "Original Pred.": "Under2.5",
-      "Confidence": 0.5941706969939436,
-      "Possible Score": "1-0 / 0-0",
-      "Odds": 2.03,
-      "Actual Score": ""
-    },
-    {
-      "Date": "2025-03-01",
-      "Team A": "Winterthur",
-      "Team B": "St. Gallen",
-      "League": "Switzerland - Super League",
-      "Prediction": "Under2.5",
-      "Original Pred.": "Under2.5",
-      "Confidence": 0.5184655588223234,
-      "Possible Score": "1-0 / 0-0",
-      "Odds": 2.29,
-      "Actual Score": ""
-    },
-    {
-      "Date": "2025-03-01",
-      "Team A": "CS Universitatea",
-      "Team B": "Farul Constanta",
-      "League": "Romania - Liga 1",
-      "Prediction": "Under2.5",
-      "Original Pred.": "Under2.5",
-      "Confidence": 0.5516233378014412,
-      "Possible Score": "1-0 / 0-0",
-      "Odds": 2.01,
-      "Actual Score": ""
-    },
-    {
-      "Date": "2025-03-01",
-      "Team A": "Cusco",
-      "Team B": "Cajamarca",
-      "League": "Peru - Primera División",
-      "Prediction": "Under2.5",
-      "Original Pred.": "Under2.5",
-      "Confidence": 0.7266662549921032,
-      "Possible Score": "1-0 / 0-0",
-      "Odds": 2.04,
-      "Actual Score": ""
-    },
-    {
-      "Date": "2025-03-01",
-      "Team A": "Ciervos",
-      "Team B": "Santiago",
-      "League": "Mexico - Liga Premier Serie B",
-      "Prediction": "Under2.5",
-      "Original Pred.": "Under2.5",
-      "Confidence": 0.5572692039735997,
-      "Possible Score": "1-0 / 0-0",
-      "Odds": 2.26,
-      "Actual Score": ""
-    }
-  ],
+"2025-03-02": [
+        {
+            "Date": "2025-03-02",
+            "Team A": "Club Leon",
+            "Team B": "Club Tijuana",
+            "League": "Mexico - Liga MX",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.5364127784560955,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.36,
+            "Actual Score": "2-1"
+        },
+        {
+            "Date": "2025-03-02",
+            "Team A": "Delhi",
+            "Team B": "Dempo SC",
+            "League": "India - I-League",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.791146664703468,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.26,
+            "Actual Score": "2-1"
+        },
+        {
+            "Date": "2025-03-02",
+            "Team A": "OFK Malzenice",
+            "Team B": "Povazska Bystric",
+            "League": "Slovakia - 2. Liga",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.5919635531643792,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.02,
+            "Actual Score": "0-2"
+        },
+        {
+            "Date": "2025-03-02",
+            "Team A": "Caykur Rizespor",
+            "Team B": "Alanyaspor",
+            "League": "Turkey - Super Lig",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.5158019678448915,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.19,
+            "Actual Score": "3-1"
+        },
+        {
+            "Date": "2025-03-02",
+            "Team A": "Sandviken",
+            "Team B": "IK Oddevold",
+            "League": "Sweden - Cupen",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.880354684308146,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.19,
+            "Actual Score": "1-0"
+        },
+        {
+            "Date": "2025-03-02",
+            "Team A": "Real Cartagena",
+            "Team B": "Universitario de",
+            "League": "Colombia - Primera B",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.5568678216842591,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.01,
+            "Actual Score": "3-2"
+        }
+    ],
+    "2025-03-01": [
+        {
+            "Date": "2025-03-01",
+            "Team A": "Brisbane Roar",
+            "Team B": "Melbourne Victor",
+            "League": "Australia - League A",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.5624372187630182,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.23,
+            "Actual Score": "1-1"
+        },
+        {
+            "Date": "2025-03-01",
+            "Team A": "Altona Magic",
+            "Team B": "Dandenong Thunde",
+            "League": "Australia - Npl Victoria",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.5039773126367033,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.38,
+            "Actual Score": "0-1"
+        },
+        {
+            "Date": "2025-03-01",
+            "Team A": "Uthai Thani Fore",
+            "Team B": "Buriram PEA",
+            "League": "Thailand - Thai League 1",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.5411096960898616,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.24,
+            "Actual Score": "0-0"
+        },
+        {
+            "Date": "2025-03-01",
+            "Team A": "Persik Kediri",
+            "Team B": "Dewa United",
+            "League": "Indonesia - Liga Primer",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.5745048807442781,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.13,
+            "Actual Score": "1-2"
+        },
+        {
+            "Date": "2025-03-01",
+            "Team A": "Penrhiwceiber Ra",
+            "Team B": "Llantwit Major",
+            "League": "Wales - Cymru South",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.707035562462009,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.11,
+            "Actual Score": "1-1"
+        },
+        {
+            "Date": "2025-03-01",
+            "Team A": "Institute FC",
+            "Team B": "Ballinamallard U",
+            "League": "Northern Ireland - Nifl Championship",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.6135557373655365,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.26,
+            "Actual Score": "1-0"
+        },
+        {
+            "Date": "2025-03-01",
+            "Team A": "Rushall Olympic",
+            "Team B": "Radcliffe Boroug",
+            "League": "England - Vanarama National League North",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.5977896565724549,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.03,
+            "Actual Score": "1-1"
+        },
+        {
+            "Date": "2025-03-01",
+            "Team A": "Winterthur",
+            "Team B": "St. Gallen",
+            "League": "Switzerland - Super League",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.5068971019984858,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.29,
+            "Actual Score": "4-0"
+        },
+        {
+            "Date": "2025-03-01",
+            "Team A": "CS Universitatea",
+            "Team B": "Farul Constanta",
+            "League": "Romania - Liga 1",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.545494124322413,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.01,
+            "Actual Score": "1-0"
+        },
+        {
+            "Date": "2025-03-01",
+            "Team A": "Cusco",
+            "Team B": "Cajamarca",
+            "League": "Peru - Primera División",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.7672978157564159,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.06,
+            "Actual Score": "1-1"
+        },
+        {
+            "Date": "2025-03-01",
+            "Team A": "Nurnberg",
+            "Team B": "Hannover 96",
+            "League": "Germany - 2. Bundesliga",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.5043884340368254,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.03,
+            "Actual Score": "1-2"
+        },
+        {
+            "Date": "2025-03-01",
+            "Team A": "Dortmund II",
+            "Team B": "Rot-Weiss Essen",
+            "League": "Germany - 3.Lega",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.5411095367978898,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.31,
+            "Actual Score": "0-1"
+        }
+    ],
+    "2025-03-16": [
+        {
+            "Date": "2025-03-16",
+            "Team A": "Diyarbekirspor",
+            "Team B": "Nazillispor",
+            "League": "Turkey - 2. Lig",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.622230722536278,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.33,
+            "Actual Score": ""
+        }
+    ],
+    "2025-03-15": [
+        {
+            "Date": "2025-03-15",
+            "Team A": "Cambridge United",
+            "Team B": "Peterborough Uni",
+            "League": "England - League One",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.5400524389135772,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.03,
+            "Actual Score": ""
+        },
+        {
+            "Date": "2025-03-15",
+            "Team A": "AEL Larissa",
+            "Team B": "Makedonikos",
+            "League": "Greece - Super League 2",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.5082478520556888,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.49,
+            "Actual Score": ""
+        },
+        {
+            "Date": "2025-03-15",
+            "Team A": "ADO 20 Heemskerk",
+            "Team B": "Scheveningen",
+            "League": "Netherlands - Tweede Divisie",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.5192684984628024,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.28,
+            "Actual Score": ""
+        },
+        {
+            "Date": "2025-03-15",
+            "Team A": "Huddersfield Tow",
+            "Team B": "Crawley Town",
+            "League": "England - League One",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.6055695815557676,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.3,
+            "Actual Score": ""
+        },
+        {
+            "Date": "2025-03-15",
+            "Team A": "Canvey Island",
+            "Team B": "lewes",
+            "League": "England - Non League Premier - Isthmian",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.5929026386078871,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.05,
+            "Actual Score": ""
+        },
+        {
+            "Date": "2025-03-15",
+            "Team A": "Cray Valley Pape",
+            "Team B": "Dover Athletic",
+            "League": "England - Non League Premier - Isthmian",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.5315567628029583,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.02,
+            "Actual Score": ""
+        },
+        {
+            "Date": "2025-03-15",
+            "Team A": "FC Utrecht",
+            "Team B": "NEC Nijmegen",
+            "League": "Netherlands - Eredivisie",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.600526385004176,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.11,
+            "Actual Score": ""
+        },
+        {
+            "Date": "2025-03-15",
+            "Team A": "AC Milan",
+            "Team B": "Como",
+            "League": "Italy - Serie A",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.6467500057550721,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.17,
+            "Actual Score": ""
+        },
+        {
+            "Date": "2025-03-15",
+            "Team A": "Servette",
+            "Team B": "Yverdon",
+            "League": "Switzerland - Super League",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.5152472895281647,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.25,
+            "Actual Score": ""
+        },
+        {
+            "Date": "2025-03-15",
+            "Team A": "Sparta Rotterdam",
+            "Team B": "Zwolle",
+            "League": "Netherlands - Eredivisie",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.591628826427298,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.02,
+            "Actual Score": ""
+        }
+    ],
+    "2025-03-14": [
+        {
+            "Date": "2025-03-14",
+            "Team A": "Bahia(BA)",
+            "Team B": "Boston River",
+            "League": "America - Copa Libertadores",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.7691701689536969,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.2,
+            "Actual Score": "1-0"
+        },
+        {
+            "Date": "2025-03-14",
+            "Team A": "Pathum United",
+            "Team B": "Lamphun Warrior",
+            "League": "Thailand - Thai League 1",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.6139928890414762,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.07,
+            "Actual Score": "1-0"
+        },
+        {
+            "Date": "2025-03-14",
+            "Team A": "Canoneros Marina",
+            "Team B": "Ayense",
+            "League": "Mexico - Liga Premier Serie B",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.6532364429998928,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.07,
+            "Actual Score": ""
+        }
+    ],
+    "2025-03-13": [
+        {
+            "Date": "2025-03-13",
+            "Team A": "Cercle Brugge",
+            "Team B": "Jagiellonia Bial",
+            "League": "Europe - UEFA Europa Conference League",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.626305138862112,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.06,
+            "Actual Score": "2-0"
+        }
+    ],
+    "2025-03-12": [
+        {
+            "Date": "2025-03-12",
+            "Team A": "Lion City",
+            "Team B": "Hiroshima Sanfre",
+            "League": "Asia - AFC Cup",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.6518974192301643,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 3.44,
+            "Actual Score": "1-1"
+        },
+        {
+            "Date": "2025-03-12",
+            "Team A": "FK Buducnost Pod",
+            "Team B": "Otrant",
+            "League": "Montenegro - Prva Cmogorska Liga",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.5507638157746468,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.23,
+            "Actual Score": "5-1"
+        }
+    ],
+    "2025-03-10": [
+        {
+            "Date": "2025-03-10",
+            "Team A": "Beitar Jerusalem",
+            "Team B": "Hapoel Beer Shev",
+            "League": "Israel - Ligat Ha'Al",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.6521745224408328,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.17,
+            "Actual Score": "1-1"
+        }
+    ],
+    "2025-03-08": [
+        {
+            "Date": "2025-03-08",
+            "Team A": "Táborsko II",
+            "Team B": "Admira Praha",
+            "League": "Czech Republic - Cfl - Group A",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.6140869588174563,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.33,
+            "Actual Score": "0-1"
+        },
+        {
+            "Date": "2025-03-08",
+            "Team A": "Fredrikstad",
+            "Team B": "KFUM Oslo",
+            "League": "International - Friendly matches",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.6676698695141217,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.13,
+            "Actual Score": "0-1"
+        },
+        {
+            "Date": "2025-03-08",
+            "Team A": "Saarbrucken",
+            "Team B": "Energie Cottbus",
+            "League": "Germany - 3.Lega",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.5499689773589818,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.1,
+            "Actual Score": "2-1"
+        },
+        {
+            "Date": "2025-03-08",
+            "Team A": "Lahti",
+            "Team B": "Haka",
+            "League": "International - Friendly matches",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.6921469074190774,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.32,
+            "Actual Score": "2-0"
+        },
+        {
+            "Date": "2025-03-08",
+            "Team A": "Dynamik",
+            "Team B": "Moso Sugar",
+            "League": "Burundi - Ligue A",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.5193612736105386,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.3,
+            "Actual Score": "1-0"
+        },
+        {
+            "Date": "2025-03-08",
+            "Team A": "PDRM",
+            "Team B": "Pahang",
+            "League": "Malaysia - Super League",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.6723079574072117,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.12,
+            "Actual Score": "1-3"
+        },
+        {
+            "Date": "2025-03-08",
+            "Team A": "Apollon Limassol",
+            "Team B": "Nea Salamis",
+            "League": "Cyprus - 1 Division",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.5092928983420015,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.05,
+            "Actual Score": "1-1"
+        },
+        {
+            "Date": "2025-03-08",
+            "Team A": "Metz",
+            "Team B": "Annecy",
+            "League": "France - Ligue 2",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.5263804242051873,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.02,
+            "Actual Score": "5-1"
+        }
+    ],
+    "2025-03-07": [
+        {
+            "Date": "2025-03-07",
+            "Team A": "Riteriai",
+            "Team B": "FK Zalgiris Viln",
+            "League": "Lithuania - A Lyga",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.5002190599577141,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.24,
+            "Actual Score": "3-3"
+        },
+        {
+            "Date": "2025-03-07",
+            "Team A": "Connahs Quay Tow",
+            "Team B": "Aberystwyth Town",
+            "League": "Wales - Premier League",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.5129596511453901,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.49,
+            "Actual Score": "3-0"
+        }
+    ],
+    "2025-03-06": [
+        {
+            "Date": "2025-03-06",
+            "Team A": "FC Riga United",
+            "Team B": "Super Nova",
+            "League": "Latvia - Virsliga",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.6444938458172242,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 3.5,
+            "Actual Score": "2-0"
+        }
+    ],
+    "2025-03-05": [
+        {
+            "Date": "2025-03-05",
+            "Team A": "FK Auda Riga",
+            "Team B": "RFS",
+            "League": "Latvia - Virsliga",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.514258753841984,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.17,
+            "Actual Score": "1-2"
+        },
+        {
+            "Date": "2025-03-05",
+            "Team A": "Domzale",
+            "Team B": "NK Olimpija Ljub",
+            "League": "Slovenia - 1. SNL Prva",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.5081132966903745,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.04,
+            "Actual Score": "3-1"
+        },
+        {
+            "Date": "2025-03-05",
+            "Team A": "Aurora",
+            "Team B": "Gualberto Villar",
+            "League": "America - Copa Sudamericana",
+            "Prediction": "Under2.5",
+            "Original Pred.": "Under2.5",
+            "Confidence": 0.8388332926841418,
+            "Possible Score": "1-0 / 0-0",
+            "Odds": 2.17,
+            "Actual Score": "0-1"
+        }
+    ]
   "2025-02-28": [
     {
       "Date": "2025-02-28",
