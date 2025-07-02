@@ -1,0 +1,48 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-09-01/policyDefinition.json#",
+  "name": "enforce-unique-human-owner-tag",
+  "properties": {
+    "displayName": "Enforce Unique Human Name in Owner Tag",
+    "policyType": "Custom",
+    "mode": "All",
+    "description": "Ensures all resources have an 'Owner' tag with a human name.",
+    "metadata": {
+      "version": "1.0.0",
+      "category": "Tags"
+    },
+    "parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Audit"
+      }
+    },
+    "policyRule": {
+      "if": {
+        "anyOf": [
+          {
+            "field": "tags['Owner']",
+            "exists": "false"
+          },
+          {
+            "not": {
+              "field": "tags['Owner']",
+              "match": "^[A-Z][a-z]+ [A-Z][a-z]+$"
+            }
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    }
+  }
+}
