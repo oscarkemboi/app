@@ -1,0 +1,5074 @@
+{
+    "months": {
+        "2023-01": {
+            "matches": [
+                {
+                    "Date": "2023-01-01",
+                    "Match": "Blackpool vs Sunderland",
+                    "Odd": 1.83,
+                    "Score": "1-1",
+                    "H2H Under %": 88.89,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-01",
+                    "Match": "Toulouse vs Ajaccio",
+                    "Odd": 1.7373737373737375,
+                    "Score": "2-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-02",
+                    "Match": "Barrow vs Rochdale",
+                    "Odd": 1.72,
+                    "Score": "0-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-03",
+                    "Match": "Arsenal vs Newcastle United",
+                    "Odd": 1.8797814207650272,
+                    "Score": "0-0",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-03",
+                    "Match": "Levadiakos vs Panathinaikos",
+                    "Odd": 1.77,
+                    "Score": "0-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-04",
+                    "Match": "UD Logrones vs Real Sociedad To",
+                    "Odd": 1.8797814207650272,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-04",
+                    "Match": "Real Oviedo vs Atletico Madrid",
+                    "Odd": 1.8,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-05",
+                    "Match": "Gimnastic Tarrag vs Osasuna",
+                    "Odd": 1.8105263157894738,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-05",
+                    "Match": "B.B. Gaziantep vs Basaksehir",
+                    "Odd": 1.75,
+                    "Score": "1-1",
+                    "H2H Under %": 54.55,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-07",
+                    "Match": "Leyton Orient vs Doncaster Rovers",
+                    "Odd": 1.78,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-07",
+                    "Match": "Hereford United vs Scarborough",
+                    "Odd": 1.89,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-08",
+                    "Match": "Iceland vs Estonia",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-08",
+                    "Match": "Bristol City vs Swansea City",
+                    "Odd": 1.83,
+                    "Score": "1-1",
+                    "H2H Under %": 81.25,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-09",
+                    "Match": "Univ Catolica vs Talleres Cordoba",
+                    "Odd": 1.75,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-09",
+                    "Match": "Verona vs Cremonese",
+                    "Odd": 1.8,
+                    "Score": "2-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-11",
+                    "Match": "Stade Brestois vs Lille",
+                    "Odd": 1.8201058201058202,
+                    "Score": "0-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-11",
+                    "Match": "Nantes vs Lyon",
+                    "Odd": 1.8395721925133688,
+                    "Score": "0-0",
+                    "H2H Under %": 61.11,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-12",
+                    "Match": "Nacional da Made vs Velez Sarsfield",
+                    "Odd": 1.73,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-12",
+                    "Match": "Apollon Pontou vs Panserraikos",
+                    "Odd": 1.82,
+                    "Score": "0-1",
+                    "H2H Under %": 44.44,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-13",
+                    "Match": "Denizlispor vs Eyupspor",
+                    "Odd": 1.89010989010989,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-13",
+                    "Match": "Bordeaux vs Amiens",
+                    "Odd": 1.73,
+                    "Score": "1-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-14",
+                    "Match": "Keciorengucu vs Caykur Rizespor",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-15",
+                    "Match": "Nacional da Made vs Estrela",
+                    "Odd": 1.78,
+                    "Score": "0-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-16",
+                    "Match": "Niort vs Saint Etienne",
+                    "Odd": 1.79,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-17",
+                    "Match": "Altrincham vs Maidenhead Unite",
+                    "Odd": 1.9325842696629212,
+                    "Score": "3-2",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-01-18",
+                    "Match": "Athletic Bilbao vs RCD Espanyol",
+                    "Odd": 1.75,
+                    "Score": "1-0",
+                    "H2H Under %": 73.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-18",
+                    "Match": "Globo vs ABC RN",
+                    "Odd": 1.95,
+                    "Score": "0-3",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-01-19",
+                    "Match": "CE Forca E Luz vs Alecrim",
+                    "Odd": 1.75,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-19",
+                    "Match": "B.B. Gaziantep vs Konyaspor",
+                    "Odd": 1.93,
+                    "Score": "0-0",
+                    "H2H Under %": 57.14,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-20",
+                    "Match": "Sheffield United vs Hull City",
+                    "Odd": 1.8010471204188483,
+                    "Score": "1-0",
+                    "H2H Under %": 63.64,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-21",
+                    "Match": "Fontinhas vs FC Alverca",
+                    "Odd": 1.8,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-21",
+                    "Match": "Arbroath vs Motherwell",
+                    "Odd": 1.7731958762886597,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-22",
+                    "Match": "ASM Belfortaine vs Annecy",
+                    "Odd": 1.8594594594594593,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-23",
+                    "Match": "Konyaspor vs Ankaragucu",
+                    "Odd": 1.94,
+                    "Score": "0-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-23",
+                    "Match": "Carshalton vs lewes",
+                    "Odd": 1.9657142857142857,
+                    "Score": "2-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-01-24",
+                    "Match": "Bolton Wanderers vs Forest Green Rov",
+                    "Odd": 1.82,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-24",
+                    "Match": "Sparta Rotterdam vs RKC Waalwijk",
+                    "Odd": 1.8395721925133688,
+                    "Score": "0-0",
+                    "H2H Under %": 76.47,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-25",
+                    "Match": "Halifax Town vs Scunthorpe Unite",
+                    "Odd": 1.79,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-25",
+                    "Match": "Barcelona vs Real Sociedad To",
+                    "Odd": 1.8494623655913978,
+                    "Score": "1-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-26",
+                    "Match": "Botafogo RJ vs Madureira",
+                    "Odd": 1.77,
+                    "Score": "2-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-26",
+                    "Match": "Vitoria BA vs Doce Mel",
+                    "Odd": 1.89010989010989,
+                    "Score": "3-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-01-27",
+                    "Match": "Telstar vs Omniworld Almere",
+                    "Odd": 1.9,
+                    "Score": "0-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-27",
+                    "Match": "Goztepe vs Bandirmaspor",
+                    "Odd": 1.77,
+                    "Score": "3-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-01-28",
+                    "Match": "FC Heidenheim vs Hansa Rostock",
+                    "Odd": 1.82,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-28",
+                    "Match": "SpVgg Bayreuth vs Ingolstadt",
+                    "Odd": 1.9884393063583814,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-29",
+                    "Match": "Piast Gliwice vs Jagiellonia Bial",
+                    "Odd": 1.7823834196891193,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-29",
+                    "Match": "Livingston vs Hearts",
+                    "Odd": 1.77,
+                    "Score": "0-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-30",
+                    "Match": "Derby County vs West Ham United",
+                    "Odd": 1.85,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-30",
+                    "Match": "Udinese vs Verona",
+                    "Odd": 1.85,
+                    "Score": "1-1",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-01-31",
+                    "Match": "Chorley FC vs Telford United",
+                    "Odd": 1.74,
+                    "Score": "1-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 90.0,
+                "Under2.5_Count": 45,
+                "Total_Matches": 50,
+                "Average_Odds": 1.82
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 80.95,
+                "Combo_Under2.5_Count": 17,
+                "Total_Days": 21,
+                "Average_Combo_Odds": 3.33
+            }
+        },
+        "2023-02": {
+            "matches": [
+                {
+                    "Date": "2023-02-01",
+                    "Match": "Lille vs Clermont",
+                    "Odd": 1.96,
+                    "Score": "0-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-02",
+                    "Match": "Konyaspor vs Istanbulspor",
+                    "Odd": 1.9545454545454546,
+                    "Score": "0-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-03",
+                    "Match": "Altay vs Adanaspor",
+                    "Odd": 1.728643216080402,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-03",
+                    "Match": "SC Freiburg (You vs SpVgg Bayreuth",
+                    "Odd": 1.98,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-04",
+                    "Match": "PAEEK vs Xylotymbou",
+                    "Odd": 1.73,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-04",
+                    "Match": "Cheshunt vs Hemel Hempstead",
+                    "Odd": 1.7731958762886597,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-06",
+                    "Match": "Sport Boys vs Deportivo Union",
+                    "Odd": 1.72,
+                    "Score": "2-1",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-02-06",
+                    "Match": "O.Higgins vs Huachipato",
+                    "Odd": 1.85,
+                    "Score": "0-1",
+                    "H2H Under %": 68.18,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-07",
+                    "Match": "Taunton Town vs Dulwich Hamlet",
+                    "Odd": 1.8797814207650272,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-07",
+                    "Match": "Fleetwood Town vs Sheffield Wednes",
+                    "Odd": 1.87,
+                    "Score": "1-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-08",
+                    "Match": "Brasilia vs Inter Santa Mari",
+                    "Odd": 1.8297872340425532,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-08",
+                    "Match": "Capital vs Brasiliense",
+                    "Odd": 1.73,
+                    "Score": "0-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-09",
+                    "Match": "Bahia(BA) vs Bahia de Feira B",
+                    "Odd": 1.8105263157894738,
+                    "Score": "2-1",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-02-09",
+                    "Match": "Santos vs Sao Bento",
+                    "Odd": 1.81,
+                    "Score": "1-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-10",
+                    "Match": "Genoa vs Palermo",
+                    "Odd": 1.73,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-10",
+                    "Match": "Lechia Gdansk vs Widzew lodz",
+                    "Odd": 1.7461928934010151,
+                    "Score": "0-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-11",
+                    "Match": "Kingstonian vs Aveley",
+                    "Odd": 1.9657142857142857,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-11",
+                    "Match": "Doce Mel vs Bahia(BA)",
+                    "Odd": 1.79,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-12",
+                    "Match": "Fortuna Dusseldo vs SV Sandhausen",
+                    "Odd": 1.7731958762886597,
+                    "Score": "2-0",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-12",
+                    "Match": "LKS Lodz vs GKS Tychy",
+                    "Odd": 1.7551020408163265,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-13",
+                    "Match": "CD Mafra vs Nacional da Made",
+                    "Odd": 1.96,
+                    "Score": "3-3",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-02-14",
+                    "Match": "Derby County vs Lincoln City",
+                    "Odd": 1.9,
+                    "Score": "1-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-14",
+                    "Match": "Bolton Wanderers vs Milton Keynes Do",
+                    "Odd": 1.87,
+                    "Score": "5-0",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-02-15",
+                    "Match": "Borussia Dortmun vs Chelsea",
+                    "Odd": 1.7373737373737375,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-15",
+                    "Match": "Swansea City vs Blackpool",
+                    "Odd": 1.8105263157894738,
+                    "Score": "2-1",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-02-16",
+                    "Match": "Qarabag vs KAA Gent",
+                    "Odd": 1.8105263157894738,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-16",
+                    "Match": "Trabzonspor vs Basel",
+                    "Odd": 1.911111111111111,
+                    "Score": "1-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-17",
+                    "Match": "Trnava vs MFK Ruzomberok",
+                    "Odd": 1.86,
+                    "Score": "0-2",
+                    "H2H Under %": 69.7,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-18",
+                    "Match": "Blackpool vs Stoke City",
+                    "Odd": 1.78,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-18",
+                    "Match": "Oldham Athletic vs Maidstone United",
+                    "Odd": 1.8395721925133688,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-20",
+                    "Match": "Olympiakos Nicos vs Omonia Nicosia F",
+                    "Odd": 1.8,
+                    "Score": "0-1",
+                    "H2H Under %": 78.57,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-20",
+                    "Match": "Maccabi Tel Aviv vs Hapoel Beer Shev",
+                    "Odd": 1.84,
+                    "Score": "1-0",
+                    "H2H Under %": 64.81,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-21",
+                    "Match": "Curzon Ashton FC vs Peterborough Spo",
+                    "Odd": 1.911111111111111,
+                    "Score": "3-0",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-02-21",
+                    "Match": "Plymouth Argyle vs Cheltenham Town",
+                    "Odd": 1.9005524861878451,
+                    "Score": "1-1",
+                    "H2H Under %": 63.64,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-22",
+                    "Match": "Cimarrones de So vs CSyD Dorados de",
+                    "Odd": 1.7823834196891193,
+                    "Score": "2-0",
+                    "H2H Under %": 72.22,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-22",
+                    "Match": "NK Olimpija Ljub vs ND Gorica",
+                    "Odd": 1.83,
+                    "Score": "4-3",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-02-23",
+                    "Match": "Venados vs CD Alacranes de",
+                    "Odd": 1.88,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-23",
+                    "Match": "AS Roma vs Red Bull Salzbur",
+                    "Odd": 1.79,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-25",
+                    "Match": "Farnborough Town vs Braintree Town",
+                    "Odd": 1.85,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-25",
+                    "Match": "Nes Tziona vs Maccabi Tel Aviv",
+                    "Odd": 1.9545454545454546,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-26",
+                    "Match": "Estrela vs CD Tondela",
+                    "Odd": 1.73,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-26",
+                    "Match": "Chojniczanka Cho vs Puszcza Niepolom",
+                    "Odd": 1.8395721925133688,
+                    "Score": "1-1",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-27",
+                    "Match": "Atletico Naciona vs Atletico Huila",
+                    "Odd": 1.85,
+                    "Score": "3-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-02-27",
+                    "Match": "Santos Laguna vs Puebla",
+                    "Odd": 1.9325842696629212,
+                    "Score": "3-2",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-02-28",
+                    "Match": "Caucaia vs Pacajus",
+                    "Odd": 1.89,
+                    "Score": "0-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-02-28",
+                    "Match": "Bonnyrigg Rose vs Forfar Athletic",
+                    "Odd": 1.8010471204188483,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 80.43,
+                "Under2.5_Count": 37,
+                "Total_Matches": 46,
+                "Average_Odds": 1.84
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 66.67,
+                "Combo_Under2.5_Count": 14,
+                "Total_Days": 21,
+                "Average_Combo_Odds": 3.34
+            }
+        },
+        "2023-03": {
+            "matches": [
+                {
+                    "Date": "2023-03-01",
+                    "Match": "CA Huracan vs Boston River",
+                    "Odd": 1.72,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-02",
+                    "Match": "Iguatu vs America FC Natal",
+                    "Odd": 1.73,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-02",
+                    "Match": "Sergipe Se vs Botafogo RJ",
+                    "Odd": 2.0,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-03",
+                    "Match": "Fakel Voronezh vs Khimki",
+                    "Odd": 1.8105263157894738,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-03",
+                    "Match": "Austria Vienna I vs First Wien 1894",
+                    "Odd": 1.9217877094972067,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-04",
+                    "Match": "Morecambe vs Bolton Wanderers",
+                    "Odd": 1.8297872340425532,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-04",
+                    "Match": "Sutton United vs Crewe Alexandra",
+                    "Odd": 1.86,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-05",
+                    "Match": "Denizlispor vs Sakaryaspor",
+                    "Odd": 1.8594594594594593,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-05",
+                    "Match": "Cajamarca vs Alianza Lima",
+                    "Odd": 1.764102564102564,
+                    "Score": "0-1",
+                    "H2H Under %": 88.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-06",
+                    "Match": "Baltika Kalining vs SKA-Energiya Kha",
+                    "Odd": 1.8,
+                    "Score": "2-0",
+                    "H2H Under %": 86.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-06",
+                    "Match": "Deportes La Sere vs Rangers Talca",
+                    "Odd": 1.91,
+                    "Score": "0-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-07",
+                    "Match": "W.B.A vs Wigan Athletic",
+                    "Odd": 1.8,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-07",
+                    "Match": "Alfreton Town vs Banbury United",
+                    "Odd": 1.8695652173913042,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-08",
+                    "Match": "Tottenham Hotspu vs AC Milan",
+                    "Odd": 1.88,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-08",
+                    "Match": "Genclerbirligi vs Denizlispor",
+                    "Odd": 1.911111111111111,
+                    "Score": "0-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-09",
+                    "Match": "Anderlecht vs Villarreal",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-09",
+                    "Match": "Venados vs CF Atlante",
+                    "Odd": 1.79,
+                    "Score": "1-1",
+                    "H2H Under %": 73.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-10",
+                    "Match": "Finn Harps vs Wexford",
+                    "Odd": 1.8797814207650272,
+                    "Score": "0-0",
+                    "H2H Under %": 68.75,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-11",
+                    "Match": "Sandecja Nowy Sa vs GKS Katowice",
+                    "Odd": 1.76,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-11",
+                    "Match": "Excelsior Virton vs St. Liege U23",
+                    "Odd": 1.94,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-12",
+                    "Match": "San Diego Loyal vs Detroit",
+                    "Odd": 2.0,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-12",
+                    "Match": "Shonan Bellmare vs Kyoto Sanga",
+                    "Odd": 1.72,
+                    "Score": "0-2",
+                    "H2H Under %": 88.89,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-13",
+                    "Match": "Wisla Plock vs Widzew lodz",
+                    "Odd": 1.8,
+                    "Score": "1-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-13",
+                    "Match": "Arka Gdynia vs Gornik Leczna",
+                    "Odd": 1.8395721925133688,
+                    "Score": "0-1",
+                    "H2H Under %": 69.23,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-14",
+                    "Match": "Rot-Weiss Essen vs VfL Osnabruck",
+                    "Odd": 1.8695652173913042,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-16",
+                    "Match": "Patriotas FC vs Orsomarso",
+                    "Odd": 1.8,
+                    "Score": "0-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-16",
+                    "Match": "Orlando City vs Tigres UANL",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-18",
+                    "Match": "Watford vs Wigan Athletic",
+                    "Odd": 1.74,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-18",
+                    "Match": "Lisen vs Vyskov",
+                    "Odd": 1.85,
+                    "Score": "0-1",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-19",
+                    "Match": "Raca vs Nova Dubnica",
+                    "Odd": 1.96,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-20",
+                    "Match": "Rio Grande vs Oakland Roots",
+                    "Odd": 1.911111111111111,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-20",
+                    "Match": "Club Sport Emele vs Tecnico Universi",
+                    "Odd": 1.7373737373737375,
+                    "Score": "1-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-21",
+                    "Match": "Deportivo Cuenca vs Cumbaya",
+                    "Odd": 1.84,
+                    "Score": "1-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-22",
+                    "Match": "Caldense(MG) vs Patrocinense",
+                    "Odd": 1.88,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-23",
+                    "Match": "Barbados vs Cuba",
+                    "Odd": 2.0,
+                    "Score": "0-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-23",
+                    "Match": "Millonarios vs Deportivo Pasto",
+                    "Odd": 1.73,
+                    "Score": "2-0",
+                    "H2H Under %": 68.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-24",
+                    "Match": "Poland U21 vs Austria U21",
+                    "Odd": 2.0,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-24",
+                    "Match": "Serbia U21 vs Italy U21",
+                    "Odd": 1.85,
+                    "Score": "0-2",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-25",
+                    "Match": "St Albans City vs Dover Athletic",
+                    "Odd": 1.7373737373737375,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-25",
+                    "Match": "Billericay Town vs Carshalton",
+                    "Odd": 2.0,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-26",
+                    "Match": "Russia vs Iraq",
+                    "Odd": 1.81,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-26",
+                    "Match": "England vs Ukraine",
+                    "Odd": 1.9884393063583814,
+                    "Score": "2-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-27",
+                    "Match": "FYR Macedonia vs Faroe Islands",
+                    "Odd": 1.72,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-27",
+                    "Match": "Dominican Republ vs Belize",
+                    "Odd": 1.8,
+                    "Score": "2-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-28",
+                    "Match": "Czech Republic U vs Portugal U17",
+                    "Odd": 1.7916666666666667,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-28",
+                    "Match": "France U21 vs Spain U21",
+                    "Odd": 1.8395721925133688,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-29",
+                    "Match": "Canada vs Honduras",
+                    "Odd": 2.0,
+                    "Score": "4-1",
+                    "H2H Under %": 55.56,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-03-29",
+                    "Match": "Cimarrones de So vs Alebrijes Oaxaca",
+                    "Odd": 1.92,
+                    "Score": "0-0",
+                    "H2H Under %": 52.63,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-30",
+                    "Match": "Sakaryaspor vs Eyupspor",
+                    "Odd": 1.91,
+                    "Score": "2-0",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-30",
+                    "Match": "Real Cartagena vs Cortulua",
+                    "Odd": 1.82,
+                    "Score": "2-1",
+                    "H2H Under %": 52.63,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-03-31",
+                    "Match": "Ironi Tiberias vs Maccabi Jaffa",
+                    "Odd": 1.911111111111111,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-03-31",
+                    "Match": "Hrvatski dragovo vs Dubrava",
+                    "Odd": 1.76,
+                    "Score": "0-1",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 96.15,
+                "Under2.5_Count": 50,
+                "Total_Matches": 52,
+                "Average_Odds": 1.85
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 91.3,
+                "Combo_Under2.5_Count": 21,
+                "Total_Days": 23,
+                "Average_Combo_Odds": 3.4
+            }
+        },
+        "2023-04": {
+            "matches": [
+                {
+                    "Date": "2023-04-01",
+                    "Match": "VSI Tampa Bay FC vs Birmingham City",
+                    "Odd": 2.0,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-01",
+                    "Match": "Saint Etienne vs Niort",
+                    "Odd": 1.8594594594594593,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-02",
+                    "Match": "Wisla Plock vs Radomiak Radom",
+                    "Odd": 1.89,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-02",
+                    "Match": "Keciorengucu vs Tuzlaspor Kulubu",
+                    "Odd": 1.7823834196891193,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-03",
+                    "Match": "AGF Aarhus vs Randers FC",
+                    "Odd": 1.75,
+                    "Score": "1-1",
+                    "H2H Under %": 62.96,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-04",
+                    "Match": "Taunton Town vs Concord Rangers",
+                    "Odd": 1.96,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-05",
+                    "Match": "Blooming vs Santos",
+                    "Odd": 1.8105263157894738,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-05",
+                    "Match": "Kyoto Sanga vs Cerezo Osaka",
+                    "Odd": 1.82,
+                    "Score": "4-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-04-06",
+                    "Match": "Ruch Chorzow vs Podbeskidzie Bie",
+                    "Odd": 1.764102564102564,
+                    "Score": "2-2",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-04-06",
+                    "Match": "Chrobry Glogow vs Sandecja Nowy Sa",
+                    "Odd": 1.764102564102564,
+                    "Score": "0-0",
+                    "H2H Under %": 81.25,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-07",
+                    "Match": "Haverfordwest Co vs Pontypridd",
+                    "Odd": 2.0,
+                    "Score": "2-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-07",
+                    "Match": "Alebrijes Oaxaca vs Cancun",
+                    "Odd": 1.72,
+                    "Score": "1-0",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-08",
+                    "Match": "SV Ried vs TSV Hartberg",
+                    "Odd": 1.78,
+                    "Score": "1-3",
+                    "H2H Under %": 70.59,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-04-09",
+                    "Match": "Reims vs Stade Brestois",
+                    "Odd": 1.7916666666666667,
+                    "Score": "1-1",
+                    "H2H Under %": 78.57,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-09",
+                    "Match": "Real Betis vs Cadiz",
+                    "Odd": 1.76,
+                    "Score": "0-2",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-10",
+                    "Match": "NK Bravo vs NK Olimpija Ljub",
+                    "Odd": 1.8297872340425532,
+                    "Score": "1-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-10",
+                    "Match": "Ham-Kam vs Sandefjord",
+                    "Odd": 1.7916666666666667,
+                    "Score": "2-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-11",
+                    "Match": "Super Nova vs Metta/LU Riga",
+                    "Odd": 1.89010989010989,
+                    "Score": "0-3",
+                    "H2H Under %": 50.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-04-11",
+                    "Match": "Dundee vs Raith Rovers",
+                    "Odd": 1.7731958762886597,
+                    "Score": "3-1",
+                    "H2H Under %": 46.15,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-04-12",
+                    "Match": "Eyupspor vs Genclerbirligi",
+                    "Odd": 2.0,
+                    "Score": "0-2",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-12",
+                    "Match": "Sao Paulo vs Ituano(SP)",
+                    "Odd": 1.8297872340425532,
+                    "Score": "0-0",
+                    "H2H Under %": 62.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-13",
+                    "Match": "Anderlecht vs AZ Alkmaar",
+                    "Odd": 1.75,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-13",
+                    "Match": "Dartford vs Taunton Town",
+                    "Odd": 1.9,
+                    "Score": "0-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-14",
+                    "Match": "Inhulets vs Kolos Kovalyovka",
+                    "Odd": 1.72,
+                    "Score": "0-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-14",
+                    "Match": "UC Dublin vs Cork City",
+                    "Odd": 1.8797814207650272,
+                    "Score": "1-0",
+                    "H2H Under %": 78.57,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-15",
+                    "Match": "Dortmund II vs SV Meppen",
+                    "Odd": 1.9657142857142857,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-15",
+                    "Match": "Tuzlaspor Kulubu vs Bodrumspor",
+                    "Odd": 1.9884393063583814,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-16",
+                    "Match": "Halmstads vs Djurgardens",
+                    "Odd": 1.8297872340425532,
+                    "Score": "2-0",
+                    "H2H Under %": 81.82,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-16",
+                    "Match": "SC Freiburg (You vs Zwickau",
+                    "Odd": 1.911111111111111,
+                    "Score": "4-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-04-17",
+                    "Match": "Boluspor vs Caykur Rizespor",
+                    "Odd": 2.0,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-17",
+                    "Match": "Vilafranquense vs Estrela",
+                    "Odd": 1.77,
+                    "Score": "0-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-18",
+                    "Match": "Banbury United vs Alfreton Town",
+                    "Odd": 1.8,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-18",
+                    "Match": "Farsley Celtic vs Blyth Spartans",
+                    "Odd": 1.83,
+                    "Score": "0-2",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-19",
+                    "Match": "Boca Juniors vs Deportivo Pereir",
+                    "Odd": 1.93,
+                    "Score": "2-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-04-19",
+                    "Match": "Go Ahead Eagles vs RKC Waalwijk",
+                    "Odd": 1.911111111111111,
+                    "Score": "3-2",
+                    "H2H Under %": 50.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-04-20",
+                    "Match": "AZ Alkmaar vs Anderlecht",
+                    "Odd": 1.8594594594594593,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-20",
+                    "Match": "Nice vs Basel",
+                    "Odd": 1.96,
+                    "Score": "1-1",
+                    "H2H Under %": 50.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-21",
+                    "Match": "HIFK vs Mikkelin Kissat",
+                    "Odd": 1.95,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-21",
+                    "Match": "Wexford vs Finn Harps",
+                    "Odd": 1.8395721925133688,
+                    "Score": "0-1",
+                    "H2H Under %": 68.75,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-22",
+                    "Match": "Telford United vs Scarborough",
+                    "Odd": 1.8594594594594593,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-22",
+                    "Match": "Hapoel Kiryat Sh vs Nes Tziona",
+                    "Odd": 1.9325842696629212,
+                    "Score": "1-1",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-23",
+                    "Match": "Gefle IF vs Utsiktens BK",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-23",
+                    "Match": "Sacramento Repub vs Detroit",
+                    "Odd": 1.911111111111111,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-24",
+                    "Match": "Orgryte vs Jonkopings Sodra",
+                    "Odd": 1.8105263157894738,
+                    "Score": "2-2",
+                    "H2H Under %": 53.33,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-04-24",
+                    "Match": "Sakaryaspor vs Boluspor",
+                    "Odd": 1.99,
+                    "Score": "1-1",
+                    "H2H Under %": 50.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-25",
+                    "Match": "SK Vorwarts Stey vs SKU Amstetten",
+                    "Odd": 1.9325842696629212,
+                    "Score": "2-3",
+                    "H2H Under %": 23.08,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-04-26",
+                    "Match": "Nottingham Fores vs Brighton Hove Al",
+                    "Odd": 1.9325842696629212,
+                    "Score": "3-1",
+                    "H2H Under %": 37.5,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-04-27",
+                    "Match": "Valencia vs Real Valladolid",
+                    "Odd": 1.8201058201058202,
+                    "Score": "2-1",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-04-27",
+                    "Match": "Southampton vs Bournemouth AFC",
+                    "Odd": 1.72,
+                    "Score": "0-1",
+                    "H2H Under %": 41.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-28",
+                    "Match": "Legia Warszawa vs Wisla Plock",
+                    "Odd": 1.8594594594594593,
+                    "Score": "2-0",
+                    "H2H Under %": 52.94,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-28",
+                    "Match": "Rakow vs Lechia Gdansk",
+                    "Odd": 1.7823834196891193,
+                    "Score": "4-0",
+                    "H2H Under %": 15.38,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-04-29",
+                    "Match": "Piast Gliwice vs Pogon Szczecin",
+                    "Odd": 1.764102564102564,
+                    "Score": "0-0",
+                    "H2H Under %": 72.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-29",
+                    "Match": "Union Berlin vs Bayer Leverkusen",
+                    "Odd": 1.8201058201058202,
+                    "Score": "0-0",
+                    "H2H Under %": 50.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-30",
+                    "Match": "Clermont vs Reims",
+                    "Odd": 1.8,
+                    "Score": "1-0",
+                    "H2H Under %": 62.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-04-30",
+                    "Match": "Haugesund vs Sarpsborg 08",
+                    "Odd": 1.9325842696629212,
+                    "Score": "0-0",
+                    "H2H Under %": 41.18,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 76.36,
+                "Under2.5_Count": 42,
+                "Total_Matches": 55,
+                "Average_Odds": 1.85
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 68.0,
+                "Combo_Under2.5_Count": 17,
+                "Total_Days": 25,
+                "Average_Combo_Odds": 3.43
+            }
+        },
+        "2023-05": {
+            "matches": [
+                {
+                    "Date": "2023-05-03",
+                    "Match": "Fujieda MYFC vs Oita Trinita",
+                    "Odd": 1.8695652173913042,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-03",
+                    "Match": "Fagiano Okayama vs Montedio Yamagat",
+                    "Odd": 1.89,
+                    "Score": "2-0",
+                    "H2H Under %": 68.42,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-04",
+                    "Match": "Atletico Mineiro vs Alianza Lima",
+                    "Odd": 2.0,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-05",
+                    "Match": "TJ Spartak Myjav vs Komarno",
+                    "Odd": 1.7916666666666667,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-05",
+                    "Match": "Botafogo RJ vs LDU Quito",
+                    "Odd": 1.7916666666666667,
+                    "Score": "0-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-06",
+                    "Match": "SV Meppen vs Rot-Weiss Essen",
+                    "Odd": 1.8695652173913042,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-06",
+                    "Match": "Bordeaux vs Caen",
+                    "Odd": 1.91,
+                    "Score": "1-0",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-07",
+                    "Match": "Parnahyba PI vs Tocantinopolis",
+                    "Odd": 1.74,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-07",
+                    "Match": "Bolzano vs Villafranca",
+                    "Odd": 1.94,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-08",
+                    "Match": "Grimsby Town vs AFC Wimbledon",
+                    "Odd": 1.88,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-08",
+                    "Match": "Bradford City vs Leyton Orient",
+                    "Odd": 1.78,
+                    "Score": "1-1",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-09",
+                    "Match": "Molinos El Pirat vs Juan Aurich",
+                    "Odd": 1.8,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-09",
+                    "Match": "Dep.San Martin vs Union Huaral",
+                    "Odd": 1.7916666666666667,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-10",
+                    "Match": "Philippines U23 vs Myanmar U22",
+                    "Odd": 1.911111111111111,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-11",
+                    "Match": "Nashville SC vs FC Dallas",
+                    "Odd": 1.88,
+                    "Score": "2-0",
+                    "H2H Under %": 62.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-11",
+                    "Match": "Sport Club do Re vs Tombense",
+                    "Odd": 1.75,
+                    "Score": "3-2",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-05-12",
+                    "Match": "Santa Fe vs Atletico Naciona",
+                    "Odd": 1.78,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-12",
+                    "Match": "SKN St. Polten vs BW Linz",
+                    "Odd": 1.8297872340425532,
+                    "Score": "0-2",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-13",
+                    "Match": "Bari vs Reggina",
+                    "Odd": 1.76,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-13",
+                    "Match": "Deportivo Tachir vs Angostura FC",
+                    "Odd": 1.89,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-14",
+                    "Match": "Ourense CF vs SD Laredo",
+                    "Odd": 1.76,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-14",
+                    "Match": "Juventus vs Cremonese",
+                    "Odd": 1.9545454545454546,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-15",
+                    "Match": "Rivers United FC vs Sunshine Stars F",
+                    "Odd": 1.72,
+                    "Score": "",
+                    "H2H Under %": 84.21,
+                    "Under2.5_Result": null
+                },
+                {
+                    "Date": "2023-05-16",
+                    "Match": "Boluspor vs Eyupspor",
+                    "Odd": 1.9545454545454546,
+                    "Score": "2-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-17",
+                    "Match": "Tokushima Vortis vs Kanazawa",
+                    "Odd": 1.96,
+                    "Score": "2-0",
+                    "H2H Under %": 81.25,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-19",
+                    "Match": "Leixoes vs Vilafranquense",
+                    "Odd": 1.74,
+                    "Score": "2-0",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-19",
+                    "Match": "Villefranche vs Le Mans",
+                    "Odd": 1.8201058201058202,
+                    "Score": "1-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-20",
+                    "Match": "Deportivo Merlo vs Club Atletico Ac",
+                    "Odd": 1.83,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-20",
+                    "Match": "Ponferradina vs Albacete",
+                    "Odd": 1.78,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-21",
+                    "Match": "Kazincbarcikai vs Szentlorinc SE",
+                    "Odd": 1.7731958762886597,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-22",
+                    "Match": "Shamakhi vs FK Gilan Gabala",
+                    "Odd": 1.83,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-22",
+                    "Match": "Le Havre vs Valenciennes",
+                    "Odd": 1.74,
+                    "Score": "0-2",
+                    "H2H Under %": 81.82,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-23",
+                    "Match": "Orgryte vs GIF Sundsvall",
+                    "Odd": 1.9545454545454546,
+                    "Score": "1-0",
+                    "H2H Under %": 88.89,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-23",
+                    "Match": "Esteghlal Khuzes vs Arman Gohar",
+                    "Odd": 1.75,
+                    "Score": "5-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-05-24",
+                    "Match": "Liverpool (URU) vs Ind. del Valle",
+                    "Odd": 1.728643216080402,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-24",
+                    "Match": "Puerto Cabello vs Sao Paulo",
+                    "Odd": 1.8,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-25",
+                    "Match": "FC Lviv vs Chernomorets Ode",
+                    "Odd": 1.72,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-25",
+                    "Match": "Nublense vs Flamengo",
+                    "Odd": 1.8494623655913978,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-26",
+                    "Match": "Minyor Pernik vs Maritsa Plovdiv",
+                    "Odd": 1.943502824858757,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-26",
+                    "Match": "KaPa vs HIFK",
+                    "Odd": 1.7731958762886597,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-27",
+                    "Match": "Chengdu Rongchen vs Nantong Zhiyun",
+                    "Odd": 1.8797814207650272,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-27",
+                    "Match": "Tampa Bay U23 vs The Villages",
+                    "Odd": 1.9770114942528736,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-28",
+                    "Match": "Crystal Palace vs Nottingham Fores",
+                    "Odd": 1.89010989010989,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-28",
+                    "Match": "Universitario de vs Santa Cruz RN",
+                    "Odd": 1.73,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-29",
+                    "Match": "Norrby IF vs Vanersborgs IF",
+                    "Odd": 1.94,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-29",
+                    "Match": "Degerfors vs Varbergs BoIS FC",
+                    "Odd": 1.9217877094972067,
+                    "Score": "1-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-30",
+                    "Match": "FC Dobrudzha vs Vitosha Bistrits",
+                    "Odd": 1.91,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-30",
+                    "Match": "FC Dunav Ruse vs Strumska Slava",
+                    "Odd": 2.0,
+                    "Score": "2-1",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-05-31",
+                    "Match": "Argentina U20 vs Nigeria U20",
+                    "Odd": 1.9545454545454546,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-05-31",
+                    "Match": "Deportes Quindio vs Fortaleza F.C",
+                    "Odd": 1.73,
+                    "Score": "0-2",
+                    "H2H Under %": 81.82,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 93.88,
+                "Under2.5_Count": 46,
+                "Total_Matches": 49,
+                "Average_Odds": 1.85
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 86.36,
+                "Combo_Under2.5_Count": 19,
+                "Total_Days": 22,
+                "Average_Combo_Odds": 3.38
+            }
+        },
+        "2023-06": {
+            "matches": [
+                {
+                    "Date": "2023-06-01",
+                    "Match": "Gambia U20 vs Uruguay U20",
+                    "Odd": 1.9,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-01",
+                    "Match": "Botafogo RJ vs Athletico-PR",
+                    "Odd": 1.77,
+                    "Score": "1-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-02",
+                    "Match": "Pyramids vs Future FC",
+                    "Odd": 1.82,
+                    "Score": "1-0",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-02",
+                    "Match": "PAE Chania vs AEK Athens FC B",
+                    "Odd": 1.86,
+                    "Score": "1-1",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-03",
+                    "Match": "VSI Tampa Bay FC vs Sacramento Repub",
+                    "Odd": 1.7551020408163265,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-05",
+                    "Match": "Black Rock vs Vermont Green",
+                    "Odd": 1.7373737373737375,
+                    "Score": "0-2",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-05",
+                    "Match": "Vasco da Gama vs Flamengo",
+                    "Odd": 1.87,
+                    "Score": "1-4",
+                    "H2H Under %": 68.97,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-06-06",
+                    "Match": "Espoir Rogba vs Club Africain",
+                    "Odd": 1.81,
+                    "Score": "",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": null
+                },
+                {
+                    "Date": "2023-06-06",
+                    "Match": "Potiguar (RN) vs Sousa EC",
+                    "Odd": 1.74,
+                    "Score": "2-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-06-07",
+                    "Match": "Tokushima Vortis vs Iwaki",
+                    "Odd": 1.76,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-07",
+                    "Match": "America MG vs Millonarios",
+                    "Odd": 1.82,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-08",
+                    "Match": "Caucaia vs Maranhao",
+                    "Odd": 1.74,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-09",
+                    "Match": "Estudiantes L.P. vs Colon Santa Fe 2",
+                    "Odd": 1.84,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-10",
+                    "Match": "Patriotas FC vs Valledupar FC",
+                    "Odd": 1.76,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-10",
+                    "Match": "Fakel Voronezh vs Yenisey Krasnoya",
+                    "Odd": 1.92,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-11",
+                    "Match": "Talleres Cordoba vs Arsenal de Saran",
+                    "Odd": 1.92,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-11",
+                    "Match": "KPV Kokkola vs KaPa",
+                    "Odd": 1.943502824858757,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-12",
+                    "Match": "Morocco vs Cape Verde",
+                    "Odd": 1.87,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-12",
+                    "Match": "Portland Timbers vs FC Dallas",
+                    "Odd": 1.8494623655913978,
+                    "Score": "1-0",
+                    "H2H Under %": 57.89,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-13",
+                    "Match": "Deportivo Espano vs CA Atlas",
+                    "Odd": 1.8297872340425532,
+                    "Score": "1-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-14",
+                    "Match": "Caucaia vs Parnahyba PI",
+                    "Odd": 1.79,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-14",
+                    "Match": "Princesa Solimoe vs Tuna Luso",
+                    "Odd": 1.76,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-15",
+                    "Match": "Barnechea vs Santiago Morning",
+                    "Odd": 1.9,
+                    "Score": "1-1",
+                    "H2H Under %": 63.16,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-15",
+                    "Match": "TPS Turku vs Mikkeli",
+                    "Odd": 1.9217877094972067,
+                    "Score": "1-1",
+                    "H2H Under %": 62.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-16",
+                    "Match": "Palestine U23 vs Iran U23",
+                    "Odd": 2.0,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-16",
+                    "Match": "Colombia vs Iraq",
+                    "Odd": 1.93,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-17",
+                    "Match": "Tampa Bay U23 vs The Villages",
+                    "Odd": 1.943502824858757,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-17",
+                    "Match": "Maranhao vs Caucaia",
+                    "Odd": 1.89,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-18",
+                    "Match": "Deportes La Sere vs Recoleta",
+                    "Odd": 1.75,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-18",
+                    "Match": "Scotland U21 vs Norway U21",
+                    "Odd": 1.97,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-19",
+                    "Match": "Hong Kong vs Thailand",
+                    "Odd": 1.94,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-20",
+                    "Match": "China vs Palestine",
+                    "Odd": 1.7373737373737375,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-21",
+                    "Match": "Ukraine U21 vs Croatia U21",
+                    "Odd": 1.7823834196891193,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-21",
+                    "Match": "Cruzeiro vs Fortaleza",
+                    "Odd": 1.79,
+                    "Score": "0-1",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-22",
+                    "Match": "France U21 vs Italy U21",
+                    "Odd": 1.92,
+                    "Score": "2-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-06-23",
+                    "Match": "Finn Harps vs Wexford",
+                    "Odd": 1.7731958762886597,
+                    "Score": "0-1",
+                    "H2H Under %": 68.75,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-23",
+                    "Match": "Bragantino vs Flamengo",
+                    "Odd": 1.8105263157894738,
+                    "Score": "4-0",
+                    "H2H Under %": 54.55,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-06-26",
+                    "Match": "Mexico vs Honduras",
+                    "Odd": 1.88,
+                    "Score": "4-0",
+                    "H2H Under %": 55.56,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-06-26",
+                    "Match": "Independiente Pe vs Club Guabira",
+                    "Odd": 2.0,
+                    "Score": "1-0",
+                    "H2H Under %": 50.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-27",
+                    "Match": "Juazeiro BA vs Unirb",
+                    "Odd": 1.74,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-28",
+                    "Match": "Sao Paulo vs Club Atletico Ti",
+                    "Odd": 1.98,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-28",
+                    "Match": "Dunajska Streda vs Rapid Bucuresti",
+                    "Odd": 2.0,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-29",
+                    "Match": "Newells Old Boys vs Audax Italiano",
+                    "Odd": 1.75,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-06-29",
+                    "Match": "Colo Colo vs Deportivo Pereir",
+                    "Odd": 1.72,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 88.37,
+                "Under2.5_Count": 38,
+                "Total_Matches": 43,
+                "Average_Odds": 1.85
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 82.35,
+                "Combo_Under2.5_Count": 14,
+                "Total_Days": 17,
+                "Average_Combo_Odds": 3.45
+            }
+        },
+        "2023-07": {
+            "matches": [
+                {
+                    "Date": "2023-07-01",
+                    "Match": "Angostura FC vs Deportivo Tachir",
+                    "Odd": 1.75,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-02",
+                    "Match": "Guatemala vs Canada",
+                    "Odd": 1.8010471204188483,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-02",
+                    "Match": "Hong Linh Ha Tin vs Khanh Hoa",
+                    "Odd": 1.8010471204188483,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-03",
+                    "Match": "Huachipato vs CD Magallanes",
+                    "Odd": 1.8201058201058202,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-03",
+                    "Match": "Nautico Capibari vs AE Altos",
+                    "Odd": 1.76,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-05",
+                    "Match": "FK Napredak Krus vs Istra 1961 Pula",
+                    "Odd": 1.96,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-05",
+                    "Match": "Pirin Blagoevgra vs Arda",
+                    "Odd": 1.7731958762886597,
+                    "Score": "0-1",
+                    "H2H Under %": 88.89,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-06",
+                    "Match": "Binh Dinh vs Quang Nam",
+                    "Odd": 1.84,
+                    "Score": "1-1",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-07",
+                    "Match": "Qingdao Hainiu vs Cangzhou",
+                    "Odd": 1.8010471204188483,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-07",
+                    "Match": "Phu Tho vs PVF-CAND",
+                    "Odd": 1.92,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-08",
+                    "Match": "Warta Poznan vs Cracovia Krakow",
+                    "Odd": 1.8695652173913042,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-08",
+                    "Match": "Retro vs Bahia de Feira B",
+                    "Odd": 1.73,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-09",
+                    "Match": "CSKA 1948 vs Aris Limassol",
+                    "Odd": 1.89010989010989,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-09",
+                    "Match": "Radnicki 1923 Kr vs Borac Banja Luka",
+                    "Odd": 1.8201058201058202,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-10",
+                    "Match": "Helsingborg vs Ostersunds FK",
+                    "Odd": 1.72,
+                    "Score": "1-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-12",
+                    "Match": "B36 Torshavn vs JK Sillamae Kale",
+                    "Odd": 1.85,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-12",
+                    "Match": "Hiroshima Sanfre vs Tochigi SC",
+                    "Odd": 1.82,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-13",
+                    "Match": "FK Panevezys vs FC Milsami",
+                    "Odd": 1.87,
+                    "Score": "2-2",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-07-14",
+                    "Match": "Warta Poznan vs Mlada Boleslav",
+                    "Odd": 1.94,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-15",
+                    "Match": "Pittsburgh River vs Detroit",
+                    "Odd": 1.73,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-16",
+                    "Match": "Arsenal Tula vs Leningradets",
+                    "Odd": 1.86,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-16",
+                    "Match": "Cruzeiro vs Coritiba (PR)",
+                    "Odd": 1.78,
+                    "Score": "0-0",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-17",
+                    "Match": "Qingdao Hainiu vs Henan Songshan L",
+                    "Odd": 1.74,
+                    "Score": "2-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-18",
+                    "Match": "Panathinaikos vs Rayo Vallecano",
+                    "Odd": 1.81,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-19",
+                    "Match": "Swift Hesperange vs Slovan Bratislav",
+                    "Odd": 1.911111111111111,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-20",
+                    "Match": "Club Sport Emele vs Sporting Cristal",
+                    "Odd": 1.93,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-20",
+                    "Match": "Connahs Quay Tow vs KA Akureyri",
+                    "Odd": 1.81,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-21",
+                    "Match": "Nigeria (w) vs Canada (w)",
+                    "Odd": 1.73,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-21",
+                    "Match": "FC Cologne vs Mallorca",
+                    "Odd": 1.9325842696629212,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-22",
+                    "Match": "Fluminense-PI vs Ferroviario CE",
+                    "Odd": 1.77,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-23",
+                    "Match": "Netherlands (w) vs Portugal (w)",
+                    "Odd": 1.8105263157894738,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-24",
+                    "Match": "Roasso Kumamoto vs Fagiano Okayama",
+                    "Odd": 1.82,
+                    "Score": "1-2",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-07-24",
+                    "Match": "Helsingborg vs Trelleborgs FF",
+                    "Odd": 1.88,
+                    "Score": "1-3",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-07-25",
+                    "Match": "Chorley FC vs Carlisle United",
+                    "Odd": 1.9770114942528736,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-25",
+                    "Match": "Fleetwood Town vs Preston North En",
+                    "Odd": 1.8395721925133688,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-26",
+                    "Match": "Getafe vs Reims",
+                    "Odd": 1.87,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-26",
+                    "Match": "Sheffield United vs Girona",
+                    "Odd": 1.8105263157894738,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-27",
+                    "Match": "Hapoel Beer Shev vs FK Panevezys",
+                    "Odd": 1.82,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-27",
+                    "Match": "Portugal (w) vs Vietnam (w)",
+                    "Odd": 1.943502824858757,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-28",
+                    "Match": "Bordeaux vs Osasuna",
+                    "Odd": 1.93,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-28",
+                    "Match": "Sao Caetano vs Portuguesa",
+                    "Odd": 1.89,
+                    "Score": "0-1",
+                    "H2H Under %": 88.89,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-29",
+                    "Match": "CF Rayo Majadaho vs AD Alcorcon",
+                    "Odd": 1.82,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-30",
+                    "Match": "RANS Nusantara vs PSS Sleman",
+                    "Odd": 1.9325842696629212,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-30",
+                    "Match": "Mikkeli vs Gnistan Helsinki",
+                    "Odd": 1.9657142857142857,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-31",
+                    "Match": "Alania Vladikavk vs KAMAZ Naberezhny",
+                    "Odd": 1.8797814207650272,
+                    "Score": "2-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-07-31",
+                    "Match": "GKS Jastrzebie vs Stomil Olsztyn",
+                    "Odd": 1.8,
+                    "Score": "1-2",
+                    "H2H Under %": 62.5,
+                    "Under2.5_Result": false
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 91.3,
+                "Under2.5_Count": 42,
+                "Total_Matches": 46,
+                "Average_Odds": 1.84
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 88.24,
+                "Combo_Under2.5_Count": 15,
+                "Total_Days": 17,
+                "Average_Combo_Odds": 3.43
+            }
+        },
+        "2023-08": {
+            "matches": [
+                {
+                    "Date": "2023-08-01",
+                    "Match": "Portugal (w) vs USA (w)",
+                    "Odd": 1.943502824858757,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-01",
+                    "Match": "Haiti women's vs Denmark (w)",
+                    "Odd": 1.8297872340425532,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-02",
+                    "Match": "Argentina (w) vs Sweden (w)",
+                    "Odd": 1.8297872340425532,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-02",
+                    "Match": "FC Tokyo vs Roasso Kumamoto",
+                    "Odd": 1.8297872340425532,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-03",
+                    "Match": "FC Santa Coloma vs FK Sutjeska Niks",
+                    "Odd": 1.82,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-03",
+                    "Match": "Hammarby vs FC Twente Ensche",
+                    "Odd": 1.8494623655913978,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-04",
+                    "Match": "Charleston Batte vs Oakland Roots",
+                    "Odd": 1.9770114942528736,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-04",
+                    "Match": "KKS Kalisz vs GKS Jastrzebie",
+                    "Odd": 1.9770114942528736,
+                    "Score": "3-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-08-05",
+                    "Match": "FC Belshyna Babr vs Smorgon FC",
+                    "Odd": 1.83,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-05",
+                    "Match": "Vanersborgs IF vs Norrby IF",
+                    "Odd": 1.9005524861878451,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-06",
+                    "Match": "Hvidovre IF vs AGF Aarhus",
+                    "Odd": 1.7916666666666667,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-07",
+                    "Match": "England (w) vs Nigeria (w)",
+                    "Odd": 1.91,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-07",
+                    "Match": "Puszcza Niepolom vs Stal Mielec",
+                    "Odd": 1.81,
+                    "Score": "1-0",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-08",
+                    "Match": "Fafe vs Vianense",
+                    "Odd": 1.73,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-08",
+                    "Match": "FC Copenhagen vs Sparta Praha",
+                    "Odd": 1.7916666666666667,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-09",
+                    "Match": "AEK Larnaca vs Maccabi Tel Aviv",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-10",
+                    "Match": "Getafe B vs RSD Alcala",
+                    "Odd": 1.93,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-10",
+                    "Match": "Tobol Kostanai vs Derry City",
+                    "Odd": 1.73,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-11",
+                    "Match": "Vaca Diez vs Universitario de",
+                    "Odd": 1.94,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-11",
+                    "Match": "Dijon vs FC Rouen",
+                    "Odd": 1.87,
+                    "Score": "0-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-12",
+                    "Match": "Zhytomyr vs Rukh Lviv",
+                    "Odd": 1.7916666666666667,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-12",
+                    "Match": "Ipswich Town vs Stoke City",
+                    "Odd": 1.9,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-13",
+                    "Match": "Iwaki vs Ventforet Kofu",
+                    "Odd": 1.91,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-13",
+                    "Match": "Viseu vs Vilaverdense",
+                    "Odd": 1.7461928934010151,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-14",
+                    "Match": "Nimes vs Martigues",
+                    "Odd": 1.8797814207650272,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-14",
+                    "Match": "Spezia vs Venezia",
+                    "Odd": 1.8105263157894738,
+                    "Score": "2-2",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-08-15",
+                    "Match": "XV de Piracicaba vs Juventus Sp",
+                    "Odd": 1.72,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-15",
+                    "Match": "Carlisle United vs Wigan Athletic",
+                    "Odd": 1.75,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-16",
+                    "Match": "Monterrey vs Nashville SC",
+                    "Odd": 1.97,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-16",
+                    "Match": "Haladas vs Nyiregyhaza",
+                    "Odd": 1.84,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-17",
+                    "Match": "APOEL Nicosia vs Dila Gori",
+                    "Odd": 1.82,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-17",
+                    "Match": "Maccabi Tel Aviv vs AEK Larnaca",
+                    "Odd": 1.98,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-18",
+                    "Match": "SV Ried vs Leoben",
+                    "Odd": 1.9884393063583814,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-18",
+                    "Match": "Petrolul Ploiest vs U Craiova 1948",
+                    "Odd": 1.73,
+                    "Score": "4-3",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-08-19",
+                    "Match": "Primavera EC vs Juventus Sp",
+                    "Odd": 1.74,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-19",
+                    "Match": "Barry Town AFC vs Colwyn Bay",
+                    "Odd": 1.9657142857142857,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-20",
+                    "Match": "Independiente Pe vs Vaca Diez",
+                    "Odd": 2.0,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-21",
+                    "Match": "Ludogorets II vs Chernomorets Bal",
+                    "Odd": 1.911111111111111,
+                    "Score": "1-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-22",
+                    "Match": "Bolivar vs Internacional RS",
+                    "Odd": 1.74,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-22",
+                    "Match": "Sakhalinets vs Saturn Ramenskoy",
+                    "Odd": 1.9770114942528736,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-23",
+                    "Match": "KFUM Oslo vs Hodd",
+                    "Odd": 1.9545454545454546,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-23",
+                    "Match": "SC Freiburg (You vs Unterhaching",
+                    "Odd": 1.943502824858757,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-24",
+                    "Match": "FC Astana-64 vs Partizani Tirana",
+                    "Odd": 1.78,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-24",
+                    "Match": "Levski Sofia vs Eintracht Frankf",
+                    "Odd": 1.8594594594594593,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-25",
+                    "Match": "Thaqafi Tulkarem vs Albirah",
+                    "Odd": 1.73,
+                    "Score": "4-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-08-25",
+                    "Match": "Pontypridd vs Pen-y-Bont FC",
+                    "Odd": 1.8494623655913978,
+                    "Score": "0-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-26",
+                    "Match": "Curzon Ashton FC vs Scunthorpe Unite",
+                    "Odd": 1.96,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-26",
+                    "Match": "OS Belenenses vs CD Mafra",
+                    "Odd": 1.7551020408163265,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-27",
+                    "Match": "Gyor vs Tiszakecske",
+                    "Odd": 1.8695652173913042,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-27",
+                    "Match": "OFK Malzenice vs Komarno",
+                    "Odd": 1.9005524861878451,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-28",
+                    "Match": "Kidderminster Ha vs Maidenhead Unite",
+                    "Odd": 1.75,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-28",
+                    "Match": "Maidstone United vs Taunton Town",
+                    "Odd": 1.911111111111111,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-29",
+                    "Match": "Wrexham vs Bradford City",
+                    "Odd": 1.9545454545454546,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-29",
+                    "Match": "Al Khaleej(KSA) vs Al-Hazem",
+                    "Odd": 1.8494623655913978,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-30",
+                    "Match": "Domazlice vs Marila Pribram",
+                    "Odd": 1.9884393063583814,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-30",
+                    "Match": "FC Copenhagen vs Rakow",
+                    "Odd": 1.91,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-31",
+                    "Match": "Breidablik vs FC Struga Trim &",
+                    "Odd": 1.9217877094972067,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-08-31",
+                    "Match": "Dnipro-1 vs Trnava",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 93.1,
+                "Under2.5_Count": 54,
+                "Total_Matches": 58,
+                "Average_Odds": 1.86
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 85.19,
+                "Combo_Under2.5_Count": 23,
+                "Total_Days": 27,
+                "Average_Combo_Odds": 3.45
+            }
+        },
+        "2023-09": {
+            "matches": [
+                {
+                    "Date": "2023-09-01",
+                    "Match": "Trebisov vs OFK Malzenice",
+                    "Odd": 1.911111111111111,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-01",
+                    "Match": "Avranches vs Nimes",
+                    "Odd": 1.86,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-02",
+                    "Match": "Dundee United vs Airdrie United",
+                    "Odd": 1.943502824858757,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-02",
+                    "Match": "Yeovil Town vs Chelmsford City",
+                    "Odd": 1.8201058201058202,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-03",
+                    "Match": "S.Urfaspor vs Erzurumspor",
+                    "Odd": 1.89,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-03",
+                    "Match": "Tunari vs Ceahlaul Piatra",
+                    "Odd": 1.8,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-04",
+                    "Match": "L.R. Vicenza vs Albinoleffe",
+                    "Odd": 1.8797814207650272,
+                    "Score": "0-0",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-05",
+                    "Match": "Banbury United vs Alfreton Town",
+                    "Odd": 1.89,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-05",
+                    "Match": "St Albans City vs Dover Athletic",
+                    "Odd": 1.95,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-06",
+                    "Match": "South Korea U23 vs Qatar U23",
+                    "Odd": 1.8105263157894738,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-06",
+                    "Match": "SK Zapy vs FK MAS Taborsko",
+                    "Odd": 1.8797814207650272,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-08",
+                    "Match": "GKS Jastrzebie vs Lech Poznan 2",
+                    "Odd": 2.0,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-08",
+                    "Match": "Singapore vs Tajikistan",
+                    "Odd": 1.79,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-10",
+                    "Match": "Tokushima Vortis vs Iwaki",
+                    "Odd": 1.83,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-10",
+                    "Match": "Alania Vladikavk vs Tyumen",
+                    "Odd": 1.8494623655913978,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-11",
+                    "Match": "Wisla Pulawy vs Polonia Bytom",
+                    "Odd": 1.99,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-11",
+                    "Match": "Hapoel Kiryat Sh vs Bnei Yehuda Tel",
+                    "Odd": 1.8010471204188483,
+                    "Score": "1-0",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-12",
+                    "Match": "Armenia U21 vs Montenegro U21",
+                    "Odd": 1.8797814207650272,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-12",
+                    "Match": "Bulgaria U21 vs Israel U21",
+                    "Odd": 1.72,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-13",
+                    "Match": "Chaniotis vs Tilikratis L.",
+                    "Odd": 1.8010471204188483,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-13",
+                    "Match": "Ilioupoli vs Levadiakos",
+                    "Odd": 1.9217877094972067,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-14",
+                    "Match": "CD Motagua vs Olancho",
+                    "Odd": 1.81,
+                    "Score": "1-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-14",
+                    "Match": "KF Tirana vs Skenderbeu Korca",
+                    "Odd": 1.85,
+                    "Score": "3-1",
+                    "H2H Under %": 57.69,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-09-15",
+                    "Match": "EL Ahly vs USM Alger",
+                    "Odd": 1.84,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-16",
+                    "Match": "Annecy vs Troyes",
+                    "Odd": 1.72,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-16",
+                    "Match": "Kotwica Kolobrze vs GKS Jastrzebie",
+                    "Odd": 1.92,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-17",
+                    "Match": "Nantong Zhiyun vs Chengdu Rongchen",
+                    "Odd": 1.72,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-17",
+                    "Match": "Istanbulspor vs Basaksehir",
+                    "Odd": 1.91,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-18",
+                    "Match": "FC Arges Pitesti vs Unirea Dej",
+                    "Odd": 1.99,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-18",
+                    "Match": "Mumbai City vs Nassaji Mazandar",
+                    "Odd": 1.9,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-19",
+                    "Match": "Persepolis vs Al-Nassr",
+                    "Odd": 1.9770114942528736,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-19",
+                    "Match": "Reynosa vs Mexicali",
+                    "Odd": 1.7731958762886597,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-20",
+                    "Match": "Radnik Bijeljina vs Laktasi",
+                    "Odd": 1.8,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-21",
+                    "Match": "Ravshan Kulob vs FC MERW",
+                    "Odd": 1.7731958762886597,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-21",
+                    "Match": "Royale Union SG vs Toulouse",
+                    "Odd": 1.7731958762886597,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-22",
+                    "Match": "Dinamo Bucuresti vs Farul Constanta",
+                    "Odd": 1.7731958762886597,
+                    "Score": "0-2",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-22",
+                    "Match": "Universidad de C vs Temuco",
+                    "Odd": 1.9005524861878451,
+                    "Score": "1-1",
+                    "H2H Under %": 76.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-23",
+                    "Match": "Manisa vs Goztepe",
+                    "Odd": 1.82,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-23",
+                    "Match": "Carlisle United vs Derby County",
+                    "Odd": 1.81,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-24",
+                    "Match": "S.Urfaspor vs Kocaelispor",
+                    "Odd": 1.81,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-24",
+                    "Match": "Zvijezda 09 vs Posusje",
+                    "Odd": 1.73,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-25",
+                    "Match": "FB Brindisi 1912 vs Benevento",
+                    "Odd": 1.8494623655913978,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-26",
+                    "Match": "Motor Lublin vs Puszcza Niepolom",
+                    "Odd": 1.8105263157894738,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-26",
+                    "Match": "Cherno More Varn vs Botev Plovdiv",
+                    "Odd": 1.75,
+                    "Score": "1-0",
+                    "H2H Under %": 77.27,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-27",
+                    "Match": "Juventus U23 vs Recanatese",
+                    "Odd": 1.84,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-27",
+                    "Match": "Dynamo Vladivost vs Tyumen",
+                    "Odd": 1.7823834196891193,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-28",
+                    "Match": "Spyris Kaunas vs Alytis Alytus",
+                    "Odd": 1.8,
+                    "Score": "1-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-28",
+                    "Match": "Frosinone vs Fiorentina",
+                    "Odd": 1.7823834196891193,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-29",
+                    "Match": "Orlando Pirates vs Jwaneng Galaxy F",
+                    "Odd": 1.8201058201058202,
+                    "Score": "1-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-29",
+                    "Match": "Excursionistas vs Justo Jose de Ur",
+                    "Odd": 1.7916666666666667,
+                    "Score": "2-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-30",
+                    "Match": "Dumbravita vs Metaloglobus",
+                    "Odd": 1.73,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-09-30",
+                    "Match": "Derby County vs Cambridge United",
+                    "Odd": 1.8594594594594593,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 98.08,
+                "Under2.5_Count": 51,
+                "Total_Matches": 52,
+                "Average_Odds": 1.84
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 95.83,
+                "Combo_Under2.5_Count": 23,
+                "Total_Days": 24,
+                "Average_Combo_Odds": 3.38
+            }
+        },
+        "2023-10": {
+            "matches": [
+                {
+                    "Date": "2023-10-01",
+                    "Match": "Negeri Sembilan vs Perak",
+                    "Odd": 1.9884393063583814,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-01",
+                    "Match": "AFC Hermannstadt vs Rapid Bucuresti",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-02",
+                    "Match": "Levadiakos vs Kozani FC",
+                    "Odd": 1.86,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-02",
+                    "Match": "Naft MIS Ahvaz vs Khalij Fars Mahs",
+                    "Odd": 1.9545454545454546,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-03",
+                    "Match": "SSV Ulm 1846 vs TSV 1860 Munchen",
+                    "Odd": 1.89010989010989,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-03",
+                    "Match": "Dorking Wanderer vs Kidderminster Ha",
+                    "Odd": 1.82,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-05",
+                    "Match": "FC Altyn Asyr vs Ravshan Kulob",
+                    "Odd": 1.9657142857142857,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-05",
+                    "Match": "Rakow vs Sturm Graz",
+                    "Odd": 1.77,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-06",
+                    "Match": "Lamphun Warrior vs Ratchaburi FC",
+                    "Odd": 1.8010471204188483,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-06",
+                    "Match": "Kocaelispor vs Erzurumspor",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-07",
+                    "Match": "Dnipro-1 vs Veres Rivne",
+                    "Odd": 1.8,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-07",
+                    "Match": "Kidderminster Ha vs Wealdstone FC",
+                    "Odd": 1.83,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-08",
+                    "Match": "Barakaldo CF vs Naxara",
+                    "Odd": 1.8594594594594593,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-09",
+                    "Match": "Real Sociedad To vs Genesis",
+                    "Odd": 1.78,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-09",
+                    "Match": "Zibo Qisheng vs Hunan Billows",
+                    "Odd": 1.78,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-10",
+                    "Match": "Stevenage Boroug vs Wycombe Wanderer",
+                    "Odd": 1.85,
+                    "Score": "0-1",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-10",
+                    "Match": "Cheltenham Town vs Newport",
+                    "Odd": 1.99,
+                    "Score": "0-2",
+                    "H2H Under %": 65.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-11",
+                    "Match": "Eynesil vs Erbaaspor",
+                    "Odd": 1.7823834196891193,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-11",
+                    "Match": "Finland U19 vs Romania U19",
+                    "Odd": 1.9884393063583814,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-12",
+                    "Match": "Cambodia vs Pakistan",
+                    "Odd": 1.85,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-12",
+                    "Match": "Afghanistan vs Mongolia",
+                    "Odd": 1.83,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-13",
+                    "Match": "South Africa vs Eswatini",
+                    "Odd": 1.9,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-13",
+                    "Match": "Vietnam vs Uzbekistan",
+                    "Odd": 1.98,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-14",
+                    "Match": "Olympiacos Pirae vs Ionikos",
+                    "Odd": 1.764102564102564,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-15",
+                    "Match": "Mexico vs Ghana",
+                    "Odd": 1.73,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-15",
+                    "Match": "Sacramento Repub vs Miami FC",
+                    "Odd": 1.9217877094972067,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-16",
+                    "Match": "FK Vrsac vs RFK Novi Sad",
+                    "Odd": 1.72,
+                    "Score": "1-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-17",
+                    "Match": "Australia vs New Zealand",
+                    "Odd": 1.77,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-17",
+                    "Match": "Austria U19 vs England U19",
+                    "Odd": 1.8395721925133688,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-18",
+                    "Match": "Vibonese vs Lamezia Terme",
+                    "Odd": 1.98,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-18",
+                    "Match": "Nanjing City vs Jinan Xingzhou",
+                    "Odd": 1.72,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-19",
+                    "Match": "Olancho vs CD Olimpia",
+                    "Odd": 1.8395721925133688,
+                    "Score": "0-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-19",
+                    "Match": "Arsenal Tula vs Rodina Moscow",
+                    "Odd": 1.79,
+                    "Score": "1-2",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-10-20",
+                    "Match": "Talleres Cordoba vs Arsenal de Saran",
+                    "Odd": 1.74,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-20",
+                    "Match": "Chrobry Glogow vs Motor Lublin",
+                    "Odd": 1.79,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-21",
+                    "Match": "Pittsburgh River vs Detroit",
+                    "Odd": 1.89010989010989,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-21",
+                    "Match": "Vozdovac vs TSC",
+                    "Odd": 1.7823834196891193,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-22",
+                    "Match": "Lamezia Terme vs Licata",
+                    "Odd": 1.7373737373737375,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-24",
+                    "Match": "Persepolis vs Istiqlol Dushanb",
+                    "Odd": 1.8797814207650272,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-24",
+                    "Match": "Lens vs PSV Eindhoven",
+                    "Odd": 1.911111111111111,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-25",
+                    "Match": "resistencia SC vs Sportivo Luqueno",
+                    "Odd": 1.8105263157894738,
+                    "Score": "0-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-26",
+                    "Match": "Chao Pak Kei vs FC Ulaanbaatar",
+                    "Odd": 1.9545454545454546,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-26",
+                    "Match": "Recanatese vs Perugia",
+                    "Odd": 1.7373737373737375,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-27",
+                    "Match": "Chernomorets Bal vs Maritsa Plovdiv",
+                    "Odd": 1.86,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-28",
+                    "Match": "Portimonense vs Estoril",
+                    "Odd": 1.8010471204188483,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-28",
+                    "Match": "Brackley Town vs South Shields",
+                    "Odd": 1.8297872340425532,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-29",
+                    "Match": "Motor Lublin vs Odra Opole",
+                    "Odd": 1.728643216080402,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-29",
+                    "Match": "Gimcheon Sangmu vs Gimpo FC",
+                    "Odd": 1.89,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-30",
+                    "Match": "Niki Volou vs Kampaniakos",
+                    "Odd": 1.97,
+                    "Score": "2-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-10-31",
+                    "Match": "Polonia Warszawa vs Lechia Gdansk",
+                    "Odd": 1.9217877094972067,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 98.0,
+                "Under2.5_Count": 49,
+                "Total_Matches": 50,
+                "Average_Odds": 1.84
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 95.24,
+                "Combo_Under2.5_Count": 20,
+                "Total_Days": 21,
+                "Average_Combo_Odds": 3.39
+            }
+        },
+        "2023-11": {
+            "matches": [
+                {
+                    "Date": "2023-11-01",
+                    "Match": "Igea Virtus vs Castrovillari",
+                    "Odd": 1.83,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-01",
+                    "Match": "Spartak Varna vs Levski Krumovgra",
+                    "Odd": 1.764102564102564,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-02",
+                    "Match": "Goias vs Bragantino",
+                    "Odd": 1.77,
+                    "Score": "0-2",
+                    "H2H Under %": 88.89,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-02",
+                    "Match": "LKS Lodz vs Rakow",
+                    "Odd": 1.943502824858757,
+                    "Score": "0-0",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-03",
+                    "Match": "Sakaryaspor vs S.Urfaspor",
+                    "Odd": 1.97,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-03",
+                    "Match": "Millonarios vs Cucuta",
+                    "Odd": 1.7373737373737375,
+                    "Score": "1-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-04",
+                    "Match": "OS Belenenses vs Vilaverdense",
+                    "Odd": 1.8,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-04",
+                    "Match": "Angers vs Valenciennes",
+                    "Odd": 1.72,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-05",
+                    "Match": "Santa Tecla vs Fuerte San Franc",
+                    "Odd": 1.74,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-06",
+                    "Match": "Umraniyespor vs Tuzlaspor Kulubu",
+                    "Odd": 1.9325842696629212,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-07",
+                    "Match": "Istiqlol Dushanb vs Persepolis",
+                    "Odd": 1.7551020408163265,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-07",
+                    "Match": "Borussia Dortmun vs Newcastle United",
+                    "Odd": 1.9545454545454546,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-08",
+                    "Match": "Lecco vs Spezia",
+                    "Odd": 1.96,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-08",
+                    "Match": "Napoli vs Union Berlin",
+                    "Odd": 1.7823834196891193,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-09",
+                    "Match": "FC Ulaanbaatar vs Chao Pak Kei",
+                    "Odd": 1.74,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-09",
+                    "Match": "Abdish-Ata vs Ravshan Kulob",
+                    "Odd": 1.82,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-10",
+                    "Match": "Sochaux vs Cholet",
+                    "Odd": 1.8010471204188483,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-10",
+                    "Match": "Palmaflor vs Universitario de",
+                    "Odd": 1.87,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-11",
+                    "Match": "NK Gradina Srebr vs NK Celik",
+                    "Odd": 1.77,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-11",
+                    "Match": "Cheltenham Town vs Wigan Athletic",
+                    "Odd": 1.86,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-12",
+                    "Match": "Reboceros de La vs Halcones de Zapo",
+                    "Odd": 1.94,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-12",
+                    "Match": "Kataller Toyama vs Nara Club",
+                    "Odd": 1.74,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-13",
+                    "Match": "Ruch Chorzow vs Radomiak Radom",
+                    "Odd": 1.7551020408163265,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-13",
+                    "Match": "Sriwijaya FC vs Persiraja Aceh",
+                    "Odd": 1.87,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-14",
+                    "Match": "Rushall Olympic vs Alfreton Town",
+                    "Odd": 1.8395721925133688,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-14",
+                    "Match": "Spennymoor Town vs South Shields",
+                    "Odd": 1.89010989010989,
+                    "Score": "2-5",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-11-15",
+                    "Match": "Iceland U19 vs Denmark U19",
+                    "Odd": 1.9325842696629212,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-15",
+                    "Match": "Vado vs USD Casatese",
+                    "Odd": 1.8594594594594593,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-16",
+                    "Match": "Karlsruher SC vs SSV Ulm 1846",
+                    "Odd": 1.8105263157894738,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-17",
+                    "Match": "Belgium U21 vs Scotland U21",
+                    "Odd": 1.96,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-17",
+                    "Match": "Greece vs New Zealand",
+                    "Odd": 1.81,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-18",
+                    "Match": "Uniao Leiria vs Leixoes",
+                    "Odd": 1.9545454545454546,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-18",
+                    "Match": "Matsumoto Yamaga vs YSCC",
+                    "Odd": 1.8297872340425532,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-19",
+                    "Match": "San Marino Calci vs Sammaurese",
+                    "Odd": 1.72,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-19",
+                    "Match": "Castellanzese vs Crema",
+                    "Odd": 1.73,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-20",
+                    "Match": "Mali vs Central Africa",
+                    "Odd": 1.9217877094972067,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-20",
+                    "Match": "Levante vs Racing Santander",
+                    "Odd": 1.8010471204188483,
+                    "Score": "2-4",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-11-22",
+                    "Match": "Graficar Beograd vs Kolubara",
+                    "Odd": 1.7461928934010151,
+                    "Score": "1-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-23",
+                    "Match": "Kuruvchi Bunyodk vs Metallurg Bekaba",
+                    "Odd": 1.73,
+                    "Score": "1-0",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-23",
+                    "Match": "Esteghlal Khuzes vs Sepahan",
+                    "Odd": 1.99,
+                    "Score": "1-3",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-11-24",
+                    "Match": "Sakaryaspor vs Erzurumspor",
+                    "Odd": 1.73,
+                    "Score": "2-2",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-11-25",
+                    "Match": "Leyton Orient vs Wigan Athletic",
+                    "Odd": 1.87,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-25",
+                    "Match": "Grimsby Town vs Sutton United",
+                    "Odd": 1.9217877094972067,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-26",
+                    "Match": "Chions vs Montecchio Maggi",
+                    "Odd": 1.8395721925133688,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-26",
+                    "Match": "Kagoshima United vs Azul Claro Numaz",
+                    "Odd": 1.9770114942528736,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-27",
+                    "Match": "Al-Sharjah vs Al-Sadd",
+                    "Odd": 2.0,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-27",
+                    "Match": "Radomiak Radom vs Slask Wroclaw",
+                    "Odd": 1.72,
+                    "Score": "0-1",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-28",
+                    "Match": "Sutton United vs Crewe",
+                    "Odd": 1.9884393063583814,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-29",
+                    "Match": "Mexicali vs Saltillo",
+                    "Odd": 1.82,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-29",
+                    "Match": "Urartu vs Ararat Erevan",
+                    "Odd": 1.9217877094972067,
+                    "Score": "2-1",
+                    "H2H Under %": 78.95,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-11-30",
+                    "Match": "Padova vs Lumezzane",
+                    "Odd": 1.72,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-11-30",
+                    "Match": "FC MERW vs Ravshan Kulob",
+                    "Odd": 1.73,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 90.38,
+                "Under2.5_Count": 47,
+                "Total_Matches": 52,
+                "Average_Odds": 1.84
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 82.61,
+                "Combo_Under2.5_Count": 19,
+                "Total_Days": 23,
+                "Average_Combo_Odds": 3.38
+            }
+        },
+        "2023-12": {
+            "matches": [
+                {
+                    "Date": "2023-12-01",
+                    "Match": "Patro Eisden vs Beerschot Wilrij",
+                    "Odd": 1.9657142857142857,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-01",
+                    "Match": "FC Dobrudzha vs Litex Lovech",
+                    "Odd": 1.8201058201058202,
+                    "Score": "0-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-02",
+                    "Match": "Gainare Tottori vs Kagoshima United",
+                    "Odd": 1.9005524861878451,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-02",
+                    "Match": "Red Star FC 93 vs Nimes",
+                    "Odd": 1.7461928934010151,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-03",
+                    "Match": "Kalamata AO vs Panahaiki-2005",
+                    "Odd": 1.8201058201058202,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-04",
+                    "Match": "Villarreal B vs Eibar",
+                    "Odd": 1.8297872340425532,
+                    "Score": "1-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-05",
+                    "Match": "Alfreton Town vs Walsall",
+                    "Odd": 1.7823834196891193,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-06",
+                    "Match": "Dubocica vs Radnicki Beograd",
+                    "Odd": 1.8010471204188483,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-06",
+                    "Match": "Wigan Athletic vs Stockport County",
+                    "Odd": 1.943502824858757,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-07",
+                    "Match": "Arka Gdynia vs Lech Poznan",
+                    "Odd": 1.9325842696629212,
+                    "Score": "0-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-07",
+                    "Match": "Atletico Junior vs Deportes Tolima",
+                    "Odd": 1.9325842696629212,
+                    "Score": "4-2",
+                    "H2H Under %": 67.44,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-12-08",
+                    "Match": "PSS Sleman vs RANS Nusantara",
+                    "Odd": 1.76,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-08",
+                    "Match": "Hapoel Kiryat Sh vs Hapoel Ramat Gan",
+                    "Odd": 1.8594594594594593,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-09",
+                    "Match": "Bodrumspor vs Tuzlaspor Kulubu",
+                    "Odd": 1.94,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-09",
+                    "Match": "Sampdoria vs Lecco",
+                    "Odd": 1.7461928934010151,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-10",
+                    "Match": "Sariyer vs Aksaray Bld.",
+                    "Odd": 1.77,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-11",
+                    "Match": "Puszcza Niepolom vs Widzew lodz",
+                    "Odd": 1.764102564102564,
+                    "Score": "1-0",
+                    "H2H Under %": 88.89,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-11",
+                    "Match": "Real Kashmir vs Gokulam",
+                    "Odd": 1.7916666666666667,
+                    "Score": "3-0",
+                    "H2H Under %": 81.82,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-12-12",
+                    "Match": "Reading vs Oxford United",
+                    "Odd": 1.8494623655913978,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-12",
+                    "Match": "Hapoel Natzrat I vs Ironi Nir Ramat",
+                    "Odd": 1.9545454545454546,
+                    "Score": "1-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-13",
+                    "Match": "Cardiff City vs Birmingham",
+                    "Odd": 1.73,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-13",
+                    "Match": "Catania vs Pescara",
+                    "Odd": 1.764102564102564,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-14",
+                    "Match": "EL Masry vs Zamalek",
+                    "Odd": 1.7823834196891193,
+                    "Score": "1-0",
+                    "H2H Under %": 68.18,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-15",
+                    "Match": "Orleans US 45 vs Epinal",
+                    "Odd": 1.9884393063583814,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-15",
+                    "Match": "Club Leon vs Urawa Red Diamon",
+                    "Odd": 1.7731958762886597,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-16",
+                    "Match": "FSV Mainz 05 vs FC Heidenheim",
+                    "Odd": 1.9657142857142857,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-16",
+                    "Match": "Cianorte (PR) vs Maringa FC",
+                    "Odd": 1.78,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-17",
+                    "Match": "Clodiense vs Chions",
+                    "Odd": 1.95,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-17",
+                    "Match": "Tritium vs Club Milano",
+                    "Odd": 1.73,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-18",
+                    "Match": "Casertana vs Calcio Giugliano",
+                    "Odd": 1.8797814207650272,
+                    "Score": "3-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-12-18",
+                    "Match": "Cukaricki Stanko vs IMT Novi Beograd",
+                    "Odd": 1.9884393063583814,
+                    "Score": "0-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-19",
+                    "Match": "Racing Santander vs Andorra CF",
+                    "Odd": 1.79,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-19",
+                    "Match": "USL Dunkerque vs Bordeaux",
+                    "Odd": 1.95,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-20",
+                    "Match": "Montecchio Maggi vs Treviso",
+                    "Odd": 1.911111111111111,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-20",
+                    "Match": "Adanaspor vs Altay",
+                    "Odd": 1.8797814207650272,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-21",
+                    "Match": "Derby County vs Lincoln City",
+                    "Odd": 1.83,
+                    "Score": "3-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-12-21",
+                    "Match": "S.Urfaspor vs Yeni Corumspor",
+                    "Odd": 1.78,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-22",
+                    "Match": "Hottin vs Al Wathbah",
+                    "Odd": 1.77,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-22",
+                    "Match": "Ironi Tiberias vs Hapoel Umm al-Fa",
+                    "Odd": 1.81,
+                    "Score": "0-0",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-23",
+                    "Match": "Pergolettese vs Giana Erminio",
+                    "Odd": 1.7823834196891193,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-23",
+                    "Match": "Darlington vs Bishops Stortfor",
+                    "Odd": 1.9770114942528736,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-24",
+                    "Match": "Sepahan vs Shahrdari Arak",
+                    "Odd": 1.78,
+                    "Score": "0-1",
+                    "H2H Under %": 90.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-25",
+                    "Match": "Al-Shabab vs Al Ahli",
+                    "Odd": 1.95,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-25",
+                    "Match": "Yeni Corumspor vs Boluspor",
+                    "Odd": 1.87,
+                    "Score": "2-0",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-26",
+                    "Match": "Leyton Orient vs Charlton Athleti",
+                    "Odd": 1.943502824858757,
+                    "Score": "1-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-26",
+                    "Match": "Salford City vs Tranmere Rovers",
+                    "Odd": 1.9884393063583814,
+                    "Score": "1-5",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2023-12-27",
+                    "Match": "Esperance Sporti vs Sfaxien",
+                    "Odd": 1.73,
+                    "Score": "1-0",
+                    "H2H Under %": 89.29,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-27",
+                    "Match": "Hai Phong vs Binh Dinh",
+                    "Odd": 1.99,
+                    "Score": "0-1",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-29",
+                    "Match": "CR Belouizdad U2 vs Constantine U21",
+                    "Odd": 1.93,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-29",
+                    "Match": "FC Dimona vs Hapoel Marmorek",
+                    "Odd": 2.0,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-30",
+                    "Match": "Sporting de Gijo vs Marino de Luanco",
+                    "Odd": 1.89,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-30",
+                    "Match": "Olivenza vs Badajoz",
+                    "Odd": 1.8,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2023-12-31",
+                    "Match": "Pen-y-Bont FC vs Pontypridd",
+                    "Odd": 1.94,
+                    "Score": "1-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 90.57,
+                "Under2.5_Count": 48,
+                "Total_Matches": 53,
+                "Average_Odds": 1.86
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 78.26,
+                "Combo_Under2.5_Count": 18,
+                "Total_Days": 23,
+                "Average_Combo_Odds": 3.48
+            }
+        }
+    },
+    "year_summary": {
+        "single_stats": {
+            "Under2.5_Percentage": 90.59,
+            "Under2.5_Count": 549,
+            "Total_Matches": 606,
+            "Average_Odds": 1.84
+        },
+        "combo_stats": {
+            "Combo_Under2.5_Percentage": 83.33,
+            "Combo_Under2.5_Count": 220,
+            "Total_Days": 264,
+            "Average_Combo_Odds": 3.4
+        }
+    }
+}

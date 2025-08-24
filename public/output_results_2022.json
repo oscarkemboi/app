@@ -1,0 +1,4866 @@
+{
+    "months": {
+        "2022-01": {
+            "matches": [
+                {
+                    "Date": "2022-01-01",
+                    "Match": "Watford vs Tottenham Hotspu",
+                    "Odd": 1.89010989010989,
+                    "Score": "0-1",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-01",
+                    "Match": "Forest Green Rov vs Stevenage Boroug",
+                    "Odd": 1.86,
+                    "Score": "2-0",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-02",
+                    "Match": "Bastia vs Clermont",
+                    "Odd": 1.75,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-02",
+                    "Match": "Bergerac vs Creteil",
+                    "Odd": 1.8,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-03",
+                    "Match": "Manchester Unite vs Wolverhampton",
+                    "Odd": 1.76,
+                    "Score": "0-1",
+                    "H2H Under %": 76.47,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-03",
+                    "Match": "Maccabi Bnei Rai vs Hapoel Rishon Le",
+                    "Odd": 1.78,
+                    "Score": "2-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-04",
+                    "Match": "Ponferradina vs RCD Espanyol",
+                    "Odd": 1.7373737373737375,
+                    "Score": "1-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-04",
+                    "Match": "Forest Green Rov vs Exeter City",
+                    "Odd": 1.8695652173913042,
+                    "Score": "0-0",
+                    "H2H Under %": 62.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-05",
+                    "Match": "Apollon Smirnis vs Olympiakos",
+                    "Odd": 1.78,
+                    "Score": "0-0",
+                    "H2H Under %": 54.55,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-06",
+                    "Match": "Mancha vs Athletic Bilbao",
+                    "Odd": 1.9217877094972067,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-07",
+                    "Match": "Edinburgh City vs Elgin City",
+                    "Odd": 1.87,
+                    "Score": "2-2",
+                    "H2H Under %": 56.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-01-08",
+                    "Match": "Boreham Wood vs AFC Wimbledon",
+                    "Odd": 1.79,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-08",
+                    "Match": "W.B.A vs Brighton Hove Al",
+                    "Odd": 1.75,
+                    "Score": "1-1",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-09",
+                    "Match": "Stoke City vs Leyton Orient",
+                    "Odd": 1.79,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-09",
+                    "Match": "Maracana CE vs Atletico-CE",
+                    "Odd": 1.94,
+                    "Score": "2-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-01-10",
+                    "Match": "Torino vs Fiorentina",
+                    "Odd": 1.83,
+                    "Score": "4-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-01-11",
+                    "Match": "Bolton Wanderers vs Wycombe Wanderer",
+                    "Odd": 1.9005524861878451,
+                    "Score": "0-2",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-11",
+                    "Match": "Cagliari vs Bologna",
+                    "Odd": 1.8395721925133688,
+                    "Score": "2-1",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-01-12",
+                    "Match": "Inter Milan vs Juventus",
+                    "Odd": 1.92,
+                    "Score": "1-1",
+                    "H2H Under %": 68.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-13",
+                    "Match": "CSyD Dorados de vs Tapatio",
+                    "Odd": 1.73,
+                    "Score": "0-2",
+                    "H2H Under %": 44.44,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-13",
+                    "Match": "Napoli vs Fiorentina",
+                    "Odd": 1.9770114942528736,
+                    "Score": "2-2",
+                    "H2H Under %": 38.1,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-01-14",
+                    "Match": "SG Dynamo Dresde vs Hamburger SV",
+                    "Odd": 1.86,
+                    "Score": "1-1",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-14",
+                    "Match": "Brighton Hove Al vs Crystal Palace",
+                    "Odd": 1.78,
+                    "Score": "1-1",
+                    "H2H Under %": 52.94,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-15",
+                    "Match": "Norwich City vs Everton",
+                    "Odd": 1.84,
+                    "Score": "2-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-01-15",
+                    "Match": "Adana Demir vs Kayserispor",
+                    "Odd": 1.9005524861878451,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-16",
+                    "Match": "Potiguar (RN) vs Globo",
+                    "Odd": 1.8797814207650272,
+                    "Score": "0-0",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-16",
+                    "Match": "Giresunspor vs Kasimpasa",
+                    "Odd": 1.74,
+                    "Score": "0-2",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-18",
+                    "Match": "SC Heerenveen vs Go Ahead Eagles",
+                    "Odd": 1.91,
+                    "Score": "0-1",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-18",
+                    "Match": "Real Betis vs Alaves",
+                    "Odd": 1.911111111111111,
+                    "Score": "4-0",
+                    "H2H Under %": 62.5,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-01-19",
+                    "Match": "America RN vs Globo",
+                    "Odd": 1.9,
+                    "Score": "2-0",
+                    "H2H Under %": 88.89,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-19",
+                    "Match": "Montpellier vs Troyes",
+                    "Odd": 1.98,
+                    "Score": "0-1",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-20",
+                    "Match": "Athletic Bilbao vs Barcelona",
+                    "Odd": 1.81,
+                    "Score": "2-2",
+                    "H2H Under %": 43.33,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-01-21",
+                    "Match": "Dortmund II vs SC Freiburg (You",
+                    "Odd": 1.99,
+                    "Score": "1-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-21",
+                    "Match": "Eintracht Frankf vs Arminia Bielefel",
+                    "Odd": 1.8395721925133688,
+                    "Score": "0-2",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-22",
+                    "Match": "Camboriu SC vs Prospera Cricium",
+                    "Odd": 1.7373737373737375,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-22",
+                    "Match": "Eintracht Brauns vs Hallescher FC",
+                    "Odd": 1.7731958762886597,
+                    "Score": "1-0",
+                    "H2H Under %": 88.89,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-23",
+                    "Match": "Campobasso vs Juve Stabia",
+                    "Odd": 1.7373737373737375,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-23",
+                    "Match": "Antalyaspor vs B.B. Gaziantep",
+                    "Odd": 1.8,
+                    "Score": "0-0",
+                    "H2H Under %": 91.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-24",
+                    "Match": "Trnava vs Aalborg BK",
+                    "Odd": 1.8594594594594593,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-24",
+                    "Match": "Leixoes vs GD Chaves",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-25",
+                    "Match": "Burton Albion vs Milton Keynes Do",
+                    "Odd": 1.8695652173913042,
+                    "Score": "0-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-25",
+                    "Match": "Rotherham United vs Cambridge United",
+                    "Odd": 1.9325842696629212,
+                    "Score": "1-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-26",
+                    "Match": "Saarbrucken vs Dortmund II",
+                    "Odd": 1.9884393063583814,
+                    "Score": "2-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-26",
+                    "Match": "CRB AL vs Murici",
+                    "Odd": 1.95,
+                    "Score": "1-1",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-27",
+                    "Match": "Caucaia vs Maracana CE",
+                    "Odd": 1.943502824858757,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-27",
+                    "Match": "Japan vs China",
+                    "Odd": 1.9884393063583814,
+                    "Score": "2-0",
+                    "H2H Under %": 57.14,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-28",
+                    "Match": "Real Valladolid vs Sporting Gijon",
+                    "Odd": 1.9545454545454546,
+                    "Score": "1-0",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-29",
+                    "Match": "Woking vs Yeovil Town",
+                    "Odd": 1.8494623655913978,
+                    "Score": "0-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-30",
+                    "Match": "Las Palmas vs Real Sociedad B",
+                    "Odd": 1.8494623655913978,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-30",
+                    "Match": "Cittadella vs Cosenza Calcio 1",
+                    "Odd": 1.8,
+                    "Score": "1-1",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-01-31",
+                    "Match": "Forfar Athletic vs Edinburgh City",
+                    "Odd": 1.9217877094972067,
+                    "Score": "2-3",
+                    "H2H Under %": 58.33,
+                    "Under2.5_Result": false
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 82.35,
+                "Under2.5_Count": 42,
+                "Total_Matches": 51,
+                "Average_Odds": 1.85
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 76.19,
+                "Combo_Under2.5_Count": 16,
+                "Total_Days": 21,
+                "Average_Combo_Odds": 3.42
+            }
+        },
+        "2022-02": {
+            "matches": [
+                {
+                    "Date": "2022-02-01",
+                    "Match": "Kettering Town vs Southport",
+                    "Odd": 1.89010989010989,
+                    "Score": "2-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-02-01",
+                    "Match": "Uruguay vs Venezuela",
+                    "Odd": 1.86,
+                    "Score": "4-1",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-02-03",
+                    "Match": "Gama vs Paranoa",
+                    "Odd": 1.9884393063583814,
+                    "Score": "0-4",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-02-04",
+                    "Match": "Almeria vs UD Ibiza-Eivissa",
+                    "Odd": 1.85,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-02-04",
+                    "Match": "SV Ried vs SG Austria Klage",
+                    "Odd": 1.98,
+                    "Score": "2-0",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-02-05",
+                    "Match": "Morecambe vs Bolton Wanderers",
+                    "Odd": 1.7551020408163265,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-02-06",
+                    "Match": "Venezia vs Napoli",
+                    "Odd": 1.9325842696629212,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-02-06",
+                    "Match": "Bournemouth AFC vs Boreham Wood",
+                    "Odd": 1.89010989010989,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-02-09",
+                    "Match": "Atletico Cajazei vs Auto Esporte Clu",
+                    "Odd": 1.73,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-02-11",
+                    "Match": "Velez Sarsfield vs Aldosivi Mar del",
+                    "Odd": 1.72,
+                    "Score": "2-0",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-02-11",
+                    "Match": "Sevilla vs Elche",
+                    "Odd": 1.72,
+                    "Score": "2-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-02-12",
+                    "Match": "Crawley Town vs Hartlepool Unite",
+                    "Odd": 1.78,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-02-12",
+                    "Match": "Eintracht Brauns vs SC Freiburg (You",
+                    "Odd": 1.7373737373737375,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-02-13",
+                    "Match": "Empoli vs Cagliari",
+                    "Odd": 1.943502824858757,
+                    "Score": "1-1",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-02-14",
+                    "Match": "GD Chaves vs Vilafranquense",
+                    "Odd": 1.764102564102564,
+                    "Score": "1-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-02-14",
+                    "Match": "Vojvodina Novi S vs FK Napredak Krus",
+                    "Odd": 1.8297872340425532,
+                    "Score": "1-0",
+                    "H2H Under %": 76.92,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-02-15",
+                    "Match": "Boreham Wood vs Altrincham",
+                    "Odd": 1.87,
+                    "Score": "2-0",
+                    "H2H Under %": 90.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-02-15",
+                    "Match": "Ternana vs Monza",
+                    "Odd": 1.8105263157894738,
+                    "Score": "0-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-02-16",
+                    "Match": "Grosseto vs Viterbese",
+                    "Odd": 1.72,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-02-16",
+                    "Match": "America MG vs Patrocinense",
+                    "Odd": 1.74,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-02-17",
+                    "Match": "Melipilla vs Universidad de C",
+                    "Odd": 1.72,
+                    "Score": "0-2",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-02-18",
+                    "Match": "Juventus vs Torino",
+                    "Odd": 1.76,
+                    "Score": "1-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-02-19",
+                    "Match": "AIK Solna vs Orgryte",
+                    "Odd": 1.9657142857142857,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-02-19",
+                    "Match": "Magdeburg vs Dortmund II",
+                    "Odd": 1.9884393063583814,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-02-20",
+                    "Match": "VfR Mannheim vs Kaiserslautern",
+                    "Odd": 1.75,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-02-21",
+                    "Match": "TSV 1860 Munchen vs Hallescher FC",
+                    "Odd": 1.728643216080402,
+                    "Score": "0-2",
+                    "H2H Under %": 58.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-02-22",
+                    "Match": "Rotherham United vs Morecambe",
+                    "Odd": 1.8297872340425532,
+                    "Score": "2-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-02-23",
+                    "Match": "Lahti vs Haka",
+                    "Odd": 1.8797814207650272,
+                    "Score": "0-2",
+                    "H2H Under %": 88.24,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-02-24",
+                    "Match": "Maccabi Tel Aviv vs PSV Eindhoven",
+                    "Odd": 1.8201058201058202,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-02-24",
+                    "Match": "Sporting Braga vs Sheriff Tiraspol",
+                    "Odd": 1.8010471204188483,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-02-25",
+                    "Match": "Campinense vs Sao Paulo",
+                    "Odd": 1.7823834196891193,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-02-25",
+                    "Match": "SKN St. Polten vs BW Linz",
+                    "Odd": 1.8695652173913042,
+                    "Score": "1-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-02-27",
+                    "Match": "BFC Viktoria 188 vs SC Freiburg (You",
+                    "Odd": 1.87,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-02-27",
+                    "Match": "Rio Ave vs Porto B",
+                    "Odd": 1.7823834196891193,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-02-28",
+                    "Match": "Skra vs Miedz Legnica",
+                    "Odd": 1.76,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 91.43,
+                "Under2.5_Count": 32,
+                "Total_Matches": 35,
+                "Average_Odds": 1.82
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 91.67,
+                "Combo_Under2.5_Count": 11,
+                "Total_Days": 12,
+                "Average_Combo_Odds": 3.36
+            }
+        },
+        "2022-03": {
+            "matches": [
+                {
+                    "Date": "2022-03-01",
+                    "Match": "Harrogate Town vs Port Vale",
+                    "Odd": 1.74,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-01",
+                    "Match": "Olimpia Grudziad vs Wisla Krakow",
+                    "Odd": 1.9545454545454546,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-02",
+                    "Match": "Ceilandia DF vs Londrina (PR)",
+                    "Odd": 1.73,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-03",
+                    "Match": "Estudiantes La P vs Audax Italiano",
+                    "Odd": 1.9770114942528736,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-03",
+                    "Match": "Universidad de C vs Recoleta",
+                    "Odd": 1.81,
+                    "Score": "0-0",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-04",
+                    "Match": "Arminia Bielefel vs Augsburg",
+                    "Odd": 1.78,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-04",
+                    "Match": "Yeni Malatyaspor vs Adana Demir",
+                    "Odd": 1.9325842696629212,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-05",
+                    "Match": "Cowdenbeath vs Kelty Hearts",
+                    "Odd": 1.9,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-05",
+                    "Match": "Garbarnia vs Ruch Chorzow",
+                    "Odd": 1.7461928934010151,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-06",
+                    "Match": "Karagumruk vs Altay",
+                    "Odd": 1.95,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-06",
+                    "Match": "Saarbrucken vs SV Meppen",
+                    "Odd": 1.91,
+                    "Score": "1-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-07",
+                    "Match": "CD Tondela vs Belenenses",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-07",
+                    "Match": "Akhmat Grozny (R vs Rubin Kazan",
+                    "Odd": 1.8494623655913978,
+                    "Score": "1-2",
+                    "H2H Under %": 68.75,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-03-08",
+                    "Match": "Bolton Wanderers vs Morecambe",
+                    "Odd": 1.8105263157894738,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-08",
+                    "Match": "Lisen vs Vyskov",
+                    "Odd": 1.9770114942528736,
+                    "Score": "2-0",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-10",
+                    "Match": "Vitesse Arnhem vs AS Roma",
+                    "Odd": 1.7461928934010151,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-10",
+                    "Match": "Sporting Braga vs Monaco",
+                    "Odd": 1.7823834196891193,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-12",
+                    "Match": "Braila vs Unirea Dej",
+                    "Odd": 1.97,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-13",
+                    "Match": "Atletico Cajazei vs Sousa EC",
+                    "Odd": 1.89,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-14",
+                    "Match": "CSD Antofagasta vs Colo Colo",
+                    "Odd": 1.87,
+                    "Score": "0-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-14",
+                    "Match": "Roda JC vs De Graafschap",
+                    "Odd": 1.8695652173913042,
+                    "Score": "2-0",
+                    "H2H Under %": 64.29,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-15",
+                    "Match": "Toulouse vs Amiens",
+                    "Odd": 1.9545454545454546,
+                    "Score": "6-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-03-16",
+                    "Match": "Sousa EC vs Atletico Cajazei",
+                    "Odd": 1.8297872340425532,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-17",
+                    "Match": "AS Roma vs Vitesse Arnhem",
+                    "Odd": 1.9325842696629212,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-17",
+                    "Match": "Sao Paulo vs Manaus",
+                    "Odd": 1.95,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-19",
+                    "Match": "Teramo vs Pescara",
+                    "Odd": 1.75,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-19",
+                    "Match": "Monza vs Crotone",
+                    "Odd": 1.7731958762886597,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-20",
+                    "Match": "Rosario Central vs Newells Old Boys",
+                    "Odd": 1.7461928934010151,
+                    "Score": "0-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-20",
+                    "Match": "Guaros de Lara vs Monagas SC",
+                    "Odd": 1.7461928934010151,
+                    "Score": "0-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-21",
+                    "Match": "Defensa Y Justic vs Arsenal de Saran",
+                    "Odd": 1.7731958762886597,
+                    "Score": "1-1",
+                    "H2H Under %": 78.57,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-21",
+                    "Match": "Chojniczanka Cho vs Ruch Chorzow",
+                    "Odd": 1.9545454545454546,
+                    "Score": "1-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-22",
+                    "Match": "Rochdale vs Mansfield Town",
+                    "Odd": 1.79,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-22",
+                    "Match": "Brackley Town vs Alfreton Town",
+                    "Odd": 1.73,
+                    "Score": "1-0",
+                    "H2H Under %": 68.75,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-23",
+                    "Match": "United Arab Emir vs China U23",
+                    "Odd": 1.9657142857142857,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-23",
+                    "Match": "Thailand U23 vs Qatar U23",
+                    "Odd": 1.9884393063583814,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-25",
+                    "Match": "Guatemala vs Cuba",
+                    "Odd": 1.7916666666666667,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-25",
+                    "Match": "Norway vs Slovakia",
+                    "Odd": 1.76,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-26",
+                    "Match": "Germany vs Israel",
+                    "Odd": 1.911111111111111,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-26",
+                    "Match": "SKM Puchov vs MFK Skalica",
+                    "Odd": 1.76,
+                    "Score": "1-2",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-03-28",
+                    "Match": "Auto Esporte Clu vs Atletico Cajazei",
+                    "Odd": 1.9217877094972067,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-28",
+                    "Match": "Oeirense vs Parnahyba PI",
+                    "Odd": 1.83,
+                    "Score": "0-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-29",
+                    "Match": "Slovenia U21 vs Kosovo U21",
+                    "Odd": 1.9217877094972067,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-29",
+                    "Match": "Ireland vs Lithuania",
+                    "Odd": 1.87,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-30",
+                    "Match": "Brisbane Roar vs Wellington Phoen",
+                    "Odd": 1.8010471204188483,
+                    "Score": "0-3",
+                    "H2H Under %": 50.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-03-31",
+                    "Match": "Deportivo Tachir vs Guaros de Lara",
+                    "Odd": 1.79,
+                    "Score": "2-0",
+                    "H2H Under %": 68.75,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-03-31",
+                    "Match": "Colo Colo vs Union La Calera",
+                    "Odd": 1.8201058201058202,
+                    "Score": "4-0",
+                    "H2H Under %": 64.71,
+                    "Under2.5_Result": false
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 89.13,
+                "Under2.5_Count": 41,
+                "Total_Matches": 46,
+                "Average_Odds": 1.85
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 85.0,
+                "Combo_Under2.5_Count": 17,
+                "Total_Days": 20,
+                "Average_Combo_Odds": 3.41
+            }
+        },
+        "2022-04": {
+            "matches": [
+                {
+                    "Date": "2022-04-01",
+                    "Match": "Girona vs Malaga",
+                    "Odd": 1.72,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-01",
+                    "Match": "Opava vs Vysocina jihlava",
+                    "Odd": 1.9770114942528736,
+                    "Score": "1-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-02",
+                    "Match": "Rio Ave vs Clube Desportivo",
+                    "Odd": 1.77,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-02",
+                    "Match": "Indy Eleven vs LA Galaxy 2",
+                    "Odd": 1.92,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-03",
+                    "Match": "Almirante Brown vs San Telmo",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-04",
+                    "Match": "Independiente Sa vs Union Magdalena",
+                    "Odd": 1.8695652173913042,
+                    "Score": "1-0",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-05",
+                    "Match": "Halifax Town vs Solihull Moors",
+                    "Odd": 1.728643216080402,
+                    "Score": "0-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-05",
+                    "Match": "Bolton Wanderers vs Portsmouth",
+                    "Odd": 1.79,
+                    "Score": "1-1",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-06",
+                    "Match": "Monza vs Ascoli",
+                    "Odd": 1.8201058201058202,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-06",
+                    "Match": "Everton CD vs Jorge Wilsterman",
+                    "Odd": 1.89,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-07",
+                    "Match": "Universitatea Cl vs Steaua Bucuresti",
+                    "Odd": 1.8594594594594593,
+                    "Score": "1-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-07",
+                    "Match": "RB Leipzig vs Atalanta",
+                    "Odd": 1.8797814207650272,
+                    "Score": "1-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-08",
+                    "Match": "Boyaca Chico vs Atletico Huila",
+                    "Odd": 1.77,
+                    "Score": "1-0",
+                    "H2H Under %": 78.57,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-08",
+                    "Match": "Beitar Shimshon vs Hapoel Acco",
+                    "Odd": 1.75,
+                    "Score": "0-1",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-09",
+                    "Match": "Metaloglobus vs Politehnica Iasi",
+                    "Odd": 1.8201058201058202,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-09",
+                    "Match": "Weymouth vs Grimsby Town",
+                    "Odd": 1.88,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-10",
+                    "Match": "Yeni Malatyaspor vs Giresunspor",
+                    "Odd": 1.83,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-10",
+                    "Match": "Instituto vs Sacachispas",
+                    "Odd": 1.76,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-11",
+                    "Match": "Vojvodina Novi S vs Proleter",
+                    "Odd": 1.8010471204188483,
+                    "Score": "2-1",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-04-12",
+                    "Match": "Mamelodi Sundown vs Lamontville Gold",
+                    "Odd": 1.75,
+                    "Score": "6-0",
+                    "H2H Under %": 64.71,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-04-12",
+                    "Match": "Burton Albion vs Wigan Athletic",
+                    "Odd": 1.81,
+                    "Score": "0-0",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-13",
+                    "Match": "Cerezo Osaka vs Kashima Antlers",
+                    "Odd": 1.9325842696629212,
+                    "Score": "1-3",
+                    "H2H Under %": 68.42,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-04-13",
+                    "Match": "Trinec vs SK Slovan Varnsd",
+                    "Odd": 1.9770114942528736,
+                    "Score": "1-1",
+                    "H2H Under %": 58.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-14",
+                    "Match": "Corinthians vs Deportivo Cali",
+                    "Odd": 1.81,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-15",
+                    "Match": "Swansea City vs Barnsley",
+                    "Odd": 1.7461928934010151,
+                    "Score": "1-1",
+                    "H2H Under %": 88.89,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-16",
+                    "Match": "Torpedo moskva vs Rotor Volgograd",
+                    "Odd": 1.79,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-16",
+                    "Match": "SV Meppen vs Dortmund II",
+                    "Odd": 1.8297872340425532,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-17",
+                    "Match": "Seattle Sounders vs Inter Miami CF",
+                    "Odd": 1.943502824858757,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-17",
+                    "Match": "Celtic FC vs Rangers Talca",
+                    "Odd": 1.8010471204188483,
+                    "Score": "1-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-18",
+                    "Match": "Morecambe vs Portsmouth",
+                    "Odd": 1.94,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-18",
+                    "Match": "Norrby IF vs Orebro",
+                    "Odd": 1.9,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-19",
+                    "Match": "Bahia(BA) vs Azuriz",
+                    "Odd": 1.72,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-19",
+                    "Match": "Trelleborgs FF vs Ostersunds FK",
+                    "Odd": 1.9217877094972067,
+                    "Score": "1-1",
+                    "H2H Under %": 63.64,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-20",
+                    "Match": "Alanyaspor vs Sivasspor",
+                    "Odd": 1.7373737373737375,
+                    "Score": "1-2",
+                    "H2H Under %": 72.22,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-04-21",
+                    "Match": "Cumbaya vs Club Sport Emele",
+                    "Odd": 1.7823834196891193,
+                    "Score": "1-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-21",
+                    "Match": "Tacuary vs Cerro Porteno",
+                    "Odd": 1.81,
+                    "Score": "2-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-23",
+                    "Match": "Lech Poznan 2 vs Grodzisk M.",
+                    "Odd": 1.85,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-23",
+                    "Match": "Havelse vs SC Freiburg (You",
+                    "Odd": 1.79,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-24",
+                    "Match": "Skovde AIK vs Norrby IF",
+                    "Odd": 1.7461928934010151,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-24",
+                    "Match": "El Salvador vs Guatemala",
+                    "Odd": 1.75,
+                    "Score": "0-4",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-04-25",
+                    "Match": "Temuco vs Melipilla",
+                    "Odd": 1.79,
+                    "Score": "1-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-25",
+                    "Match": "Lecce vs Pisa",
+                    "Odd": 1.78,
+                    "Score": "2-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-26",
+                    "Match": "Argentinos junio vs Sarmiento Junin",
+                    "Odd": 1.96,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-26",
+                    "Match": "Orebro vs Halmstads",
+                    "Odd": 1.79,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-27",
+                    "Match": "Talleres Cordoba vs Sporting Cristal",
+                    "Odd": 1.89,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-28",
+                    "Match": "Univ Catolica vs Banfield",
+                    "Odd": 1.73,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-28",
+                    "Match": "Leicester City vs AS Roma",
+                    "Odd": 1.81,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-29",
+                    "Match": "Maccabi Bnei Rai vs Hapoel Kfar Saba",
+                    "Odd": 1.79,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-29",
+                    "Match": "Giresunspor vs Adana Demir",
+                    "Odd": 1.99,
+                    "Score": "2-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-30",
+                    "Match": "Arminia Bielefel vs Hertha Berlin",
+                    "Odd": 1.73,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-04-30",
+                    "Match": "Detroit vs New York Red Bul",
+                    "Odd": 1.99,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 90.2,
+                "Under2.5_Count": 46,
+                "Total_Matches": 51,
+                "Average_Odds": 1.83
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 86.36,
+                "Combo_Under2.5_Count": 19,
+                "Total_Days": 22,
+                "Average_Combo_Odds": 3.35
+            }
+        },
+        "2022-05": {
+            "matches": [
+                {
+                    "Date": "2022-05-01",
+                    "Match": "Ruch Chorzow vs Pruszkow",
+                    "Odd": 1.943502824858757,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-01",
+                    "Match": "Grodzisk M. vs Elblag",
+                    "Odd": 1.76,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-02",
+                    "Match": "Southend United vs Weymouth",
+                    "Odd": 1.94,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-02",
+                    "Match": "Godoy Cruz Anton vs Central Cordoba",
+                    "Odd": 2.0,
+                    "Score": "1-0",
+                    "H2H Under %": 90.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-03",
+                    "Match": "Halmstads vs Ostersunds FK",
+                    "Odd": 2.0,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-03",
+                    "Match": "Real Santander vs Boca Juniors",
+                    "Odd": 1.85,
+                    "Score": "1-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-04",
+                    "Match": "FC Dobrudzha vs Septemvri Simitl",
+                    "Odd": 1.83,
+                    "Score": "3-0",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-05-04",
+                    "Match": "ADR Jicaral vs AD San Carlos",
+                    "Odd": 1.83,
+                    "Score": "2-1",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-05-05",
+                    "Match": "Always Ready vs Boca Juniors",
+                    "Odd": 1.76,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-05",
+                    "Match": "AS Roma vs Leicester City",
+                    "Odd": 1.91,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-06",
+                    "Match": "Ayacucho vs Jorge Wilsterman",
+                    "Odd": 1.8201058201058202,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-06",
+                    "Match": "CSKA Sofia vs Slavia Sofia",
+                    "Odd": 1.77,
+                    "Score": "3-1",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-05-07",
+                    "Match": "Suwalki vs Lech Poznan 2",
+                    "Odd": 1.8494623655913978,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-08",
+                    "Match": "Kjelsas vs Hodd",
+                    "Odd": 1.9325842696629212,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-08",
+                    "Match": "Gornik Polkowice vs LKS Lodz",
+                    "Odd": 1.87,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-09",
+                    "Match": "Deportivo Santam vs Deportivo Maipu",
+                    "Odd": 1.79,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-09",
+                    "Match": "Curico Unido vs Colo Colo",
+                    "Odd": 1.8010471204188483,
+                    "Score": "1-2",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-05-10",
+                    "Match": "Banfield vs Atletico Tucuman",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-10",
+                    "Match": "D.C. United vs New York Red Bul",
+                    "Odd": 2.0,
+                    "Score": "0-3",
+                    "H2H Under %": 63.33,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-05-11",
+                    "Match": "Ceara vs Tombense",
+                    "Odd": 1.78,
+                    "Score": "2-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-11",
+                    "Match": "Sivasspor vs Alanyaspor",
+                    "Odd": 1.8594594594594593,
+                    "Score": "1-1",
+                    "H2H Under %": 72.22,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-12",
+                    "Match": "Sivas Belediyesp vs Bodrumspor",
+                    "Odd": 1.8797814207650272,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-12",
+                    "Match": "Tarsus Idman Yur vs Amedspor",
+                    "Odd": 1.72,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-13",
+                    "Match": "Chambly Fc vs Boulogne",
+                    "Odd": 2.0,
+                    "Score": "1-0",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-13",
+                    "Match": "AC Horsens vs Elite 3000 Helsi",
+                    "Odd": 1.89010989010989,
+                    "Score": "3-3",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-05-14",
+                    "Match": "Pittsburgh River vs El Paso Patriots",
+                    "Odd": 1.9657142857142857,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-14",
+                    "Match": "CD Lugo vs Fuenlabrada",
+                    "Odd": 1.75,
+                    "Score": "1-3",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-05-15",
+                    "Match": "AD Alcorcon vs Las Palmas",
+                    "Odd": 1.86,
+                    "Score": "0-2",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-15",
+                    "Match": "Miedz Legnica vs Widzew lodz",
+                    "Odd": 1.75,
+                    "Score": "1-0",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-16",
+                    "Match": "Bodrumspor vs Sivas Belediyesp",
+                    "Odd": 1.73,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-16",
+                    "Match": "Newcastle United vs Arsenal",
+                    "Odd": 1.89010989010989,
+                    "Score": "2-0",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-17",
+                    "Match": "Bragantino vs Estudiantes La P",
+                    "Odd": 1.72,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-17",
+                    "Match": "Benevento vs Pisa",
+                    "Odd": 1.7823834196891193,
+                    "Score": "1-0",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-18",
+                    "Match": "Eintracht Frankf vs Glasgow Rangers",
+                    "Odd": 1.8,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-19",
+                    "Match": "Lausanne Sports vs FC Sion",
+                    "Odd": 1.9217877094972067,
+                    "Score": "1-2",
+                    "H2H Under %": 68.18,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-05-19",
+                    "Match": "Radnik Surdulica vs Kolubara",
+                    "Odd": 1.89010989010989,
+                    "Score": "3-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-05-20",
+                    "Match": "Arsenal Dzyarzhy vs Energetik-BGU",
+                    "Odd": 1.8,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-20",
+                    "Match": "Omonia Nicosia F vs Olympiakos Nicos",
+                    "Odd": 1.92,
+                    "Score": "1-1",
+                    "H2H Under %": 78.57,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-21",
+                    "Match": "Habitpharm Javor vs Loznica",
+                    "Odd": 1.84,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-21",
+                    "Match": "Rangers Talca vs Hearts",
+                    "Odd": 1.9884393063583814,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-22",
+                    "Match": "GKS Tychy vs Korona Kielce",
+                    "Odd": 1.91,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-22",
+                    "Match": "D. Zagreb 2 vs Zapresic",
+                    "Odd": 1.75,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-23",
+                    "Match": "San Martin T. vs Tristan Suarez",
+                    "Odd": 1.76,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-23",
+                    "Match": "Drogheda United vs Shamrock Rovers",
+                    "Odd": 1.9884393063583814,
+                    "Score": "1-0",
+                    "H2H Under %": 63.16,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-25",
+                    "Match": "Jorge Wilsterman vs Everton CD",
+                    "Odd": 1.88,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-26",
+                    "Match": "Arka Gdynia vs Chrobry Glogow",
+                    "Odd": 1.8105263157894738,
+                    "Score": "0-2",
+                    "H2H Under %": 70.59,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-26",
+                    "Match": "Cerro Porteno vs Olimpia Asuncion",
+                    "Odd": 1.72,
+                    "Score": "0-1",
+                    "H2H Under %": 59.57,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-27",
+                    "Match": "Boca Juniors vs Deportivo Cali",
+                    "Odd": 1.88,
+                    "Score": "1-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-27",
+                    "Match": "Botev Vratsa vs Etar",
+                    "Odd": 1.75,
+                    "Score": "3-2",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-05-29",
+                    "Match": "Sporting Gijon vs Las Palmas",
+                    "Odd": 1.76,
+                    "Score": "0-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-29",
+                    "Match": "AD Alcorcon vs Eibar",
+                    "Odd": 1.8695652173913042,
+                    "Score": "1-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-30",
+                    "Match": "Colo Colo vs Nublense",
+                    "Odd": 1.9325842696629212,
+                    "Score": "0-0",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-30",
+                    "Match": "Utsiktens BK vs Skovde AIK",
+                    "Odd": 2.0,
+                    "Score": "1-1",
+                    "H2H Under %": 47.06,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-05-31",
+                    "Match": "Alianza Lima vs Cienciano",
+                    "Odd": 2.0,
+                    "Score": "1-0",
+                    "H2H Under %": 63.64,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 81.48,
+                "Under2.5_Count": 44,
+                "Total_Matches": 54,
+                "Average_Odds": 1.85
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 68.0,
+                "Combo_Under2.5_Count": 17,
+                "Total_Days": 25,
+                "Average_Combo_Odds": 3.43
+            }
+        },
+        "2022-06": {
+            "matches": [
+                {
+                    "Date": "2022-06-01",
+                    "Match": "Malta vs Venezuela",
+                    "Odd": 1.89,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-06-02",
+                    "Match": "Serbia vs Norway",
+                    "Odd": 1.9005524861878451,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-06-02",
+                    "Match": "Spain vs Portugal",
+                    "Odd": 1.7916666666666667,
+                    "Score": "1-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-06-03",
+                    "Match": "Georgia U21 vs Romania U21",
+                    "Odd": 1.89010989010989,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-06-03",
+                    "Match": "Belgium vs Netherlands",
+                    "Odd": 1.9884393063583814,
+                    "Score": "1-4",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-06-04",
+                    "Match": "Mirassol vs Brasil De Pelota",
+                    "Odd": 1.764102564102564,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-06-05",
+                    "Match": "Grulla Morioka vs Ventforet Kofu",
+                    "Odd": 1.72,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-06-06",
+                    "Match": "Cayman Islands vs British Virgin I",
+                    "Odd": 1.9770114942528736,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-06-07",
+                    "Match": "Latvia U21 vs Hungary U21",
+                    "Odd": 1.7731958762886597,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-06-07",
+                    "Match": "Germany vs England",
+                    "Odd": 1.8105263157894738,
+                    "Score": "1-1",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-06-08",
+                    "Match": "Bragantino vs Flamengo",
+                    "Odd": 1.73,
+                    "Score": "1-0",
+                    "H2H Under %": 54.55,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-06-09",
+                    "Match": "Switzerland vs Spain",
+                    "Odd": 1.8395721925133688,
+                    "Score": "0-1",
+                    "H2H Under %": 62.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-06-09",
+                    "Match": "Fortaleza vs Goias",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-06-10",
+                    "Match": "Austria vs France",
+                    "Odd": 1.8797814207650272,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-06-10",
+                    "Match": "Denmark U21 vs Scotland U21",
+                    "Odd": 1.98,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-06-11",
+                    "Match": "Club Atletico Ti vs Barracas Central",
+                    "Odd": 1.8,
+                    "Score": "1-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-06-12",
+                    "Match": "Deportivo Maipu vs San Telmo",
+                    "Odd": 1.76,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-06-13",
+                    "Match": "Denmark vs Austria",
+                    "Odd": 1.7823834196891193,
+                    "Score": "2-0",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-06-13",
+                    "Match": "France vs Croatia",
+                    "Odd": 1.9,
+                    "Score": "0-1",
+                    "H2H Under %": 57.14,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-06-14",
+                    "Match": "Liechtenstein vs Latvia",
+                    "Odd": 1.943502824858757,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-06-15",
+                    "Match": "El Salvador vs USA",
+                    "Odd": 1.87,
+                    "Score": "1-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-06-16",
+                    "Match": "Rosario Central vs Godoy Cruz Anton",
+                    "Odd": 1.76,
+                    "Score": "1-0",
+                    "H2H Under %": 52.94,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-06-18",
+                    "Match": "America RN vs Globo",
+                    "Odd": 1.9,
+                    "Score": "1-0",
+                    "H2H Under %": 88.89,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-06-19",
+                    "Match": "Rio Grande vs Pittsburgh River",
+                    "Odd": 1.7823834196891193,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-06-21",
+                    "Match": "Hegelmann Litaue vs Suduva",
+                    "Odd": 1.8,
+                    "Score": "2-2",
+                    "H2H Under %": 57.89,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-06-21",
+                    "Match": "Gimcheon Sangmu vs Seongnam Ilhwa C",
+                    "Odd": 1.79,
+                    "Score": "1-1",
+                    "H2H Under %": 50.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-06-22",
+                    "Match": "Urawa Red Diamon vs Kusatsu",
+                    "Odd": 1.7551020408163265,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-06-22",
+                    "Match": "Shonan Bellmare vs Jubilo Iwata",
+                    "Odd": 1.73,
+                    "Score": "0-1",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-06-23",
+                    "Match": "New York Red Bul vs New York City (U",
+                    "Odd": 1.8297872340425532,
+                    "Score": "3-0",
+                    "H2H Under %": 58.06,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-06-24",
+                    "Match": "Dalian Pro vs Henan Songshan L",
+                    "Odd": 1.96,
+                    "Score": "0-2",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-06-24",
+                    "Match": "Shamrock Rovers vs Bohemians",
+                    "Odd": 1.88,
+                    "Score": "1-0",
+                    "H2H Under %": 60.61,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-06-26",
+                    "Match": "New Mexico vs Birmingham City",
+                    "Odd": 1.9,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-06-26",
+                    "Match": "Memphis vs Detroit",
+                    "Odd": 2.0,
+                    "Score": "2-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-06-28",
+                    "Match": "Norrby IF vs Ostersunds FK",
+                    "Odd": 1.76,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-06-28",
+                    "Match": "LKS Lodz vs Stal Mielec",
+                    "Odd": 1.9884393063583814,
+                    "Score": "1-1",
+                    "H2H Under %": 63.64,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-06-29",
+                    "Match": "Greenville vs North Carolina",
+                    "Odd": 1.89,
+                    "Score": "3-1",
+                    "H2H Under %": 50.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-06-30",
+                    "Match": "FC Tucson vs Richmond Kickers",
+                    "Odd": 1.8201058201058202,
+                    "Score": "0-1",
+                    "H2H Under %": 54.55,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 89.19,
+                "Under2.5_Count": 33,
+                "Total_Matches": 37,
+                "Average_Odds": 1.84
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 81.82,
+                "Combo_Under2.5_Count": 9,
+                "Total_Days": 11,
+                "Average_Combo_Odds": 3.44
+            }
+        },
+        "2022-07": {
+            "matches": [
+                {
+                    "Date": "2022-07-01",
+                    "Match": "Bohemians vs Derry City",
+                    "Odd": 1.8695652173913042,
+                    "Score": "2-3",
+                    "H2H Under %": 67.74,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-07-01",
+                    "Match": "Cobh Ramblers vs Treaty United",
+                    "Odd": 2.0,
+                    "Score": "0-2",
+                    "H2H Under %": 52.94,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-03",
+                    "Match": "Las Vegas Lights vs Detroit",
+                    "Odd": 1.87,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-03",
+                    "Match": "Sport Boys vs Sport Huancayo",
+                    "Odd": 1.8201058201058202,
+                    "Score": "2-3",
+                    "H2H Under %": 70.59,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-07-04",
+                    "Match": "San Luis Quillot vs Cobreloa",
+                    "Odd": 1.81,
+                    "Score": "0-0",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-04",
+                    "Match": "FC Torpedo Zhodi vs Slutsksakhar Slu",
+                    "Odd": 1.8010471204188483,
+                    "Score": "3-0",
+                    "H2H Under %": 70.59,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-07-05",
+                    "Match": "St Josephs vs Larne FC",
+                    "Odd": 1.943502824858757,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-05",
+                    "Match": "Gzira United vs Atletic Club D E",
+                    "Odd": 1.89010989010989,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-06",
+                    "Match": "CSyD Dorados de vs Cimarrones de So",
+                    "Odd": 1.72,
+                    "Score": "1-2",
+                    "H2H Under %": 72.22,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-07-06",
+                    "Match": "Kashima Antlers vs Cerezo Osaka",
+                    "Odd": 1.7823834196891193,
+                    "Score": "3-3",
+                    "H2H Under %": 68.42,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-07-07",
+                    "Match": "River Plate vs Velez Sarsfield",
+                    "Odd": 1.9005524861878451,
+                    "Score": "0-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-07",
+                    "Match": "Alebrijes Oaxaca vs Venados",
+                    "Odd": 1.73,
+                    "Score": "0-0",
+                    "H2H Under %": 62.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-08",
+                    "Match": "Atletico Clube G vs Olimpia Asuncion",
+                    "Odd": 1.7823834196891193,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-08",
+                    "Match": "Botev Plovdiv vs Hebar",
+                    "Odd": 1.93,
+                    "Score": "0-1",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-09",
+                    "Match": "Kelty Hearts vs Inverness",
+                    "Odd": 1.943502824858757,
+                    "Score": "0-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-10",
+                    "Match": "FC Ryukyu vs Vegalta Sendai",
+                    "Odd": 1.9217877094972067,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-11",
+                    "Match": "Henan Songshan L vs Changchun Yatai",
+                    "Odd": 1.7461928934010151,
+                    "Score": "6-2",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-07-11",
+                    "Match": "Internacional RS vs America MG",
+                    "Odd": 1.72,
+                    "Score": "1-0",
+                    "H2H Under %": 62.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-12",
+                    "Match": "FK Sutjeska Niks vs Ludogorets Razgr",
+                    "Odd": 1.7731958762886597,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-12",
+                    "Match": "Deportivo Cuenca vs Guayaquil City",
+                    "Odd": 1.77,
+                    "Score": "1-0",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-13",
+                    "Match": "CFR Cluj vs FC Pyunik",
+                    "Odd": 1.96,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-13",
+                    "Match": "Kilmarnock vs Partick Thistle",
+                    "Odd": 1.8010471204188483,
+                    "Score": "1-1",
+                    "H2H Under %": 69.23,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-14",
+                    "Match": "Palmeiras vs Sao Paulo",
+                    "Odd": 1.8494623655913978,
+                    "Score": "2-1",
+                    "H2H Under %": 70.27,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-07-14",
+                    "Match": "CF Atlante vs Cancun",
+                    "Odd": 1.75,
+                    "Score": "2-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-15",
+                    "Match": "Fortaleza F.C vs Cucuta",
+                    "Odd": 1.7731958762886597,
+                    "Score": "2-2",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-07-15",
+                    "Match": "Deportivo Munici vs Cienciano",
+                    "Odd": 1.9325842696629212,
+                    "Score": "0-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-16",
+                    "Match": "LKS Lodz vs GKS Katowice",
+                    "Odd": 1.83,
+                    "Score": "0-2",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-16",
+                    "Match": "Gimcheon Sangmu vs Incheon United",
+                    "Odd": 1.84,
+                    "Score": "0-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-17",
+                    "Match": "Hansa Rostock vs FC Heidenheim",
+                    "Odd": 1.7373737373737375,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-17",
+                    "Match": "Monterey Bay vs Detroit",
+                    "Odd": 1.8010471204188483,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-18",
+                    "Match": "Haka vs Inter Turku",
+                    "Odd": 1.7731958762886597,
+                    "Score": "3-2",
+                    "H2H Under %": 64.71,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-07-18",
+                    "Match": "Palmeiras vs Cuiaba",
+                    "Odd": 1.9770114942528736,
+                    "Score": "1-0",
+                    "H2H Under %": 62.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-19",
+                    "Match": "Liverpool (URU) vs Albion",
+                    "Odd": 1.98,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-19",
+                    "Match": "Alloa Athletic vs Ross County",
+                    "Odd": 1.81,
+                    "Score": "0-2",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-20",
+                    "Match": "Vikingur Gotu vs Dunajska Streda",
+                    "Odd": 1.8201058201058202,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-20",
+                    "Match": "CD Alacranes de vs Venados",
+                    "Odd": 1.78,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-21",
+                    "Match": "Tobol Kostanai vs Lincoln Red Imps",
+                    "Odd": 1.8105263157894738,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-22",
+                    "Match": "Atletico Huila vs Real Cartagena",
+                    "Odd": 1.76,
+                    "Score": "2-3",
+                    "H2H Under %": 62.5,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-07-22",
+                    "Match": "Jagiellonia Bial vs Widzew lodz",
+                    "Odd": 1.8105263157894738,
+                    "Score": "0-2",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-23",
+                    "Match": "Motor Lublin vs Elblag",
+                    "Odd": 1.98,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-24",
+                    "Match": "Lech Poznan 2 vs Siarka Tarnobrze",
+                    "Odd": 1.8797814207650272,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-24",
+                    "Match": "Monterey Bay vs New York Red Bul",
+                    "Odd": 1.9770114942528736,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-25",
+                    "Match": "Stjordals Blink vs Bryne",
+                    "Odd": 1.9325842696629212,
+                    "Score": "0-2",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-26",
+                    "Match": "Lincoln Red Imps vs Tobol Kostanai",
+                    "Odd": 1.72,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-26",
+                    "Match": "Orgryte vs Vasteras SK FK",
+                    "Odd": 1.82,
+                    "Score": "1-1",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-27",
+                    "Match": "Fenerbahce vs Dynamo Kyiv",
+                    "Odd": 1.79,
+                    "Score": "1-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-28",
+                    "Match": "Kisvarda vs FC Kairat Almaty",
+                    "Odd": 1.7551020408163265,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-28",
+                    "Match": "Sacramento Repub vs Sporting Kansas",
+                    "Odd": 1.83,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-29",
+                    "Match": "Banga Gargzdai vs Dziugas Telsiai",
+                    "Odd": 1.9325842696629212,
+                    "Score": "1-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-29",
+                    "Match": "ND Gorica vs Radomlje",
+                    "Odd": 1.78,
+                    "Score": "0-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-30",
+                    "Match": "Ostersunds FK vs Jonkopings Sodra",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-07-31",
+                    "Match": "Mladost GAT vs Cukaricki Stanko",
+                    "Odd": 1.728643216080402,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 80.77,
+                "Under2.5_Count": 42,
+                "Total_Matches": 52,
+                "Average_Odds": 1.83
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 59.09,
+                "Combo_Under2.5_Count": 13,
+                "Total_Days": 22,
+                "Average_Combo_Odds": 3.35
+            }
+        },
+        "2022-08": {
+            "matches": [
+                {
+                    "Date": "2022-08-03",
+                    "Match": "Nes Tziona vs Ashdod MS",
+                    "Odd": 1.8695652173913042,
+                    "Score": "1-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-03",
+                    "Match": "Landskrona BoIS vs Skovde AIK",
+                    "Odd": 1.9884393063583814,
+                    "Score": "0-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-04",
+                    "Match": "AIK Solna vs FK Shkendija 79",
+                    "Odd": 1.82,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-05",
+                    "Match": "Sampdoria vs Reggina",
+                    "Odd": 1.93,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-05",
+                    "Match": "Charlotte Indepe vs Forward Madison",
+                    "Odd": 1.89010989010989,
+                    "Score": "0-0",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-08",
+                    "Match": "Albion vs Liverpool (URU)",
+                    "Odd": 1.8594594594594593,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-08",
+                    "Match": "Ankaragucu vs Konyaspor",
+                    "Odd": 1.943502824858757,
+                    "Score": "0-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-09",
+                    "Match": "Morecambe vs Stoke City",
+                    "Odd": 1.87,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-09",
+                    "Match": "Grimsby Town vs Crewe Alexandra",
+                    "Odd": 1.9,
+                    "Score": "4-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-08-10",
+                    "Match": "Podbeskidzie Bie vs Skra",
+                    "Odd": 1.79,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-11",
+                    "Match": "Rakow vs Trnava",
+                    "Odd": 1.7461928934010151,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-11",
+                    "Match": "FCSB vs Dunajska Streda",
+                    "Odd": 1.81,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-12",
+                    "Match": "Fakel Voronezh vs Ural Sverdlovsk",
+                    "Odd": 1.764102564102564,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-12",
+                    "Match": "Neman Grodno vs Slutsksakhar Slu",
+                    "Odd": 1.8695652173913042,
+                    "Score": "1-0",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-13",
+                    "Match": "CA Penarol vs Albion",
+                    "Odd": 1.72,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-13",
+                    "Match": "Confianca SE vs Atletico-CE",
+                    "Odd": 1.74,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-14",
+                    "Match": "Spezia vs Empoli",
+                    "Odd": 1.9657142857142857,
+                    "Score": "1-0",
+                    "H2H Under %": 88.89,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-14",
+                    "Match": "GKS Jastrzebie vs KKS Kalisz",
+                    "Odd": 1.7916666666666667,
+                    "Score": "1-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-15",
+                    "Match": "AGF Aarhus vs Lyngby",
+                    "Odd": 1.85,
+                    "Score": "1-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-15",
+                    "Match": "Athletic Bilbao vs Mallorca",
+                    "Odd": 1.72,
+                    "Score": "0-0",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-16",
+                    "Match": "Bolton Wanderers vs Morecambe",
+                    "Odd": 1.943502824858757,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-16",
+                    "Match": "Crewe Alexandra vs Sutton United",
+                    "Odd": 1.7823834196891193,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-17",
+                    "Match": "Club Comunicacio vs Diriangen",
+                    "Odd": 1.78,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-17",
+                    "Match": "SD Deusto vs Sestao",
+                    "Odd": 1.87,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-18",
+                    "Match": "Cibao vs CD Motagua",
+                    "Odd": 1.96,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-18",
+                    "Match": "HJK Helsinki vs Silkeborg",
+                    "Odd": 1.7823834196891193,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-19",
+                    "Match": "Alaves vs Mirandes",
+                    "Odd": 1.81,
+                    "Score": "1-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-20",
+                    "Match": "Grimsby Town vs Sutton United",
+                    "Odd": 1.728643216080402,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-20",
+                    "Match": "Everton vs Nottingham Fores",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-22",
+                    "Match": "Nes Tziona vs Hapoel Kiryat Sh",
+                    "Odd": 1.7551020408163265,
+                    "Score": "0-2",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-22",
+                    "Match": "Ponferradina vs UD Ibiza-Eivissa",
+                    "Odd": 1.7916666666666667,
+                    "Score": "2-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-08-23",
+                    "Match": "Mito Hollyhock vs Oita Trinita",
+                    "Odd": 1.75,
+                    "Score": "2-0",
+                    "H2H Under %": 81.82,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-23",
+                    "Match": "Rotherham United vs Morecambe",
+                    "Odd": 1.8494623655913978,
+                    "Score": "0-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-24",
+                    "Match": "Queretaro FC vs Club America",
+                    "Odd": 1.94,
+                    "Score": "0-1",
+                    "H2H Under %": 72.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-25",
+                    "Match": "Omonia Nicosia F vs KAA Gent",
+                    "Odd": 1.8297872340425532,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-25",
+                    "Match": "Silkeborg vs HJK Helsinki",
+                    "Odd": 1.8797814207650272,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-26",
+                    "Match": "Viitorul Selimba vs Otelul Galati",
+                    "Odd": 1.728643216080402,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-26",
+                    "Match": "B.B. Gaziantep vs Antalyaspor",
+                    "Odd": 1.7916666666666667,
+                    "Score": "5-2",
+                    "H2H Under %": 91.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-08-27",
+                    "Match": "Rochdale vs Crawley Town",
+                    "Odd": 1.74,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-27",
+                    "Match": "Metaloglobus vs FC Maramures Bai",
+                    "Odd": 1.7551020408163265,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-28",
+                    "Match": "Gyor vs Tiszakecske",
+                    "Odd": 1.9770114942528736,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-28",
+                    "Match": "Pisa vs Genoa",
+                    "Odd": 1.74,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-29",
+                    "Match": "York City vs Oldham Athletic",
+                    "Odd": 1.8,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-29",
+                    "Match": "Scunthorpe Unite vs Halifax Town",
+                    "Odd": 1.72,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-31",
+                    "Match": "Habitpharm Javor vs Kolubara",
+                    "Odd": 1.764102564102564,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-08-31",
+                    "Match": "Gornik Polkowice vs Sandecja Nowy Sa",
+                    "Odd": 1.9,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 93.48,
+                "Under2.5_Count": 43,
+                "Total_Matches": 46,
+                "Average_Odds": 1.82
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 85.71,
+                "Combo_Under2.5_Count": 18,
+                "Total_Days": 21,
+                "Average_Combo_Odds": 3.32
+            }
+        },
+        "2022-09": {
+            "matches": [
+                {
+                    "Date": "2022-09-01",
+                    "Match": "Ruch Chorzow vs Gornik Zabrze",
+                    "Odd": 1.9325842696629212,
+                    "Score": "0-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-01",
+                    "Match": "Arka Gdynia vs Gornik Leczna",
+                    "Odd": 1.73,
+                    "Score": "0-0",
+                    "H2H Under %": 69.23,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-02",
+                    "Match": "W.B.A vs Burnley",
+                    "Odd": 1.7916666666666667,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-02",
+                    "Match": "Queretaro FC vs Puebla",
+                    "Odd": 1.8695652173913042,
+                    "Score": "1-1",
+                    "H2H Under %": 69.57,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-03",
+                    "Match": "Guangzhou City vs Tianjin Jinmen T",
+                    "Odd": 1.89010989010989,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-03",
+                    "Match": "Scunthorpe Unite vs Boreham Wood",
+                    "Odd": 1.8010471204188483,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-04",
+                    "Match": "SC Farense vs SC Covilha",
+                    "Odd": 1.79,
+                    "Score": "2-2",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-09-05",
+                    "Match": "CD Tondela vs Estrela",
+                    "Odd": 1.7823834196891193,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-05",
+                    "Match": "Kalmar vs Varbergs BoIS FC",
+                    "Odd": 1.76,
+                    "Score": "1-0",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-06",
+                    "Match": "FC Montana vs Spartak Pleven",
+                    "Odd": 1.7916666666666667,
+                    "Score": "0-2",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-06",
+                    "Match": "Leones Negros Ud vs Cancun",
+                    "Odd": 1.83,
+                    "Score": "3-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-09-07",
+                    "Match": "Napoli vs Liverpool",
+                    "Odd": 2.0,
+                    "Score": "4-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-09-07",
+                    "Match": "Palmeiras vs Athletico-PR",
+                    "Odd": 1.87,
+                    "Score": "2-2",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-09-08",
+                    "Match": "Sturm Graz vs Midtjylland",
+                    "Odd": 1.8010471204188483,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-08",
+                    "Match": "Vaduz vs Apollon Limassol",
+                    "Odd": 1.7916666666666667,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-09",
+                    "Match": "Guangzhou FC vs Tianjin Jinmen T",
+                    "Odd": 1.7373737373737375,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-09",
+                    "Match": "Palermo vs Genoa",
+                    "Odd": 1.74,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-10",
+                    "Match": "Cherno More Varn vs Hebar",
+                    "Odd": 2.0,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-10",
+                    "Match": "Radomiak Radom vs Wisla Plock",
+                    "Odd": 1.911111111111111,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-11",
+                    "Match": "Camacha vs Amarante",
+                    "Odd": 1.8797814207650272,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-11",
+                    "Match": "Miedz Legnica vs Korona Kielce",
+                    "Odd": 1.7731958762886597,
+                    "Score": "2-2",
+                    "H2H Under %": 88.89,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-09-12",
+                    "Match": "Arda vs Pirin Blagoevgra",
+                    "Odd": 1.74,
+                    "Score": "0-0",
+                    "H2H Under %": 88.89,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-12",
+                    "Match": "Habitpharm Javor vs Radnik Surdulica",
+                    "Odd": 1.8695652173913042,
+                    "Score": "2-2",
+                    "H2H Under %": 68.42,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-09-13",
+                    "Match": "Charlton Athleti vs Forest Green Rov",
+                    "Odd": 1.9217877094972067,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-13",
+                    "Match": "Sporting Lisbon vs Tottenham Hotspu",
+                    "Odd": 1.8010471204188483,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-14",
+                    "Match": "Cesena vs Sassari Torres",
+                    "Odd": 1.8,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-14",
+                    "Match": "FC Shakhtar Done vs Celtic FC",
+                    "Odd": 1.9657142857142857,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-15",
+                    "Match": "CSD Antofagasta vs Curico Unido",
+                    "Odd": 1.8695652173913042,
+                    "Score": "0-0",
+                    "H2H Under %": 92.31,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-15",
+                    "Match": "CD Magallanes vs Santiago Morning",
+                    "Odd": 1.82,
+                    "Score": "1-1",
+                    "H2H Under %": 61.11,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-16",
+                    "Match": "Martigues vs Sedan",
+                    "Odd": 1.8010471204188483,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-16",
+                    "Match": "Arka Gdynia vs Chrobry Glogow",
+                    "Odd": 1.93,
+                    "Score": "3-4",
+                    "H2H Under %": 70.59,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-09-17",
+                    "Match": "Cagliari vs Bari",
+                    "Odd": 1.8797814207650272,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-17",
+                    "Match": "Hyde United vs Warrington Town",
+                    "Odd": 1.92,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-18",
+                    "Match": "Albacete vs Ponferradina",
+                    "Odd": 1.8695652173913042,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-18",
+                    "Match": "Rayo Zuliano vs Atletico La Cruz",
+                    "Odd": 1.88,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-19",
+                    "Match": "Sportivo Barraca vs Deportivo Paragu",
+                    "Odd": 1.8297872340425532,
+                    "Score": "1-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-20",
+                    "Match": "Stevenage Boroug vs Wycombe Wanderer",
+                    "Odd": 1.97,
+                    "Score": "3-0",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-09-20",
+                    "Match": "East Fife vs Stenhousemuir",
+                    "Odd": 1.8297872340425532,
+                    "Score": "1-2",
+                    "H2H Under %": 70.59,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-09-21",
+                    "Match": "San Antonio vs Colorado Springs",
+                    "Odd": 1.8797814207650272,
+                    "Score": "1-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-21",
+                    "Match": "Grecia vs AD Guanacasteca",
+                    "Odd": 1.85,
+                    "Score": "4-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-09-22",
+                    "Match": "Australia vs New Zealand",
+                    "Odd": 1.95,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-23",
+                    "Match": "VSI Tampa Bay FC vs Birmingham City",
+                    "Odd": 2.0,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-23",
+                    "Match": "Paraguay vs United Arab Emir",
+                    "Odd": 1.8,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-24",
+                    "Match": "Singapore vs India",
+                    "Odd": 1.8494623655913978,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-24",
+                    "Match": "Metalac vs Zlatibor Cajetin",
+                    "Odd": 1.8594594594594593,
+                    "Score": "0-0",
+                    "H2H Under %": 90.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-25",
+                    "Match": "Moldova vs Liechtenstein",
+                    "Odd": 1.8105263157894738,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-25",
+                    "Match": "Sao Paulo vs Avai FC SC",
+                    "Odd": 1.89,
+                    "Score": "4-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-09-27",
+                    "Match": "Norway vs Serbia",
+                    "Odd": 1.93,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-27",
+                    "Match": "Korea Republic vs Cameroon",
+                    "Odd": 1.85,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-28",
+                    "Match": "Kastamonuspor vs Nevsehirspor Gen",
+                    "Odd": 1.83,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-28",
+                    "Match": "Ural Sverdlovsk vs Torpedo moskva",
+                    "Odd": 1.7551020408163265,
+                    "Score": "1-0",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-29",
+                    "Match": "Sport Club do Re vs Nautico Capibari",
+                    "Odd": 1.76,
+                    "Score": "2-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-09-29",
+                    "Match": "Hobro vs Fremad Amager",
+                    "Odd": 1.911111111111111,
+                    "Score": "1-0",
+                    "H2H Under %": 58.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-30",
+                    "Match": "Nancy vs Cholet",
+                    "Odd": 1.764102564102564,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-09-30",
+                    "Match": "Changchun Yatai vs Shenzhen FC",
+                    "Odd": 1.9325842696629212,
+                    "Score": "1-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 78.18,
+                "Under2.5_Count": 43,
+                "Total_Matches": 55,
+                "Average_Odds": 1.85
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 65.38,
+                "Combo_Under2.5_Count": 17,
+                "Total_Days": 26,
+                "Average_Combo_Odds": 3.42
+            }
+        },
+        "2022-10": {
+            "matches": [
+                {
+                    "Date": "2022-10-01",
+                    "Match": "Ostersunds FK vs Halmstads",
+                    "Odd": 1.9884393063583814,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-01",
+                    "Match": "Cambridge United vs Derby County",
+                    "Odd": 1.7461928934010151,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-02",
+                    "Match": "Norrby IF vs Skovde AIK",
+                    "Odd": 1.7916666666666667,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-03",
+                    "Match": "Verona vs Udinese",
+                    "Odd": 1.9545454545454546,
+                    "Score": "1-2",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-10-03",
+                    "Match": "Cukaricki Stanko vs Radnicki Nis",
+                    "Odd": 1.911111111111111,
+                    "Score": "2-2",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-10-04",
+                    "Match": "Guangzhou City vs Shenzhen FC",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-04",
+                    "Match": "Sunderland vs Blackpool",
+                    "Odd": 1.81,
+                    "Score": "0-0",
+                    "H2H Under %": 88.89,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-05",
+                    "Match": "Burnley vs Stoke City",
+                    "Odd": 1.9,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-05",
+                    "Match": "Changchun Yatai vs Guangzhou FC",
+                    "Odd": 1.76,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-06",
+                    "Match": "Slavia Praha vs CFR Cluj",
+                    "Odd": 1.92,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-06",
+                    "Match": "Cruzeiro vs Ituano(SP)",
+                    "Odd": 1.82,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-07",
+                    "Match": "Radnik Surdulica vs Novi Pazar",
+                    "Odd": 1.83,
+                    "Score": "1-1",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-08",
+                    "Match": "Ullern FC vs Strommen",
+                    "Odd": 1.8695652173913042,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-08",
+                    "Match": "Forest Green Rov vs Bolton Wanderers",
+                    "Odd": 1.86,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-09",
+                    "Match": "Sacramento Repub vs Pittsburgh River",
+                    "Odd": 1.9,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-09",
+                    "Match": "Monza vs Spezia",
+                    "Odd": 1.8594594594594593,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-10",
+                    "Match": "Basaksehir vs Sivasspor",
+                    "Odd": 1.72,
+                    "Score": "0-2",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-10",
+                    "Match": "Hapoel Kiryat Sh vs Ashdod MS",
+                    "Odd": 1.8010471204188483,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-11",
+                    "Match": "MFK Kosice vs Komarno",
+                    "Odd": 1.7823834196891193,
+                    "Score": "2-3",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-10-11",
+                    "Match": "Milton Keynes Do vs Bristol Rovers",
+                    "Odd": 1.87,
+                    "Score": "0-1",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-12",
+                    "Match": "Atletico Madrid vs Club Brugge",
+                    "Odd": 1.8010471204188483,
+                    "Score": "0-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-12",
+                    "Match": "Avranches vs Martigues",
+                    "Odd": 1.9884393063583814,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-13",
+                    "Match": "Partizan Belgrad vs FC Cologne",
+                    "Odd": 1.9545454545454546,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-13",
+                    "Match": "Ludogorets Razgr vs HJK Helsinki",
+                    "Odd": 1.8395721925133688,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-14",
+                    "Match": "Greuther Furth vs Hansa Rostock",
+                    "Odd": 1.85,
+                    "Score": "2-2",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-10-14",
+                    "Match": "Brentford vs Brighton Hove Al",
+                    "Odd": 1.8395721925133688,
+                    "Score": "2-0",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-15",
+                    "Match": "Politehnica Iasi vs Metaloglobus",
+                    "Odd": 1.72,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-15",
+                    "Match": "Khimki vs Fakel Voronezh",
+                    "Odd": 1.78,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-16",
+                    "Match": "Vilaverdense vs Portimonense",
+                    "Odd": 1.9770114942528736,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-16",
+                    "Match": "Setubal vs Pacos de Ferreir",
+                    "Odd": 1.9,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-17",
+                    "Match": "Sampdoria vs AS Roma",
+                    "Odd": 1.84,
+                    "Score": "0-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-18",
+                    "Match": "Chester FC vs Oldham Athletic",
+                    "Odd": 1.98,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-18",
+                    "Match": "H. Bikat Hayarde vs Ironi Tiberias",
+                    "Odd": 1.91,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-19",
+                    "Match": "Goztepe vs Karakopru",
+                    "Odd": 1.85,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-20",
+                    "Match": "AD Cantolao vs Cienciano",
+                    "Odd": 1.9,
+                    "Score": "3-1",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-10-20",
+                    "Match": "Sampdoria vs Ascoli",
+                    "Odd": 1.73,
+                    "Score": "1-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-21",
+                    "Match": "Widzew lodz vs Miedz Legnica",
+                    "Odd": 1.8105263157894738,
+                    "Score": "1-0",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-21",
+                    "Match": "Ipswich Town vs Derby County",
+                    "Odd": 1.82,
+                    "Score": "1-0",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-22",
+                    "Match": "Scarborough vs Telford United",
+                    "Odd": 1.9884393063583814,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-22",
+                    "Match": "Crewe Alexandra vs Doncaster Rovers",
+                    "Odd": 1.7461928934010151,
+                    "Score": "1-1",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-23",
+                    "Match": "Lucchese vs Montevarchi Calc",
+                    "Odd": 1.77,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-23",
+                    "Match": "Raca vs Komarno",
+                    "Odd": 1.9884393063583814,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-24",
+                    "Match": "Jonkopings Sodra vs Norrby IF",
+                    "Odd": 1.81,
+                    "Score": "2-1",
+                    "H2H Under %": 69.23,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-10-25",
+                    "Match": "Fleetwood Town vs Forest Green Rov",
+                    "Odd": 1.86,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-26",
+                    "Match": "GKS Jastrzebie vs Olimpia Elblag",
+                    "Odd": 1.92,
+                    "Score": "0-2",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-26",
+                    "Match": "Atletico Madrid vs Bayer Leverkusen",
+                    "Odd": 1.9884393063583814,
+                    "Score": "2-2",
+                    "H2H Under %": 55.56,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-10-27",
+                    "Match": "Guarani CA vs Libertad",
+                    "Odd": 1.8105263157894738,
+                    "Score": "1-2",
+                    "H2H Under %": 50.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-10-27",
+                    "Match": "PSV Eindhoven vs Arsenal",
+                    "Odd": 1.8797814207650272,
+                    "Score": "2-0",
+                    "H2H Under %": 50.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-28",
+                    "Match": "Kremin Kremenchu vs LNZ Cherkasy",
+                    "Odd": 1.8010471204188483,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-28",
+                    "Match": "Sligo Rovers vs St. Patricks Ath",
+                    "Odd": 1.7823834196891193,
+                    "Score": "1-0",
+                    "H2H Under %": 67.65,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-29",
+                    "Match": "Prix Les Meziere vs Bastia",
+                    "Odd": 1.8594594594594593,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-30",
+                    "Match": "Tiszakecske vs Gyirmot SE",
+                    "Odd": 1.8010471204188483,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-30",
+                    "Match": "Hebar vs Botev Plovdiv",
+                    "Odd": 1.86,
+                    "Score": "1-2",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-10-31",
+                    "Match": "Hapoel Beer Shev vs Maccabi Tel Aviv",
+                    "Odd": 1.89010989010989,
+                    "Score": "2-0",
+                    "H2H Under %": 64.81,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-10-31",
+                    "Match": "VfL Osnabruck vs Hallescher FC",
+                    "Odd": 2.0,
+                    "Score": "3-2",
+                    "H2H Under %": 62.5,
+                    "Under2.5_Result": false
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 81.82,
+                "Under2.5_Count": 45,
+                "Total_Matches": 55,
+                "Average_Odds": 1.86
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 66.67,
+                "Combo_Under2.5_Count": 16,
+                "Total_Days": 24,
+                "Average_Combo_Odds": 3.45
+            }
+        },
+        "2022-11": {
+            "matches": [
+                {
+                    "Date": "2022-11-01",
+                    "Match": "Eastleigh vs Scunthorpe Unite",
+                    "Odd": 1.9,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-01",
+                    "Match": "Woking vs Yeovil Town",
+                    "Odd": 1.9,
+                    "Score": "1-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-02",
+                    "Match": "Lucchese vs Olbia",
+                    "Odd": 1.89,
+                    "Score": "1-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-02",
+                    "Match": "Norwich City vs Queens Park Rang",
+                    "Odd": 1.8494623655913978,
+                    "Score": "0-0",
+                    "H2H Under %": 61.54,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-03",
+                    "Match": "Midtjylland vs Sturm Graz",
+                    "Odd": 1.89010989010989,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-03",
+                    "Match": "Apollon Limassol vs Vaduz",
+                    "Odd": 1.9325842696629212,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-04",
+                    "Match": "Udinese vs Lecce",
+                    "Odd": 1.7823834196891193,
+                    "Score": "1-1",
+                    "H2H Under %": 88.89,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-04",
+                    "Match": "Opava vs Trinec",
+                    "Odd": 1.86,
+                    "Score": "0-0",
+                    "H2H Under %": 76.92,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-05",
+                    "Match": "SG Dynamo Dresde vs SC Freiburg (You",
+                    "Odd": 1.8797814207650272,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-05",
+                    "Match": "Benevento vs Bari",
+                    "Odd": 1.75,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-06",
+                    "Match": "Catanzaro vs Crotone",
+                    "Odd": 1.8,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-06",
+                    "Match": "Curzon Ashton FC vs Cambridge United",
+                    "Odd": 1.9657142857142857,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-07",
+                    "Match": "Chelmsford City vs Dover Athletic",
+                    "Odd": 1.8297872340425532,
+                    "Score": "0-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-08",
+                    "Match": "Solihull Moors vs Halifax Town",
+                    "Odd": 1.9770114942528736,
+                    "Score": "0-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-09",
+                    "Match": "Altinordu vs Bodrumspor",
+                    "Odd": 1.764102564102564,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-10",
+                    "Match": "Lazio vs Monza",
+                    "Odd": 1.7823834196891193,
+                    "Score": "1-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-11",
+                    "Match": "Versailles 78 vs Stade Briochin",
+                    "Odd": 1.8695652173913042,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-11",
+                    "Match": "Empoli vs Cremonese",
+                    "Odd": 1.81,
+                    "Score": "2-0",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-12",
+                    "Match": "Morecambe vs Portsmouth",
+                    "Odd": 1.9325842696629212,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-12",
+                    "Match": "Ural Sverdlovsk vs Fakel Voronezh",
+                    "Odd": 1.83,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-13",
+                    "Match": "resistencia SC vs 12 de Octubre",
+                    "Odd": 1.73,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-13",
+                    "Match": "Cukaricki Stanko vs Mladost GAT",
+                    "Odd": 1.94,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-14",
+                    "Match": "CD Mafra vs Leixoes",
+                    "Odd": 1.9325842696629212,
+                    "Score": "1-1",
+                    "H2H Under %": 84.62,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-14",
+                    "Match": "San Antonio vs Louisville City",
+                    "Odd": 1.8,
+                    "Score": "3-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-11-15",
+                    "Match": "Braintree Town vs Farnborough Town",
+                    "Odd": 1.8695652173913042,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-15",
+                    "Match": "Otelul Galati vs FC Maramures Bai",
+                    "Odd": 1.72,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-16",
+                    "Match": "Estonia U21 vs Lithuania U21",
+                    "Odd": 1.9,
+                    "Score": "5-1",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-11-17",
+                    "Match": "Tajikistan vs Russia",
+                    "Odd": 1.8395721925133688,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-18",
+                    "Match": "FK Zorya Luhansk vs PFC Oleksandria",
+                    "Odd": 1.9884393063583814,
+                    "Score": "4-1",
+                    "H2H Under %": 63.64,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-11-18",
+                    "Match": "Latvia U21 vs Estonia U21",
+                    "Odd": 1.81,
+                    "Score": "1-0",
+                    "H2H Under %": 57.14,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-19",
+                    "Match": "Maidstone United vs Oldham Athletic",
+                    "Odd": 1.97,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-20",
+                    "Match": "Malta vs Ireland",
+                    "Odd": 1.8105263157894738,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-21",
+                    "Match": "Georgia U21 vs Ukraine U21",
+                    "Odd": 2.0,
+                    "Score": "1-1",
+                    "H2H Under %": 50.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-21",
+                    "Match": "Turris vs Pescara",
+                    "Odd": 1.728643216080402,
+                    "Score": "2-3",
+                    "H2H Under %": 0.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-11-22",
+                    "Match": "Banbury United vs Bradford Park Av",
+                    "Odd": 1.93,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-22",
+                    "Match": "Denmark vs Tunisia",
+                    "Odd": 1.78,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-23",
+                    "Match": "Belgium vs Canada",
+                    "Odd": 2.0,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-23",
+                    "Match": "CD Copiapo S.A. vs Cobreloa",
+                    "Odd": 1.98,
+                    "Score": "0-0",
+                    "H2H Under %": 55.56,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-24",
+                    "Match": "Dunajska Streda vs MFK Ruzomberok",
+                    "Odd": 1.8594594594594593,
+                    "Score": "1-0",
+                    "H2H Under %": 68.75,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-24",
+                    "Match": "Trnava vs Michalovce",
+                    "Odd": 1.8010471204188483,
+                    "Score": "4-1",
+                    "H2H Under %": 45.83,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-11-26",
+                    "Match": "AFC Wimbledon vs Chesterfield",
+                    "Odd": 1.8297872340425532,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-26",
+                    "Match": "Tuzlaspor Kulubu vs Yeni Malatyaspor",
+                    "Odd": 1.96,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-27",
+                    "Match": "Litex Lovech vs Cherno More Varn",
+                    "Odd": 1.99,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-27",
+                    "Match": "Audace Cerignola vs Viterbese",
+                    "Odd": 1.81,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-28",
+                    "Match": "Deportivo Pereir vs Independiente Sa",
+                    "Odd": 1.89010989010989,
+                    "Score": "5-1",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-11-30",
+                    "Match": "Australia vs Denmark",
+                    "Odd": 1.8297872340425532,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-11-30",
+                    "Match": "Tianjin Jinmen T vs Guangzhou City",
+                    "Odd": 1.82,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 87.23,
+                "Under2.5_Count": 41,
+                "Total_Matches": 47,
+                "Average_Odds": 1.87
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 78.95,
+                "Combo_Under2.5_Count": 15,
+                "Total_Days": 19,
+                "Average_Combo_Odds": 3.48
+            }
+        },
+        "2022-12": {
+            "matches": [
+                {
+                    "Date": "2022-12-01",
+                    "Match": "Huddersfield Tow vs Olympiakos",
+                    "Odd": 2.0,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-01",
+                    "Match": "Croatia vs Belgium",
+                    "Odd": 1.84,
+                    "Score": "0-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-02",
+                    "Match": "USL Dunkerque vs Martigues",
+                    "Odd": 1.73,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-02",
+                    "Match": "Ghana vs Uruguay",
+                    "Odd": 1.7373737373737375,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-03",
+                    "Match": "Dover Athletic vs St Albans City",
+                    "Odd": 1.8105263157894738,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-03",
+                    "Match": "Unirea Dej vs FC Maramures Bai",
+                    "Odd": 1.8594594594594593,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-04",
+                    "Match": "Farul Constanta vs Botosani",
+                    "Odd": 1.7823834196891193,
+                    "Score": "8-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-12-05",
+                    "Match": "Henan Songshan L vs Chengdu Rongchen",
+                    "Odd": 1.9545454545454546,
+                    "Score": "0-1",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-05",
+                    "Match": "CD Mafra vs Vizela",
+                    "Odd": 1.7916666666666667,
+                    "Score": "1-1",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-06",
+                    "Match": "Scarborough vs Peterborough Spo",
+                    "Odd": 1.8010471204188483,
+                    "Score": "2-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-12-06",
+                    "Match": "Kettering Town vs Gloucester City",
+                    "Odd": 1.79,
+                    "Score": "0-1",
+                    "H2H Under %": 62.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-07",
+                    "Match": "SC Farense vs Maritimo",
+                    "Odd": 1.8010471204188483,
+                    "Score": "2-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-07",
+                    "Match": "FC Koper vs Tabor Sezana",
+                    "Odd": 1.92,
+                    "Score": "5-1",
+                    "H2H Under %": 64.29,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-12-08",
+                    "Match": "Genoa vs SudTirol",
+                    "Odd": 1.86,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-08",
+                    "Match": "Levante vs Ponferradina",
+                    "Odd": 2.0,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-09",
+                    "Match": "Crawley Town vs Hartlepool Unite",
+                    "Odd": 1.8395721925133688,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-09",
+                    "Match": "Stade Briochin vs Le Mans",
+                    "Odd": 1.73,
+                    "Score": "1-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-10",
+                    "Match": "Guangzhou FC vs Guangzhou City",
+                    "Odd": 1.83,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-10",
+                    "Match": "Morocco vs Portugal",
+                    "Odd": 1.84,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-11",
+                    "Match": "Casa Pia AC vs Clube Desportivo",
+                    "Odd": 1.84,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-11",
+                    "Match": "Altinordu vs Bodrumspor",
+                    "Odd": 1.84,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-12",
+                    "Match": "Hapoel Afula vs Hapoel Tel Aviv",
+                    "Odd": 1.96,
+                    "Score": "1-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-12",
+                    "Match": "Hapoel Jerusalem vs Maccabi Petah Ti",
+                    "Odd": 1.9657142857142857,
+                    "Score": "0-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-13",
+                    "Match": "Real Valladolid vs Clermont",
+                    "Odd": 1.91,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-13",
+                    "Match": "Boston United vs Banbury United",
+                    "Odd": 1.764102564102564,
+                    "Score": "0-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-14",
+                    "Match": "Portimonense vs Gil Vicente",
+                    "Odd": 1.7916666666666667,
+                    "Score": "0-3",
+                    "H2H Under %": 61.54,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-12-14",
+                    "Match": "Havant Waterloov vs Dartford",
+                    "Odd": 1.9884393063583814,
+                    "Score": "1-3",
+                    "H2H Under %": 50.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-12-15",
+                    "Match": "Panathinaikos vs Volos NFC",
+                    "Odd": 1.8201058201058202,
+                    "Score": "3-0",
+                    "H2H Under %": 50.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-12-15",
+                    "Match": "Hebei vs Shenzhen FC",
+                    "Odd": 2.0,
+                    "Score": "2-0",
+                    "H2H Under %": 50.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-16",
+                    "Match": "GD Chaves vs CD Mafra",
+                    "Odd": 1.87,
+                    "Score": "1-2",
+                    "H2H Under %": 55.56,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-12-17",
+                    "Match": "Excelsior Virton vs Beveren",
+                    "Odd": 1.99,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-18",
+                    "Match": "Parma vs Spal",
+                    "Odd": 1.73,
+                    "Score": "0-1",
+                    "H2H Under %": 62.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-18",
+                    "Match": "Western United vs WS Wanderers",
+                    "Odd": 1.7823834196891193,
+                    "Score": "1-0",
+                    "H2H Under %": 58.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-19",
+                    "Match": "Hapoel Kiryat Sh vs Nes Tziona",
+                    "Odd": 2.0,
+                    "Score": "3-3",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-12-20",
+                    "Match": "Real Union Irun vs Mallorca",
+                    "Odd": 1.7823834196891193,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-20",
+                    "Match": "Salford City vs Port Vale",
+                    "Odd": 1.83,
+                    "Score": "1-0",
+                    "H2H Under %": 81.82,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-21",
+                    "Match": "Coventry City vs W.B.A",
+                    "Odd": 1.728643216080402,
+                    "Score": "1-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-23",
+                    "Match": "Pontypridd vs Pen-y-Bont FC",
+                    "Odd": 1.9770114942528736,
+                    "Score": "0-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-24",
+                    "Match": "Hapoel Haifa vs Maccabi Bnei Rai",
+                    "Odd": 1.75,
+                    "Score": "0-0",
+                    "H2H Under %": 61.54,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-24",
+                    "Match": "Kelty Hearts vs Dunfermline Athl",
+                    "Odd": 1.88,
+                    "Score": "1-2",
+                    "H2H Under %": 50.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-12-25",
+                    "Match": "Hapoel Bnei Sakh vs Hapoel Tel Aviv",
+                    "Odd": 1.81,
+                    "Score": "1-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-26",
+                    "Match": "Altinordu vs Caykur Rizespor",
+                    "Odd": 1.8494623655913978,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-26",
+                    "Match": "Pontypridd vs Haverfordwest Co",
+                    "Odd": 2.0,
+                    "Score": "3-2",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-12-27",
+                    "Match": "Basaksehir vs Antalyaspor",
+                    "Odd": 1.8010471204188483,
+                    "Score": "2-0",
+                    "H2H Under %": 63.16,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-27",
+                    "Match": "Sint Truiden vs Zulte-Waregem",
+                    "Odd": 1.9770114942528736,
+                    "Score": "2-0",
+                    "H2H Under %": 52.63,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-28",
+                    "Match": "ABC RN vs Botafogo PB",
+                    "Odd": 1.72,
+                    "Score": "2-1",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-12-28",
+                    "Match": "Troyes vs Nantes",
+                    "Odd": 1.9325842696629212,
+                    "Score": "0-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-29",
+                    "Match": "Blackburn Rovers vs Middlesbrough",
+                    "Odd": 1.8695652173913042,
+                    "Score": "1-2",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2022-12-29",
+                    "Match": "Braintree Town vs Chippenham Town",
+                    "Odd": 1.89010989010989,
+                    "Score": "1-1",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-30",
+                    "Match": "Derby County vs Cambridge United",
+                    "Odd": 1.9657142857142857,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-30",
+                    "Match": "Racing de Ferrol vs CD Lugo",
+                    "Odd": 2.0,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-31",
+                    "Match": "Wolverhampton vs Manchester Unite",
+                    "Odd": 1.8494623655913978,
+                    "Score": "0-1",
+                    "H2H Under %": 76.47,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2022-12-31",
+                    "Match": "Hapoel Tel Aviv vs Maccabi Netanya",
+                    "Odd": 1.7916666666666667,
+                    "Score": "1-1",
+                    "H2H Under %": 69.23,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 77.36,
+                "Under2.5_Count": 41,
+                "Total_Matches": 53,
+                "Average_Odds": 1.86
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 65.22,
+                "Combo_Under2.5_Count": 15,
+                "Total_Days": 23,
+                "Average_Combo_Odds": 3.45
+            }
+        }
+    },
+    "year_summary": {
+        "single_stats": {
+            "Under2.5_Percentage": 84.71,
+            "Under2.5_Count": 493,
+            "Total_Matches": 582,
+            "Average_Odds": 1.85
+        },
+        "combo_stats": {
+            "Combo_Under2.5_Percentage": 74.39,
+            "Combo_Under2.5_Count": 183,
+            "Total_Days": 246,
+            "Average_Combo_Odds": 3.41
+        }
+    }
+}

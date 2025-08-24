@@ -1,0 +1,5043 @@
+{
+  "year": 2023,
+  "months": [
+    {
+      "month": "2023-01",
+      "matches": [
+        {
+          "date": "2023-01-01",
+          "match": "Blackpool vs Sunderland",
+          "odd": "1.83",
+          "score": "1-1",
+          "h2h_under": "88.89%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-01",
+          "match": "Toulouse vs Ajaccio",
+          "odd": "1.74",
+          "score": "2-0",
+          "h2h_under": "75.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-02",
+          "match": "Barrow vs Rochdale",
+          "odd": "1.72",
+          "score": "0-0",
+          "h2h_under": "66.67%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-03",
+          "match": "Arsenal vs Newcastle United",
+          "odd": "1.87",
+          "score": "0-0",
+          "h2h_under": "70.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-03",
+          "match": "Levadiakos vs Panathinaikos",
+          "odd": "1.77",
+          "score": "0-1",
+          "h2h_under": "66.67%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-04",
+          "match": "UD Logrones vs Real Sociedad To",
+          "odd": "1.87",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-04",
+          "match": "Real Oviedo vs Atletico Madrid",
+          "odd": "1.80",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-05",
+          "match": "Gimnastic Tarrag vs Osasuna",
+          "odd": "1.80",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-05",
+          "match": "B.B. Gaziantep vs Basaksehir",
+          "odd": "1.75",
+          "score": "1-1",
+          "h2h_under": "54.55%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-07",
+          "match": "Leyton Orient vs Doncaster Rovers",
+          "odd": "1.78",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-07",
+          "match": "Hereford United vs Scarborough",
+          "odd": "1.89",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-08",
+          "match": "Iceland vs Estonia",
+          "odd": "1.72",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-08",
+          "match": "Bristol City vs Swansea City",
+          "odd": "1.83",
+          "score": "1-1",
+          "h2h_under": "81.25%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-09",
+          "match": "Univ Catolica vs Talleres Cordoba",
+          "odd": "1.75",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-09",
+          "match": "Verona vs Cremonese",
+          "odd": "1.80",
+          "score": "2-0",
+          "h2h_under": "75.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-11",
+          "match": "Stade Brestois vs Lille",
+          "odd": "1.81",
+          "score": "0-0",
+          "h2h_under": "66.67%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-11",
+          "match": "Nantes vs Lyon",
+          "odd": "1.83",
+          "score": "0-0",
+          "h2h_under": "61.11%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-12",
+          "match": "Nacional da Made vs Velez Sarsfield",
+          "odd": "1.73",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-12",
+          "match": "Apollon Pontou vs Panserraikos",
+          "odd": "1.82",
+          "score": "0-1",
+          "h2h_under": "44.44%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-13",
+          "match": "Denizlispor vs Eyupspor",
+          "odd": "1.88",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-13",
+          "match": "Bordeaux vs Amiens",
+          "odd": "1.73",
+          "score": "1-1",
+          "h2h_under": "66.67%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-14",
+          "match": "Keciorengucu vs Caykur Rizespor",
+          "odd": "1.72",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-15",
+          "match": "Nacional da Made vs Estrela",
+          "odd": "1.78",
+          "score": "0-1",
+          "h2h_under": "83.33%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-16",
+          "match": "Niort vs Saint Etienne",
+          "odd": "1.79",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-17",
+          "match": "Altrincham vs Maidenhead Unite",
+          "odd": "1.92",
+          "score": "3-2",
+          "h2h_under": "70.00%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-01-18",
+          "match": "Athletic Bilbao vs RCD Espanyol",
+          "odd": "1.75",
+          "score": "1-0",
+          "h2h_under": "73.33%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-18",
+          "match": "Globo vs ABC RN",
+          "odd": "1.95",
+          "score": "0-3",
+          "h2h_under": "66.67%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-01-19",
+          "match": "CE Forca E Luz vs Alecrim",
+          "odd": "1.75",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-19",
+          "match": "B.B. Gaziantep vs Konyaspor",
+          "odd": "1.93",
+          "score": "0-0",
+          "h2h_under": "57.14%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-20",
+          "match": "Sheffield United vs Hull City",
+          "odd": "1.79",
+          "score": "1-0",
+          "h2h_under": "63.64%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-21",
+          "match": "Fontinhas vs FC Alverca",
+          "odd": "1.80",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-21",
+          "match": "Arbroath vs Motherwell",
+          "odd": "1.77",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-22",
+          "match": "ASM Belfortaine vs Annecy",
+          "odd": "1.85",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-23",
+          "match": "Konyaspor vs Ankaragucu",
+          "odd": "1.94",
+          "score": "0-1",
+          "h2h_under": "83.33%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-23",
+          "match": "Carshalton vs lewes",
+          "odd": "1.96",
+          "score": "2-1",
+          "h2h_under": "66.67%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-01-24",
+          "match": "Bolton Wanderers vs Forest Green Rov",
+          "odd": "1.82",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-24",
+          "match": "Sparta Rotterdam vs RKC Waalwijk",
+          "odd": "1.83",
+          "score": "0-0",
+          "h2h_under": "76.47%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-25",
+          "match": "Halifax Town vs Scunthorpe Unite",
+          "odd": "1.79",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-25",
+          "match": "Barcelona vs Real Sociedad To",
+          "odd": "1.84",
+          "score": "1-0",
+          "h2h_under": "66.67%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-26",
+          "match": "Botafogo RJ vs Madureira",
+          "odd": "1.77",
+          "score": "2-0",
+          "h2h_under": "66.67%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-26",
+          "match": "Vitoria BA vs Doce Mel",
+          "odd": "1.88",
+          "score": "3-0",
+          "h2h_under": "66.67%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-01-27",
+          "match": "Telstar vs Omniworld Almere",
+          "odd": "1.90",
+          "score": "0-1",
+          "h2h_under": "66.67%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-27",
+          "match": "Goztepe vs Bandirmaspor",
+          "odd": "1.77",
+          "score": "3-1",
+          "h2h_under": "66.67%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-01-28",
+          "match": "FC Heidenheim vs Hansa Rostock",
+          "odd": "1.82",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-28",
+          "match": "SpVgg Bayreuth vs Ingolstadt",
+          "odd": "1.99",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-29",
+          "match": "Piast Gliwice vs Jagiellonia Bial",
+          "odd": "1.78",
+          "score": "1-1",
+          "h2h_under": "75.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-29",
+          "match": "Livingston vs Hearts",
+          "odd": "1.77",
+          "score": "0-0",
+          "h2h_under": "75.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-30",
+          "match": "Derby County vs West Ham United",
+          "odd": "1.85",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-30",
+          "match": "Udinese vs Verona",
+          "odd": "1.85",
+          "score": "1-1",
+          "h2h_under": "71.43%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-01-31",
+          "match": "Chorley FC vs Telford United",
+          "odd": "1.74",
+          "score": "1-0",
+          "h2h_under": "66.67%",
+          "status": "\u2705"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "90.00%",
+        "under_2.5_count": "45/50",
+        "average_odds": "1.82"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "80.95%",
+        "combo_under_2.5_count": "17/21",
+        "average_combo_odds": "3.32"
+      }
+    },
+    {
+      "month": "2023-02",
+      "matches": [
+        {
+          "date": "2023-02-01",
+          "match": "Lille vs Clermont",
+          "odd": "1.96",
+          "score": "0-0",
+          "h2h_under": "66.67%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-02",
+          "match": "Konyaspor vs Istanbulspor",
+          "odd": "1.95",
+          "score": "0-1",
+          "h2h_under": "75.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-03",
+          "match": "Altay vs Adanaspor",
+          "odd": "1.73",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-03",
+          "match": "SC Freiburg (You vs SpVgg Bayreuth",
+          "odd": "1.98",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-04",
+          "match": "PAEEK vs Xylotymbou",
+          "odd": "1.73",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-04",
+          "match": "Cheshunt vs Hemel Hempstead",
+          "odd": "1.77",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-06",
+          "match": "O.Higgins vs Huachipato",
+          "odd": "1.85",
+          "score": "0-1",
+          "h2h_under": "68.18%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-07",
+          "match": "Taunton Town vs Dulwich Hamlet",
+          "odd": "1.87",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-07",
+          "match": "Fleetwood Town vs Sheffield Wednes",
+          "odd": "1.87",
+          "score": "1-0",
+          "h2h_under": "66.67%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-08",
+          "match": "Brasilia vs Inter Santa Mari",
+          "odd": "1.82",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-08",
+          "match": "Capital vs Brasiliense",
+          "odd": "1.73",
+          "score": "0-0",
+          "h2h_under": "83.33%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-09",
+          "match": "Bahia(BA) vs Bahia de Feira B",
+          "odd": "1.80",
+          "score": "2-1",
+          "h2h_under": "71.43%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-02-09",
+          "match": "Santos vs Sao Bento",
+          "odd": "1.81",
+          "score": "1-0",
+          "h2h_under": "66.67%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-10",
+          "match": "Genoa vs Palermo",
+          "odd": "1.73",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-10",
+          "match": "Lechia Gdansk vs Widzew lodz",
+          "odd": "1.74",
+          "score": "0-0",
+          "h2h_under": "75.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-11",
+          "match": "Kingstonian vs Aveley",
+          "odd": "1.96",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-11",
+          "match": "Doce Mel vs Bahia(BA)",
+          "odd": "1.79",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-12",
+          "match": "Fortuna Dusseldo vs SV Sandhausen",
+          "odd": "1.77",
+          "score": "2-0",
+          "h2h_under": "87.50%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-12",
+          "match": "LKS Lodz vs GKS Tychy",
+          "odd": "1.75",
+          "score": "1-1",
+          "h2h_under": "75.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-13",
+          "match": "CD Mafra vs Nacional da Made",
+          "odd": "1.96",
+          "score": "3-3",
+          "h2h_under": "75.00%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-02-14",
+          "match": "Derby County vs Lincoln City",
+          "odd": "1.90",
+          "score": "1-1",
+          "h2h_under": "80.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-14",
+          "match": "Bolton Wanderers vs Milton Keynes Do",
+          "odd": "1.87",
+          "score": "5-0",
+          "h2h_under": "71.43%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-02-15",
+          "match": "Borussia Dortmun vs Chelsea",
+          "odd": "1.74",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-15",
+          "match": "Swansea City vs Blackpool",
+          "odd": "1.80",
+          "score": "2-1",
+          "h2h_under": "60.00%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-02-16",
+          "match": "Qarabag vs KAA Gent",
+          "odd": "1.80",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-16",
+          "match": "Trabzonspor vs Basel",
+          "odd": "1.90",
+          "score": "1-0",
+          "h2h_under": "75.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-17",
+          "match": "Trnava vs MFK Ruzomberok",
+          "odd": "1.86",
+          "score": "0-2",
+          "h2h_under": "69.70%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-18",
+          "match": "Blackpool vs Stoke City",
+          "odd": "1.78",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-18",
+          "match": "Oldham Athletic vs Maidstone United",
+          "odd": "1.83",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-20",
+          "match": "Olympiakos Nicos vs Omonia Nicosia F",
+          "odd": "1.80",
+          "score": "0-1",
+          "h2h_under": "78.57%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-20",
+          "match": "Maccabi Tel Aviv vs Hapoel Beer Shev",
+          "odd": "1.84",
+          "score": "1-0",
+          "h2h_under": "64.81%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-21",
+          "match": "Curzon Ashton FC vs Peterborough Spo",
+          "odd": "1.90",
+          "score": "3-0",
+          "h2h_under": "71.43%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-02-21",
+          "match": "Plymouth Argyle vs Cheltenham Town",
+          "odd": "1.89",
+          "score": "1-1",
+          "h2h_under": "63.64%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-22",
+          "match": "Cimarrones de So vs CSyD Dorados de",
+          "odd": "1.78",
+          "score": "2-0",
+          "h2h_under": "72.22%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-22",
+          "match": "NK Olimpija Ljub vs ND Gorica",
+          "odd": "1.83",
+          "score": "4-3",
+          "h2h_under": "70.00%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-02-23",
+          "match": "Venados vs CD Alacranes de",
+          "odd": "1.88",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-23",
+          "match": "AS Roma vs Red Bull Salzbur",
+          "odd": "1.79",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-25",
+          "match": "Farnborough Town vs Braintree Town",
+          "odd": "1.85",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-25",
+          "match": "Nes Tziona vs Maccabi Tel Aviv",
+          "odd": "1.95",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-26",
+          "match": "Estrela vs CD Tondela",
+          "odd": "1.73",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-26",
+          "match": "Chojniczanka Cho vs Puszcza Niepolom",
+          "odd": "1.83",
+          "score": "1-1",
+          "h2h_under": "87.50%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-27",
+          "match": "Atletico Naciona vs Atletico Huila",
+          "odd": "1.85",
+          "score": "3-1",
+          "h2h_under": "75.00%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-02-27",
+          "match": "Santos Laguna vs Puebla",
+          "odd": "1.92",
+          "score": "3-2",
+          "h2h_under": "66.67%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-02-28",
+          "match": "Caucaia vs Pacajus",
+          "odd": "1.89",
+          "score": "0-0",
+          "h2h_under": "83.33%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-02-28",
+          "match": "Bonnyrigg Rose vs Forfar Athletic",
+          "odd": "1.79",
+          "score": "1-1",
+          "h2h_under": "75.00%",
+          "status": "\u2705"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "82.22%",
+        "under_2.5_count": "37/45",
+        "average_odds": "1.83"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "70.00%",
+        "combo_under_2.5_count": "14/20",
+        "average_combo_odds": "3.33"
+      }
+    },
+    {
+      "month": "2023-03",
+      "matches": [
+        {
+          "date": "2023-03-01",
+          "match": "CA Huracan vs Boston River",
+          "odd": "1.72",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-02",
+          "match": "Iguatu vs America FC Natal",
+          "odd": "1.73",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-02",
+          "match": "Sergipe Se vs Botafogo RJ",
+          "odd": "2.00",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-03",
+          "match": "Fakel Voronezh vs Khimki",
+          "odd": "1.80",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-03",
+          "match": "Austria Vienna I vs First Wien 1894",
+          "odd": "1.91",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-04",
+          "match": "Morecambe vs Bolton Wanderers",
+          "odd": "1.82",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-04",
+          "match": "Sutton United vs Crewe Alexandra",
+          "odd": "1.86",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-05",
+          "match": "Denizlispor vs Sakaryaspor",
+          "odd": "1.85",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-05",
+          "match": "Cajamarca vs Alianza Lima",
+          "odd": "1.76",
+          "score": "0-1",
+          "h2h_under": "88.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-06",
+          "match": "Baltika Kalining vs SKA-Energiya Kha",
+          "odd": "1.80",
+          "score": "2-0",
+          "h2h_under": "86.67%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-06",
+          "match": "Deportes La Sere vs Rangers Talca",
+          "odd": "1.91",
+          "score": "0-0",
+          "h2h_under": "80.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-07",
+          "match": "W.B.A vs Wigan Athletic",
+          "odd": "1.80",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-07",
+          "match": "Alfreton Town vs Banbury United",
+          "odd": "1.86",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-08",
+          "match": "Tottenham Hotspu vs AC Milan",
+          "odd": "1.88",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-08",
+          "match": "Genclerbirligi vs Denizlispor",
+          "odd": "1.90",
+          "score": "0-0",
+          "h2h_under": "80.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-09",
+          "match": "Venados vs CF Atlante",
+          "odd": "1.79",
+          "score": "1-1",
+          "h2h_under": "73.33%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-10",
+          "match": "Finn Harps vs Wexford",
+          "odd": "1.87",
+          "score": "0-0",
+          "h2h_under": "68.75%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-11",
+          "match": "Sandecja Nowy Sa vs GKS Katowice",
+          "odd": "1.76",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-11",
+          "match": "Excelsior Virton vs St. Liege U23",
+          "odd": "1.94",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-12",
+          "match": "San Diego Loyal vs Detroit",
+          "odd": "2.00",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-12",
+          "match": "Shonan Bellmare vs Kyoto Sanga",
+          "odd": "1.72",
+          "score": "0-2",
+          "h2h_under": "88.89%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-13",
+          "match": "Wisla Plock vs Widzew lodz",
+          "odd": "1.80",
+          "score": "1-1",
+          "h2h_under": "80.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-13",
+          "match": "Arka Gdynia vs Gornik Leczna",
+          "odd": "1.83",
+          "score": "0-1",
+          "h2h_under": "69.23%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-14",
+          "match": "Rot-Weiss Essen vs VfL Osnabruck",
+          "odd": "1.86",
+          "score": "1-1",
+          "h2h_under": "75.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-16",
+          "match": "Patriotas FC vs Orsomarso",
+          "odd": "1.80",
+          "score": "0-0",
+          "h2h_under": "83.33%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-16",
+          "match": "Ferencvaros vs Bayer Leverkusen",
+          "odd": "1.79",
+          "score": "0-2",
+          "h2h_under": "75.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-18",
+          "match": "Watford vs Wigan Athletic",
+          "odd": "1.74",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-18",
+          "match": "Lisen vs Vyskov",
+          "odd": "1.85",
+          "score": "0-1",
+          "h2h_under": "87.50%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-19",
+          "match": "Raca vs Nova Dubnica",
+          "odd": "1.96",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-20",
+          "match": "Rio Grande vs Oakland Roots",
+          "odd": "1.90",
+          "score": "1-1",
+          "h2h_under": "75.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-20",
+          "match": "Club Sport Emele vs Tecnico Universi",
+          "odd": "1.74",
+          "score": "1-0",
+          "h2h_under": "66.67%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-21",
+          "match": "Deportivo Cuenca vs Cumbaya",
+          "odd": "1.84",
+          "score": "1-0",
+          "h2h_under": "83.33%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-22",
+          "match": "Caldense(MG) vs Patrocinense",
+          "odd": "1.88",
+          "score": "1-1",
+          "h2h_under": "75.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-23",
+          "match": "Barbados vs Cuba",
+          "odd": "2.00",
+          "score": "0-1",
+          "h2h_under": "75.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-23",
+          "match": "Millonarios vs Deportivo Pasto",
+          "odd": "1.73",
+          "score": "2-0",
+          "h2h_under": "68.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-24",
+          "match": "Poland U21 vs Austria U21",
+          "odd": "2.00",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-24",
+          "match": "Serbia U21 vs Italy U21",
+          "odd": "1.85",
+          "score": "0-2",
+          "h2h_under": "85.71%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-25",
+          "match": "St Albans City vs Dover Athletic",
+          "odd": "1.74",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-25",
+          "match": "Billericay Town vs Carshalton",
+          "odd": "2.00",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-26",
+          "match": "Russia vs Iraq",
+          "odd": "1.81",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-26",
+          "match": "England vs Ukraine",
+          "odd": "1.99",
+          "score": "2-0",
+          "h2h_under": "83.33%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-27",
+          "match": "Dominican Republ vs Belize",
+          "odd": "1.80",
+          "score": "2-0",
+          "h2h_under": "66.67%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-28",
+          "match": "Czech Republic U vs Portugal U17",
+          "odd": "1.78",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-28",
+          "match": "France U21 vs Spain U21",
+          "odd": "1.83",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-29",
+          "match": "Canada vs Honduras",
+          "odd": "2.00",
+          "score": "4-1",
+          "h2h_under": "55.56%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-03-29",
+          "match": "Cimarrones de So vs Alebrijes Oaxaca",
+          "odd": "1.92",
+          "score": "0-0",
+          "h2h_under": "52.63%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-30",
+          "match": "Sakaryaspor vs Eyupspor",
+          "odd": "1.91",
+          "score": "2-0",
+          "h2h_under": "60.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-30",
+          "match": "Real Cartagena vs Cortulua",
+          "odd": "1.82",
+          "score": "2-1",
+          "h2h_under": "52.63%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-03-31",
+          "match": "Ironi Tiberias vs Maccabi Jaffa",
+          "odd": "1.90",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-03-31",
+          "match": "Hrvatski dragovo vs Dubrava",
+          "odd": "1.76",
+          "score": "0-1",
+          "h2h_under": "85.71%",
+          "status": "\u2705"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "96.00%",
+        "under_2.5_count": "48/50",
+        "average_odds": "1.85"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "90.48%",
+        "combo_under_2.5_count": "19/21",
+        "average_combo_odds": "3.43"
+      }
+    },
+    {
+      "month": "2023-04",
+      "matches": [
+        {
+          "date": "2023-04-01",
+          "match": "VSI Tampa Bay FC vs Birmingham City",
+          "odd": "2.00",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-01",
+          "match": "Saint Etienne vs Niort",
+          "odd": "1.85",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-02",
+          "match": "Wisla Plock vs Radomiak Radom",
+          "odd": "1.89",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-02",
+          "match": "Keciorengucu vs Tuzlaspor Kulubu",
+          "odd": "1.78",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-03",
+          "match": "AGF Aarhus vs Randers FC",
+          "odd": "1.75",
+          "score": "1-1",
+          "h2h_under": "62.96%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-04",
+          "match": "Taunton Town vs Concord Rangers",
+          "odd": "1.96",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-05",
+          "match": "Blooming vs Santos",
+          "odd": "1.80",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-05",
+          "match": "Kyoto Sanga vs Cerezo Osaka",
+          "odd": "1.82",
+          "score": "4-0",
+          "h2h_under": "66.67%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-04-06",
+          "match": "Ruch Chorzow vs Podbeskidzie Bie",
+          "odd": "1.76",
+          "score": "2-2",
+          "h2h_under": "83.33%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-04-06",
+          "match": "Chrobry Glogow vs Sandecja Nowy Sa",
+          "odd": "1.76",
+          "score": "0-0",
+          "h2h_under": "81.25%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-07",
+          "match": "Haverfordwest Co vs Pontypridd",
+          "odd": "2.00",
+          "score": "2-0",
+          "h2h_under": "75.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-07",
+          "match": "Alebrijes Oaxaca vs Cancun",
+          "odd": "1.72",
+          "score": "1-0",
+          "h2h_under": "72.73%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-08",
+          "match": "SV Ried vs TSV Hartberg",
+          "odd": "1.78",
+          "score": "1-3",
+          "h2h_under": "70.59%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-04-09",
+          "match": "Reims vs Stade Brestois",
+          "odd": "1.78",
+          "score": "1-1",
+          "h2h_under": "78.57%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-09",
+          "match": "Real Betis vs Cadiz",
+          "odd": "1.76",
+          "score": "0-2",
+          "h2h_under": "72.73%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-10",
+          "match": "NK Bravo vs NK Olimpija Ljub",
+          "odd": "1.82",
+          "score": "1-0",
+          "h2h_under": "66.67%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-10",
+          "match": "Ham-Kam vs Sandefjord",
+          "odd": "1.78",
+          "score": "2-0",
+          "h2h_under": "66.67%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-11",
+          "match": "Super Nova vs Metta/LU Riga",
+          "odd": "1.88",
+          "score": "0-3",
+          "h2h_under": "50.00%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-04-11",
+          "match": "Dundee vs Raith Rovers",
+          "odd": "1.77",
+          "score": "3-1",
+          "h2h_under": "46.15%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-04-12",
+          "match": "Eyupspor vs Genclerbirligi",
+          "odd": "2.00",
+          "score": "0-2",
+          "h2h_under": "66.67%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-12",
+          "match": "Sao Paulo vs Ituano(SP)",
+          "odd": "1.82",
+          "score": "0-0",
+          "h2h_under": "62.50%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-13",
+          "match": "Anderlecht vs AZ Alkmaar",
+          "odd": "1.75",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-13",
+          "match": "Dartford vs Taunton Town",
+          "odd": "1.90",
+          "score": "0-1",
+          "h2h_under": "75.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-14",
+          "match": "Inhulets vs Kolos Kovalyovka",
+          "odd": "1.72",
+          "score": "0-1",
+          "h2h_under": "83.33%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-14",
+          "match": "UC Dublin vs Cork City",
+          "odd": "1.87",
+          "score": "1-0",
+          "h2h_under": "78.57%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-15",
+          "match": "Dortmund II vs SV Meppen",
+          "odd": "1.96",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-15",
+          "match": "Tuzlaspor Kulubu vs Bodrumspor",
+          "odd": "1.99",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-16",
+          "match": "Halmstads vs Djurgardens",
+          "odd": "1.82",
+          "score": "2-0",
+          "h2h_under": "81.82%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-16",
+          "match": "SC Freiburg (You vs Zwickau",
+          "odd": "1.90",
+          "score": "4-0",
+          "h2h_under": "75.00%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-04-17",
+          "match": "Boluspor vs Caykur Rizespor",
+          "odd": "2.00",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-17",
+          "match": "Vilafranquense vs Estrela",
+          "odd": "1.77",
+          "score": "0-1",
+          "h2h_under": "75.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-18",
+          "match": "Banbury United vs Alfreton Town",
+          "odd": "1.80",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-18",
+          "match": "Farsley Celtic vs Blyth Spartans",
+          "odd": "1.83",
+          "score": "0-2",
+          "h2h_under": "72.73%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-19",
+          "match": "Boca Juniors vs Deportivo Pereir",
+          "odd": "1.93",
+          "score": "2-1",
+          "h2h_under": "80.00%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-04-19",
+          "match": "Go Ahead Eagles vs RKC Waalwijk",
+          "odd": "1.90",
+          "score": "3-2",
+          "h2h_under": "50.00%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-04-20",
+          "match": "AZ Alkmaar vs Anderlecht",
+          "odd": "1.85",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-20",
+          "match": "Nice vs Basel",
+          "odd": "1.96",
+          "score": "1-1",
+          "h2h_under": "50.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-21",
+          "match": "HIFK vs Mikkelin Kissat",
+          "odd": "1.95",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-21",
+          "match": "Wexford vs Finn Harps",
+          "odd": "1.83",
+          "score": "0-1",
+          "h2h_under": "68.75%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-22",
+          "match": "Telford United vs Scarborough",
+          "odd": "1.85",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-22",
+          "match": "Hapoel Kiryat Sh vs Nes Tziona",
+          "odd": "1.92",
+          "score": "1-1",
+          "h2h_under": "87.50%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-23",
+          "match": "Sacramento Repub vs Detroit",
+          "odd": "1.90",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-23",
+          "match": "Lucchese vs Olbia",
+          "odd": "1.73",
+          "score": "2-0",
+          "h2h_under": "80.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-24",
+          "match": "Orgryte vs Jonkopings Sodra",
+          "odd": "1.80",
+          "score": "2-2",
+          "h2h_under": "53.33%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-04-24",
+          "match": "Sakaryaspor vs Boluspor",
+          "odd": "1.99",
+          "score": "1-1",
+          "h2h_under": "50.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-25",
+          "match": "SK Vorwarts Stey vs SKU Amstetten",
+          "odd": "1.92",
+          "score": "2-3",
+          "h2h_under": "23.08%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-04-26",
+          "match": "Nottingham Fores vs Brighton Hove Al",
+          "odd": "1.92",
+          "score": "3-1",
+          "h2h_under": "37.50%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-04-27",
+          "match": "Valencia vs Real Valladolid",
+          "odd": "1.81",
+          "score": "2-1",
+          "h2h_under": "60.00%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-04-27",
+          "match": "Villarreal vs RCD Espanyol",
+          "odd": "1.88",
+          "score": "4-2",
+          "h2h_under": "40.00%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-04-28",
+          "match": "Legia Warszawa vs Wisla Plock",
+          "odd": "1.85",
+          "score": "2-0",
+          "h2h_under": "52.94%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-28",
+          "match": "Rakow vs Lechia Gdansk",
+          "odd": "1.78",
+          "score": "4-0",
+          "h2h_under": "15.38%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-04-29",
+          "match": "Piast Gliwice vs Pogon Szczecin",
+          "odd": "1.76",
+          "score": "0-0",
+          "h2h_under": "72.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-29",
+          "match": "Union Berlin vs Bayer Leverkusen",
+          "odd": "1.81",
+          "score": "0-0",
+          "h2h_under": "50.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-30",
+          "match": "Clermont vs Reims",
+          "odd": "1.80",
+          "score": "1-0",
+          "h2h_under": "62.50%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-04-30",
+          "match": "Haugesund vs Sarpsborg 08",
+          "odd": "1.92",
+          "score": "0-0",
+          "h2h_under": "41.18%",
+          "status": "\u2705"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "74.55%",
+        "under_2.5_count": "41/55",
+        "average_odds": "1.85"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "68.00%",
+        "combo_under_2.5_count": "17/25",
+        "average_combo_odds": "3.42"
+      }
+    },
+    {
+      "month": "2023-05",
+      "matches": [
+        {
+          "date": "2023-05-03",
+          "match": "Fujieda MYFC vs Oita Trinita",
+          "odd": "1.86",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-03",
+          "match": "Fagiano Okayama vs Montedio Yamagat",
+          "odd": "1.89",
+          "score": "2-0",
+          "h2h_under": "68.42%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-04",
+          "match": "Atletico Mineiro vs Alianza Lima",
+          "odd": "2.00",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-05",
+          "match": "TJ Spartak Myjav vs Komarno",
+          "odd": "1.78",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-05",
+          "match": "Botafogo RJ vs LDU Quito",
+          "odd": "1.78",
+          "score": "0-0",
+          "h2h_under": "83.33%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-06",
+          "match": "SV Meppen vs Rot-Weiss Essen",
+          "odd": "1.86",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-06",
+          "match": "Bordeaux vs Caen",
+          "odd": "1.91",
+          "score": "1-0",
+          "h2h_under": "87.50%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-07",
+          "match": "Parnahyba PI vs Tocantinopolis",
+          "odd": "1.74",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-07",
+          "match": "Bolzano vs Villafranca",
+          "odd": "1.94",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-08",
+          "match": "Grimsby Town vs AFC Wimbledon",
+          "odd": "1.88",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-08",
+          "match": "Bradford City vs Leyton Orient",
+          "odd": "1.78",
+          "score": "1-1",
+          "h2h_under": "85.71%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-09",
+          "match": "Molinos El Pirat vs Juan Aurich",
+          "odd": "1.80",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-09",
+          "match": "Dep.San Martin vs Union Huaral",
+          "odd": "1.78",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-10",
+          "match": "Philippines U23 vs Myanmar U22",
+          "odd": "1.90",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-11",
+          "match": "Nashville SC vs FC Dallas",
+          "odd": "1.88",
+          "score": "2-0",
+          "h2h_under": "62.50%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-11",
+          "match": "Sport Club do Re vs Tombense",
+          "odd": "1.75",
+          "score": "3-2",
+          "h2h_under": "60.00%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-05-12",
+          "match": "Santa Fe vs Atletico Naciona",
+          "odd": "1.78",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-12",
+          "match": "SKN St. Polten vs BW Linz",
+          "odd": "1.82",
+          "score": "0-2",
+          "h2h_under": "83.33%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-13",
+          "match": "Bari vs Reggina",
+          "odd": "1.76",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-13",
+          "match": "Deportivo Tachir vs Angostura FC",
+          "odd": "1.89",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-14",
+          "match": "Ourense CF vs SD Laredo",
+          "odd": "1.76",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-14",
+          "match": "Juventus vs Cremonese",
+          "odd": "1.95",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-15",
+          "match": "Rivers United FC vs Sunshine Stars F",
+          "odd": "1.72",
+          "score": "",
+          "h2h_under": "84.21%",
+          "status": ""
+        },
+        {
+          "date": "2023-05-16",
+          "match": "Boluspor vs Eyupspor",
+          "odd": "1.95",
+          "score": "2-0",
+          "h2h_under": "80.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-17",
+          "match": "Tokushima Vortis vs Kanazawa",
+          "odd": "1.96",
+          "score": "2-0",
+          "h2h_under": "81.25%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-19",
+          "match": "Leixoes vs Vilafranquense",
+          "odd": "1.74",
+          "score": "2-0",
+          "h2h_under": "85.71%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-19",
+          "match": "Villefranche vs Le Mans",
+          "odd": "1.81",
+          "score": "1-0",
+          "h2h_under": "83.33%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-20",
+          "match": "Deportivo Merlo vs Club Atletico Ac",
+          "odd": "1.83",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-20",
+          "match": "Ponferradina vs Albacete",
+          "odd": "1.78",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-21",
+          "match": "Kazincbarcikai vs Szentlorinc SE",
+          "odd": "1.77",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-22",
+          "match": "Shamakhi vs FK Gilan Gabala",
+          "odd": "1.83",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-22",
+          "match": "Le Havre vs Valenciennes",
+          "odd": "1.74",
+          "score": "0-2",
+          "h2h_under": "81.82%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-23",
+          "match": "Orgryte vs GIF Sundsvall",
+          "odd": "1.95",
+          "score": "1-0",
+          "h2h_under": "88.89%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-23",
+          "match": "Esteghlal Khuzes vs Arman Gohar",
+          "odd": "1.75",
+          "score": "5-0",
+          "h2h_under": "75.00%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-05-24",
+          "match": "Liverpool (URU) vs Ind. del Valle",
+          "odd": "1.73",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-24",
+          "match": "Puerto Cabello vs Sao Paulo",
+          "odd": "1.80",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-25",
+          "match": "Nublense vs Flamengo",
+          "odd": "1.84",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-25",
+          "match": "Patronato Parana vs Olimpia Asuncion",
+          "odd": "1.72",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-26",
+          "match": "Minyor Pernik vs Maritsa Plovdiv",
+          "odd": "1.94",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-26",
+          "match": "KaPa vs HIFK",
+          "odd": "1.77",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-27",
+          "match": "Chengdu Rongchen vs Nantong Zhiyun",
+          "odd": "1.87",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-27",
+          "match": "Tampa Bay U23 vs The Villages",
+          "odd": "1.97",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-28",
+          "match": "Crystal Palace vs Nottingham Fores",
+          "odd": "1.88",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-28",
+          "match": "Universitario de vs Santa Cruz RN",
+          "odd": "1.73",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-29",
+          "match": "Norrby IF vs Vanersborgs IF",
+          "odd": "1.94",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-29",
+          "match": "Degerfors vs Varbergs BoIS FC",
+          "odd": "1.91",
+          "score": "1-1",
+          "h2h_under": "80.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-30",
+          "match": "FC Dobrudzha vs Vitosha Bistrits",
+          "odd": "1.91",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-30",
+          "match": "FC Dunav Ruse vs Strumska Slava",
+          "odd": "2.00",
+          "score": "2-1",
+          "h2h_under": "85.71%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-05-31",
+          "match": "Argentina U20 vs Nigeria U20",
+          "odd": "1.95",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-05-31",
+          "match": "Deportes Quindio vs Fortaleza F.C",
+          "odd": "1.73",
+          "score": "0-2",
+          "h2h_under": "81.82%",
+          "status": "\u2705"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "93.88%",
+        "under_2.5_count": "46/49",
+        "average_odds": "1.84"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "86.36%",
+        "combo_under_2.5_count": "19/22",
+        "average_combo_odds": "3.36"
+      }
+    },
+    {
+      "month": "2023-06",
+      "matches": [
+        {
+          "date": "2023-06-01",
+          "match": "Gambia U20 vs Uruguay U20",
+          "odd": "1.90",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-01",
+          "match": "Botafogo RJ vs Athletico-PR",
+          "odd": "1.77",
+          "score": "1-0",
+          "h2h_under": "75.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-02",
+          "match": "Pyramids vs Future FC",
+          "odd": "1.82",
+          "score": "1-0",
+          "h2h_under": "87.50%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-02",
+          "match": "PAE Chania vs AEK Athens FC B",
+          "odd": "1.86",
+          "score": "1-1",
+          "h2h_under": "71.43%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-03",
+          "match": "VSI Tampa Bay FC vs Sacramento Repub",
+          "odd": "1.75",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-05",
+          "match": "Black Rock vs Vermont Green",
+          "odd": "1.74",
+          "score": "0-2",
+          "h2h_under": "71.43%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-05",
+          "match": "Vasco da Gama vs Flamengo",
+          "odd": "1.87",
+          "score": "1-4",
+          "h2h_under": "68.97%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-06-06",
+          "match": "Espoir Rogba vs Club Africain",
+          "odd": "1.81",
+          "score": "",
+          "h2h_under": "75.00%",
+          "status": ""
+        },
+        {
+          "date": "2023-06-06",
+          "match": "Potiguar (RN) vs Sousa EC",
+          "odd": "1.74",
+          "score": "2-1",
+          "h2h_under": "75.00%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-06-07",
+          "match": "Tokushima Vortis vs Iwaki",
+          "odd": "1.76",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-07",
+          "match": "America MG vs Millonarios",
+          "odd": "1.82",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-08",
+          "match": "Caucaia vs Maranhao",
+          "odd": "1.74",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-09",
+          "match": "Estudiantes L.P. vs Colon Santa Fe 2",
+          "odd": "1.84",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-10",
+          "match": "Patriotas FC vs Valledupar FC",
+          "odd": "1.76",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-10",
+          "match": "Fakel Voronezh vs Yenisey Krasnoya",
+          "odd": "1.92",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-11",
+          "match": "Talleres Cordoba vs Arsenal de Saran",
+          "odd": "1.92",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-11",
+          "match": "KPV Kokkola vs KaPa",
+          "odd": "1.94",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-12",
+          "match": "Morocco vs Cape Verde",
+          "odd": "1.87",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-12",
+          "match": "Portland Timbers vs FC Dallas",
+          "odd": "1.84",
+          "score": "1-0",
+          "h2h_under": "57.89%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-13",
+          "match": "Deportivo Espano vs CA Atlas",
+          "odd": "1.82",
+          "score": "1-1",
+          "h2h_under": "66.67%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-14",
+          "match": "Caucaia vs Parnahyba PI",
+          "odd": "1.79",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-14",
+          "match": "Princesa Solimoe vs Tuna Luso",
+          "odd": "1.76",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-15",
+          "match": "Barnechea vs Santiago Morning",
+          "odd": "1.90",
+          "score": "1-1",
+          "h2h_under": "63.16%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-15",
+          "match": "TPS Turku vs Mikkeli",
+          "odd": "1.91",
+          "score": "1-1",
+          "h2h_under": "62.50%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-16",
+          "match": "Palestine U23 vs Iran U23",
+          "odd": "2.00",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-16",
+          "match": "Colombia vs Iraq",
+          "odd": "1.93",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-17",
+          "match": "Tampa Bay U23 vs The Villages",
+          "odd": "1.94",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-17",
+          "match": "Maranhao vs Caucaia",
+          "odd": "1.89",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-18",
+          "match": "Deportes La Sere vs Recoleta",
+          "odd": "1.75",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-18",
+          "match": "Scotland U21 vs Norway U21",
+          "odd": "1.97",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-19",
+          "match": "Hong Kong vs Thailand",
+          "odd": "1.94",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-20",
+          "match": "China vs Palestine",
+          "odd": "1.74",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-21",
+          "match": "Ukraine U21 vs Croatia U21",
+          "odd": "1.78",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-21",
+          "match": "Cruzeiro vs Fortaleza",
+          "odd": "1.79",
+          "score": "0-1",
+          "h2h_under": "71.43%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-22",
+          "match": "France U21 vs Italy U21",
+          "odd": "1.92",
+          "score": "2-1",
+          "h2h_under": "75.00%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-06-23",
+          "match": "Finn Harps vs Wexford",
+          "odd": "1.77",
+          "score": "0-1",
+          "h2h_under": "68.75%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-23",
+          "match": "Bragantino vs Flamengo",
+          "odd": "1.80",
+          "score": "4-0",
+          "h2h_under": "54.55%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-06-26",
+          "match": "Mexico vs Honduras",
+          "odd": "1.88",
+          "score": "4-0",
+          "h2h_under": "55.56%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-06-26",
+          "match": "Independiente Pe vs Club Guabira",
+          "odd": "2.00",
+          "score": "1-0",
+          "h2h_under": "50.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-27",
+          "match": "Juazeiro BA vs Unirb",
+          "odd": "1.74",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-28",
+          "match": "Sao Paulo vs Club Atletico Ti",
+          "odd": "1.98",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-28",
+          "match": "Dunajska Streda vs Rapid Bucuresti",
+          "odd": "2.00",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-29",
+          "match": "Newells Old Boys vs Audax Italiano",
+          "odd": "1.75",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-06-29",
+          "match": "Oakland Roots vs Rio Grande",
+          "odd": "1.83",
+          "score": "0-2",
+          "h2h_under": "75.00%",
+          "status": "\u2705"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "88.37%",
+        "under_2.5_count": "38/43",
+        "average_odds": "1.85"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "82.35%",
+        "combo_under_2.5_count": "14/17",
+        "average_combo_odds": "3.46"
+      }
+    },
+    {
+      "month": "2023-07",
+      "matches": [
+        {
+          "date": "2023-07-01",
+          "match": "Angostura FC vs Deportivo Tachir",
+          "odd": "1.75",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-02",
+          "match": "Guatemala vs Canada",
+          "odd": "1.79",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-02",
+          "match": "Hong Linh Ha Tin vs Khanh Hoa",
+          "odd": "1.79",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-03",
+          "match": "Huachipato vs CD Magallanes",
+          "odd": "1.81",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-03",
+          "match": "Nautico Capibari vs AE Altos",
+          "odd": "1.76",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-05",
+          "match": "FK Napredak Krus vs Istra 1961 Pula",
+          "odd": "1.96",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-05",
+          "match": "Pirin Blagoevgra vs Arda",
+          "odd": "1.77",
+          "score": "0-1",
+          "h2h_under": "88.89%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-06",
+          "match": "Binh Dinh vs Quang Nam",
+          "odd": "1.84",
+          "score": "1-1",
+          "h2h_under": "60.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-07",
+          "match": "Qingdao Hainiu vs Cangzhou",
+          "odd": "1.79",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-07",
+          "match": "Phu Tho vs PVF-CAND",
+          "odd": "1.92",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-08",
+          "match": "Warta Poznan vs Cracovia Krakow",
+          "odd": "1.86",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-08",
+          "match": "Retro vs Bahia de Feira B",
+          "odd": "1.73",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-09",
+          "match": "CSKA 1948 vs Aris Limassol",
+          "odd": "1.88",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-09",
+          "match": "Radnicki 1923 Kr vs Borac Banja Luka",
+          "odd": "1.81",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-10",
+          "match": "Helsingborg vs Ostersunds FK",
+          "odd": "1.72",
+          "score": "1-0",
+          "h2h_under": "80.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-12",
+          "match": "B36 Torshavn vs JK Sillamae Kale",
+          "odd": "1.85",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-12",
+          "match": "Hiroshima Sanfre vs Tochigi SC",
+          "odd": "1.82",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-13",
+          "match": "FK Panevezys vs FC Milsami",
+          "odd": "1.87",
+          "score": "2-2",
+          "h2h_under": "75.00%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-07-14",
+          "match": "Warta Poznan vs Mlada Boleslav",
+          "odd": "1.94",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-15",
+          "match": "Pittsburgh River vs Detroit",
+          "odd": "1.73",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-16",
+          "match": "Arsenal Tula vs Leningradets",
+          "odd": "1.86",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-16",
+          "match": "Cruzeiro vs Coritiba (PR)",
+          "odd": "1.78",
+          "score": "0-0",
+          "h2h_under": "85.71%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-17",
+          "match": "Qingdao Hainiu vs Henan Songshan L",
+          "odd": "1.74",
+          "score": "2-0",
+          "h2h_under": "80.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-18",
+          "match": "Panathinaikos vs Rayo Vallecano",
+          "odd": "1.81",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-19",
+          "match": "Swift Hesperange vs Slovan Bratislav",
+          "odd": "1.90",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-20",
+          "match": "Club Sport Emele vs Sporting Cristal",
+          "odd": "1.93",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-20",
+          "match": "Connahs Quay Tow vs KA Akureyri",
+          "odd": "1.81",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-21",
+          "match": "Nigeria (w) vs Canada (w)",
+          "odd": "1.73",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-21",
+          "match": "FC Cologne vs Mallorca",
+          "odd": "1.92",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-22",
+          "match": "Fluminense-PI vs Ferroviario CE",
+          "odd": "1.77",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-23",
+          "match": "Netherlands (w) vs Portugal (w)",
+          "odd": "1.80",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-24",
+          "match": "Roasso Kumamoto vs Fagiano Okayama",
+          "odd": "1.82",
+          "score": "1-2",
+          "h2h_under": "77.78%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-07-24",
+          "match": "Helsingborg vs Trelleborgs FF",
+          "odd": "1.88",
+          "score": "1-3",
+          "h2h_under": "70.00%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-07-25",
+          "match": "Chorley FC vs Carlisle United",
+          "odd": "1.97",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-25",
+          "match": "Fleetwood Town vs Preston North En",
+          "odd": "1.83",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-26",
+          "match": "Getafe vs Reims",
+          "odd": "1.87",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-26",
+          "match": "Sheffield United vs Girona",
+          "odd": "1.80",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-27",
+          "match": "Hapoel Beer Shev vs FK Panevezys",
+          "odd": "1.82",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-27",
+          "match": "Portugal (w) vs Vietnam (w)",
+          "odd": "1.94",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-28",
+          "match": "Bordeaux vs Osasuna",
+          "odd": "1.93",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-28",
+          "match": "Sao Caetano vs Portuguesa",
+          "odd": "1.89",
+          "score": "0-1",
+          "h2h_under": "88.89%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-29",
+          "match": "CF Rayo Majadaho vs AD Alcorcon",
+          "odd": "1.82",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-30",
+          "match": "RANS Nusantara vs PSS Sleman",
+          "odd": "1.92",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-30",
+          "match": "Mikkeli vs Gnistan Helsinki",
+          "odd": "1.96",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-31",
+          "match": "Alania Vladikavk vs KAMAZ Naberezhny",
+          "odd": "1.87",
+          "score": "2-0",
+          "h2h_under": "75.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-07-31",
+          "match": "GKS Jastrzebie vs Stomil Olsztyn",
+          "odd": "1.80",
+          "score": "1-2",
+          "h2h_under": "62.50%",
+          "status": "\ud83d\udfe0"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "91.30%",
+        "under_2.5_count": "42/46",
+        "average_odds": "1.84"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "88.24%",
+        "combo_under_2.5_count": "15/17",
+        "average_combo_odds": "3.42"
+      }
+    },
+    {
+      "month": "2023-08",
+      "matches": [
+        {
+          "date": "2023-08-01",
+          "match": "Portugal (w) vs USA (w)",
+          "odd": "1.94",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-01",
+          "match": "Haiti women's vs Denmark (w)",
+          "odd": "1.82",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-02",
+          "match": "Argentina (w) vs Sweden (w)",
+          "odd": "1.82",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-02",
+          "match": "FC Tokyo vs Roasso Kumamoto",
+          "odd": "1.82",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-03",
+          "match": "FC Santa Coloma vs FK Sutjeska Niks",
+          "odd": "1.82",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-03",
+          "match": "Hammarby vs FC Twente Ensche",
+          "odd": "1.84",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-04",
+          "match": "Charleston Batte vs Oakland Roots",
+          "odd": "1.97",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-04",
+          "match": "KKS Kalisz vs GKS Jastrzebie",
+          "odd": "1.97",
+          "score": "3-1",
+          "h2h_under": "80.00%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-08-05",
+          "match": "FC Belshyna Babr vs Smorgon FC",
+          "odd": "1.83",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-05",
+          "match": "Vanersborgs IF vs Norrby IF",
+          "odd": "1.89",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-06",
+          "match": "Hvidovre IF vs AGF Aarhus",
+          "odd": "1.78",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-07",
+          "match": "England (w) vs Nigeria (w)",
+          "odd": "1.91",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-07",
+          "match": "Puszcza Niepolom vs Stal Mielec",
+          "odd": "1.81",
+          "score": "1-0",
+          "h2h_under": "72.73%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-08",
+          "match": "Fafe vs Vianense",
+          "odd": "1.73",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-08",
+          "match": "FC Copenhagen vs Sparta Praha",
+          "odd": "1.78",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-09",
+          "match": "AEK Larnaca vs Maccabi Tel Aviv",
+          "odd": "1.72",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-10",
+          "match": "Getafe B vs RSD Alcala",
+          "odd": "1.93",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-10",
+          "match": "Tobol Kostanai vs Derry City",
+          "odd": "1.73",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-11",
+          "match": "Vaca Diez vs Universitario de",
+          "odd": "1.94",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-11",
+          "match": "Dijon vs FC Rouen",
+          "odd": "1.87",
+          "score": "0-0",
+          "h2h_under": "80.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-12",
+          "match": "Zhytomyr vs Rukh Lviv",
+          "odd": "1.78",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-12",
+          "match": "Ipswich Town vs Stoke City",
+          "odd": "1.90",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-13",
+          "match": "Iwaki vs Ventforet Kofu",
+          "odd": "1.91",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-13",
+          "match": "Viseu vs Vilaverdense",
+          "odd": "1.74",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-14",
+          "match": "Nimes vs Martigues",
+          "odd": "1.87",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-14",
+          "match": "Spezia vs Venezia",
+          "odd": "1.80",
+          "score": "2-2",
+          "h2h_under": "72.73%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-08-15",
+          "match": "Carlisle United vs Wigan Athletic",
+          "odd": "1.75",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-15",
+          "match": "Sparta Praha vs FC Copenhagen",
+          "odd": "1.74",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-16",
+          "match": "Monterrey vs Nashville SC",
+          "odd": "1.97",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-16",
+          "match": "Haladas vs Nyiregyhaza",
+          "odd": "1.84",
+          "score": "1-1",
+          "h2h_under": "75.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-17",
+          "match": "APOEL Nicosia vs Dila Gori",
+          "odd": "1.82",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-17",
+          "match": "Maccabi Tel Aviv vs AEK Larnaca",
+          "odd": "1.98",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-18",
+          "match": "SV Ried vs Leoben",
+          "odd": "1.99",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-18",
+          "match": "Petrolul Ploiest vs U Craiova 1948",
+          "odd": "1.73",
+          "score": "4-3",
+          "h2h_under": "85.71%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-08-19",
+          "match": "Primavera EC vs Juventus Sp",
+          "odd": "1.74",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-19",
+          "match": "Barry Town AFC vs Colwyn Bay",
+          "odd": "1.96",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-20",
+          "match": "Independiente Pe vs Vaca Diez",
+          "odd": "2.00",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-21",
+          "match": "Ludogorets II vs Chernomorets Bal",
+          "odd": "1.90",
+          "score": "1-0",
+          "h2h_under": "83.33%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-22",
+          "match": "Bolivar vs Internacional RS",
+          "odd": "1.74",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-22",
+          "match": "Sakhalinets vs Saturn Ramenskoy",
+          "odd": "1.97",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-23",
+          "match": "KFUM Oslo vs Hodd",
+          "odd": "1.95",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-23",
+          "match": "SC Freiburg (You vs Unterhaching",
+          "odd": "1.94",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-24",
+          "match": "FC Astana-64 vs Partizani Tirana",
+          "odd": "1.78",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-24",
+          "match": "Levski Sofia vs Eintracht Frankf",
+          "odd": "1.85",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-25",
+          "match": "Thaqafi Tulkarem vs Albirah",
+          "odd": "1.73",
+          "score": "4-1",
+          "h2h_under": "83.33%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-08-25",
+          "match": "Pontypridd vs Pen-y-Bont FC",
+          "odd": "1.84",
+          "score": "0-0",
+          "h2h_under": "83.33%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-26",
+          "match": "Curzon Ashton FC vs Scunthorpe Unite",
+          "odd": "1.96",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-26",
+          "match": "OS Belenenses vs CD Mafra",
+          "odd": "1.75",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-27",
+          "match": "Gyor vs Tiszakecske",
+          "odd": "1.86",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-27",
+          "match": "OFK Malzenice vs Komarno",
+          "odd": "1.89",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-28",
+          "match": "Kidderminster Ha vs Maidenhead Unite",
+          "odd": "1.75",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-28",
+          "match": "Maidstone United vs Taunton Town",
+          "odd": "1.90",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-29",
+          "match": "Wrexham vs Bradford City",
+          "odd": "1.95",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-29",
+          "match": "Al Khaleej(KSA) vs Al-Hazem",
+          "odd": "1.84",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-30",
+          "match": "Domazlice vs Marila Pribram",
+          "odd": "1.99",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-30",
+          "match": "FC Copenhagen vs Rakow",
+          "odd": "1.91",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-31",
+          "match": "Breidablik vs FC Struga Trim &",
+          "odd": "1.91",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-08-31",
+          "match": "Dnipro-1 vs Trnava",
+          "odd": "1.72",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "93.10%",
+        "under_2.5_count": "54/58",
+        "average_odds": "1.85"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "85.19%",
+        "combo_under_2.5_count": "23/27",
+        "average_combo_odds": "3.44"
+      }
+    },
+    {
+      "month": "2023-09",
+      "matches": [
+        {
+          "date": "2023-09-01",
+          "match": "Trebisov vs OFK Malzenice",
+          "odd": "1.90",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-01",
+          "match": "Avranches vs Nimes",
+          "odd": "1.86",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-02",
+          "match": "Dundee United vs Airdrie United",
+          "odd": "1.94",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-02",
+          "match": "Yeovil Town vs Chelmsford City",
+          "odd": "1.81",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-03",
+          "match": "S.Urfaspor vs Erzurumspor",
+          "odd": "1.89",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-03",
+          "match": "Tunari vs Ceahlaul Piatra",
+          "odd": "1.80",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-04",
+          "match": "L.R. Vicenza vs Albinoleffe",
+          "odd": "1.87",
+          "score": "0-0",
+          "h2h_under": "87.50%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-05",
+          "match": "Banbury United vs Alfreton Town",
+          "odd": "1.89",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-05",
+          "match": "St Albans City vs Dover Athletic",
+          "odd": "1.95",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-06",
+          "match": "South Korea U23 vs Qatar U23",
+          "odd": "1.80",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-06",
+          "match": "SK Zapy vs FK MAS Taborsko",
+          "odd": "1.87",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-08",
+          "match": "GKS Jastrzebie vs Lech Poznan 2",
+          "odd": "2.00",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-08",
+          "match": "Singapore vs Tajikistan",
+          "odd": "1.79",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-10",
+          "match": "Tokushima Vortis vs Iwaki",
+          "odd": "1.83",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-10",
+          "match": "Alania Vladikavk vs Tyumen",
+          "odd": "1.84",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-11",
+          "match": "Wisla Pulawy vs Polonia Bytom",
+          "odd": "1.99",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-11",
+          "match": "Hapoel Kiryat Sh vs Bnei Yehuda Tel",
+          "odd": "1.79",
+          "score": "1-0",
+          "h2h_under": "77.78%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-12",
+          "match": "Armenia U21 vs Montenegro U21",
+          "odd": "1.87",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-12",
+          "match": "Bulgaria U21 vs Israel U21",
+          "odd": "1.72",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-13",
+          "match": "Chaniotis vs Tilikratis L.",
+          "odd": "1.79",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-13",
+          "match": "Ilioupoli vs Levadiakos",
+          "odd": "1.91",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-14",
+          "match": "CD Motagua vs Olancho",
+          "odd": "1.81",
+          "score": "1-0",
+          "h2h_under": "80.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-14",
+          "match": "KF Tirana vs Skenderbeu Korca",
+          "odd": "1.85",
+          "score": "3-1",
+          "h2h_under": "57.69%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-09-15",
+          "match": "EL Ahly vs USM Alger",
+          "odd": "1.84",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-16",
+          "match": "Kotwica Kolobrze vs GKS Jastrzebie",
+          "odd": "1.92",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-16",
+          "match": "Nyva Buzova vs Metalist Kharkiv",
+          "odd": "1.90",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-17",
+          "match": "Nantong Zhiyun vs Chengdu Rongchen",
+          "odd": "1.72",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-17",
+          "match": "Istanbulspor vs Basaksehir",
+          "odd": "1.91",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-18",
+          "match": "FC Arges Pitesti vs Unirea Dej",
+          "odd": "1.99",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-18",
+          "match": "Mumbai City vs Nassaji Mazandar",
+          "odd": "1.90",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-19",
+          "match": "Persepolis vs Al-Nassr",
+          "odd": "1.97",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-19",
+          "match": "Reynosa vs Mexicali",
+          "odd": "1.77",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-20",
+          "match": "Radnik Bijeljina vs Laktasi",
+          "odd": "1.80",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-21",
+          "match": "Ravshan Kulob vs FC MERW",
+          "odd": "1.77",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-21",
+          "match": "Royale Union SG vs Toulouse",
+          "odd": "1.77",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-22",
+          "match": "Dinamo Bucuresti vs Farul Constanta",
+          "odd": "1.77",
+          "score": "0-2",
+          "h2h_under": "83.33%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-22",
+          "match": "Universidad de C vs Temuco",
+          "odd": "1.89",
+          "score": "1-1",
+          "h2h_under": "76.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-23",
+          "match": "Manisa vs Goztepe",
+          "odd": "1.82",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-23",
+          "match": "Carlisle United vs Derby County",
+          "odd": "1.81",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-24",
+          "match": "S.Urfaspor vs Kocaelispor",
+          "odd": "1.81",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-24",
+          "match": "Zvijezda 09 vs Posusje",
+          "odd": "1.73",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-25",
+          "match": "FB Brindisi 1912 vs Benevento",
+          "odd": "1.84",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-26",
+          "match": "Motor Lublin vs Puszcza Niepolom",
+          "odd": "1.80",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-26",
+          "match": "Cherno More Varn vs Botev Plovdiv",
+          "odd": "1.75",
+          "score": "1-0",
+          "h2h_under": "77.27%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-27",
+          "match": "Juventus U23 vs Recanatese",
+          "odd": "1.84",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-27",
+          "match": "Dynamo Vladivost vs Tyumen",
+          "odd": "1.78",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-28",
+          "match": "Spyris Kaunas vs Alytis Alytus",
+          "odd": "1.80",
+          "score": "1-1",
+          "h2h_under": "80.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-28",
+          "match": "Frosinone vs Fiorentina",
+          "odd": "1.78",
+          "score": "1-1",
+          "h2h_under": "75.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-29",
+          "match": "Orlando Pirates vs Jwaneng Galaxy F",
+          "odd": "1.81",
+          "score": "1-0",
+          "h2h_under": "80.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-29",
+          "match": "Excursionistas vs Justo Jose de Ur",
+          "odd": "1.78",
+          "score": "2-0",
+          "h2h_under": "80.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-30",
+          "match": "Dumbravita vs Metaloglobus",
+          "odd": "1.73",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-09-30",
+          "match": "Derby County vs Cambridge United",
+          "odd": "1.85",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "98.08%",
+        "under_2.5_count": "51/52",
+        "average_odds": "1.84"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "95.83%",
+        "combo_under_2.5_count": "23/24",
+        "average_combo_odds": "3.38"
+      }
+    },
+    {
+      "month": "2023-10",
+      "matches": [
+        {
+          "date": "2023-10-01",
+          "match": "Negeri Sembilan vs Perak",
+          "odd": "1.99",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-01",
+          "match": "Angelholms FF vs Vanersborgs IF",
+          "odd": "1.74",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-02",
+          "match": "Levadiakos vs Kozani FC",
+          "odd": "1.86",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-02",
+          "match": "Naft MIS Ahvaz vs Khalij Fars Mahs",
+          "odd": "1.95",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-03",
+          "match": "SSV Ulm 1846 vs TSV 1860 Munchen",
+          "odd": "1.88",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-03",
+          "match": "Dorking Wanderer vs Kidderminster Ha",
+          "odd": "1.82",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-05",
+          "match": "FC Altyn Asyr vs Ravshan Kulob",
+          "odd": "1.96",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-05",
+          "match": "Rakow vs Sturm Graz",
+          "odd": "1.77",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-06",
+          "match": "Lamphun Warrior vs Ratchaburi FC",
+          "odd": "1.79",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-06",
+          "match": "Kocaelispor vs Erzurumspor",
+          "odd": "1.72",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-07",
+          "match": "Dnipro-1 vs Veres Rivne",
+          "odd": "1.80",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-07",
+          "match": "Kidderminster Ha vs Wealdstone FC",
+          "odd": "1.83",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-08",
+          "match": "Barakaldo CF vs Naxara",
+          "odd": "1.85",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-09",
+          "match": "Real Sociedad To vs Genesis",
+          "odd": "1.78",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-09",
+          "match": "Zibo Qisheng vs Hunan Billows",
+          "odd": "1.78",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-10",
+          "match": "Stevenage Boroug vs Wycombe Wanderer",
+          "odd": "1.85",
+          "score": "0-1",
+          "h2h_under": "72.73%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-10",
+          "match": "Cheltenham Town vs Newport",
+          "odd": "1.99",
+          "score": "0-2",
+          "h2h_under": "65.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-11",
+          "match": "Eynesil vs Erbaaspor",
+          "odd": "1.78",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-11",
+          "match": "Finland U19 vs Romania U19",
+          "odd": "1.99",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-12",
+          "match": "Cambodia vs Pakistan",
+          "odd": "1.85",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-12",
+          "match": "Afghanistan vs Mongolia",
+          "odd": "1.83",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-13",
+          "match": "South Africa vs Eswatini",
+          "odd": "1.90",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-13",
+          "match": "Vietnam vs Uzbekistan",
+          "odd": "1.98",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-14",
+          "match": "Olympiacos Pirae vs Ionikos",
+          "odd": "1.76",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-15",
+          "match": "Mexico vs Ghana",
+          "odd": "1.73",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-15",
+          "match": "Sacramento Repub vs Miami FC",
+          "odd": "1.91",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-16",
+          "match": "FK Vrsac vs RFK Novi Sad",
+          "odd": "1.72",
+          "score": "1-0",
+          "h2h_under": "75.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-17",
+          "match": "Australia vs New Zealand",
+          "odd": "1.77",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-17",
+          "match": "Austria U19 vs England U19",
+          "odd": "1.83",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-18",
+          "match": "Vibonese vs Lamezia Terme",
+          "odd": "1.98",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-18",
+          "match": "Nanjing City vs Jinan Xingzhou",
+          "odd": "1.72",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-19",
+          "match": "Olancho vs CD Olimpia",
+          "odd": "1.83",
+          "score": "0-1",
+          "h2h_under": "80.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-19",
+          "match": "Arsenal Tula vs Rodina Moscow",
+          "odd": "1.79",
+          "score": "1-2",
+          "h2h_under": "75.00%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-10-20",
+          "match": "Talleres Cordoba vs Arsenal de Saran",
+          "odd": "1.74",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-20",
+          "match": "Chrobry Glogow vs Motor Lublin",
+          "odd": "1.79",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-21",
+          "match": "Pittsburgh River vs Detroit",
+          "odd": "1.88",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-21",
+          "match": "Vozdovac vs TSC",
+          "odd": "1.78",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-22",
+          "match": "Lamezia Terme vs Licata",
+          "odd": "1.74",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-24",
+          "match": "Persepolis vs Istiqlol Dushanb",
+          "odd": "1.87",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-24",
+          "match": "Lens vs PSV Eindhoven",
+          "odd": "1.90",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-25",
+          "match": "resistencia SC vs Sportivo Luqueno",
+          "odd": "1.80",
+          "score": "0-0",
+          "h2h_under": "75.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-26",
+          "match": "Chao Pak Kei vs FC Ulaanbaatar",
+          "odd": "1.95",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-26",
+          "match": "Recanatese vs Perugia",
+          "odd": "1.74",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-27",
+          "match": "Chernomorets Bal vs Maritsa Plovdiv",
+          "odd": "1.86",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-28",
+          "match": "Portimonense vs Estoril",
+          "odd": "1.79",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-28",
+          "match": "Brackley Town vs South Shields",
+          "odd": "1.82",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-29",
+          "match": "Motor Lublin vs Odra Opole",
+          "odd": "1.73",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-29",
+          "match": "Gimcheon Sangmu vs Gimpo FC",
+          "odd": "1.89",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-30",
+          "match": "Niki Volou vs Kampaniakos",
+          "odd": "1.97",
+          "score": "2-0",
+          "h2h_under": "75.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-10-31",
+          "match": "Polonia Warszawa vs Lechia Gdansk",
+          "odd": "1.91",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "98.00%",
+        "under_2.5_count": "49/50",
+        "average_odds": "1.84"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "95.24%",
+        "combo_under_2.5_count": "20/21",
+        "average_combo_odds": "3.38"
+      }
+    },
+    {
+      "month": "2023-11",
+      "matches": [
+        {
+          "date": "2023-11-01",
+          "match": "Igea Virtus vs Castrovillari",
+          "odd": "1.83",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-01",
+          "match": "Spartak Varna vs Levski Krumovgra",
+          "odd": "1.76",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-02",
+          "match": "Goias vs Bragantino",
+          "odd": "1.77",
+          "score": "0-2",
+          "h2h_under": "88.89%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-02",
+          "match": "LKS Lodz vs Rakow",
+          "odd": "1.94",
+          "score": "0-0",
+          "h2h_under": "87.50%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-03",
+          "match": "Sakaryaspor vs S.Urfaspor",
+          "odd": "1.97",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-03",
+          "match": "Millonarios vs Cucuta",
+          "odd": "1.74",
+          "score": "1-0",
+          "h2h_under": "83.33%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-04",
+          "match": "OS Belenenses vs Vilaverdense",
+          "odd": "1.80",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-04",
+          "match": "Angers vs Valenciennes",
+          "odd": "1.72",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-05",
+          "match": "Santa Tecla vs Fuerte San Franc",
+          "odd": "1.74",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-06",
+          "match": "Umraniyespor vs Tuzlaspor Kulubu",
+          "odd": "1.92",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-07",
+          "match": "Istiqlol Dushanb vs Persepolis",
+          "odd": "1.75",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-07",
+          "match": "Borussia Dortmun vs Newcastle United",
+          "odd": "1.95",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-08",
+          "match": "Lecco vs Spezia",
+          "odd": "1.96",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-08",
+          "match": "Napoli vs Union Berlin",
+          "odd": "1.78",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-09",
+          "match": "FC Ulaanbaatar vs Chao Pak Kei",
+          "odd": "1.74",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-09",
+          "match": "Abdish-Ata vs Ravshan Kulob",
+          "odd": "1.82",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-10",
+          "match": "Sochaux vs Cholet",
+          "odd": "1.79",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-10",
+          "match": "Palmaflor vs Universitario de",
+          "odd": "1.87",
+          "score": "1-1",
+          "h2h_under": "75.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-11",
+          "match": "NK Gradina Srebr vs NK Celik",
+          "odd": "1.77",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-11",
+          "match": "Cheltenham Town vs Wigan Athletic",
+          "odd": "1.86",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-12",
+          "match": "Reboceros de La vs Halcones de Zapo",
+          "odd": "1.94",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-12",
+          "match": "Kataller Toyama vs Nara Club",
+          "odd": "1.74",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-13",
+          "match": "Ruch Chorzow vs Radomiak Radom",
+          "odd": "1.75",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-13",
+          "match": "Sriwijaya FC vs Persiraja Aceh",
+          "odd": "1.87",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-14",
+          "match": "Rushall Olympic vs Alfreton Town",
+          "odd": "1.83",
+          "score": "1-1",
+          "h2h_under": "75.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-14",
+          "match": "Spennymoor Town vs South Shields",
+          "odd": "1.88",
+          "score": "2-5",
+          "h2h_under": "75.00%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-11-15",
+          "match": "Iceland U19 vs Denmark U19",
+          "odd": "1.92",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-15",
+          "match": "Vado vs USD Casatese",
+          "odd": "1.85",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-16",
+          "match": "Karlsruher SC vs SSV Ulm 1846",
+          "odd": "1.80",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-17",
+          "match": "Belgium U21 vs Scotland U21",
+          "odd": "1.96",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-17",
+          "match": "Greece vs New Zealand",
+          "odd": "1.81",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-18",
+          "match": "Uniao Leiria vs Leixoes",
+          "odd": "1.95",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-18",
+          "match": "Matsumoto Yamaga vs YSCC",
+          "odd": "1.82",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-19",
+          "match": "San Marino Calci vs Sammaurese",
+          "odd": "1.72",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-19",
+          "match": "Castellanzese vs Crema",
+          "odd": "1.73",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-20",
+          "match": "Mali vs Central Africa",
+          "odd": "1.91",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-20",
+          "match": "Levante vs Racing Santander",
+          "odd": "1.79",
+          "score": "2-4",
+          "h2h_under": "66.67%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-11-22",
+          "match": "Graficar Beograd vs Kolubara",
+          "odd": "1.74",
+          "score": "1-0",
+          "h2h_under": "80.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-23",
+          "match": "Kuruvchi Bunyodk vs Metallurg Bekaba",
+          "odd": "1.73",
+          "score": "1-0",
+          "h2h_under": "77.78%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-23",
+          "match": "Esteghlal Khuzes vs Sepahan",
+          "odd": "1.99",
+          "score": "1-3",
+          "h2h_under": "77.78%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-11-24",
+          "match": "Sakaryaspor vs Erzurumspor",
+          "odd": "1.73",
+          "score": "2-2",
+          "h2h_under": "85.71%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-11-25",
+          "match": "Leyton Orient vs Wigan Athletic",
+          "odd": "1.87",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-25",
+          "match": "Grimsby Town vs Sutton United",
+          "odd": "1.91",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-26",
+          "match": "Chions vs Montecchio Maggi",
+          "odd": "1.83",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-26",
+          "match": "Kagoshima United vs Azul Claro Numaz",
+          "odd": "1.97",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-27",
+          "match": "Al-Sharjah vs Al-Sadd",
+          "odd": "2.00",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-27",
+          "match": "Erzeni vs KF Tirana",
+          "odd": "1.81",
+          "score": "1-0",
+          "h2h_under": "75.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-28",
+          "match": "Sutton United vs Crewe",
+          "odd": "1.99",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-29",
+          "match": "Mexicali vs Saltillo",
+          "odd": "1.82",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-29",
+          "match": "Urartu vs Ararat Erevan",
+          "odd": "1.91",
+          "score": "2-1",
+          "h2h_under": "78.95%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-11-30",
+          "match": "Padova vs Lumezzane",
+          "odd": "1.72",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-11-30",
+          "match": "FC MERW vs Ravshan Kulob",
+          "odd": "1.73",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "90.38%",
+        "under_2.5_count": "47/52",
+        "average_odds": "1.84"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "82.61%",
+        "combo_under_2.5_count": "19/23",
+        "average_combo_odds": "3.38"
+      }
+    },
+    {
+      "month": "2023-12",
+      "matches": [
+        {
+          "date": "2023-12-01",
+          "match": "Patro Eisden vs Beerschot Wilrij",
+          "odd": "1.96",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-01",
+          "match": "FC Dobrudzha vs Litex Lovech",
+          "odd": "1.81",
+          "score": "0-1",
+          "h2h_under": "75.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-02",
+          "match": "Gainare Tottori vs Kagoshima United",
+          "odd": "1.89",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-02",
+          "match": "Red Star FC 93 vs Nimes",
+          "odd": "1.74",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-03",
+          "match": "Kalamata AO vs Panahaiki-2005",
+          "odd": "1.81",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-04",
+          "match": "Villarreal B vs Eibar",
+          "odd": "1.82",
+          "score": "1-0",
+          "h2h_under": "75.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-05",
+          "match": "Alfreton Town vs Walsall",
+          "odd": "1.78",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-06",
+          "match": "Dubocica vs Radnicki Beograd",
+          "odd": "1.79",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-06",
+          "match": "Wigan Athletic vs Stockport County",
+          "odd": "1.94",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-07",
+          "match": "Arka Gdynia vs Lech Poznan",
+          "odd": "1.92",
+          "score": "0-1",
+          "h2h_under": "83.33%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-07",
+          "match": "Atletico Junior vs Deportes Tolima",
+          "odd": "1.92",
+          "score": "4-2",
+          "h2h_under": "67.44%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-12-08",
+          "match": "PSS Sleman vs RANS Nusantara",
+          "odd": "1.76",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-08",
+          "match": "Hapoel Kiryat Sh vs Hapoel Ramat Gan",
+          "odd": "1.85",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-09",
+          "match": "Bodrumspor vs Tuzlaspor Kulubu",
+          "odd": "1.94",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-09",
+          "match": "Sampdoria vs Lecco",
+          "odd": "1.74",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-10",
+          "match": "Sariyer vs Aksaray Bld.",
+          "odd": "1.77",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-11",
+          "match": "Puszcza Niepolom vs Widzew lodz",
+          "odd": "1.76",
+          "score": "1-0",
+          "h2h_under": "88.89%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-11",
+          "match": "Real Kashmir vs Gokulam",
+          "odd": "1.78",
+          "score": "3-0",
+          "h2h_under": "81.82%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-12-12",
+          "match": "Reading vs Oxford United",
+          "odd": "1.84",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-12",
+          "match": "Hapoel Natzrat I vs Ironi Nir Ramat",
+          "odd": "1.95",
+          "score": "1-0",
+          "h2h_under": "83.33%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-13",
+          "match": "Cardiff City vs Birmingham",
+          "odd": "1.73",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-13",
+          "match": "Catania vs Pescara",
+          "odd": "1.76",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-14",
+          "match": "EL Masry vs Zamalek",
+          "odd": "1.78",
+          "score": "1-0",
+          "h2h_under": "68.18%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-15",
+          "match": "Orleans US 45 vs Epinal",
+          "odd": "1.99",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-15",
+          "match": "Club Leon vs Urawa Red Diamon",
+          "odd": "1.77",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-16",
+          "match": "FSV Mainz 05 vs FC Heidenheim",
+          "odd": "1.96",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-16",
+          "match": "Cianorte (PR) vs Maringa FC",
+          "odd": "1.78",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-17",
+          "match": "Clodiense vs Chions",
+          "odd": "1.95",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-17",
+          "match": "Tritium vs Club Milano",
+          "odd": "1.73",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-18",
+          "match": "Casertana vs Calcio Giugliano",
+          "odd": "1.87",
+          "score": "3-1",
+          "h2h_under": "80.00%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-12-18",
+          "match": "Cukaricki Stanko vs IMT Novi Beograd",
+          "odd": "1.99",
+          "score": "0-1",
+          "h2h_under": "66.67%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-19",
+          "match": "Racing Santander vs Andorra CF",
+          "odd": "1.79",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-19",
+          "match": "USL Dunkerque vs Bordeaux",
+          "odd": "1.95",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-20",
+          "match": "Montecchio Maggi vs Treviso",
+          "odd": "1.90",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-20",
+          "match": "Adanaspor vs Altay",
+          "odd": "1.87",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-21",
+          "match": "Derby County vs Lincoln City",
+          "odd": "1.83",
+          "score": "3-1",
+          "h2h_under": "80.00%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-12-21",
+          "match": "S.Urfaspor vs Yeni Corumspor",
+          "odd": "1.78",
+          "score": "1-1",
+          "h2h_under": "75.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-22",
+          "match": "Hottin vs Al Wathbah",
+          "odd": "1.77",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-22",
+          "match": "Ironi Tiberias vs Hapoel Umm al-Fa",
+          "odd": "1.81",
+          "score": "0-0",
+          "h2h_under": "85.71%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-23",
+          "match": "Pergolettese vs Giana Erminio",
+          "odd": "1.78",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-23",
+          "match": "Darlington vs Bishops Stortfor",
+          "odd": "1.97",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-24",
+          "match": "Sepahan vs Shahrdari Arak",
+          "odd": "1.78",
+          "score": "0-1",
+          "h2h_under": "90.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-25",
+          "match": "Al-Shabab vs Al Ahli",
+          "odd": "1.95",
+          "score": "1-1",
+          "h2h_under": "75.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-25",
+          "match": "Yeni Corumspor vs Boluspor",
+          "odd": "1.87",
+          "score": "2-0",
+          "h2h_under": "60.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-26",
+          "match": "Leyton Orient vs Charlton Athleti",
+          "odd": "1.94",
+          "score": "1-0",
+          "h2h_under": "80.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-26",
+          "match": "Salford City vs Tranmere Rovers",
+          "odd": "1.99",
+          "score": "1-5",
+          "h2h_under": "75.00%",
+          "status": "\ud83d\udfe0"
+        },
+        {
+          "date": "2023-12-27",
+          "match": "Esperance Sporti vs Sfaxien",
+          "odd": "1.73",
+          "score": "1-0",
+          "h2h_under": "89.29%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-27",
+          "match": "Hai Phong vs Binh Dinh",
+          "odd": "1.99",
+          "score": "0-1",
+          "h2h_under": "70.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-29",
+          "match": "CR Belouizdad U2 vs Constantine U21",
+          "odd": "1.93",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-29",
+          "match": "FC Dimona vs Hapoel Marmorek",
+          "odd": "2.00",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-30",
+          "match": "Sporting de Gijo vs Marino de Luanco",
+          "odd": "1.89",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-30",
+          "match": "Olivenza vs Badajoz",
+          "odd": "1.80",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "\u2705"
+        },
+        {
+          "date": "2023-12-31",
+          "match": "Pen-y-Bont FC vs Pontypridd",
+          "odd": "1.94",
+          "score": "1-0",
+          "h2h_under": "83.33%",
+          "status": "\u2705"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "90.57%",
+        "under_2.5_count": "48/53",
+        "average_odds": "1.86"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "78.26%",
+        "combo_under_2.5_count": "18/23",
+        "average_combo_odds": "3.47"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "90.55%",
+      "under_2.5_count": "546/603",
+      "average_odds": "1.84"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "83.52%",
+      "combo_under_2.5_count": "218/261",
+      "average_combo_odds": "3.40"
+    }
+  },
+  "notable_analysis": [
+    "Expected Value for Single Bets (unit stake): 0.67 (positive value suggests long-term profitability assuming no bookmaker margin)",
+    "Expected Value for Combo Bets (unit stake): 1.84 (positive value suggests long-term profitability assuming no bookmaker margin)",
+    "Note: Combo bets carry higher risk due to requiring both matches to hit, but offer higher potential returns.",
+    "Overall, the strategy focuses on high H2H Under % matches with odds in 1.72-2.0, aiming for value in under 2.5 goals markets."
+  ]
+}

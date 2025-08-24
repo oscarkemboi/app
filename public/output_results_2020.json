@@ -1,0 +1,3850 @@
+{
+    "months": {
+        "2020-01": {
+            "matches": [
+                {
+                    "Date": "2020-01-01",
+                    "Match": "AFC Fylde vs Barrow",
+                    "Odd": 1.9005524861878451,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-01",
+                    "Match": "Ebbsfleet United vs Dagenham Redbrid",
+                    "Odd": 1.81,
+                    "Score": "1-1",
+                    "H2H Under %": 81.82,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-02",
+                    "Match": "Derby County vs Barnsley",
+                    "Odd": 1.98,
+                    "Score": "2-1",
+                    "H2H Under %": 20.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-01-03",
+                    "Match": "Doxa Katokopias vs AEL Limassol",
+                    "Odd": 1.8010471204188483,
+                    "Score": "2-2",
+                    "H2H Under %": 55.56,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-01-04",
+                    "Match": "Cova De Piedade vs GD Chaves",
+                    "Odd": 1.72,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-04",
+                    "Match": "Bristol City vs Shrewsbury Town",
+                    "Odd": 1.86,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-05",
+                    "Match": "Crystal Palace vs Derby County",
+                    "Odd": 1.83,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-05",
+                    "Match": "UD Logrones vs Real Sociedad B",
+                    "Odd": 1.9005524861878451,
+                    "Score": "0-0",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-06",
+                    "Match": "Lecce vs Udinese",
+                    "Odd": 1.9657142857142857,
+                    "Score": "0-1",
+                    "H2H Under %": 88.89,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-06",
+                    "Match": "Napoli vs Inter Milan",
+                    "Odd": 1.911111111111111,
+                    "Score": "1-3",
+                    "H2H Under %": 76.19,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-01-07",
+                    "Match": "Salford City vs Port Vale",
+                    "Odd": 1.76,
+                    "Score": "3-0",
+                    "H2H Under %": 81.82,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-01-08",
+                    "Match": "Celta vigo b vs Real M. B",
+                    "Odd": 1.96,
+                    "Score": "0-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-08",
+                    "Match": "Cape Town City vs AmaZulu",
+                    "Odd": 1.72,
+                    "Score": "2-2",
+                    "H2H Under %": 58.82,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-01-09",
+                    "Match": "Barcelona vs Atletico Madrid",
+                    "Odd": 1.8105263157894738,
+                    "Score": "2-3",
+                    "H2H Under %": 62.96,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-01-09",
+                    "Match": "Torino vs Genoa",
+                    "Odd": 1.81,
+                    "Score": "1-1",
+                    "H2H Under %": 62.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-11",
+                    "Match": "Southend United vs Tranmere Rovers",
+                    "Odd": 1.8594594594594593,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-11",
+                    "Match": "UD Logrones vs Cadiz",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-12",
+                    "Match": "Avellino vs Vibonese",
+                    "Odd": 1.9884393063583814,
+                    "Score": "1-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-12",
+                    "Match": "Panathinaikos vs Panionios",
+                    "Odd": 1.8010471204188483,
+                    "Score": "3-0",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-01-13",
+                    "Match": "Hapoel Ashkelon vs Hapoel Bnei Lod",
+                    "Odd": 1.82,
+                    "Score": "0-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-13",
+                    "Match": "Maccabi Tel Aviv vs Beitar Jerusalem",
+                    "Odd": 1.7373737373737375,
+                    "Score": "0-0",
+                    "H2H Under %": 43.59,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-14",
+                    "Match": "Oxford United vs Ipswich Town",
+                    "Odd": 1.764102564102564,
+                    "Score": "0-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-14",
+                    "Match": "Maidstone United vs Hemel Hempstead",
+                    "Odd": 1.9657142857142857,
+                    "Score": "1-1",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-15",
+                    "Match": "Globo vs America RN",
+                    "Odd": 1.9545454545454546,
+                    "Score": "0-2",
+                    "H2H Under %": 88.89,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-15",
+                    "Match": "Rayo Vallecano vs CD Lugo",
+                    "Odd": 1.98,
+                    "Score": "1-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-17",
+                    "Match": "Fulham vs Middlesbrough",
+                    "Odd": 1.8594594594594593,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-17",
+                    "Match": "Frosinone vs Pordenone Calcio",
+                    "Odd": 1.72,
+                    "Score": "2-2",
+                    "H2H Under %": 62.5,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-01-18",
+                    "Match": "Prix Les Meziere vs FC Limonest",
+                    "Odd": 1.72,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-18",
+                    "Match": "Leixoes vs CD Mafra",
+                    "Odd": 1.7373737373737375,
+                    "Score": "0-2",
+                    "H2H Under %": 84.62,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-19",
+                    "Match": "Cultural Leonesa vs Real Union Irun",
+                    "Odd": 1.96,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-19",
+                    "Match": "Cabofriense(RJ) vs Fluminense RJ",
+                    "Odd": 1.86,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-20",
+                    "Match": "W.B.A vs Stoke City",
+                    "Odd": 1.72,
+                    "Score": "0-1",
+                    "H2H Under %": 53.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-20",
+                    "Match": "Beitar Jerusalem vs Maccabi Netanya",
+                    "Odd": 1.8297872340425532,
+                    "Score": "3-1",
+                    "H2H Under %": 50.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-01-21",
+                    "Match": "Portsmouth vs Scunthorpe Unite",
+                    "Odd": 1.9325842696629212,
+                    "Score": "2-1",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-01-21",
+                    "Match": "Leyton Orient vs Northampton Town",
+                    "Odd": 1.9217877094972067,
+                    "Score": "1-1",
+                    "H2H Under %": 58.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-22",
+                    "Match": "Bari vs Sicula Leonzio",
+                    "Odd": 1.8695652173913042,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-22",
+                    "Match": "Tupynambas vs Tombense",
+                    "Odd": 1.73,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-23",
+                    "Match": "Mirandes vs Celta Vigo",
+                    "Odd": 1.83,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-23",
+                    "Match": "Vasco da Gama vs Flamengo",
+                    "Odd": 1.75,
+                    "Score": "0-1",
+                    "H2H Under %": 68.97,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-24",
+                    "Match": "San Lorenzo vs 12 de Octubre",
+                    "Odd": 1.75,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-24",
+                    "Match": "Brescia vs AC Milan",
+                    "Odd": 1.9884393063583814,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-25",
+                    "Match": "Jacobina vs Juazeirense",
+                    "Odd": 1.81,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-25",
+                    "Match": "Woking vs Yeovil Town",
+                    "Odd": 1.9657142857142857,
+                    "Score": "1-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-26",
+                    "Match": "Real Sociedad vs Mallorca",
+                    "Odd": 1.911111111111111,
+                    "Score": "3-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-01-27",
+                    "Match": "Hapoel Katamon J vs Hapoel Bnei Lod",
+                    "Odd": 1.93,
+                    "Score": "0-1",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-27",
+                    "Match": "Bnei Yehuda Tel vs Maccabi Haifa",
+                    "Odd": 1.81,
+                    "Score": "1-3",
+                    "H2H Under %": 62.5,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-01-28",
+                    "Match": "Kettering Town vs Altrincham",
+                    "Odd": 1.95,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-28",
+                    "Match": "Walsall vs Morecambe",
+                    "Odd": 1.83,
+                    "Score": "0-2",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-29",
+                    "Match": "Universitario De vs Carabobo FC",
+                    "Odd": 1.75,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-29",
+                    "Match": "Cultural Leonesa vs Valencia",
+                    "Odd": 1.9,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-30",
+                    "Match": "Bahia de Feira B vs Bahia(BA)",
+                    "Odd": 1.9005524861878451,
+                    "Score": "0-1",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-01-30",
+                    "Match": "Guadalupe vs Herediano",
+                    "Odd": 1.97,
+                    "Score": "",
+                    "H2H Under %": 56.0,
+                    "Under2.5_Result": null
+                },
+                {
+                    "Date": "2020-01-31",
+                    "Match": "Avai FC SC vs Brusque FC",
+                    "Odd": 1.81,
+                    "Score": "0-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 76.92,
+                "Under2.5_Count": 40,
+                "Total_Matches": 52,
+                "Average_Odds": 1.85
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 65.22,
+                "Combo_Under2.5_Count": 15,
+                "Total_Days": 23,
+                "Average_Combo_Odds": 3.41
+            }
+        },
+        "2020-02": {
+            "matches": [
+                {
+                    "Date": "2020-02-01",
+                    "Match": "Zwolle vs Groningen",
+                    "Odd": 1.8105263157894738,
+                    "Score": "1-0",
+                    "H2H Under %": 86.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-01",
+                    "Match": "Port Vale vs Salford City",
+                    "Odd": 1.75,
+                    "Score": "1-1",
+                    "H2H Under %": 81.82,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-02",
+                    "Match": "Alagoinhas Atlet vs Jacobina",
+                    "Odd": 1.8494623655913978,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-02",
+                    "Match": "Eibar vs Real Betis",
+                    "Odd": 1.7823834196891193,
+                    "Score": "1-1",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-03",
+                    "Match": "Patronato Parana vs Arsenal de Saran",
+                    "Odd": 1.82,
+                    "Score": "2-2",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-02-03",
+                    "Match": "Deportes La Sere vs CSD Antofagasta",
+                    "Odd": 1.7373737373737375,
+                    "Score": "0-1",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-04",
+                    "Match": "Newport vs Leicester City U",
+                    "Odd": 1.9770114942528736,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-04",
+                    "Match": "Birmingham City vs Coventry City",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-05",
+                    "Match": "SC Verl vs Union Berlin",
+                    "Odd": 1.9657142857142857,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-05",
+                    "Match": "XV de Piracicaba vs Londrina (PR)",
+                    "Odd": 1.74,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-06",
+                    "Match": "Perez Zeledon vs Guadalupe",
+                    "Odd": 1.73,
+                    "Score": "1-1",
+                    "H2H Under %": 56.52,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-06",
+                    "Match": "Necaxa vs Monterrey",
+                    "Odd": 2.0,
+                    "Score": "2-2",
+                    "H2H Under %": 54.55,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-02-07",
+                    "Match": "Millonarios vs Always Ready",
+                    "Odd": 1.8395721925133688,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-07",
+                    "Match": "KAA Gent vs Anderlecht",
+                    "Odd": 1.9884393063583814,
+                    "Score": "1-1",
+                    "H2H Under %": 74.29,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-08",
+                    "Match": "Falkirk vs Hearts",
+                    "Odd": 1.89010989010989,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-08",
+                    "Match": "Brighton Hove Al vs Watford",
+                    "Odd": 1.87,
+                    "Score": "1-1",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-09",
+                    "Match": "Brescia vs Udinese",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-10",
+                    "Match": "Arsenal de Saran vs Talleres Cordoba",
+                    "Odd": 1.8395721925133688,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-10",
+                    "Match": "Queretaro FC vs Club America",
+                    "Odd": 1.8494623655913978,
+                    "Score": "1-2",
+                    "H2H Under %": 72.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-02-11",
+                    "Match": "Argentinos junio vs Sport Huancayo",
+                    "Odd": 1.76,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-11",
+                    "Match": "Blackburn Rovers vs Hull City",
+                    "Odd": 1.96,
+                    "Score": "3-0",
+                    "H2H Under %": 64.29,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-02-12",
+                    "Match": "Cerro Porteno vs Universitario De",
+                    "Odd": 1.8297872340425532,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-12",
+                    "Match": "Alagoinhas Atlet vs Botafogo PB",
+                    "Odd": 1.89,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-13",
+                    "Match": "AE Altos vs Vasco da Gama",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-13",
+                    "Match": "Galvez vs Vila Nova",
+                    "Odd": 1.78,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-14",
+                    "Match": "Gornik Zabrze vs Arka Gdynia",
+                    "Odd": 1.7551020408163265,
+                    "Score": "2-0",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-14",
+                    "Match": "Aucas vs Delfin",
+                    "Odd": 1.83,
+                    "Score": "0-2",
+                    "H2H Under %": 65.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-15",
+                    "Match": "SG Sonnenhof Gro vs Hansa Rostock",
+                    "Odd": 1.8297872340425532,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-15",
+                    "Match": "Mordovya Saransk vs FC Riga United",
+                    "Odd": 1.8105263157894738,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-17",
+                    "Match": "Rodina Moscow vs Fakel",
+                    "Odd": 1.9005524861878451,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-17",
+                    "Match": "KAMAZ Naberezhny vs Yenisey Krasnoya",
+                    "Odd": 1.8,
+                    "Score": "2-2",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-02-18",
+                    "Match": "Brackley Town vs Southport",
+                    "Odd": 1.8797814207650272,
+                    "Score": "1-1",
+                    "H2H Under %": 73.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-18",
+                    "Match": "Portsmouth vs Exeter City",
+                    "Odd": 1.9884393063583814,
+                    "Score": "3-2",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-02-19",
+                    "Match": "FBC Melgar vs Nacional Potosi",
+                    "Odd": 1.7373737373737375,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-20",
+                    "Match": "Club Comunicacio vs Club America",
+                    "Odd": 1.7823834196891193,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-20",
+                    "Match": "AZ Alkmaar vs LASK Linz",
+                    "Odd": 1.89010989010989,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-21",
+                    "Match": "Sivasspor vs Alanyaspor",
+                    "Odd": 1.943502824858757,
+                    "Score": "1-0",
+                    "H2H Under %": 72.22,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-21",
+                    "Match": "Shinnik Yaroslav vs Mordovya Saransk",
+                    "Odd": 1.8010471204188483,
+                    "Score": "3-0",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-02-22",
+                    "Match": "Westerlo vs Excelsior Virton",
+                    "Odd": 1.73,
+                    "Score": "2-1",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-02-23",
+                    "Match": "Houston Dynamo vs Columbus Crew",
+                    "Odd": 2.0,
+                    "Score": "1-4",
+                    "H2H Under %": 90.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-02-23",
+                    "Match": "Atletico de Madr vs Pontevedra",
+                    "Odd": 1.8,
+                    "Score": "1-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-24",
+                    "Match": "Curico Unido vs Colo Colo",
+                    "Odd": 1.9545454545454546,
+                    "Score": "1-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-25",
+                    "Match": "Alianza Huanuco vs Cienciano",
+                    "Odd": 2.0,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-26",
+                    "Match": "Monopoli vs Rieti",
+                    "Odd": 1.7731958762886597,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-26",
+                    "Match": "River-PI vs America FC Natal",
+                    "Odd": 1.74,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-27",
+                    "Match": "LASK Linz vs AZ Alkmaar",
+                    "Odd": 1.9325842696629212,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-02-27",
+                    "Match": "Sevilla vs CFR Cluj",
+                    "Odd": 1.7731958762886597,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 80.85,
+                "Under2.5_Count": 38,
+                "Total_Matches": 47,
+                "Average_Odds": 1.84
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 61.9,
+                "Combo_Under2.5_Count": 13,
+                "Total_Days": 21,
+                "Average_Combo_Odds": 3.39
+            }
+        },
+        "2020-03": {
+            "matches": [
+                {
+                    "Date": "2020-03-01",
+                    "Match": "Orgryte vs AIK Solna",
+                    "Odd": 1.943502824858757,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-03-01",
+                    "Match": "Falkenberg vs Halmstads",
+                    "Odd": 1.9884393063583814,
+                    "Score": "1-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-03-02",
+                    "Match": "Preussen Munster vs Hansa Rostock",
+                    "Odd": 1.8201058201058202,
+                    "Score": "1-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-03-02",
+                    "Match": "Mirassol vs Oeste",
+                    "Odd": 1.76,
+                    "Score": "1-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-03-03",
+                    "Match": "Saarbrucken vs Fortuna Dusseldo",
+                    "Odd": 1.9657142857142857,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-03-03",
+                    "Match": "Cremonese vs Empoli",
+                    "Odd": 1.73,
+                    "Score": "2-3",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-03-04",
+                    "Match": "Fluminense RJ vs Botafogo PB",
+                    "Odd": 1.74,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-03-04",
+                    "Match": "Monte Azul SP vs XV de Piracicaba",
+                    "Odd": 1.72,
+                    "Score": "0-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-03-05",
+                    "Match": "Deportes Quindio vs Valledupar FC",
+                    "Odd": 1.77,
+                    "Score": "2-0",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-03-05",
+                    "Match": "Tigres vs Barranquilla FC",
+                    "Odd": 1.77,
+                    "Score": "2-1",
+                    "H2H Under %": 68.18,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-03-07",
+                    "Match": "Santo Andre vs Oeste",
+                    "Odd": 1.88,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-03-07",
+                    "Match": "CSD Antofagasta vs Curico Unido",
+                    "Odd": 1.8797814207650272,
+                    "Score": "0-0",
+                    "H2H Under %": 92.31,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-03-08",
+                    "Match": "EC Pelotas(RS)) vs Gremio RS",
+                    "Odd": 1.76,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-03-09",
+                    "Match": "Genclerbirligi vs Antalyaspor",
+                    "Odd": 1.8297872340425532,
+                    "Score": "1-1",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-03-09",
+                    "Match": "Lens vs Orleans US 45",
+                    "Odd": 1.72,
+                    "Score": "1-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-03-10",
+                    "Match": "GKS Tychy vs Cracovia Krakow",
+                    "Odd": 1.7731958762886597,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-03-10",
+                    "Match": "Woking vs Barnet",
+                    "Odd": 1.79,
+                    "Score": "1-3",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-03-11",
+                    "Match": "Liverpool vs Atletico Madrid",
+                    "Odd": 1.84,
+                    "Score": "1-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-03-11",
+                    "Match": "Lechia Gdansk vs Piast Gliwice",
+                    "Odd": 1.7551020408163265,
+                    "Score": "2-1",
+                    "H2H Under %": 50.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-03-12",
+                    "Match": "Tigres vs Cortulua",
+                    "Odd": 1.911111111111111,
+                    "Score": "0-0",
+                    "H2H Under %": 61.54,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-03-14",
+                    "Match": "Denizlispor vs Genclerbirligi",
+                    "Odd": 1.8494623655913978,
+                    "Score": "1-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-03-14",
+                    "Match": "Notts County vs Eastleigh",
+                    "Odd": 1.8395721925133688,
+                    "Score": "4-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-03-16",
+                    "Match": "Club America vs Cruz Azul",
+                    "Odd": 1.943502824858757,
+                    "Score": "0-1",
+                    "H2H Under %": 57.89,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-03-17",
+                    "Match": "San Luis Quillot vs CD Copiapo S.A.",
+                    "Odd": 1.76,
+                    "Score": "2-2",
+                    "H2H Under %": 54.55,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-03-17",
+                    "Match": "Goztepe vs Caykur Rizespor",
+                    "Odd": 1.8395721925133688,
+                    "Score": "2-0",
+                    "H2H Under %": 46.15,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-03-19",
+                    "Match": "Shakhter Soligor vs FC Torpedo Zhodi",
+                    "Odd": 1.764102564102564,
+                    "Score": "0-1",
+                    "H2H Under %": 72.22,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-03-20",
+                    "Match": "Dinamo Minsk vs Rukh Brest",
+                    "Odd": 1.98,
+                    "Score": "0-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-03-27",
+                    "Match": "Rukh Brest vs Energetik-BGU",
+                    "Odd": 1.8594594594594593,
+                    "Score": "0-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-03-28",
+                    "Match": "Slutsksakhar Slu vs Dinamo Brest",
+                    "Odd": 1.87,
+                    "Score": "0-1",
+                    "H2H Under %": 57.14,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-03-28",
+                    "Match": "Slavia Mozyr vs BATE Borisov",
+                    "Odd": 1.9657142857142857,
+                    "Score": "2-1",
+                    "H2H Under %": 40.0,
+                    "Under2.5_Result": false
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 76.67,
+                "Under2.5_Count": 23,
+                "Total_Matches": 30,
+                "Average_Odds": 1.83
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 41.67,
+                "Combo_Under2.5_Count": 5,
+                "Total_Days": 12,
+                "Average_Combo_Odds": 3.33
+            }
+        },
+        "2020-04": {
+            "matches": [
+                {
+                    "Date": "2020-04-04",
+                    "Match": "Shakhter Soligor vs Neman Grodno",
+                    "Odd": 1.76,
+                    "Score": "0-0",
+                    "H2H Under %": 58.82,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-04-04",
+                    "Match": "Dinamo Brest vs Slavia Mozyr",
+                    "Odd": 1.9,
+                    "Score": "1-2",
+                    "H2H Under %": 37.5,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-04-05",
+                    "Match": "Energetik-BGU vs FC Minsk",
+                    "Odd": 1.9325842696629212,
+                    "Score": "2-0",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-04-11",
+                    "Match": "FC Torpedo Zhodi vs Energetik-BGU",
+                    "Odd": 1.7373737373737375,
+                    "Score": "2-0",
+                    "H2H Under %": 40.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-04-12",
+                    "Match": "FC Minsk vs BATE Borisov",
+                    "Odd": 1.7373737373737375,
+                    "Score": "0-3",
+                    "H2H Under %": 50.0,
+                    "Under2.5_Result": false
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 60.0,
+                "Under2.5_Count": 3,
+                "Total_Matches": 5,
+                "Average_Odds": 1.81
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 0.0,
+                "Combo_Under2.5_Count": 0,
+                "Total_Days": 1,
+                "Average_Combo_Odds": 3.34
+            }
+        },
+        "2020-05": {
+            "matches": [
+                {
+                    "Date": "2020-05-03",
+                    "Match": "Shakhter Soligor vs FK Isloch Minsk",
+                    "Odd": 1.8,
+                    "Score": "4-0",
+                    "H2H Under %": 52.94,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-05-10",
+                    "Match": "FK Isloch Minsk vs FC Belshyna Babr",
+                    "Odd": 1.7373737373737375,
+                    "Score": "2-1",
+                    "H2H Under %": 50.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-05-22",
+                    "Match": "Pohang Steelers vs FC Seoul",
+                    "Odd": 1.911111111111111,
+                    "Score": "1-2",
+                    "H2H Under %": 48.39,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-05-22",
+                    "Match": "Nurnberg vs Erzgebirge Aue",
+                    "Odd": 1.83,
+                    "Score": "1-1",
+                    "H2H Under %": 44.44,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-05-23",
+                    "Match": "SC Freiburg vs Werder Bremen",
+                    "Odd": 1.95,
+                    "Score": "0-1",
+                    "H2H Under %": 64.29,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-05-24",
+                    "Match": "Hamburger SV vs Arminia Bielefel",
+                    "Odd": 1.9,
+                    "Score": "0-0",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-05-26",
+                    "Match": "SK Slovan Varnsd vs Hradec Kralove",
+                    "Odd": 1.9884393063583814,
+                    "Score": "1-2",
+                    "H2H Under %": 64.29,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-05-26",
+                    "Match": "Mlada Boleslav vs Slavia Praha",
+                    "Odd": 1.9884393063583814,
+                    "Score": "0-1",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-05-27",
+                    "Match": "Union Berlin vs FSV Mainz 05",
+                    "Odd": 1.911111111111111,
+                    "Score": "1-1",
+                    "H2H Under %": 41.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-05-28",
+                    "Match": "AGF Aarhus vs Randers FC",
+                    "Odd": 1.8010471204188483,
+                    "Score": "1-1",
+                    "H2H Under %": 62.96,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-05-28",
+                    "Match": "Guadalupe vs Perez Zeledon",
+                    "Odd": 1.95,
+                    "Score": "3-1",
+                    "H2H Under %": 56.52,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-05-30",
+                    "Match": "Zwickau vs Hansa Rostock",
+                    "Odd": 1.7823834196891193,
+                    "Score": "2-2",
+                    "H2H Under %": 62.5,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-05-31",
+                    "Match": "FC Heidenheim vs Erzgebirge Aue",
+                    "Odd": 1.72,
+                    "Score": "3-0",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": false
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 46.15,
+                "Under2.5_Count": 6,
+                "Total_Matches": 13,
+                "Average_Odds": 1.87
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 0.0,
+                "Combo_Under2.5_Count": 0,
+                "Total_Days": 3,
+                "Average_Combo_Odds": 3.65
+            }
+        },
+        "2020-06": {
+            "matches": [
+                {
+                    "Date": "2020-06-01",
+                    "Match": "Suduva vs Spyris Kaunas",
+                    "Odd": 1.7731958762886597,
+                    "Score": "1-0",
+                    "H2H Under %": 50.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-06-01",
+                    "Match": "AGF Aarhus vs Odense BK",
+                    "Odd": 1.8010471204188483,
+                    "Score": "1-0",
+                    "H2H Under %": 50.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-06-02",
+                    "Match": "Mattersburg vs Rheindorf Altach",
+                    "Odd": 1.911111111111111,
+                    "Score": "1-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-06-02",
+                    "Match": "Termalica B-B. vs Suwalki",
+                    "Odd": 1.95,
+                    "Score": "1-0",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-06-04",
+                    "Match": "Vitoria Guimarae vs Sporting Lisbon",
+                    "Odd": 1.8010471204188483,
+                    "Score": "2-2",
+                    "H2H Under %": 54.55,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-06-05",
+                    "Match": "NK Aluminij vs NK Mura 05",
+                    "Odd": 1.72,
+                    "Score": "1-3",
+                    "H2H Under %": 54.55,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-06-05",
+                    "Match": "VfL Bochum vs St. Pauli",
+                    "Odd": 1.9325842696629212,
+                    "Score": "2-0",
+                    "H2H Under %": 54.55,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-06-06",
+                    "Match": "SV Wehen Wiesbad vs SG Dynamo Dresde",
+                    "Odd": 1.86,
+                    "Score": "2-3",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-06-07",
+                    "Match": "Rakow vs LKS Lodz",
+                    "Odd": 1.83,
+                    "Score": "1-1",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-06-09",
+                    "Match": "Piast Gliwice vs Gornik Zabrze",
+                    "Odd": 1.95,
+                    "Score": "0-0",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-06-09",
+                    "Match": "SG Dynamo Dresde vs Greuther Furth",
+                    "Odd": 2.0,
+                    "Score": "1-1",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-06-10",
+                    "Match": "Fremad Amager vs Naestved",
+                    "Odd": 1.7373737373737375,
+                    "Score": "1-0",
+                    "H2H Under %": 73.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-06-11",
+                    "Match": "Belenenses vs Vitoria Guimarae",
+                    "Odd": 1.8395721925133688,
+                    "Score": "1-1",
+                    "H2H Under %": 84.62,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-06-11",
+                    "Match": "Sevilla vs Real Betis",
+                    "Odd": 1.8,
+                    "Score": "2-0",
+                    "H2H Under %": 68.18,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-06-12",
+                    "Match": "GKS Jastrzebie vs Sandecja Nowy Sa",
+                    "Odd": 1.911111111111111,
+                    "Score": "1-2",
+                    "H2H Under %": 62.5,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-06-13",
+                    "Match": "Hapoel Raanana vs Hapoel Kiryat Sh",
+                    "Odd": 1.78,
+                    "Score": "0-1",
+                    "H2H Under %": 76.47,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-06-14",
+                    "Match": "Jagiellonia Bial vs Piast Gliwice",
+                    "Odd": 1.83,
+                    "Score": "0-2",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-06-14",
+                    "Match": "Gwangju FC Gwang vs Busan I'Park",
+                    "Odd": 1.9657142857142857,
+                    "Score": "3-1",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-06-16",
+                    "Match": "Ingolstadt vs Eintracht Brauns",
+                    "Odd": 1.91,
+                    "Score": "0-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-06-16",
+                    "Match": "SKN St. Polten vs Mattersburg",
+                    "Odd": 1.87,
+                    "Score": "1-0",
+                    "H2H Under %": 69.23,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-06-18",
+                    "Match": "Hradec Kralove vs Brno",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-06-19",
+                    "Match": "Cherno More Varn vs Vitosha Bistrits",
+                    "Odd": 2.0,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-06-19",
+                    "Match": "Vitoria Guimarae vs Moreirense",
+                    "Odd": 1.94,
+                    "Score": "1-1",
+                    "H2H Under %": 56.25,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-06-21",
+                    "Match": "Olympiakos vs Panathinaikos",
+                    "Odd": 1.79,
+                    "Score": "3-0",
+                    "H2H Under %": 74.19,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-06-23",
+                    "Match": "Korona Kielce vs Rakow",
+                    "Odd": 1.764102564102564,
+                    "Score": "0-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-06-23",
+                    "Match": "Real Valladolid vs Getafe",
+                    "Odd": 2.0,
+                    "Score": "1-1",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-06-24",
+                    "Match": "Jagiellonia Bial vs Legia Warszawa",
+                    "Odd": 1.943502824858757,
+                    "Score": "0-0",
+                    "H2H Under %": 69.23,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-06-24",
+                    "Match": "Hapoel Kiryat Sh vs Hapoel Hadera",
+                    "Odd": 1.78,
+                    "Score": "0-3",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-06-25",
+                    "Match": "Mjallby AIF vs Falkenberg",
+                    "Odd": 1.76,
+                    "Score": "1-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-06-25",
+                    "Match": "Chelsea vs Manchester City",
+                    "Odd": 1.8594594594594593,
+                    "Score": "2-1",
+                    "H2H Under %": 59.26,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-06-26",
+                    "Match": "Zaglebie Lubin vs Korona Kielce",
+                    "Odd": 1.9657142857142857,
+                    "Score": "2-1",
+                    "H2H Under %": 80.95,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-06-28",
+                    "Match": "Degerfors vs Norrby IF",
+                    "Odd": 1.764102564102564,
+                    "Score": "0-1",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-06-30",
+                    "Match": "Vitoria Guimarae vs Vitoria Setubal",
+                    "Odd": 1.95,
+                    "Score": "2-0",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-06-30",
+                    "Match": "FC Famalicao vs Portimonense",
+                    "Odd": 1.8,
+                    "Score": "0-1",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 73.53,
+                "Under2.5_Count": 25,
+                "Total_Matches": 34,
+                "Average_Odds": 1.86
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 66.67,
+                "Combo_Under2.5_Count": 8,
+                "Total_Days": 12,
+                "Average_Combo_Odds": 3.52
+            }
+        },
+        "2020-07": {
+            "matches": [
+                {
+                    "Date": "2020-07-02",
+                    "Match": "GKS Belchatow vs Podbeskidzie Bie",
+                    "Odd": 1.79,
+                    "Score": "1-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-07-03",
+                    "Match": "Denizlispor vs B.B. Gaziantep",
+                    "Odd": 1.7823834196891193,
+                    "Score": "0-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-07-04",
+                    "Match": "Uerdingen KFC 05 vs Viktoria koln",
+                    "Odd": 1.87,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-07-05",
+                    "Match": "Panathinaikos vs Olympiakos",
+                    "Odd": 1.8010471204188483,
+                    "Score": "0-0",
+                    "H2H Under %": 74.19,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-07-06",
+                    "Match": "Moreirense vs Sporting Lisbon",
+                    "Odd": 1.8105263157894738,
+                    "Score": "0-0",
+                    "H2H Under %": 63.64,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-07-07",
+                    "Match": "KuPs vs Inter Turku",
+                    "Odd": 1.88,
+                    "Score": "1-0",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-07-07",
+                    "Match": "Proleter vs FK Rad Beograd",
+                    "Odd": 1.8,
+                    "Score": "3-1",
+                    "H2H Under %": 57.14,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-07-08",
+                    "Match": "NK Aluminij vs NK Bravo",
+                    "Odd": 1.72,
+                    "Score": "1-2",
+                    "H2H Under %": 68.75,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-07-12",
+                    "Match": "Piast Gliwice vs Jagiellonia Bial",
+                    "Odd": 2.0,
+                    "Score": "2-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-07-12",
+                    "Match": "Dynamo Moscow vs FK Krylya Soveto",
+                    "Odd": 2.0,
+                    "Score": "2-0",
+                    "H2H Under %": 68.75,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-07-15",
+                    "Match": "Pogon Szczecin vs Piast Gliwice",
+                    "Odd": 1.74,
+                    "Score": "1-0",
+                    "H2H Under %": 72.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-07-15",
+                    "Match": "Termalica B-B. vs Radomiak Radom",
+                    "Odd": 1.9770114942528736,
+                    "Score": "1-1",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-07-16",
+                    "Match": "FC Vorskla vs Mariupol",
+                    "Odd": 1.8,
+                    "Score": "1-2",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-07-17",
+                    "Match": "Crotone vs Salernitana",
+                    "Odd": 1.75,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-07-17",
+                    "Match": "Extremadura vs Sporting Gijon",
+                    "Odd": 1.75,
+                    "Score": "2-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-07-21",
+                    "Match": "BW Linz vs SKU Amstetten",
+                    "Odd": 1.73,
+                    "Score": "1-2",
+                    "H2H Under %": 57.14,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-07-22",
+                    "Match": "Sampdoria vs Genoa",
+                    "Odd": 1.9884393063583814,
+                    "Score": "1-2",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-07-25",
+                    "Match": "Belconnen United vs Woden Weston",
+                    "Odd": 1.911111111111111,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-07-25",
+                    "Match": "BumProm Gomel vs FC Polotsk",
+                    "Odd": 1.764102564102564,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-07-31",
+                    "Match": "Galway United vs Cabinteely",
+                    "Odd": 1.9005524861878451,
+                    "Score": "0-2",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 75.0,
+                "Under2.5_Count": 15,
+                "Total_Matches": 20,
+                "Average_Odds": 1.84
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 80.0,
+                "Combo_Under2.5_Count": 4,
+                "Total_Days": 5,
+                "Average_Combo_Odds": 3.45
+            }
+        },
+        "2020-08": {
+            "matches": [
+                {
+                    "Date": "2020-08-02",
+                    "Match": "Shinnik Yaroslav vs Torpedo moskva",
+                    "Odd": 1.74,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-02",
+                    "Match": "FC Minsk vs Rukh Brest",
+                    "Odd": 1.8594594594594593,
+                    "Score": "0-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-03",
+                    "Match": "Ahrobiznes Voloc vs MFK Mikolaiv",
+                    "Odd": 1.91,
+                    "Score": "2-2",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-08-03",
+                    "Match": "Orgryte vs Vasteras SK FK",
+                    "Odd": 1.9,
+                    "Score": "2-1",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-08-04",
+                    "Match": "Lillestrom vs Sogndal",
+                    "Odd": 1.8594594594594593,
+                    "Score": "0-2",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-04",
+                    "Match": "WS Wanderers vs Perth Glory",
+                    "Odd": 1.81,
+                    "Score": "1-3",
+                    "H2H Under %": 56.52,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-08-05",
+                    "Match": "Ilves Tampere vs RoPS Rovaniemi",
+                    "Odd": 2.0,
+                    "Score": "1-0",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-05",
+                    "Match": "SJK Seinajoki vs KuPs",
+                    "Odd": 1.84,
+                    "Score": "1-1",
+                    "H2H Under %": 63.89,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-06",
+                    "Match": "Kalmar vs Orebro",
+                    "Odd": 1.7916666666666667,
+                    "Score": "0-3",
+                    "H2H Under %": 69.23,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-08-06",
+                    "Match": "Sevilla vs AS Roma",
+                    "Odd": 1.943502824858757,
+                    "Score": "2-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-07",
+                    "Match": "FK Avanhard Kram vs Minaj (Ukr)",
+                    "Odd": 1.9770114942528736,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-07",
+                    "Match": "Juventus vs Lyon",
+                    "Odd": 1.72,
+                    "Score": "2-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-08-08",
+                    "Match": "Charlotte Indepe vs Charleston Batte",
+                    "Odd": 1.91,
+                    "Score": "1-1",
+                    "H2H Under %": 68.42,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-09",
+                    "Match": "Proleter vs Backa",
+                    "Odd": 1.81,
+                    "Score": "1-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-09",
+                    "Match": "Sangju Sangmu vs Busan I'Park",
+                    "Odd": 1.8695652173913042,
+                    "Score": "2-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-11",
+                    "Match": "Niort vs Cholet",
+                    "Odd": 1.7461928934010151,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-12",
+                    "Match": "Kashiwa Reysol vs Oita Trinita",
+                    "Odd": 1.8695652173913042,
+                    "Score": "3-1",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-08-12",
+                    "Match": "Jonkopings Sodra vs Dalkurd FF",
+                    "Odd": 1.9217877094972067,
+                    "Score": "2-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-08-13",
+                    "Match": "12 de Octubre vs San Lorenzo",
+                    "Odd": 1.8797814207650272,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-13",
+                    "Match": "Castanhal vs Remo Belem (PA)",
+                    "Odd": 1.7551020408163265,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-14",
+                    "Match": "Jiangsu Suning vs Shanghai Shenhua",
+                    "Odd": 2.0,
+                    "Score": "0-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-14",
+                    "Match": "Bray Wanderers vs UC Dublin",
+                    "Odd": 2.0,
+                    "Score": "2-0",
+                    "H2H Under %": 64.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-15",
+                    "Match": "SK Cesky Brod vs FC Pisek",
+                    "Odd": 2.0,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-17",
+                    "Match": "Queretaro FC vs Club America",
+                    "Odd": 1.8297872340425532,
+                    "Score": "4-1",
+                    "H2H Under %": 72.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-08-17",
+                    "Match": "Longford Town vs Cabinteely",
+                    "Odd": 1.88,
+                    "Score": "1-3",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-08-19",
+                    "Match": "Connahs Quay Tow vs FK Sarajevo",
+                    "Odd": 1.77,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-20",
+                    "Match": "Remo Belem (PA) vs Castanhal",
+                    "Odd": 1.8010471204188483,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-20",
+                    "Match": "Glentoran FC vs HB Torshavn",
+                    "Odd": 1.8494623655913978,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-21",
+                    "Match": "Delfin vs Orense",
+                    "Odd": 1.87,
+                    "Score": "0-0",
+                    "H2H Under %": 81.82,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-21",
+                    "Match": "Chojniczanka Cho vs Elblag",
+                    "Odd": 1.764102564102564,
+                    "Score": "1-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-22",
+                    "Match": "Sloga Kraljevo vs Kabel Novi Sad",
+                    "Odd": 1.76,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-22",
+                    "Match": "Guingamp vs Niort",
+                    "Odd": 1.75,
+                    "Score": "0-1",
+                    "H2H Under %": 90.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-23",
+                    "Match": "Warta Poznan vs Lechia Gdansk",
+                    "Odd": 1.91,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-23",
+                    "Match": "Ujpest vs Budafoki MTE",
+                    "Odd": 1.9657142857142857,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-24",
+                    "Match": "Jiangsu Suning vs Shenzhen FC",
+                    "Odd": 1.9005524861878451,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-24",
+                    "Match": "Stabaek vs Brann",
+                    "Odd": 1.9325842696629212,
+                    "Score": "0-2",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-25",
+                    "Match": "Macara vs Tecnico Universi",
+                    "Odd": 1.89,
+                    "Score": "0-0",
+                    "H2H Under %": 82.35,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-25",
+                    "Match": "Philadelphia Uni vs New York Red Bul",
+                    "Odd": 1.9217877094972067,
+                    "Score": "1-0",
+                    "H2H Under %": 67.86,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-26",
+                    "Match": "Ludogorets Razgr vs Midtjylland",
+                    "Odd": 1.87,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-26",
+                    "Match": "AZ Alkmaar vs FC Viktoria Plze",
+                    "Odd": 1.88,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-27",
+                    "Match": "Teuta Durres vs Beitar Jerusalem",
+                    "Odd": 1.89,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-27",
+                    "Match": "Malmo FF vs Cracovia Krakow",
+                    "Odd": 1.9545454545454546,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-28",
+                    "Match": "Zaglebie Lubin vs Warta Poznan",
+                    "Odd": 1.9005524861878451,
+                    "Score": "1-0",
+                    "H2H Under %": 63.64,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-28",
+                    "Match": "Seraing vs KMSK Deinze",
+                    "Odd": 1.93,
+                    "Score": "3-2",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-08-29",
+                    "Match": "Zlatibor Cajetin vs Mladost Lucani",
+                    "Odd": 1.728643216080402,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-30",
+                    "Match": "Portuguesa Santi vs Votuporanguense",
+                    "Odd": 1.77,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-30",
+                    "Match": "Rio Claro vs Sertaozinho",
+                    "Odd": 1.72,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-31",
+                    "Match": "CD Magallanes vs Barnechea",
+                    "Odd": 1.73,
+                    "Score": "1-1",
+                    "H2H Under %": 53.85,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-08-31",
+                    "Match": "Cienciano vs Universitario De",
+                    "Odd": 1.9325842696629212,
+                    "Score": "1-3",
+                    "H2H Under %": 53.33,
+                    "Under2.5_Result": false
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 77.55,
+                "Under2.5_Count": 38,
+                "Total_Matches": 49,
+                "Average_Odds": 1.86
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 63.64,
+                "Combo_Under2.5_Count": 14,
+                "Total_Days": 22,
+                "Average_Combo_Odds": 3.48
+            }
+        },
+        "2020-09": {
+            "matches": [
+                {
+                    "Date": "2020-09-01",
+                    "Match": "Coquimbo Unido vs Audax Italiano",
+                    "Odd": 1.8395721925133688,
+                    "Score": "0-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-01",
+                    "Match": "Carlos Stein vs Cajamarca",
+                    "Odd": 1.72,
+                    "Score": "0-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-03",
+                    "Match": "Shandong Luneng vs Jiangsu Suning",
+                    "Odd": 1.8010471204188483,
+                    "Score": "0-1",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-03",
+                    "Match": "Real Salt Lake vs Seattle Sounders",
+                    "Odd": 1.9325842696629212,
+                    "Score": "2-2",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-09-04",
+                    "Match": "Deportes La Sere vs O.Higgins",
+                    "Odd": 2.0,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-04",
+                    "Match": "Malta U21 vs Northern Ireland",
+                    "Odd": 1.78,
+                    "Score": "0-2",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-05",
+                    "Match": "Tokushima Vortis vs Thespa Kusatsu",
+                    "Odd": 1.88,
+                    "Score": "2-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-05",
+                    "Match": "Bidvest Wits vs Polokwane",
+                    "Odd": 1.8,
+                    "Score": "3-1",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-09-06",
+                    "Match": "Groningen vs Arminia Bielefel",
+                    "Odd": 1.98,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-07",
+                    "Match": "Binacional vs Cienciano",
+                    "Odd": 1.9884393063583814,
+                    "Score": "0-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-07",
+                    "Match": "Czech Republic vs Scotland",
+                    "Odd": 1.9005524861878451,
+                    "Score": "1-2",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-09-08",
+                    "Match": "Lincoln City vs Scunthorpe Unite",
+                    "Odd": 1.87,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-08",
+                    "Match": "Portsmouth vs Colchester Unite",
+                    "Odd": 1.8594594594594593,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-09",
+                    "Match": "Thespa Kusatsu vs Kyoto Sanga",
+                    "Odd": 1.87,
+                    "Score": "0-2",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-09",
+                    "Match": "Cadiz vs Almeria",
+                    "Odd": 1.86,
+                    "Score": "1-1",
+                    "H2H Under %": 76.92,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-10",
+                    "Match": "Centro Atletico vs Deportivo Maldon",
+                    "Odd": 1.8297872340425532,
+                    "Score": "1-0",
+                    "H2H Under %": 78.57,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-10",
+                    "Match": "Hobro vs Viborg",
+                    "Odd": 1.911111111111111,
+                    "Score": "1-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-11",
+                    "Match": "Alianza Lima vs Cajamarca",
+                    "Odd": 1.76,
+                    "Score": "0-2",
+                    "H2H Under %": 88.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-11",
+                    "Match": "Odra Opole vs Zaglebie Sosnowi",
+                    "Odd": 1.72,
+                    "Score": "1-0",
+                    "H2H Under %": 76.92,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-12",
+                    "Match": "Bolton Wanderers vs Forest Green Rov",
+                    "Odd": 1.73,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-12",
+                    "Match": "Gillingham vs Hull City",
+                    "Odd": 1.72,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-13",
+                    "Match": "Volgar Astrakhan vs Chertanovo M.",
+                    "Odd": 1.9005524861878451,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-13",
+                    "Match": "Ipswich Town vs Wigan Athletic",
+                    "Odd": 1.8594594594594593,
+                    "Score": "2-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-14",
+                    "Match": "Juventude vs Vitoria BA",
+                    "Odd": 1.74,
+                    "Score": "1-1",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-14",
+                    "Match": "Carlos Mannucci vs Grau",
+                    "Odd": 1.78,
+                    "Score": "0-2",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-15",
+                    "Match": "Dynamo Kyiv vs AZ Alkmaar",
+                    "Odd": 1.9884393063583814,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-15",
+                    "Match": "NK Opatija vs HNK Cibalia",
+                    "Odd": 1.9005524861878451,
+                    "Score": "0-1",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-16",
+                    "Match": "ACD Virtus Entel vs Lucchese",
+                    "Odd": 1.8201058201058202,
+                    "Score": "1-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-16",
+                    "Match": "Zapresic vs Orijent",
+                    "Odd": 1.96,
+                    "Score": "1-2",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-09-17",
+                    "Match": "KuPs vs Slovan Bratislav",
+                    "Odd": 1.9770114942528736,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-17",
+                    "Match": "Botosani vs FK Shkendija 79",
+                    "Odd": 1.78,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-18",
+                    "Match": "Podbeskidzie Bie vs Rakow",
+                    "Odd": 1.9217877094972067,
+                    "Score": "1-4",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-09-18",
+                    "Match": "Monza vs Alessandria",
+                    "Odd": 1.86,
+                    "Score": "1-0",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-19",
+                    "Match": "VFB Lubeck vs Saarbrucken",
+                    "Odd": 1.8297872340425532,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-19",
+                    "Match": "Carlisle United vs Southend United",
+                    "Odd": 1.81,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-20",
+                    "Match": "FK Rad Beograd vs Habitpharm Javor",
+                    "Odd": 1.7551020408163265,
+                    "Score": "1-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-20",
+                    "Match": "Cerro Montevideo vs Rentistas",
+                    "Odd": 1.8201058201058202,
+                    "Score": "1-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-21",
+                    "Match": "Piast Gliwice vs Jagiellonia Bial",
+                    "Odd": 1.7823834196891193,
+                    "Score": "0-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-21",
+                    "Match": "Cabinteely vs Galway United",
+                    "Odd": 1.89,
+                    "Score": "0-1",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-22",
+                    "Match": "W.B.A vs Brentford",
+                    "Odd": 1.7731958762886597,
+                    "Score": "2-2",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-09-22",
+                    "Match": "Chongqing Lifan vs Wuhan Zall",
+                    "Odd": 1.92,
+                    "Score": "1-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-23",
+                    "Match": "NK Opatija vs Solin",
+                    "Odd": 1.9005524861878451,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-23",
+                    "Match": "Volgar Astrakhan vs Omsk",
+                    "Odd": 1.81,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-24",
+                    "Match": "Atletico Huila vs Real San Andres",
+                    "Odd": 1.8,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-24",
+                    "Match": "Besiktas vs Rio Ave",
+                    "Odd": 1.7916666666666667,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-25",
+                    "Match": "S. Rzeszow vs Elblag",
+                    "Odd": 1.92,
+                    "Score": "0-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-25",
+                    "Match": "Univ.Cesar Valle vs AD Cantolao",
+                    "Odd": 1.87,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-26",
+                    "Match": "Port Vale vs Harrogate Town",
+                    "Odd": 1.8010471204188483,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-26",
+                    "Match": "Dalkurd FF vs Akropolis IF",
+                    "Odd": 1.84,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-27",
+                    "Match": "Shenzhen FC vs Jiangsu Suning",
+                    "Odd": 1.9657142857142857,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-27",
+                    "Match": "GD Chaves vs Cova De Piedade",
+                    "Odd": 1.79,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-28",
+                    "Match": "Dinamo Bucuresti vs FC UT Arad",
+                    "Odd": 1.8,
+                    "Score": "0-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-28",
+                    "Match": "Antalyaspor vs Denizlispor",
+                    "Odd": 1.81,
+                    "Score": "1-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-29",
+                    "Match": "Gremio RS vs Univ Catolica",
+                    "Odd": 1.79,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-09-30",
+                    "Match": "Chievo vs Catanzaro",
+                    "Odd": 2.0,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 89.09,
+                "Under2.5_Count": 49,
+                "Total_Matches": 55,
+                "Average_Odds": 1.85
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 76.92,
+                "Combo_Under2.5_Count": 20,
+                "Total_Days": 26,
+                "Average_Combo_Odds": 3.4
+            }
+        },
+        "2020-10": {
+            "matches": [
+                {
+                    "Date": "2020-10-01",
+                    "Match": "Rio Ave vs AC Milan",
+                    "Odd": 1.8105263157894738,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-01",
+                    "Match": "Rosenborg vs PSV Eindhoven",
+                    "Odd": 1.9005524861878451,
+                    "Score": "0-2",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-03",
+                    "Match": "GKS Tychy vs Korona Kielce",
+                    "Odd": 1.93,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-03",
+                    "Match": "Levski Sofia vs Botev Vratsa",
+                    "Odd": 1.7916666666666667,
+                    "Score": "0-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-04",
+                    "Match": "Pro Sesto vs Carrarese",
+                    "Odd": 1.87,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-04",
+                    "Match": "Puszcza Niepolom vs Widzew lodz",
+                    "Odd": 1.79,
+                    "Score": "1-0",
+                    "H2H Under %": 88.89,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-05",
+                    "Match": "Trayal Krusevac vs Sloga Kraljevo",
+                    "Odd": 1.97,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-05",
+                    "Match": "SV Wehen Wiesbad vs Kaiserslautern",
+                    "Odd": 1.97,
+                    "Score": "2-2",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-10-06",
+                    "Match": "Leyton Orient vs AFC Wimbledon",
+                    "Odd": 1.8594594594594593,
+                    "Score": "2-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-06",
+                    "Match": "CA Penarol vs CA Progreso",
+                    "Odd": 1.7916666666666667,
+                    "Score": "2-1",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-10-07",
+                    "Match": "Slagelse B&I vs Skovshoved",
+                    "Odd": 1.7731958762886597,
+                    "Score": "2-0",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-07",
+                    "Match": "Landskrona BoIS vs Torns IF",
+                    "Odd": 1.98,
+                    "Score": "2-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-08",
+                    "Match": "Lithuania U21 vs Greece U21",
+                    "Odd": 1.78,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-08",
+                    "Match": "San Luis Quillot vs Nublense",
+                    "Odd": 1.77,
+                    "Score": "0-2",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-09",
+                    "Match": "America MG vs Nautico Capibari",
+                    "Odd": 1.86,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-09",
+                    "Match": "Serbia U21 vs Poland U21",
+                    "Odd": 1.8494623655913978,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-10",
+                    "Match": "Weymouth vs Sutton United",
+                    "Odd": 1.78,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-10",
+                    "Match": "Globo vs America RN",
+                    "Odd": 1.8105263157894738,
+                    "Score": "0-2",
+                    "H2H Under %": 88.89,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-12",
+                    "Match": "Millonarios vs Aguilas D.",
+                    "Odd": 1.8010471204188483,
+                    "Score": "0-0",
+                    "H2H Under %": 76.19,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-12",
+                    "Match": "Cobreloa vs San Luis Quillot",
+                    "Odd": 1.7731958762886597,
+                    "Score": "0-0",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-13",
+                    "Match": "Halifax Town vs Yeovil Town",
+                    "Odd": 1.84,
+                    "Score": "1-1",
+                    "H2H Under %": 90.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-14",
+                    "Match": "FC Ryukyu vs Thespa Kusatsu",
+                    "Odd": 1.98,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-14",
+                    "Match": "Tekirdagspor vs Bayrampasa",
+                    "Odd": 1.8105263157894738,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-15",
+                    "Match": "Club Sport Emele vs Orense",
+                    "Odd": 2.0,
+                    "Score": "1-0",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-15",
+                    "Match": "Aguilas D. vs Atletico Naciona",
+                    "Odd": 1.94,
+                    "Score": "2-3",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-10-16",
+                    "Match": "Termalica B-B. vs GKS Jastrzebie",
+                    "Odd": 1.97,
+                    "Score": "2-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-16",
+                    "Match": "Tianjin Teda vs Shenzhen FC",
+                    "Odd": 1.8797814207650272,
+                    "Score": "2-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-17",
+                    "Match": "ACD Virtus Entel vs Reggina",
+                    "Odd": 1.76,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-17",
+                    "Match": "Brentford vs Coventry City",
+                    "Odd": 1.8594594594594593,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-18",
+                    "Match": "Perugia vs Fermana",
+                    "Odd": 1.76,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-19",
+                    "Match": "Genclerbirligi vs Denizlispor",
+                    "Odd": 1.72,
+                    "Score": "1-2",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-10-19",
+                    "Match": "W.B.A vs Burnley",
+                    "Odd": 1.85,
+                    "Score": "0-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-20",
+                    "Match": "Rennes vs FK Krasnodar",
+                    "Odd": 1.98,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-20",
+                    "Match": "Cheltenham Town vs Scunthorpe Unite",
+                    "Odd": 1.8,
+                    "Score": "1-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-21",
+                    "Match": "Colo Colo vs Jorge Wilsterman",
+                    "Odd": 2.0,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-21",
+                    "Match": "Muglaspor vs Kizilcabolukspor",
+                    "Odd": 1.85,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-22",
+                    "Match": "Dinamo Zagreb vs Feyenoord",
+                    "Odd": 1.911111111111111,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-22",
+                    "Match": "Wolfsberger AC vs CSKA Moscow",
+                    "Odd": 1.9325842696629212,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-23",
+                    "Match": "Liverpool (URU) vs Cerro Montevideo",
+                    "Odd": 1.91,
+                    "Score": "3-2",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-10-24",
+                    "Match": "Doncaster Rovers vs Crewe Alexandra",
+                    "Odd": 1.7551020408163265,
+                    "Score": "1-2",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-10-24",
+                    "Match": "Incheon United vs Busan I'Park",
+                    "Odd": 1.78,
+                    "Score": "2-1",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-10-25",
+                    "Match": "Olbia vs Pro Vercelli",
+                    "Odd": 1.74,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-25",
+                    "Match": "D. Zagreb 2 vs NK Junak Sinj",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-26",
+                    "Match": "Brighton Hove Al vs W.B.A",
+                    "Odd": 1.8594594594594593,
+                    "Score": "1-1",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-26",
+                    "Match": "Aalborg BK vs Vejle",
+                    "Odd": 1.9325842696629212,
+                    "Score": "1-3",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-10-27",
+                    "Match": "Porto vs Olympiakos",
+                    "Odd": 1.7461928934010151,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-27",
+                    "Match": "Bolton Wanderers vs Bradford City",
+                    "Odd": 1.79,
+                    "Score": "1-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-29",
+                    "Match": "Real Sociedad vs Napoli",
+                    "Odd": 1.86,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-30",
+                    "Match": "Kamatamare Sanuk vs Fujieda MYFC",
+                    "Odd": 1.75,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-30",
+                    "Match": "Lokomotiv Plovdi vs FC Montana",
+                    "Odd": 1.83,
+                    "Score": "2-2",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-10-31",
+                    "Match": "FC Gomel vs Oshmyany",
+                    "Odd": 1.8010471204188483,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-10-31",
+                    "Match": "Beroe Stara Zago vs Arda",
+                    "Odd": 1.8297872340425532,
+                    "Score": "0-1",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 82.69,
+                "Under2.5_Count": 43,
+                "Total_Matches": 52,
+                "Average_Odds": 1.85
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 70.83,
+                "Combo_Under2.5_Count": 17,
+                "Total_Days": 24,
+                "Average_Combo_Odds": 3.41
+            }
+        },
+        "2020-11": {
+            "matches": [
+                {
+                    "Date": "2020-11-01",
+                    "Match": "Eskisehirspor vs Akhisar Bld.Geng",
+                    "Odd": 1.98,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-01",
+                    "Match": "Rotor Volgograd vs CSKA Moscow",
+                    "Odd": 2.0,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-02",
+                    "Match": "Nes Tziona vs Hapoel Kfar Shal",
+                    "Odd": 1.83,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-02",
+                    "Match": "Palmeiras vs Atletico Mineiro",
+                    "Odd": 1.8105263157894738,
+                    "Score": "3-0",
+                    "H2H Under %": 72.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-11-03",
+                    "Match": "Gawin Sleza Wroc vs Gornik Leczna",
+                    "Odd": 1.8395721925133688,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-03",
+                    "Match": "Kettering Town vs Southport",
+                    "Odd": 1.82,
+                    "Score": "0-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-05",
+                    "Match": "Villarreal vs Maccabi Tel Aviv",
+                    "Odd": 1.9545454545454546,
+                    "Score": "4-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-11-05",
+                    "Match": "Palmeiras vs Bragantino",
+                    "Odd": 1.7373737373737375,
+                    "Score": "1-0",
+                    "H2H Under %": 54.55,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-06",
+                    "Match": "Miedz Legnica vs Widzew lodz",
+                    "Odd": 1.9325842696629212,
+                    "Score": "1-1",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-06",
+                    "Match": "Cardiff City vs Bristol City",
+                    "Odd": 1.73,
+                    "Score": "0-1",
+                    "H2H Under %": 78.57,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-07",
+                    "Match": "FK Lida vs Sputnik",
+                    "Odd": 1.96,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-07",
+                    "Match": "Motala AIF FK vs Qviding FIF",
+                    "Odd": 1.9884393063583814,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-08",
+                    "Match": "Kabel Novi Sad vs Trayal Krusevac",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-08",
+                    "Match": "VFB Lubeck vs Uerdingen KFC 05",
+                    "Odd": 1.7373737373737375,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-09",
+                    "Match": "Newells Old Boys vs Boca Juniors",
+                    "Odd": 1.72,
+                    "Score": "0-2",
+                    "H2H Under %": 73.68,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-09",
+                    "Match": "Shelbourne vs Shamrock Rovers",
+                    "Odd": 1.93,
+                    "Score": "0-2",
+                    "H2H Under %": 64.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-10",
+                    "Match": "Crawley Town vs Ipswich Town",
+                    "Odd": 1.8010471204188483,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-10",
+                    "Match": "Olimpia Grudziad vs Pruszkow",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-12",
+                    "Match": "Sport Huancayo vs Univ.Cesar Valle",
+                    "Odd": 1.83,
+                    "Score": "0-0",
+                    "H2H Under %": 72.22,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-13",
+                    "Match": "Everton CD vs O.Higgins",
+                    "Odd": 1.93,
+                    "Score": "0-1",
+                    "H2H Under %": 70.59,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-14",
+                    "Match": "Northampton Town vs Accrington Stanl",
+                    "Odd": 1.75,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-14",
+                    "Match": "Cambridge United vs Barrow",
+                    "Odd": 1.76,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-16",
+                    "Match": "Bastia vs Stade Briochin",
+                    "Odd": 1.72,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-16",
+                    "Match": "Velez Sarsfield vs Patronato Parana",
+                    "Odd": 1.76,
+                    "Score": "1-0",
+                    "H2H Under %": 90.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-17",
+                    "Match": "Greece U21 vs Scotland U21",
+                    "Odd": 1.7551020408163265,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-17",
+                    "Match": "Hartlepool Unite vs Wrexham",
+                    "Odd": 1.911111111111111,
+                    "Score": "0-1",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-18",
+                    "Match": "Peru vs Argentina",
+                    "Odd": 1.77,
+                    "Score": "0-2",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-18",
+                    "Match": "Palermo vs Potenza",
+                    "Odd": 1.77,
+                    "Score": "1-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-19",
+                    "Match": "CSD Antofagasta vs Everton CD",
+                    "Odd": 1.75,
+                    "Score": "1-1",
+                    "H2H Under %": 53.85,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-20",
+                    "Match": "Zapresic vs D. Zagreb 2",
+                    "Odd": 1.76,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-20",
+                    "Match": "Termalica B-B. vs Widzew lodz",
+                    "Odd": 1.8105263157894738,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-21",
+                    "Match": "SKA-Energiya Kha vs FK Krylya Soveto",
+                    "Odd": 1.75,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-21",
+                    "Match": "Marinhense vs Cova De Piedade",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-22",
+                    "Match": "Ingolstadt vs Magdeburg",
+                    "Odd": 1.8105263157894738,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-22",
+                    "Match": "Felgueiras vs CD Tondela",
+                    "Odd": 1.728643216080402,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-23",
+                    "Match": "Academica Coimbr vs Varzim",
+                    "Odd": 1.73,
+                    "Score": "1-0",
+                    "H2H Under %": 69.23,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-23",
+                    "Match": "Orense vs Barcelona SC(ECU",
+                    "Odd": 1.94,
+                    "Score": "0-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-24",
+                    "Match": "Athletico-PR vs River Plate",
+                    "Odd": 1.81,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-24",
+                    "Match": "Ankaraspor vs Muglaspor",
+                    "Odd": 1.81,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-26",
+                    "Match": "AZ Alkmaar vs Real Sociedad",
+                    "Odd": 1.9657142857142857,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-26",
+                    "Match": "LASK Linz vs Royal Antwerp",
+                    "Odd": 1.943502824858757,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-27",
+                    "Match": "Tranmere Rovers vs Brackley Town",
+                    "Odd": 1.8297872340425532,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-27",
+                    "Match": "Dep.Independient vs Deportivo Pereir",
+                    "Odd": 1.73,
+                    "Score": "1-2",
+                    "H2H Under %": 73.33,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-11-28",
+                    "Match": "Monza vs Reggina",
+                    "Odd": 1.73,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-28",
+                    "Match": "Grau vs Alianza Huanuco",
+                    "Odd": 1.8395721925133688,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-11-29",
+                    "Match": "Mansfield Town vs Dagenham Redbrid",
+                    "Odd": 1.87,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 93.48,
+                "Under2.5_Count": 43,
+                "Total_Matches": 46,
+                "Average_Odds": 1.82
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 85.71,
+                "Combo_Under2.5_Count": 18,
+                "Total_Days": 21,
+                "Average_Combo_Odds": 3.3
+            }
+        },
+        "2020-12": {
+            "matches": [
+                {
+                    "Date": "2020-12-01",
+                    "Match": "Northampton Town vs Fleetwood Town",
+                    "Odd": 1.77,
+                    "Score": "1-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-02",
+                    "Match": "Wycombe Wanderer vs Stoke City",
+                    "Odd": 1.73,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-02",
+                    "Match": "Arcahaie vs Forge",
+                    "Odd": 1.94,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-03",
+                    "Match": "CSKA Moscow vs Wolfsberger AC",
+                    "Odd": 1.9545454545454546,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-03",
+                    "Match": "Feyenoord vs Dinamo Zagreb",
+                    "Odd": 1.8105263157894738,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-04",
+                    "Match": "Gremio RS vs Guarani CA",
+                    "Odd": 1.86,
+                    "Score": "2-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-04",
+                    "Match": "Cracovia Krakow vs Wisla Krakow",
+                    "Odd": 1.84,
+                    "Score": "1-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-05",
+                    "Match": "General Diaz vs CA River Plate",
+                    "Odd": 1.9217877094972067,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-05",
+                    "Match": "Farsley Celtic vs Telford United",
+                    "Odd": 1.97,
+                    "Score": "2-0",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-06",
+                    "Match": "FC STK 1914 Samo vs Sport Podbrezova",
+                    "Odd": 1.8201058201058202,
+                    "Score": "0-2",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-06",
+                    "Match": "Sao Paulo vs Sport Club do Re",
+                    "Odd": 1.8105263157894738,
+                    "Score": "1-0",
+                    "H2H Under %": 78.57,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-07",
+                    "Match": "Pordenone Calcio vs Empoli",
+                    "Odd": 1.94,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-07",
+                    "Match": "Union La Calera vs Everton CD",
+                    "Odd": 1.78,
+                    "Score": "",
+                    "H2H Under %": 61.11,
+                    "Under2.5_Result": null
+                },
+                {
+                    "Date": "2020-12-08",
+                    "Match": "Shrewsbury Town vs Lincoln City",
+                    "Odd": 1.86,
+                    "Score": "1-4",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-12-08",
+                    "Match": "Grimsby Town vs Newport",
+                    "Odd": 1.7461928934010151,
+                    "Score": "0-2",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-09",
+                    "Match": "Ehime FC vs Ventforet Kofu",
+                    "Odd": 1.73,
+                    "Score": "0-2",
+                    "H2H Under %": 76.92,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-10",
+                    "Match": "Hapoel Beer Shev vs Nice",
+                    "Odd": 1.764102564102564,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-10",
+                    "Match": "Napoli vs Real Sociedad",
+                    "Odd": 1.77,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-11",
+                    "Match": "Olimpic Donetsk vs FC Lviv",
+                    "Odd": 1.8797814207650272,
+                    "Score": "1-1",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-11",
+                    "Match": "Sporting Lisbon vs Pacos de Ferreir",
+                    "Odd": 1.7916666666666667,
+                    "Score": "3-0",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-12-12",
+                    "Match": "VFB Lubeck vs Magdeburg",
+                    "Odd": 1.83,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-12",
+                    "Match": "Uerdingen KFC 05 vs Turkgucu Munchen",
+                    "Odd": 1.8010471204188483,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-14",
+                    "Match": "Central Cordoba vs Godoy Cruz Anton",
+                    "Odd": 1.81,
+                    "Score": "1-1",
+                    "H2H Under %": 90.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-14",
+                    "Match": "CSD Antofagasta vs Huachipato",
+                    "Odd": 1.91,
+                    "Score": "2-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-12-16",
+                    "Match": "Viktoria koln vs Uerdingen KFC 05",
+                    "Odd": 1.79,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-16",
+                    "Match": "Ibiza Islas Piti vs Sabadell",
+                    "Odd": 1.9217877094972067,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-17",
+                    "Match": "Vojvodina Novi S vs Proleter",
+                    "Odd": 1.72,
+                    "Score": "2-0",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-17",
+                    "Match": "FK Krasnodar vs Bashinformsvyaz-",
+                    "Odd": 1.9217877094972067,
+                    "Score": "1-0",
+                    "H2H Under %": 81.82,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-18",
+                    "Match": "Jahn Regensburg vs Hannover 96",
+                    "Odd": 1.943502824858757,
+                    "Score": "0-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-18",
+                    "Match": "Troyes vs Niort",
+                    "Odd": 1.9657142857142857,
+                    "Score": "1-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-19",
+                    "Match": "Mansfield Town vs Southend United",
+                    "Odd": 1.7461928934010151,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-19",
+                    "Match": "Danubio FC vs CA Penarol",
+                    "Odd": 1.72,
+                    "Score": "1-4",
+                    "H2H Under %": 84.21,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-12-20",
+                    "Match": "SL Benfica B vs Vizela",
+                    "Odd": 1.9545454545454546,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-20",
+                    "Match": "Kyoto Sanga vs Thespa Kusatsu",
+                    "Odd": 1.8010471204188483,
+                    "Score": "0-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-21",
+                    "Match": "Rosario Central vs Union Santa Fe",
+                    "Odd": 1.9884393063583814,
+                    "Score": "2-2",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-12-21",
+                    "Match": "Universidad de C vs Deportes La Sere",
+                    "Odd": 1.7373737373737375,
+                    "Score": "0-2",
+                    "H2H Under %": 69.23,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-22",
+                    "Match": "FC Cologne vs VfL Osnabruck",
+                    "Odd": 1.9325842696629212,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-22",
+                    "Match": "Cosenza Calcio 1 vs Venezia",
+                    "Odd": 1.84,
+                    "Score": "0-0",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-23",
+                    "Match": "Belenenses vs Sp. Espinho",
+                    "Odd": 1.81,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-24",
+                    "Match": "Barcelona SC(ECU vs LDU Quito",
+                    "Odd": 1.73,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-24",
+                    "Match": "Doxa Katokopias vs Olympiakos Nicos",
+                    "Odd": 1.8395721925133688,
+                    "Score": "1-1",
+                    "H2H Under %": 57.89,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-25",
+                    "Match": "Hapoel Rishon Le vs Hapoel Kfar Shal",
+                    "Odd": 1.81,
+                    "Score": "3-2",
+                    "H2H Under %": 33.33,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-12-26",
+                    "Match": "Milton Keynes Do vs Bristol Rovers",
+                    "Odd": 2.0,
+                    "Score": "2-0",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-27",
+                    "Match": "Santos vs Ceara",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-28",
+                    "Match": "Notts County vs Hartlepool Unite",
+                    "Odd": 1.911111111111111,
+                    "Score": "0-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-28",
+                    "Match": "Newells Old Boys vs Central Cordoba",
+                    "Odd": 1.8494623655913978,
+                    "Score": "3-1",
+                    "H2H Under %": 61.54,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-12-29",
+                    "Match": "Manchester Unite vs Wolverhampton",
+                    "Odd": 1.9005524861878451,
+                    "Score": "1-0",
+                    "H2H Under %": 76.47,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2020-12-29",
+                    "Match": "Walsall vs Scunthorpe Unite",
+                    "Odd": 1.7373737373737375,
+                    "Score": "1-2",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-12-30",
+                    "Match": "Atletico Tucuman vs San Lorenzo",
+                    "Odd": 1.85,
+                    "Score": "1-3",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-12-30",
+                    "Match": "Pordenone Calcio vs Reggiana",
+                    "Odd": 1.85,
+                    "Score": "3-0",
+                    "H2H Under %": 62.5,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2020-12-31",
+                    "Match": "Central Coast Ma vs Newcastle Jets",
+                    "Odd": 1.86,
+                    "Score": "1-0",
+                    "H2H Under %": 44.44,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 80.0,
+                "Under2.5_Count": 40,
+                "Total_Matches": 50,
+                "Average_Odds": 1.84
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 61.9,
+                "Combo_Under2.5_Count": 13,
+                "Total_Days": 21,
+                "Average_Combo_Odds": 3.4
+            }
+        }
+    },
+    "year_summary": {
+        "single_stats": {
+            "Under2.5_Percentage": 80.13,
+            "Under2.5_Count": 363,
+            "Total_Matches": 453,
+            "Average_Odds": 1.84
+        },
+        "combo_stats": {
+            "Combo_Under2.5_Percentage": 66.49,
+            "Combo_Under2.5_Count": 127,
+            "Total_Days": 191,
+            "Average_Combo_Odds": 3.41
+        }
+    }
+}

@@ -1,0 +1,4738 @@
+{
+    "months": {
+        "2024-01": {
+            "matches": [
+                {
+                    "Date": "2024-01-01",
+                    "Match": "Stoke City vs Ipswich Town",
+                    "Odd": 1.8010471204188483,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-01",
+                    "Match": "Nes Tziona vs Hapoel Kiryat Sh",
+                    "Odd": 1.7731958762886597,
+                    "Score": "0-1",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-02",
+                    "Match": "Francana U20 vs Rio Claro U20",
+                    "Odd": 1.81,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-05",
+                    "Match": "RC Kouba vs NA Hussein Dey",
+                    "Odd": 1.74,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-05",
+                    "Match": "Feignies-Aulnoye vs Quevilly Rouen",
+                    "Odd": 1.943502824858757,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-06",
+                    "Match": "Rochdale vs Kidderminster Ha",
+                    "Odd": 1.99,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-06",
+                    "Match": "PSBS Biak vs Gresik United",
+                    "Odd": 1.87,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-07",
+                    "Match": "Sangiuliano City vs Lentigione",
+                    "Odd": 1.74,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-08",
+                    "Match": "Salamanca vs Villarreal",
+                    "Odd": 1.99,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-09",
+                    "Match": "Spennymoor Town vs Scarborough Athl",
+                    "Odd": 1.8105263157894738,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-09",
+                    "Match": "Nordia Jerusalem vs Ironi Rishon Lez",
+                    "Odd": 1.79,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-10",
+                    "Match": "Manfredonia vs Andria",
+                    "Odd": 1.77,
+                    "Score": "0-2",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-11",
+                    "Match": "Juventus vs Frosinone",
+                    "Odd": 1.9325842696629212,
+                    "Score": "4-0",
+                    "H2H Under %": 20.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2024-01-12",
+                    "Match": "FC Rouen vs Marignane",
+                    "Odd": 1.74,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-12",
+                    "Match": "Inter Playa Del vs Halcones de Zapo",
+                    "Odd": 1.87,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-13",
+                    "Match": "Egnatia Rrogozhi vs Skenderbeu Korca",
+                    "Odd": 1.9884393063583814,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-13",
+                    "Match": "Amora FC vs Atletico Clube P",
+                    "Odd": 1.7823834196891193,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-14",
+                    "Match": "Recanatese vs Juventus U23",
+                    "Odd": 1.73,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-15",
+                    "Match": "Ionikos vs Olympiacos Pirae",
+                    "Odd": 1.7823834196891193,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-15",
+                    "Match": "Fakel Voronezh vs Sabail",
+                    "Odd": 1.8,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-16",
+                    "Match": "Bristol City vs West Ham United",
+                    "Odd": 1.728643216080402,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-16",
+                    "Match": "Athletic Bilbao vs Alaves",
+                    "Odd": 1.7731958762886597,
+                    "Score": "2-0",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-17",
+                    "Match": "San Luca vs Igea Virtus",
+                    "Odd": 1.73,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-17",
+                    "Match": "Tajikistan vs Qatar",
+                    "Odd": 1.9657142857142857,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-18",
+                    "Match": "Niki Volou vs Levadiakos",
+                    "Odd": 1.72,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-18",
+                    "Match": "Puntarenas vs Alajuelense",
+                    "Odd": 1.911111111111111,
+                    "Score": "0-1",
+                    "H2H Under %": 73.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-20",
+                    "Match": "Botafogo RJ vs Bangu",
+                    "Odd": 1.87,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-20",
+                    "Match": "Gillingham vs Forest Green Rov",
+                    "Odd": 1.83,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-21",
+                    "Match": "Lobos ULMX vs Irapuato",
+                    "Odd": 1.911111111111111,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-21",
+                    "Match": "Fethiyespor vs Inegolspor",
+                    "Odd": 1.7373737373737375,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-22",
+                    "Match": "Leicester City vs Ipswich Town",
+                    "Odd": 1.8797814207650272,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-22",
+                    "Match": "Napoli vs Inter Milan",
+                    "Odd": 1.8105263157894738,
+                    "Score": "0-1",
+                    "H2H Under %": 76.19,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-23",
+                    "Match": "Hartlepool Unite vs Kidderminster Ha",
+                    "Odd": 1.74,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-23",
+                    "Match": "Wigan Athletic vs Wycombe Wanderer",
+                    "Odd": 1.74,
+                    "Score": "1-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-24",
+                    "Match": "Arminia Bielefel vs SSV Ulm 1846",
+                    "Odd": 1.9770114942528736,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-24",
+                    "Match": "Dortmund II vs Jahn Regensburg",
+                    "Odd": 1.95,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-25",
+                    "Match": "Tlaxcala vs CSyD Dorados de",
+                    "Odd": 1.81,
+                    "Score": "0-1",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-25",
+                    "Match": "Municipal Limeno vs Platense",
+                    "Odd": 1.8395721925133688,
+                    "Score": "5-0",
+                    "H2H Under %": 54.55,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2024-01-26",
+                    "Match": "Varazdin vs Belupo",
+                    "Odd": 1.7823834196891193,
+                    "Score": "1-2",
+                    "H2H Under %": 76.19,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2024-01-27",
+                    "Match": "Petroleros Salam vs Lobos ULMX",
+                    "Odd": 1.82,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-27",
+                    "Match": "Alanyaspor vs Pendikspor",
+                    "Odd": 1.7823834196891193,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-29",
+                    "Match": "Kayserispor vs Antalyaspor",
+                    "Odd": 1.7373737373737375,
+                    "Score": "1-1",
+                    "H2H Under %": 68.42,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-29",
+                    "Match": "Atl. Morelia vs Mineros de Zacat",
+                    "Odd": 2.0,
+                    "Score": "1-2",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2024-01-30",
+                    "Match": "Nova Venecia vs Serra Talhada PE",
+                    "Odd": 1.7823834196891193,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-01-30",
+                    "Match": "Deportivo Cali vs Fortaleza F.C",
+                    "Odd": 1.764102564102564,
+                    "Score": "2-0",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 91.11,
+                "Under2.5_Count": 41,
+                "Total_Matches": 45,
+                "Average_Odds": 1.83
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 89.47,
+                "Combo_Under2.5_Count": 17,
+                "Total_Days": 19,
+                "Average_Combo_Odds": 3.34
+            }
+        },
+        "2024-02": {
+            "matches": [
+                {
+                    "Date": "2024-02-01",
+                    "Match": "Zacapa Tellioz vs Achuapa",
+                    "Odd": 1.72,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-01",
+                    "Match": "Wolverhampton vs Manchester Unite",
+                    "Odd": 1.8010471204188483,
+                    "Score": "3-4",
+                    "H2H Under %": 76.47,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2024-02-02",
+                    "Match": "CD Mafra vs OS Belenenses",
+                    "Odd": 1.89,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-02",
+                    "Match": "Vilaverdense vs Santa Clara",
+                    "Odd": 1.74,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-03",
+                    "Match": "Basaksehir vs Istanbulspor",
+                    "Odd": 1.99,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-03",
+                    "Match": "Welling United vs Taunton Town",
+                    "Odd": 1.88,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-05",
+                    "Match": "Brazil U23 vs Paraguay U23",
+                    "Odd": 1.97,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-06",
+                    "Match": "Hapoel Ironi Acr vs Nes Tziona",
+                    "Odd": 1.8395721925133688,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-07",
+                    "Match": "Fuerte San Franc vs Santa Tecla",
+                    "Odd": 1.73,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-07",
+                    "Match": "Votuporanguense vs EC Sao Bernardo",
+                    "Odd": 1.8594594594594593,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-08",
+                    "Match": "Internacional SC vs Nacao",
+                    "Odd": 1.7373737373737375,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-08",
+                    "Match": "Atletico Junior vs Deportivo Pasto",
+                    "Odd": 1.84,
+                    "Score": "2-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-09",
+                    "Match": "Athletic Club vs Atletico Mineiro",
+                    "Odd": 1.8395721925133688,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-09",
+                    "Match": "Nimes vs Avranches",
+                    "Odd": 1.72,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-10",
+                    "Match": "Juventus Sp vs XV de Piracicaba",
+                    "Odd": 1.76,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-10",
+                    "Match": "Karagumruk vs Pendikspor",
+                    "Odd": 1.764102564102564,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-11",
+                    "Match": "IMT Novi Beograd vs TSC",
+                    "Odd": 1.91,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-12",
+                    "Match": "Geita Gold vs Simba",
+                    "Odd": 1.85,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-12",
+                    "Match": "Farul Constanta vs Dinamo Bucuresti",
+                    "Odd": 1.86,
+                    "Score": "0-2",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-13",
+                    "Match": "Nakhon Pathom FC vs Prachuap Khiri K",
+                    "Odd": 1.8297872340425532,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-14",
+                    "Match": "Perugia vs Fermana",
+                    "Odd": 1.81,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-14",
+                    "Match": "Manama Club vs Al-Shabab",
+                    "Odd": 1.79,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-15",
+                    "Match": "Caucaia vs Horizonte CE",
+                    "Odd": 1.77,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-15",
+                    "Match": "Olympiakos vs Ferencvaros",
+                    "Odd": 1.7731958762886597,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-16",
+                    "Match": "Goztepe vs Manisa",
+                    "Odd": 1.8494623655913978,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-16",
+                    "Match": "Cholet vs Niort",
+                    "Odd": 1.74,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-17",
+                    "Match": "Maritimo vs Porto B",
+                    "Odd": 1.8201058201058202,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-17",
+                    "Match": "Kocaelispor vs S.Urfaspor",
+                    "Odd": 1.89,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-18",
+                    "Match": "TSC vs Radnik Surdulica",
+                    "Odd": 1.93,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-19",
+                    "Match": "Khonkaen Utd. vs Chiangrai United",
+                    "Odd": 1.8494623655913978,
+                    "Score": "0-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-19",
+                    "Match": "GKS Katowice vs Motor Lublin",
+                    "Odd": 1.73,
+                    "Score": "2-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-20",
+                    "Match": "Alfreton Town vs Banbury United",
+                    "Odd": 1.87,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-20",
+                    "Match": "Dover Athletic vs St Albans City",
+                    "Odd": 1.9884393063583814,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-21",
+                    "Match": "KAA Gent vs Maccabi Haifa",
+                    "Odd": 1.95,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-21",
+                    "Match": "Porto vs Arsenal",
+                    "Odd": 1.95,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-22",
+                    "Match": "Dinamo Zagreb vs Real Betis",
+                    "Odd": 1.95,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-22",
+                    "Match": "Ferencvaros vs Olympiakos",
+                    "Odd": 1.764102564102564,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-23",
+                    "Match": "FC Bdin Vidin vs Spartak Varna",
+                    "Odd": 1.78,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-25",
+                    "Match": "Plateau United vs Shooting",
+                    "Odd": 1.82,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-26",
+                    "Match": "Panathinaikos B vs Ionikos",
+                    "Odd": 1.83,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-26",
+                    "Match": "Universitario de vs Barranquilla FC",
+                    "Odd": 1.77,
+                    "Score": "1-0",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-27",
+                    "Match": "Dundee United vs Airdrie United",
+                    "Odd": 1.96,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-27",
+                    "Match": "U Craiova 1948 vs Politehnica Iasi",
+                    "Odd": 1.7916666666666667,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-28",
+                    "Match": "Ceilandia DF vs Real Sao Luiz",
+                    "Odd": 1.8,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-02-28",
+                    "Match": "Bragantino vs Aguilas D.",
+                    "Odd": 1.97,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 97.78,
+                "Under2.5_Count": 44,
+                "Total_Matches": 45,
+                "Average_Odds": 1.84
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 94.74,
+                "Combo_Under2.5_Count": 18,
+                "Total_Days": 19,
+                "Average_Combo_Odds": 3.35
+            }
+        },
+        "2024-03": {
+            "matches": [
+                {
+                    "Date": "2024-03-01",
+                    "Match": "SKU Amstetten vs Leoben",
+                    "Odd": 1.97,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-02",
+                    "Match": "VFB Lubeck vs Saarbrucken",
+                    "Odd": 1.9325842696629212,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-03",
+                    "Match": "Goztepe vs Boluspor",
+                    "Odd": 1.78,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-04",
+                    "Match": "Vilaverdense vs Pacos de Ferreir",
+                    "Odd": 1.79,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-04",
+                    "Match": "Antalyaspor vs B.B. Gaziantep",
+                    "Odd": 1.7551020408163265,
+                    "Score": "1-0",
+                    "H2H Under %": 91.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-05",
+                    "Match": "AFC Wimbledon vs Grimsby Town",
+                    "Odd": 1.91,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-05",
+                    "Match": "Sunderland vs Leicester City",
+                    "Odd": 1.8797814207650272,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-06",
+                    "Match": "Arnavutkoy Bl. vs Belediye Derince",
+                    "Odd": 1.8,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-06",
+                    "Match": "Inter de Quereta vs Pioneros",
+                    "Odd": 1.89,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-07",
+                    "Match": "NK Nafta vs Rogaska",
+                    "Odd": 1.9770114942528736,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-08",
+                    "Match": "Hapoel Kiryat Sh vs Kafr Qasim",
+                    "Odd": 1.8105263157894738,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-08",
+                    "Match": "Horizonte CE vs Caucaia",
+                    "Odd": 1.76,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-09",
+                    "Match": "Ratchaburi FC vs Lamphun Warrior",
+                    "Odd": 1.8201058201058202,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-09",
+                    "Match": "Sutton United vs Grimsby Town",
+                    "Odd": 1.96,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-10",
+                    "Match": "Fujieda MYFC vs Oita Trinita",
+                    "Odd": 1.8494623655913978,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-11",
+                    "Match": "Greenock Morton vs Hearts",
+                    "Odd": 1.943502824858757,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-12",
+                    "Match": "Crewe vs Sutton United",
+                    "Odd": 1.9217877094972067,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-12",
+                    "Match": "Central Cordoba vs Deportivo Paragu",
+                    "Odd": 1.76,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-13",
+                    "Match": "Coatepecano IB vs Club Comunicacio",
+                    "Odd": 1.81,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-13",
+                    "Match": "Ypiranga FC vs Porto Velho",
+                    "Odd": 1.91,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-14",
+                    "Match": "Rosario Central vs Douglas Haig",
+                    "Odd": 1.79,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-15",
+                    "Match": "Estoril vs Portimonense",
+                    "Odd": 1.9770114942528736,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-15",
+                    "Match": "Fortaleza vs Retro",
+                    "Odd": 1.8594594594594593,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-18",
+                    "Match": "Vilaverdense vs OS Belenenses",
+                    "Odd": 1.7731958762886597,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-19",
+                    "Match": "Braintree Town vs Weymouth",
+                    "Odd": 1.9217877094972067,
+                    "Score": "0-0",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-19",
+                    "Match": "Leones vs Atletico Huila",
+                    "Odd": 1.7373737373737375,
+                    "Score": "1-2",
+                    "H2H Under %": 54.55,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2024-03-20",
+                    "Match": "Ventforet Kofu vs Iwaki",
+                    "Odd": 1.8395721925133688,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-20",
+                    "Match": "Bosnia & Herzego vs Israel U19",
+                    "Odd": 1.82,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-21",
+                    "Match": "Saudi Arabia vs Tajikistan",
+                    "Odd": 1.911111111111111,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-23",
+                    "Match": "Warrington Town vs Scunthorpe Unite",
+                    "Odd": 1.95,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-23",
+                    "Match": "One Knoxville vs Lexington",
+                    "Odd": 1.8594594594594593,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-24",
+                    "Match": "MartinaFranca vs Citta di Fasano",
+                    "Odd": 1.75,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-24",
+                    "Match": "Guatemala vs Venezuela",
+                    "Odd": 1.72,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-25",
+                    "Match": "Sweden vs Albania",
+                    "Odd": 1.9545454545454546,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-26",
+                    "Match": "Norway vs Slovakia",
+                    "Odd": 1.8494623655913978,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-26",
+                    "Match": "FYR Macedonia U2 vs Sweden U21",
+                    "Odd": 1.96,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-27",
+                    "Match": "Al Shahaniya vs Al Bidda",
+                    "Odd": 1.9545454545454546,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-27",
+                    "Match": "Cancun vs Tapatio",
+                    "Odd": 1.7461928934010151,
+                    "Score": "1-1",
+                    "H2H Under %": 88.89,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-28",
+                    "Match": "Guastatoya vs Coatepecano IB",
+                    "Odd": 1.764102564102564,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-29",
+                    "Match": "Bristol City vs Leicester City",
+                    "Odd": 1.94,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-29",
+                    "Match": "Dnepr Mogilev vs Arsenal Dzyarzhy",
+                    "Odd": 1.7373737373737375,
+                    "Score": "0-0",
+                    "H2H Under %": 88.89,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-30",
+                    "Match": "Chengdu Rongchen vs Nantong Zhiyun",
+                    "Odd": 1.8594594594594593,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-03-31",
+                    "Match": "Sacramento Repub vs Memphis",
+                    "Odd": 1.97,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 97.67,
+                "Under2.5_Count": 42,
+                "Total_Matches": 43,
+                "Average_Odds": 1.86
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 93.33,
+                "Combo_Under2.5_Count": 14,
+                "Total_Days": 15,
+                "Average_Combo_Odds": 3.41
+            }
+        },
+        "2024-04": {
+            "matches": [
+                {
+                    "Date": "2024-04-01",
+                    "Match": "Rushall Olympic vs Boston United",
+                    "Odd": 1.8494623655913978,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-01",
+                    "Match": "Motor Lublin vs GKS Tychy",
+                    "Odd": 1.76,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-02",
+                    "Match": "S.Urfaspor vs Sakaryaspor",
+                    "Odd": 1.73,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-02",
+                    "Match": "Mamelodi Sundown vs Richards Bay",
+                    "Odd": 1.92,
+                    "Score": "1-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-03",
+                    "Match": "Kagoshima United vs Ventforet Kofu",
+                    "Odd": 1.7461928934010151,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-03",
+                    "Match": "Univ.Cesar Valle vs Defensa Y Justic",
+                    "Odd": 1.75,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-04",
+                    "Match": "SC Penedense vs CSA-AL",
+                    "Odd": 1.9657142857142857,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-04",
+                    "Match": "Chicago Fire II vs Forward Madison",
+                    "Odd": 1.8105263157894738,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-05",
+                    "Match": "Universidad Cato vs Cruzeiro",
+                    "Odd": 1.91,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-06",
+                    "Match": "Reading vs Lincoln City",
+                    "Odd": 1.7373737373737375,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-06",
+                    "Match": "Scarborough Athl vs Spennymoor Town",
+                    "Odd": 1.81,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-07",
+                    "Match": "Montecchio Maggi vs Chions",
+                    "Odd": 1.77,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-07",
+                    "Match": "Limon Black Star vs Consultants Mora",
+                    "Odd": 2.0,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-08",
+                    "Match": "Politehnica Iasi vs U Craiova 1948",
+                    "Odd": 1.76,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-08",
+                    "Match": "Polonia Warszawa vs Resovia Rzeszow",
+                    "Odd": 1.89010989010989,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-09",
+                    "Match": "Bristol Rovers vs Reading",
+                    "Odd": 1.9325842696629212,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-09",
+                    "Match": "Cheltenham Town vs Carlisle United",
+                    "Odd": 1.764102564102564,
+                    "Score": "0-1",
+                    "H2H Under %": 76.92,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-10",
+                    "Match": "Ind. del Valle vs San Lorenzo",
+                    "Odd": 1.72,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-10",
+                    "Match": "Tigres UANL vs Columbus Crew",
+                    "Odd": 1.9325842696629212,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-11",
+                    "Match": "Club Brugge vs PAOK",
+                    "Odd": 1.7731958762886597,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-11",
+                    "Match": "LDU Quito vs Botafogo RJ",
+                    "Odd": 1.8594594594594593,
+                    "Score": "1-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-12",
+                    "Match": "TJ Spartak Myjav vs Komarno",
+                    "Odd": 1.7551020408163265,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-12",
+                    "Match": "Chaika Petropavl vs Kudrivka",
+                    "Odd": 1.9884393063583814,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-13",
+                    "Match": "Henan Songshan L vs Nantong Zhiyun",
+                    "Odd": 1.9657142857142857,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-14",
+                    "Match": "Tuzlaspor Kulubu vs Goztepe",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-16",
+                    "Match": "Cafetaleros de T vs Irapuato",
+                    "Odd": 1.9,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-16",
+                    "Match": "Truro City vs Dover Athletic",
+                    "Odd": 1.89010989010989,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-17",
+                    "Match": "Paradiso vs Young Boys II",
+                    "Odd": 1.91,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-17",
+                    "Match": "Vanraure vs Kashima Antlers",
+                    "Odd": 1.88,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-18",
+                    "Match": "Union Omaha vs El Paso Patriots",
+                    "Odd": 1.9005524861878451,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-18",
+                    "Match": "PAOK vs Club Brugge",
+                    "Odd": 1.9770114942528736,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-19",
+                    "Match": "Schwarz-Wei\u00df Bre vs Floridsdorfer AC",
+                    "Odd": 1.8,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-19",
+                    "Match": "Hapoel Ironi Acr vs Nes Tziona",
+                    "Odd": 1.7823834196891193,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-20",
+                    "Match": "Cambridge United vs Derby County",
+                    "Odd": 1.92,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-21",
+                    "Match": "Amedspor vs Igdir",
+                    "Odd": 1.8297872340425532,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-22",
+                    "Match": "Confianca SE vs Londrina (PR)",
+                    "Odd": 1.82,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-22",
+                    "Match": "Iraklis vs Aiolikos",
+                    "Odd": 1.86,
+                    "Score": "1-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-23",
+                    "Match": "Al-Hala vs Al-Shabab",
+                    "Odd": 1.76,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-23",
+                    "Match": "Bordeaux vs USL Dunkerque",
+                    "Odd": 1.8797814207650272,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-25",
+                    "Match": "Uniao Leiria vs Penafiel",
+                    "Odd": 1.73,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-25",
+                    "Match": "Motor Lublin vs Chrobry Glogow",
+                    "Odd": 1.8395721925133688,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-26",
+                    "Match": "Neptunas vs Garliava",
+                    "Odd": 1.93,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-26",
+                    "Match": "Andorra CF vs Racing Santander",
+                    "Odd": 1.86,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-27",
+                    "Match": "Nations FC vs Bibiani Gold Sta",
+                    "Odd": 1.8,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-27",
+                    "Match": "Huddersfield Tow vs Birmingham",
+                    "Odd": 1.82,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-28",
+                    "Match": "Tampico Madero vs Deportiva Venado",
+                    "Odd": 1.8010471204188483,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-28",
+                    "Match": "Cadiz B vs CA Antoniano",
+                    "Odd": 1.81,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-29",
+                    "Match": "Nimes vs Red Star FC 93",
+                    "Odd": 1.75,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-30",
+                    "Match": "Marine vs Warrington Rylan",
+                    "Odd": 2.0,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-04-30",
+                    "Match": "Karbalaa vs AI Kahrabaa",
+                    "Odd": 1.72,
+                    "Score": "0-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 100.0,
+                "Under2.5_Count": 50,
+                "Total_Matches": 50,
+                "Average_Odds": 1.84
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 100.0,
+                "Combo_Under2.5_Count": 22,
+                "Total_Days": 22,
+                "Average_Combo_Odds": 3.38
+            }
+        },
+        "2024-05": {
+            "matches": [
+                {
+                    "Date": "2024-05-01",
+                    "Match": "Sampaio Correa vs Fluminense RJ",
+                    "Odd": 1.9,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-01",
+                    "Match": "Artesanos Metepe vs Uruapan",
+                    "Odd": 1.91,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-03",
+                    "Match": "Sagan Tosu vs Tokyo Verdy",
+                    "Odd": 1.73,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-03",
+                    "Match": "Ceahlaul Piatra vs Unirea Dej",
+                    "Odd": 1.77,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-04",
+                    "Match": "Asan United FC vs FC Anyang",
+                    "Odd": 1.89010989010989,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-04",
+                    "Match": "Valerenga vs Bryne",
+                    "Odd": 2.0,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-05",
+                    "Match": "Treze Fc vs Sousa EC",
+                    "Odd": 1.72,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-05",
+                    "Match": "Haugesund vs KFUM Oslo",
+                    "Odd": 1.7551020408163265,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-06",
+                    "Match": "Fakel Voronezh vs Zenit St. Peters",
+                    "Odd": 1.79,
+                    "Score": "1-1",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-06",
+                    "Match": "Pyramids vs Future FC",
+                    "Odd": 1.74,
+                    "Score": "2-1",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2024-05-07",
+                    "Match": "Juventus U23 vs Arezzo",
+                    "Odd": 1.73,
+                    "Score": "2-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-08",
+                    "Match": "Deportiva Venado vs Tampico Madero",
+                    "Odd": 1.92,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-08",
+                    "Match": "Sportivo Luqueno vs Coquimbo Unido",
+                    "Odd": 1.7551020408163265,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-09",
+                    "Match": "Botafogo RJ vs LDU Quito",
+                    "Odd": 1.8297872340425532,
+                    "Score": "2-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2024-05-10",
+                    "Match": "Marignane vs FC Rouen",
+                    "Odd": 1.764102564102564,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-10",
+                    "Match": "Versailles 78 vs GOAL FC",
+                    "Odd": 1.72,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-11",
+                    "Match": "Maritsa Plovdiv vs Chernomorets Bal",
+                    "Odd": 1.911111111111111,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-11",
+                    "Match": "Csikszereda vs Gloria Buzau",
+                    "Odd": 1.728643216080402,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-12",
+                    "Match": "Al-Qassim vs Al Minaa Basra",
+                    "Odd": 1.8,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-13",
+                    "Match": "Radomiak Radom vs Ruch Chorzow",
+                    "Odd": 1.89010989010989,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-13",
+                    "Match": "Botev Vratsa vs Hebar",
+                    "Odd": 1.7731958762886597,
+                    "Score": "1-0",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-14",
+                    "Match": "Lokomotiv Tashke vs OKMK",
+                    "Odd": 1.72,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-14",
+                    "Match": "LDU Quito vs Atletico Junior",
+                    "Odd": 1.8594594594594593,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-15",
+                    "Match": "Sitra vs East Riffa",
+                    "Odd": 1.98,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-15",
+                    "Match": "Ath. Carpi vs Pianese",
+                    "Odd": 1.81,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-16",
+                    "Match": "Las Palmas vs Real Betis",
+                    "Odd": 1.87,
+                    "Score": "2-2",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2024-05-16",
+                    "Match": "Penafiel vs SCU Torreense",
+                    "Odd": 1.81,
+                    "Score": "1-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-17",
+                    "Match": "Hapoel Ironi Acr vs Hapoel Kfar Saba",
+                    "Odd": 1.9005524861878451,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-17",
+                    "Match": "Sao Paulo vs Barcelona SC(ECU",
+                    "Odd": 1.87,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-18",
+                    "Match": "Sochaux vs Versailles 78",
+                    "Odd": 1.9770114942528736,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-19",
+                    "Match": "Santa Clara vs Uniao Leiria",
+                    "Odd": 1.87,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-20",
+                    "Match": "Dinamo Samarqand vs Pakhtakor",
+                    "Odd": 1.9325842696629212,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-21",
+                    "Match": "Nantong Zhiyun vs Cangzhou",
+                    "Odd": 1.9657142857142857,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-21",
+                    "Match": "Slutsksakhar Slu vs Neman Grodno",
+                    "Odd": 1.72,
+                    "Score": "2-0",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-22",
+                    "Match": "V-Varen Nagasaki vs Urawa Red Diamon",
+                    "Odd": 1.89010989010989,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-22",
+                    "Match": "Nagano vs Consadole Sappor",
+                    "Odd": 1.764102564102564,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-23",
+                    "Match": "Botafogo SP vs Palmeiras",
+                    "Odd": 1.74,
+                    "Score": "0-0",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-23",
+                    "Match": "CSKA Sofia vs Cherno More Varn",
+                    "Odd": 1.8,
+                    "Score": "0-1",
+                    "H2H Under %": 76.19,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-24",
+                    "Match": "Rogaska vs ND Gorica",
+                    "Odd": 1.7461928934010151,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-24",
+                    "Match": "Marek Dupnitsa vs Strumska Slava",
+                    "Odd": 1.89,
+                    "Score": "0-0",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-26",
+                    "Match": "Sacramento Repub vs Birmingham",
+                    "Odd": 1.88,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-27",
+                    "Match": "Club Deportes Sa vs Limache",
+                    "Odd": 1.9325842696629212,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-27",
+                    "Match": "Lahti vs SJK Seinajoki",
+                    "Odd": 1.8494623655913978,
+                    "Score": "0-4",
+                    "H2H Under %": 67.86,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2024-05-28",
+                    "Match": "Smouha SC vs La Viena",
+                    "Odd": 1.75,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-28",
+                    "Match": "Corinthians vs Racing Club Mont",
+                    "Odd": 1.8594594594594593,
+                    "Score": "3-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2024-05-29",
+                    "Match": "Coquimbo Unido vs Bragantino",
+                    "Odd": 1.8594594594594593,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-29",
+                    "Match": "Gavorrano vs Trapani",
+                    "Odd": 1.77,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-30",
+                    "Match": "Defensa Y Justic vs Univ.Cesar Valle",
+                    "Odd": 1.97,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-30",
+                    "Match": "Hong Linh Ha Tin vs Cong An",
+                    "Odd": 1.97,
+                    "Score": "1-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-31",
+                    "Match": "Cruzeiro vs Universidad Cato",
+                    "Odd": 1.9005524861878451,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-05-31",
+                    "Match": "Iguatu vs Potiguar (RN)",
+                    "Odd": 1.72,
+                    "Score": "2-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 90.2,
+                "Under2.5_Count": 46,
+                "Total_Matches": 51,
+                "Average_Odds": 1.84
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 81.82,
+                "Combo_Under2.5_Count": 18,
+                "Total_Days": 22,
+                "Average_Combo_Odds": 3.35
+            }
+        },
+        "2024-06": {
+            "matches": [
+                {
+                    "Date": "2024-06-01",
+                    "Match": "Mexico vs Bolivia",
+                    "Odd": 1.9770114942528736,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-02",
+                    "Match": "Sacramento Repub vs VSI Tampa Bay FC",
+                    "Odd": 1.81,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-03",
+                    "Match": "Habitpharm Javor vs Odzaci",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-03",
+                    "Match": "San Luis Quillot vs CD Magallanes",
+                    "Odd": 1.8201058201058202,
+                    "Score": "0-1",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-04",
+                    "Match": "Jedinstvo Bijelo vs Mladost Ljeskopo",
+                    "Odd": 1.8395721925133688,
+                    "Score": "0-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-05",
+                    "Match": "Weston vs Swan City",
+                    "Odd": 1.92,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-06",
+                    "Match": "Ameliano vs Tacuary",
+                    "Odd": 1.7461928934010151,
+                    "Score": "0-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-06",
+                    "Match": "Jordan vs Tajikistan",
+                    "Odd": 1.728643216080402,
+                    "Score": "3-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2024-06-07",
+                    "Match": "Angola vs Eswatini",
+                    "Odd": 1.72,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-08",
+                    "Match": "Rhode Island vs Detroit",
+                    "Odd": 1.98,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-08",
+                    "Match": "Dongguan Guanlia vs Jiangxi Beidamen",
+                    "Odd": 1.76,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-09",
+                    "Match": "Banga II vs FK Minija",
+                    "Odd": 1.93,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-12",
+                    "Match": "Real Noroeste vs Nova Iguacu",
+                    "Odd": 1.76,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-13",
+                    "Match": "Aragua FC vs Maritimo",
+                    "Odd": 1.79,
+                    "Score": "0-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-13",
+                    "Match": "Deportivo Riestr vs River Plate",
+                    "Odd": 1.76,
+                    "Score": "2-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-14",
+                    "Match": "Palmeiras vs Vasco da Gama",
+                    "Odd": 1.9,
+                    "Score": "2-0",
+                    "H2H Under %": 76.92,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-14",
+                    "Match": "E.Gawafel.S.Gafs vs Olympique de Bej",
+                    "Odd": 1.84,
+                    "Score": "1-2",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2024-06-15",
+                    "Match": "Shijiazhuang vs Shanghai Jiading",
+                    "Odd": 1.78,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-15",
+                    "Match": "Utsiktens BK vs Varbergs BoIS FC",
+                    "Odd": 1.97,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-16",
+                    "Match": "Arsenal Dzyarzhy vs Smorgon FC",
+                    "Odd": 1.82,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-16",
+                    "Match": "Iwaki vs Ventforet Kofu",
+                    "Odd": 1.8010471204188483,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-17",
+                    "Match": "Austria vs France",
+                    "Odd": 1.8695652173913042,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-17",
+                    "Match": "Oeste vs USAC",
+                    "Odd": 1.9325842696629212,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-18",
+                    "Match": "Al Ittihad vs EL Ahly",
+                    "Odd": 1.76,
+                    "Score": "0-1",
+                    "H2H Under %": 50.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-18",
+                    "Match": "Portugal vs Czech Republic",
+                    "Odd": 1.89010989010989,
+                    "Score": "2-1",
+                    "H2H Under %": 50.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2024-06-19",
+                    "Match": "JIPPO vs Mikkeli",
+                    "Odd": 2.0,
+                    "Score": "0-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-19",
+                    "Match": "Fortaleza vs Gremio RS",
+                    "Odd": 1.73,
+                    "Score": "1-0",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-21",
+                    "Match": "C.A.Bizertin vs Sporting Ben Aro",
+                    "Odd": 1.81,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-21",
+                    "Match": "BFC Daugavpils vs Jelgava",
+                    "Odd": 1.76,
+                    "Score": "3-0",
+                    "H2H Under %": 74.07,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2024-06-23",
+                    "Match": "Enyimba vs Plateau United",
+                    "Odd": 1.89010989010989,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-24",
+                    "Match": "Guangxi Hengchen vs Hunan Billows",
+                    "Odd": 1.764102564102564,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-25",
+                    "Match": "Nantong Zhiyun vs Tianjin Jinmen T",
+                    "Odd": 1.8201058201058202,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-25",
+                    "Match": "Netherlands vs Austria",
+                    "Odd": 1.7373737373737375,
+                    "Score": "2-3",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2024-06-27",
+                    "Match": "Caracas FC vs Miranda",
+                    "Odd": 1.85,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-27",
+                    "Match": "Yaracuyanos vs Carabobo FC",
+                    "Odd": 1.86,
+                    "Score": "2-0",
+                    "H2H Under %": 73.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-28",
+                    "Match": "OFK Beograd vs Mornar",
+                    "Odd": 1.9657142857142857,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-28",
+                    "Match": "NK Publikum Celj vs Rapid Bucuresti",
+                    "Odd": 1.8297872340425532,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-29",
+                    "Match": "YSCC vs Azul Claro Numaz",
+                    "Odd": 1.76,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-29",
+                    "Match": "Guangxi Pingguo vs Chongqing Tongli",
+                    "Odd": 1.7916666666666667,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-30",
+                    "Match": "Canada vs Chile",
+                    "Odd": 1.7731958762886597,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-06-30",
+                    "Match": "Guangxi Lanhang vs Shenzhen Juniors",
+                    "Odd": 1.9545454545454546,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 87.8,
+                "Under2.5_Count": 36,
+                "Total_Matches": 41,
+                "Average_Odds": 1.83
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 68.75,
+                "Combo_Under2.5_Count": 11,
+                "Total_Days": 16,
+                "Average_Combo_Odds": 3.34
+            }
+        },
+        "2024-07": {
+            "matches": [
+                {
+                    "Date": "2024-07-01",
+                    "Match": "Portugal vs Slovenia",
+                    "Odd": 1.8105263157894738,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-01",
+                    "Match": "Santos vs Chapecoense SC",
+                    "Odd": 1.9,
+                    "Score": "1-0",
+                    "H2H Under %": 90.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-03",
+                    "Match": "TSC vs Synot Slovacko",
+                    "Odd": 1.9657142857142857,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-04",
+                    "Match": "Finn Harps vs Kerry League",
+                    "Odd": 1.73,
+                    "Score": "1-0",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-04",
+                    "Match": "Richmond Kickers vs Forward Madison",
+                    "Odd": 1.77,
+                    "Score": "2-1",
+                    "H2H Under %": 64.71,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2024-07-05",
+                    "Match": "CSKA Sofia vs Radnicki Nis",
+                    "Odd": 1.9325842696629212,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-06",
+                    "Match": "Shandong Taishan vs Beijing Technolo",
+                    "Odd": 1.82,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-08",
+                    "Match": "Rio Branco-ES vs Linhares",
+                    "Odd": 1.943502824858757,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-09",
+                    "Match": "Hamrun Spartans vs Lincoln Red Imps",
+                    "Odd": 1.95,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-09",
+                    "Match": "Radnicki 1923 Kr vs APOEL Nicosia",
+                    "Odd": 2.0,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-10",
+                    "Match": "Argentina vs Canada",
+                    "Odd": 1.98,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-10",
+                    "Match": "Ordabasy vs Petrocub",
+                    "Odd": 1.7551020408163265,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-11",
+                    "Match": "FHK Liepajas Met vs Vikingur Gotu",
+                    "Odd": 1.89010989010989,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-11",
+                    "Match": "Torpedo Kutaisi vs KF Tirana",
+                    "Odd": 1.85,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-12",
+                    "Match": "Farul Constanta vs FC Unirea 2004 S",
+                    "Odd": 1.8105263157894738,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-12",
+                    "Match": "Caen vs Nantes",
+                    "Odd": 1.88,
+                    "Score": "0-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-13",
+                    "Match": "Dalian Zhixing vs Suzhou Dongwu",
+                    "Odd": 1.728643216080402,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-13",
+                    "Match": "Portland U23 vs Uniao Rondonopol",
+                    "Odd": 1.73,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-14",
+                    "Match": "Yanbian Longding vs Wuxi Wugou",
+                    "Odd": 1.8797814207650272,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-18",
+                    "Match": "FK Isloch Minsk vs SP La Fiorita",
+                    "Odd": 1.93,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-19",
+                    "Match": "Huachipato vs Cobreloa",
+                    "Odd": 1.9545454545454546,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-19",
+                    "Match": "North Carolina vs Detroit",
+                    "Odd": 1.8010471204188483,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-20",
+                    "Match": "SD Tarazona vs SD Huesca",
+                    "Odd": 1.87,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-20",
+                    "Match": "Audax RJ vs Serra Talhada PE",
+                    "Odd": 1.73,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-22",
+                    "Match": "CA Torque vs Cooper",
+                    "Odd": 1.78,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-23",
+                    "Match": "FCSB vs Maccabi Tel Aviv",
+                    "Odd": 1.8297872340425532,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-23",
+                    "Match": "USAC vs Oeste",
+                    "Odd": 1.9,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-24",
+                    "Match": "Stade Brestois vs Laval",
+                    "Odd": 1.79,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-24",
+                    "Match": "Dinamo Batumi vs Decic Tuzi",
+                    "Odd": 1.8695652173913042,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-25",
+                    "Match": "FC Saburtalo Tbi vs Partizani Tirana",
+                    "Odd": 1.72,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-25",
+                    "Match": "KuPs vs Tromso",
+                    "Odd": 1.911111111111111,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-26",
+                    "Match": "Celta Vigo vs Gil Vicente",
+                    "Odd": 1.8010471204188483,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-27",
+                    "Match": "Degerfors vs Skovde AIK",
+                    "Odd": 2.0,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-28",
+                    "Match": "Houston Dynamo vs Atlas",
+                    "Odd": 1.9884393063583814,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-29",
+                    "Match": "OFK Beograd vs Odzaci",
+                    "Odd": 1.74,
+                    "Score": "1-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-30",
+                    "Match": "Decic Tuzi vs Dinamo Batumi",
+                    "Odd": 1.77,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-30",
+                    "Match": "Cagliari vs Catanzaro",
+                    "Odd": 1.9884393063583814,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-07-31",
+                    "Match": "Maccabi Tel Aviv vs FCSB",
+                    "Odd": 1.81,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 97.37,
+                "Under2.5_Count": 37,
+                "Total_Matches": 38,
+                "Average_Odds": 1.86
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 92.31,
+                "Combo_Under2.5_Count": 12,
+                "Total_Days": 13,
+                "Average_Combo_Odds": 3.4
+            }
+        },
+        "2024-08": {
+            "matches": [
+                {
+                    "Date": "2024-08-01",
+                    "Match": "Partizani Tirana vs FC Saburtalo Tbi",
+                    "Odd": 1.74,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-01",
+                    "Match": "Tromso vs KuPs",
+                    "Odd": 1.7823834196891193,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-02",
+                    "Match": "Radnik Surdulica vs Sloven Ruma",
+                    "Odd": 1.78,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-02",
+                    "Match": "Calcutta Customs vs Calcutta Police",
+                    "Odd": 1.83,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-03",
+                    "Match": "Curzon Ashton FC vs Halifax Town",
+                    "Odd": 1.9884393063583814,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-03",
+                    "Match": "Bristol Rovers vs Cardiff City",
+                    "Odd": 1.9545454545454546,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-05",
+                    "Match": "St. Louis City vs Juarez",
+                    "Odd": 1.9884393063583814,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-06",
+                    "Match": "Petrocub vs The New Saints",
+                    "Odd": 1.8695652173913042,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-06",
+                    "Match": "Poitiers vs Chateauroux",
+                    "Odd": 1.91,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-07",
+                    "Match": "Slovan Bratislav vs APOEL Nicosia",
+                    "Odd": 1.73,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-07",
+                    "Match": "Getafe vs Saint Etienne",
+                    "Odd": 1.96,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-08",
+                    "Match": "Prykarpattia vs FSK Bukovyna Che",
+                    "Odd": 1.86,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-08",
+                    "Match": "Omonia Nicosia F vs MOL Fehervar",
+                    "Odd": 1.75,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-09",
+                    "Match": "CS Voluntari vs Concordia SC",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-09",
+                    "Match": "Union Berlin vs Real Sociedad",
+                    "Odd": 1.9217877094972067,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-10",
+                    "Match": "Warta Poznan vs Stal Stalowa Wol",
+                    "Odd": 1.7551020408163265,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-10",
+                    "Match": "FC Gandzasar vs Ararat Erevan",
+                    "Odd": 2.0,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-11",
+                    "Match": "Pescara vs ASD Pineto Calci",
+                    "Odd": 1.98,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-11",
+                    "Match": "Las Vegas Lights vs Detroit",
+                    "Odd": 1.8105263157894738,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-12",
+                    "Match": "Gualberto Villar vs Always Ready",
+                    "Odd": 1.8594594594594593,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-12",
+                    "Match": "AD Cantolao vs San Marcos",
+                    "Odd": 1.89010989010989,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-13",
+                    "Match": "Cardiff City vs Bristol Rovers",
+                    "Odd": 1.9217877094972067,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-13",
+                    "Match": "Charlton Athleti vs Birmingham",
+                    "Odd": 1.9217877094972067,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-14",
+                    "Match": "MOL Fehervar vs Omonia Nicosia F",
+                    "Odd": 1.9,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-14",
+                    "Match": "Al Ahli vs Al Kuwait SC",
+                    "Odd": 1.83,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-15",
+                    "Match": "FC Pyunik vs Ordabasy",
+                    "Odd": 1.78,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-15",
+                    "Match": "Hajduk Split vs MFK Ruzomberok",
+                    "Odd": 1.88,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-16",
+                    "Match": "HIK Hellerup vs Ishoj IF",
+                    "Odd": 1.88,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-16",
+                    "Match": "Stal Stalowa Wol vs Chrobry Glogow",
+                    "Odd": 1.7461928934010151,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-17",
+                    "Match": "Vozdovac vs Sloboda",
+                    "Odd": 1.7551020408163265,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-17",
+                    "Match": "Cancun vs Mineros de Zacat",
+                    "Odd": 1.8494623655913978,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-18",
+                    "Match": "CA Progreso vs Miramar",
+                    "Odd": 1.764102564102564,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-19",
+                    "Match": "Deportivo Muniz vs Berazategui",
+                    "Odd": 1.78,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-19",
+                    "Match": "United SC vs Southern Samity",
+                    "Odd": 1.8395721925133688,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-20",
+                    "Match": "Hornchurch vs St Albans City",
+                    "Odd": 1.9770114942528736,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-20",
+                    "Match": "Southend United vs Boston United",
+                    "Odd": 1.87,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-21",
+                    "Match": "Getafe B vs RSD Alcala",
+                    "Odd": 1.7551020408163265,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-21",
+                    "Match": "Crevillente vs Orihuela CF",
+                    "Odd": 1.93,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-22",
+                    "Match": "Partizan Belgrad vs KAA Gent",
+                    "Odd": 1.9770114942528736,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-22",
+                    "Match": "St. Patricks Ath vs Basaksehir",
+                    "Odd": 1.7731958762886597,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-23",
+                    "Match": "Le Mans vs Villefranche",
+                    "Odd": 1.84,
+                    "Score": "0-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-23",
+                    "Match": "Middelfart G og vs Skive IK",
+                    "Odd": 1.943502824858757,
+                    "Score": "2-1",
+                    "H2H Under %": 76.92,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2024-08-24",
+                    "Match": "Loudoun vs Rhode Island",
+                    "Odd": 1.9770114942528736,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-24",
+                    "Match": "Motor Lublin vs Puszcza Niepolom",
+                    "Odd": 1.83,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-25",
+                    "Match": "SL Benfica B vs Vizela",
+                    "Odd": 1.8395721925133688,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-25",
+                    "Match": "Haugesund vs Fredrikstad",
+                    "Odd": 1.79,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-26",
+                    "Match": "Enfield Town vs Hemel Hempstead",
+                    "Odd": 1.9884393063583814,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-26",
+                    "Match": "Hornchurch vs Welling United",
+                    "Odd": 1.8201058201058202,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-27",
+                    "Match": "Kuruvchi Bunyodk vs OKMK",
+                    "Odd": 1.7551020408163265,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-27",
+                    "Match": "Barrow vs Derby County",
+                    "Odd": 1.9325842696629212,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-29",
+                    "Match": "Drita vs Legia Warszawa",
+                    "Odd": 1.7731958762886597,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-29",
+                    "Match": "Trabzonspor vs St. Gallen",
+                    "Odd": 1.8797814207650272,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-30",
+                    "Match": "Saint-Priest vs Istres",
+                    "Odd": 1.7551020408163265,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-31",
+                    "Match": "Varbergs BoIS FC vs Utsiktens BK",
+                    "Odd": 1.911111111111111,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-08-31",
+                    "Match": "Cham vs Paradiso",
+                    "Odd": 1.728643216080402,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 98.18,
+                "Under2.5_Count": 54,
+                "Total_Matches": 55,
+                "Average_Odds": 1.85
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 96.15,
+                "Combo_Under2.5_Count": 25,
+                "Total_Days": 26,
+                "Average_Combo_Odds": 3.44
+            }
+        },
+        "2024-09": {
+            "matches": [
+                {
+                    "Date": "2024-09-01",
+                    "Match": "Shijiazhuang vs Yanbian Longding",
+                    "Odd": 1.8010471204188483,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-01",
+                    "Match": "Ad Aserri vs Antioquia",
+                    "Odd": 1.83,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-02",
+                    "Match": "Botev Plovdiv U1 vs Lokomotiv Gorna",
+                    "Odd": 1.728643216080402,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-02",
+                    "Match": "Hammarby TFF vs Inter Stockholm",
+                    "Odd": 1.7461928934010151,
+                    "Score": "0-1",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-03",
+                    "Match": "Warrington Town vs Leamington",
+                    "Odd": 1.87,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-04",
+                    "Match": "British Virgin I vs Cayman Islands",
+                    "Odd": 1.91,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-04",
+                    "Match": "Deportivo Muniz vs Club Lujan",
+                    "Odd": 1.8297872340425532,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-05",
+                    "Match": "Saudi Arabia vs Indonesia",
+                    "Odd": 2.0,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-06",
+                    "Match": "Iceland vs Montenegro",
+                    "Odd": 1.72,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-07",
+                    "Match": "Fujieda MYFC vs Tochigi SC",
+                    "Odd": 1.7373737373737375,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-08",
+                    "Match": "Triestina vs Caldiero Terme",
+                    "Odd": 1.8494623655913978,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-09",
+                    "Match": "Albacete vs Eibar",
+                    "Odd": 1.81,
+                    "Score": "0-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-10",
+                    "Match": "Hungary vs Bosnia-Herzegovi",
+                    "Odd": 1.7731958762886597,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-10",
+                    "Match": "Norway U21 vs Italy U21",
+                    "Odd": 1.9770114942528736,
+                    "Score": "0-3",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2024-09-11",
+                    "Match": "Etimesgut Sekers vs Kirsehir Belediy",
+                    "Odd": 1.78,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-11",
+                    "Match": "FK Grbalj Radano vs OSK Igalo",
+                    "Odd": 1.72,
+                    "Score": "0-2",
+                    "H2H Under %": 77.27,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-12",
+                    "Match": "U Craiova 1948 vs Unirea Ungheni",
+                    "Odd": 1.8105263157894738,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-12",
+                    "Match": "TPS Turku vs JIPPO",
+                    "Odd": 1.9325842696629212,
+                    "Score": "0-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-13",
+                    "Match": "FCV Dender EH vs Standard Liege",
+                    "Odd": 1.7461928934010151,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-13",
+                    "Match": "Lexington vs One Knoxville",
+                    "Odd": 1.97,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-14",
+                    "Match": "Sakaryaspor vs S.Urfaspor",
+                    "Odd": 1.8010471204188483,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-14",
+                    "Match": "Nagano vs Nara Club",
+                    "Odd": 1.728643216080402,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-15",
+                    "Match": "Tampico Madero vs Tlaxcala",
+                    "Odd": 1.86,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-15",
+                    "Match": "Lamphun Warrior vs Ratchaburi FC",
+                    "Odd": 1.89,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-16",
+                    "Match": "Al Shorta vs Al-Nassr",
+                    "Odd": 1.9884393063583814,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-16",
+                    "Match": "Jeddah vs Persepolis",
+                    "Odd": 1.9325842696629212,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-17",
+                    "Match": "Vukovar 1991 vs NK Opatija",
+                    "Odd": 1.764102564102564,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-17",
+                    "Match": "Ilkeston Town vs Hereford United",
+                    "Odd": 1.8594594594594593,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-18",
+                    "Match": "Mohun Bagan(Ind) vs Ravshan Kulob",
+                    "Odd": 1.8594594594594593,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-18",
+                    "Match": "AD San Carlos vs Albion",
+                    "Odd": 1.7823834196891193,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-19",
+                    "Match": "Atalanta vs Arsenal",
+                    "Odd": 1.8201058201058202,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-20",
+                    "Match": "Cagliari vs Empoli",
+                    "Odd": 1.74,
+                    "Score": "0-2",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-21",
+                    "Match": "Warta Poznan vs Arka Gdynia",
+                    "Odd": 1.7373737373737375,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-21",
+                    "Match": "Bryne vs Valerenga",
+                    "Odd": 2.0,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-22",
+                    "Match": "Tokyo Verdy vs Sagan Tosu",
+                    "Odd": 1.9005524861878451,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-22",
+                    "Match": "Juan Pablo II Co vs San Marcos",
+                    "Odd": 2.0,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-23",
+                    "Match": "Rimini vs Milan II",
+                    "Odd": 1.81,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-23",
+                    "Match": "Univ.Cesar Valle vs ADT Tarma",
+                    "Odd": 1.82,
+                    "Score": "0-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-24",
+                    "Match": "Annecy vs Troyes",
+                    "Odd": 1.8010471204188483,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-24",
+                    "Match": "Cagliari vs Cremonese",
+                    "Odd": 1.8105263157894738,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-26",
+                    "Match": "Real du Cap vs Arnett Gardens",
+                    "Odd": 1.8395721925133688,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-27",
+                    "Match": "Cruzeiro vs Libertad",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-27",
+                    "Match": "Qingdao Red Lion vs Guangzhou FC",
+                    "Odd": 1.943502824858757,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-28",
+                    "Match": "Oita Trinita vs Fujieda MYFC",
+                    "Odd": 1.8797814207650272,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-28",
+                    "Match": "FSV Mainz 05 vs FC Heidenheim",
+                    "Odd": 1.8494623655913978,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-29",
+                    "Match": "Azul Claro Numaz vs YSCC",
+                    "Odd": 1.96,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-30",
+                    "Match": "Kocaelispor vs S.Urfaspor",
+                    "Odd": 1.8395721925133688,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-09-30",
+                    "Match": "Deportivo Muniz vs Mercedes",
+                    "Odd": 1.75,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 97.92,
+                "Under2.5_Count": 47,
+                "Total_Matches": 48,
+                "Average_Odds": 1.84
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 94.74,
+                "Combo_Under2.5_Count": 18,
+                "Total_Days": 19,
+                "Average_Combo_Odds": 3.38
+            }
+        },
+        "2024-10": {
+            "matches": [
+                {
+                    "Date": "2024-10-01",
+                    "Match": "Birmingham vs Huddersfield Tow",
+                    "Odd": 1.9217877094972067,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-01",
+                    "Match": "Shrewsbury Town vs Stockport County",
+                    "Odd": 1.8010471204188483,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-03",
+                    "Match": "Slavia Praha vs Ajax",
+                    "Odd": 1.9657142857142857,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-03",
+                    "Match": "FC Astana-64 vs TSC",
+                    "Odd": 1.8797814207650272,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-04",
+                    "Match": "Consultants Mora vs Ad Aserri",
+                    "Odd": 1.9545454545454546,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-04",
+                    "Match": "Radnicki Nis vs OFK Beograd",
+                    "Odd": 1.7916666666666667,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-05",
+                    "Match": "Maritimo vs Porto B",
+                    "Odd": 1.99,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-05",
+                    "Match": "Charlton Athleti vs Birmingham",
+                    "Odd": 1.7823834196891193,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-06",
+                    "Match": "Penafiel vs Uniao Leiria",
+                    "Odd": 1.72,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-06",
+                    "Match": "Vanraure vs Azul Claro Numaz",
+                    "Odd": 1.7373737373737375,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-07",
+                    "Match": "Atletico Junior vs Patriotas FC",
+                    "Odd": 1.728643216080402,
+                    "Score": "2-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2024-10-08",
+                    "Match": "Carlisle United vs Wigan Athletic",
+                    "Odd": 1.91,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-08",
+                    "Match": "Falkirk vs Livingston",
+                    "Odd": 1.87,
+                    "Score": "0-0",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-09",
+                    "Match": "Chlumec nad Cidl vs Benatky n. Jiz.",
+                    "Odd": 1.9545454545454546,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-09",
+                    "Match": "North Macedonia vs Latvia U19",
+                    "Odd": 1.7551020408163265,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-10",
+                    "Match": "Estonia U21 vs Israel U21",
+                    "Odd": 1.91,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-10",
+                    "Match": "Bonaire vs Montserrat",
+                    "Odd": 1.76,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-11",
+                    "Match": "Scotland U21 vs Belgium U21",
+                    "Odd": 1.9005524861878451,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-11",
+                    "Match": "Trapani vs Messina",
+                    "Odd": 2.0,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-12",
+                    "Match": "Cayman Islands vs British Virgin I",
+                    "Odd": 1.83,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-12",
+                    "Match": "Calcio Giugliano vs Juventus U23",
+                    "Odd": 1.7461928934010151,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-13",
+                    "Match": "Rhode Island vs Loudoun",
+                    "Odd": 2.0,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-13",
+                    "Match": "Memphis vs Sacramento Repub",
+                    "Odd": 1.83,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-14",
+                    "Match": "Finn Harps vs Wexford",
+                    "Odd": 1.9770114942528736,
+                    "Score": "1-3",
+                    "H2H Under %": 68.75,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2024-10-14",
+                    "Match": "Hapoel Kfar Saba vs Hapoel Raanana",
+                    "Odd": 1.8,
+                    "Score": "2-2",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2024-10-15",
+                    "Match": "Luxembourg U21 vs Northern Ireland",
+                    "Odd": 2.0,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-15",
+                    "Match": "luxembourg U19 vs North Macedonia",
+                    "Odd": 1.83,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-17",
+                    "Match": "CD Alacranes de vs UA Zacatecas",
+                    "Odd": 1.8201058201058202,
+                    "Score": "2-2",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2024-10-17",
+                    "Match": "Shrewsbury Town vs Exeter City",
+                    "Odd": 1.88,
+                    "Score": "0-2",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-18",
+                    "Match": "Young Boys II vs Paradiso",
+                    "Odd": 1.89,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-18",
+                    "Match": "Minyor Pernik vs PFC Nesebar",
+                    "Odd": 1.76,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-19",
+                    "Match": "Cercle Brugge vs FCV Dender EH",
+                    "Odd": 1.89010989010989,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-19",
+                    "Match": "South Shields vs Leamington",
+                    "Odd": 1.83,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-20",
+                    "Match": "SSV Ulm 1846 vs Karlsruher SC",
+                    "Odd": 1.9325842696629212,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-22",
+                    "Match": "Doncaster Rovers vs Bromley",
+                    "Odd": 1.9005524861878451,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-22",
+                    "Match": "Welling United vs Enfield Town",
+                    "Odd": 1.7461928934010151,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-23",
+                    "Match": "Flaminia vs Orvietana",
+                    "Odd": 1.8,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-23",
+                    "Match": "KF Gostivari vs Bregalnica Stip",
+                    "Odd": 1.9005524861878451,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-24",
+                    "Match": "PFC Nesebar vs Belasitsa",
+                    "Odd": 1.72,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-24",
+                    "Match": "FC Twente Ensche vs Lazio",
+                    "Odd": 1.91,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-25",
+                    "Match": "Opava vs Banik Ostrava B",
+                    "Odd": 1.8297872340425532,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-26",
+                    "Match": "Cesena vs Brescia",
+                    "Odd": 1.764102564102564,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-26",
+                    "Match": "Brackley Town vs South Shields",
+                    "Odd": 1.911111111111111,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-27",
+                    "Match": "Macara vs Cumbaya",
+                    "Odd": 1.77,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-27",
+                    "Match": "Pittsburgh River vs El Paso Patriots",
+                    "Odd": 1.73,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-28",
+                    "Match": "Comerciantes Uni vs ADT Tarma",
+                    "Odd": 1.88,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-28",
+                    "Match": "Chernomorets 191 vs Lokomotiv Plovdi",
+                    "Odd": 1.8010471204188483,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-29",
+                    "Match": "Sestri Levante vs Ternana",
+                    "Odd": 1.72,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-30",
+                    "Match": "Belediye Derince vs Tire 2021 FK",
+                    "Odd": 1.91,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-30",
+                    "Match": "Karsiyaka vs Viran\u015fehir Beled",
+                    "Odd": 2.0,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-31",
+                    "Match": "Stellenbosch FC vs Marumo Gallants",
+                    "Odd": 1.75,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-10-31",
+                    "Match": "Llanera vs Cultural Leonesa",
+                    "Odd": 1.8,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 92.31,
+                "Under2.5_Count": 48,
+                "Total_Matches": 52,
+                "Average_Odds": 1.85
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 91.67,
+                "Combo_Under2.5_Count": 22,
+                "Total_Days": 24,
+                "Average_Combo_Odds": 3.44
+            }
+        },
+        "2024-11": {
+            "matches": [
+                {
+                    "Date": "2024-11-01",
+                    "Match": "Pyramids vs Petrojet",
+                    "Odd": 1.7461928934010151,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-01",
+                    "Match": "Preussen Munster vs Fortuna Dusseldo",
+                    "Odd": 1.9770114942528736,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-02",
+                    "Match": "Qingdao Hainiu vs Cangzhou",
+                    "Odd": 1.8201058201058202,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-02",
+                    "Match": "Carlisle United vs Wigan Athletic",
+                    "Odd": 1.8,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-03",
+                    "Match": "Lobos ULMX vs Petroleros Salam",
+                    "Odd": 1.764102564102564,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-03",
+                    "Match": "Chongqing Tongli vs Guangxi Pingguo",
+                    "Odd": 1.85,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-04",
+                    "Match": "Tescoma Zlin vs Chrudim",
+                    "Odd": 1.83,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-04",
+                    "Match": "Samsunspor vs Antalyaspor",
+                    "Odd": 1.7461928934010151,
+                    "Score": "2-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-05",
+                    "Match": "Burton Albion vs Crawley Town",
+                    "Odd": 1.9005524861878451,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-05",
+                    "Match": "Pakhtakor vs Al Rayyan",
+                    "Odd": 1.91,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-06",
+                    "Match": "Cjarlins Muzane vs Montecchio Maggi",
+                    "Odd": 1.8,
+                    "Score": "2-0",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-06",
+                    "Match": "Coventry City vs Derby County",
+                    "Odd": 1.91,
+                    "Score": "1-2",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2024-11-07",
+                    "Match": "KAA Gent vs Omonia Nicosia F",
+                    "Odd": 1.89010989010989,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-07",
+                    "Match": "Eintracht Frankf vs Slavia Praha",
+                    "Odd": 1.8105263157894738,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-08",
+                    "Match": "Watford vs Oxford United",
+                    "Odd": 1.91,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-08",
+                    "Match": "Hapoel Raanana vs Hapoel Petach Ti",
+                    "Odd": 1.8105263157894738,
+                    "Score": "1-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-09",
+                    "Match": "AFC Wimbledon vs Grimsby Town",
+                    "Odd": 1.7461928934010151,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-09",
+                    "Match": "Nagano vs Vanraure",
+                    "Odd": 1.72,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-11",
+                    "Match": "Deportivo La Cor vs Eibar",
+                    "Odd": 1.91,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-11",
+                    "Match": "Club Comunicacio vs Guastatoya",
+                    "Odd": 1.78,
+                    "Score": "3-0",
+                    "H2H Under %": 67.31,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2024-11-12",
+                    "Match": "Stevenage Boroug vs Gillingham",
+                    "Odd": 1.83,
+                    "Score": "1-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-13",
+                    "Match": "Northern Ireland vs Denmark U19",
+                    "Odd": 1.9770114942528736,
+                    "Score": "0-4",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2024-11-14",
+                    "Match": "Deportivo Muniz vs Juventud Unida",
+                    "Odd": 2.0,
+                    "Score": "0-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-15",
+                    "Match": "Belgium U21 vs Czech Republic U",
+                    "Odd": 1.7461928934010151,
+                    "Score": "0-2",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-16",
+                    "Match": "Turkey vs Wales",
+                    "Odd": 1.8105263157894738,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-16",
+                    "Match": "Ukraine U19 vs Slovenia U19",
+                    "Odd": 1.9005524861878451,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-17",
+                    "Match": "Achuapa vs Antigua GFC",
+                    "Odd": 1.8494623655913978,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-17",
+                    "Match": "FYR Macedonia vs Faroe Islands",
+                    "Odd": 1.72,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-19",
+                    "Match": "Indonesia vs Saudi Arabia",
+                    "Odd": 1.72,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-19",
+                    "Match": "Greece U19 vs Italy U19",
+                    "Odd": 1.9005524861878451,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-20",
+                    "Match": "Mighty Wanderers vs Bangwe All Stars",
+                    "Odd": 1.728643216080402,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-20",
+                    "Match": "Vado vs Saluzzo",
+                    "Odd": 1.72,
+                    "Score": "0-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-21",
+                    "Match": "Jeonnam Dragons vs Busan I'Park",
+                    "Odd": 1.7461928934010151,
+                    "Score": "0-0",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-21",
+                    "Match": "Inter Stockholm vs GIF Sundsvall",
+                    "Odd": 1.74,
+                    "Score": "0-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-22",
+                    "Match": "Zlate Moravce vs Stara Lubovna",
+                    "Odd": 1.91,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-22",
+                    "Match": "Real Zamora vs Calor De San Ped",
+                    "Odd": 1.75,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-23",
+                    "Match": "Portimonense vs SL Benfica B",
+                    "Odd": 1.764102564102564,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-23",
+                    "Match": "Ituano(SP) vs Amazonas",
+                    "Odd": 1.78,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-25",
+                    "Match": "East Riffa vs Sitra",
+                    "Odd": 2.0,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-25",
+                    "Match": "Puszcza Niepolom vs Widzew lodz",
+                    "Odd": 1.8594594594594593,
+                    "Score": "2-0",
+                    "H2H Under %": 88.89,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-26",
+                    "Match": "Cimarrones de So vs Aguacateros de P",
+                    "Odd": 1.9545454545454546,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-26",
+                    "Match": "Burnley vs Coventry City",
+                    "Odd": 1.72,
+                    "Score": "2-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-27",
+                    "Match": "Gwangju FC Gwang vs Shanghai Shenhua",
+                    "Odd": 1.728643216080402,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-27",
+                    "Match": "Basaksehir vs Petrocub",
+                    "Odd": 1.9545454545454546,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-28",
+                    "Match": "Tzeirei Umm al-F vs Ironi Nesher",
+                    "Odd": 1.9005524861878451,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-28",
+                    "Match": "RFS vs PAOK",
+                    "Odd": 1.7916666666666667,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-29",
+                    "Match": "Lommel SK vs Lokeren-Temse",
+                    "Odd": 2.0,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-29",
+                    "Match": "Guadalupe vs AD Sarchi",
+                    "Odd": 1.9217877094972067,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-30",
+                    "Match": "Baglan Dragons vs Llantwit Major",
+                    "Odd": 1.7461928934010151,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-11-30",
+                    "Match": "Auckland City vs Newcastle Jets",
+                    "Odd": 2.0,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 94.0,
+                "Under2.5_Count": 47,
+                "Total_Matches": 50,
+                "Average_Odds": 1.84
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 91.3,
+                "Combo_Under2.5_Count": 21,
+                "Total_Days": 23,
+                "Average_Combo_Odds": 3.35
+            }
+        },
+        "2024-12": {
+            "matches": [
+                {
+                    "Date": "2024-12-01",
+                    "Match": "Sochi vs KAMAZ Naberezhny",
+                    "Odd": 1.74,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-01",
+                    "Match": "VfL Osnabruck vs Alemannia Aachen",
+                    "Odd": 1.83,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-03",
+                    "Match": "Barbastro vs RCD Espanyol",
+                    "Odd": 1.7461928934010151,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-03",
+                    "Match": "Ipswich Town vs Crystal Palace",
+                    "Odd": 2.0,
+                    "Score": "0-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-04",
+                    "Match": "Birmingham vs Stockport County",
+                    "Odd": 1.9770114942528736,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-04",
+                    "Match": "Scafatese vs MartinaFranca",
+                    "Odd": 1.72,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-05",
+                    "Match": "FC Dobrudzha vs Fratria",
+                    "Odd": 1.9005524861878451,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-05",
+                    "Match": "UB Conquense vs Real Sociedad",
+                    "Odd": 1.9770114942528736,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-06",
+                    "Match": "Hapoel Kfar Saba vs Hapoel Ironi Acr",
+                    "Odd": 1.764102564102564,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-06",
+                    "Match": "Hapoel Afula vs Hapoel Tel Aviv",
+                    "Odd": 1.9325842696629212,
+                    "Score": "1-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-09",
+                    "Match": "Belasitsa vs Botev Plovdiv U1",
+                    "Odd": 1.7461928934010151,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-10",
+                    "Match": "Charlton Athleti vs Leyton Orient",
+                    "Odd": 1.8,
+                    "Score": "0-2",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-11",
+                    "Match": "Fenerbahce vs Athletic Bilbao",
+                    "Odd": 1.9,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-11",
+                    "Match": "Benfica vs Bologna",
+                    "Odd": 1.89010989010989,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-12",
+                    "Match": "Olympiakos vs FC Twente Ensche",
+                    "Odd": 1.9657142857142857,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-12",
+                    "Match": "TSG Hoffenheim vs FCSB",
+                    "Odd": 1.9657142857142857,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-13",
+                    "Match": "Persib Bandung vs Malut United",
+                    "Odd": 1.98,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-13",
+                    "Match": "Bodrumspor vs Sivasspor",
+                    "Odd": 1.7551020408163265,
+                    "Score": "2-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-14",
+                    "Match": "Padova vs Lumezzane",
+                    "Odd": 1.8,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-14",
+                    "Match": "Menemen Belediye vs Karacabey Beledi",
+                    "Odd": 1.7373737373737375,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-15",
+                    "Match": "Semen Padang vs Persebaya",
+                    "Odd": 1.72,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-15",
+                    "Match": "Zhytomyr vs FC Shakhtar Done",
+                    "Odd": 1.87,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-16",
+                    "Match": "Maccabi Herzliya vs Hapoel Kfar Saba",
+                    "Odd": 1.7461928934010151,
+                    "Score": "1-0",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-16",
+                    "Match": "Rapid Bucuresti vs Gloria Buzau",
+                    "Odd": 1.7823834196891193,
+                    "Score": "2-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-17",
+                    "Match": "Apolonia Fier vs Flamurtari",
+                    "Odd": 1.764102564102564,
+                    "Score": "1-1",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-17",
+                    "Match": "Tonbridge Angels vs Chesham United",
+                    "Odd": 1.83,
+                    "Score": "1-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-18",
+                    "Match": "Arezzo vs Trapani",
+                    "Odd": 1.83,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-18",
+                    "Match": "PDRM vs Kelantan United",
+                    "Odd": 1.9884393063583814,
+                    "Score": "5-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2024-12-19",
+                    "Match": "Jagiellonia Bial vs NK Olimpija Ljub",
+                    "Odd": 1.8010471204188483,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-19",
+                    "Match": "Vitoria Guimarae vs Fiorentina",
+                    "Odd": 1.8010471204188483,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-20",
+                    "Match": "Espaly vs Dijon",
+                    "Odd": 1.7461928934010151,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-21",
+                    "Match": "Lincoln City vs Reading",
+                    "Odd": 1.8594594594594593,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-21",
+                    "Match": "Sivasspor vs Samsunspor",
+                    "Odd": 1.7461928934010151,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-22",
+                    "Match": "Keciorengucu vs Karagumruk",
+                    "Odd": 1.9770114942528736,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-22",
+                    "Match": "Erokspor vs Bandirmaspor",
+                    "Odd": 1.91,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-23",
+                    "Match": "CF Atlante vs Puebla",
+                    "Odd": 1.9770114942528736,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-23",
+                    "Match": "AO Itabaiana vs Coruripe Al",
+                    "Odd": 1.88,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-24",
+                    "Match": "United Arab Emir vs Kuwait",
+                    "Odd": 1.7823834196891193,
+                    "Score": "1-2",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2024-12-25",
+                    "Match": "Maccabi Haifa vs Maccabi Tel Aviv",
+                    "Odd": 1.7461928934010151,
+                    "Score": "1-3",
+                    "H2H Under %": 50.98,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2024-12-25",
+                    "Match": "Pyramids vs Pharco",
+                    "Odd": 2.0,
+                    "Score": "3-0",
+                    "H2H Under %": 42.86,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2024-12-26",
+                    "Match": "Eastbourne Borou vs Salisbury City",
+                    "Odd": 1.8201058201058202,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-26",
+                    "Match": "Wolverhampton vs Manchester Unite",
+                    "Odd": 1.9884393063583814,
+                    "Score": "2-0",
+                    "H2H Under %": 76.47,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-27",
+                    "Match": "Tzeirei Umm al-F vs Hapoel Ironi Acr",
+                    "Odd": 1.85,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-28",
+                    "Match": "Canvey Island vs Dartford",
+                    "Odd": 1.8201058201058202,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-28",
+                    "Match": "Dover Athletic vs Billericay Town",
+                    "Odd": 1.8201058201058202,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-29",
+                    "Match": "Bromley vs Swindon Town",
+                    "Odd": 1.9005524861878451,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-30",
+                    "Match": "Como vs Lecce",
+                    "Odd": 1.84,
+                    "Score": "2-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2024-12-30",
+                    "Match": "Bologna vs Verona",
+                    "Odd": 1.86,
+                    "Score": "2-3",
+                    "H2H Under %": 58.82,
+                    "Under2.5_Result": false
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 89.58,
+                "Under2.5_Count": 43,
+                "Total_Matches": 48,
+                "Average_Odds": 1.85
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 85.71,
+                "Combo_Under2.5_Count": 18,
+                "Total_Days": 21,
+                "Average_Combo_Odds": 3.44
+            }
+        }
+    },
+    "year_summary": {
+        "single_stats": {
+            "Under2.5_Percentage": 94.52,
+            "Under2.5_Count": 535,
+            "Total_Matches": 566,
+            "Average_Odds": 1.84
+        },
+        "combo_stats": {
+            "Combo_Under2.5_Percentage": 90.38,
+            "Combo_Under2.5_Count": 216,
+            "Total_Days": 239,
+            "Average_Combo_Odds": 3.39
+        }
+    }
+}

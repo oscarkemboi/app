@@ -1,0 +1,4842 @@
+{
+    "months": {
+        "2021-01": {
+            "matches": [
+                {
+                    "Date": "2021-01-01",
+                    "Match": "Hapoel Jerusalem vs Hapoel Kfar Shal",
+                    "Odd": 1.83,
+                    "Score": "2-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-01",
+                    "Match": "Everton vs West Ham United",
+                    "Odd": 1.764102564102564,
+                    "Score": "0-1",
+                    "H2H Under %": 65.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-02",
+                    "Match": "Northampton Town vs Sunderland",
+                    "Odd": 1.78,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-02",
+                    "Match": "AFC Wimbledon vs Lincoln City",
+                    "Odd": 1.7731958762886597,
+                    "Score": "1-2",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-01-04",
+                    "Match": "Cremonese vs Chievo",
+                    "Odd": 1.8,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-04",
+                    "Match": "San Lorenzo vs Gimnasia La Plat",
+                    "Odd": 1.72,
+                    "Score": "1-2",
+                    "H2H Under %": 82.35,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-01-05",
+                    "Match": "B.B. Gaziantep vs Ankaragucu",
+                    "Odd": 1.8395721925133688,
+                    "Score": "2-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-06",
+                    "Match": "Socuellamos vs Leganes",
+                    "Odd": 1.77,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-06",
+                    "Match": "Denizlispor vs Kayserispor",
+                    "Odd": 1.9,
+                    "Score": "0-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-07",
+                    "Match": "Curico Unido vs CSD Antofagasta",
+                    "Odd": 1.7731958762886597,
+                    "Score": "2-0",
+                    "H2H Under %": 92.31,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-07",
+                    "Match": "Barnechea vs Nublense",
+                    "Odd": 1.98,
+                    "Score": "2-4",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-01-08",
+                    "Match": "Real Zaragoza vs CD Logrones",
+                    "Odd": 2.0,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-08",
+                    "Match": "Nacional da Made vs Sporting Lisbon",
+                    "Odd": 1.911111111111111,
+                    "Score": "0-2",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-09",
+                    "Match": "Stevenage Boroug vs Swansea City",
+                    "Odd": 1.85,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-09",
+                    "Match": "Burnley vs Milton Keynes Do",
+                    "Odd": 1.94,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-10",
+                    "Match": "Arminia Bielefel vs Hertha Berlin",
+                    "Odd": 1.8105263157894738,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-11",
+                    "Match": "Banfield vs San Lorenzo",
+                    "Odd": 1.85,
+                    "Score": "4-1",
+                    "H2H Under %": 73.33,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-01-11",
+                    "Match": "Colon de Santa F vs Talleres Cordoba",
+                    "Odd": 1.72,
+                    "Score": "1-2",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-01-13",
+                    "Match": "Nublense vs Union San Felipe",
+                    "Odd": 1.7731958762886597,
+                    "Score": "2-3",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-01-14",
+                    "Match": "Sassuolo vs Spal",
+                    "Odd": 2.0,
+                    "Score": "0-2",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-14",
+                    "Match": "Willem II vs Groningen",
+                    "Odd": 1.8105263157894738,
+                    "Score": "2-3",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-01-16",
+                    "Match": "Nova Iguacu vs Friburguense (RJ",
+                    "Odd": 1.75,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-16",
+                    "Match": "Fuenlabrada vs Levante",
+                    "Odd": 1.8,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-17",
+                    "Match": "Denizlispor vs Hatayspor",
+                    "Odd": 1.93,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-17",
+                    "Match": "Tenerife vs Villarreal",
+                    "Odd": 1.79,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-18",
+                    "Match": "Spal vs Reggiana",
+                    "Odd": 1.8695652173913042,
+                    "Score": "2-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-18",
+                    "Match": "Plaza Colonia vs Liverpool (URU)",
+                    "Odd": 1.9005524861878451,
+                    "Score": "0-0",
+                    "H2H Under %": 65.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-19",
+                    "Match": "Turkgucu Munchen vs Unterhaching",
+                    "Odd": 1.98,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-19",
+                    "Match": "Watford vs Barnsley",
+                    "Odd": 1.75,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-20",
+                    "Match": "Cordoba vs Real Sociedad To",
+                    "Odd": 1.911111111111111,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-20",
+                    "Match": "Nautico Capibari vs Oeste",
+                    "Odd": 1.81,
+                    "Score": "4-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-01-21",
+                    "Match": "Dynamo Moscow vs Rakow",
+                    "Odd": 1.8395721925133688,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-21",
+                    "Match": "Flamengo vs Palmeiras",
+                    "Odd": 1.8494623655913978,
+                    "Score": "2-0",
+                    "H2H Under %": 68.18,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-22",
+                    "Match": "Arbroath vs Dundee",
+                    "Odd": 1.764102564102564,
+                    "Score": "1-1",
+                    "H2H Under %": 76.92,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-22",
+                    "Match": "VfL Osnabruck vs Erzgebirge Aue",
+                    "Odd": 1.94,
+                    "Score": "0-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-24",
+                    "Match": "Mantova vs Fermana",
+                    "Odd": 1.76,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-24",
+                    "Match": "Konyaspor vs Antalyaspor",
+                    "Odd": 1.72,
+                    "Score": "0-0",
+                    "H2H Under %": 82.35,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-25",
+                    "Match": "Corinthians vs Bragantino",
+                    "Odd": 1.86,
+                    "Score": "0-2",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-26",
+                    "Match": "VfL Osnabruck vs Greuther Furth",
+                    "Odd": 1.89010989010989,
+                    "Score": "0-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-26",
+                    "Match": "Gillingham vs Crewe Alexandra",
+                    "Odd": 1.81,
+                    "Score": "4-1",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-01-27",
+                    "Match": "Bohemians 1905 vs Opava",
+                    "Odd": 1.7916666666666667,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-27",
+                    "Match": "Hansa Rostock vs Saarbrucken",
+                    "Odd": 1.9325842696629212,
+                    "Score": "4-2",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-01-28",
+                    "Match": "Gremio RS vs Flamengo",
+                    "Odd": 1.87,
+                    "Score": "2-4",
+                    "H2H Under %": 58.33,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-01-29",
+                    "Match": "Panama vs Serbia",
+                    "Odd": 1.79,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-29",
+                    "Match": "Torino vs Fiorentina",
+                    "Odd": 1.75,
+                    "Score": "1-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-30",
+                    "Match": "Guarani SP vs Juventude",
+                    "Odd": 1.72,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-30",
+                    "Match": "Pordenone Calcio vs Lecce",
+                    "Odd": 1.88,
+                    "Score": "1-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-31",
+                    "Match": "Genclerbirligi vs Antalyaspor",
+                    "Odd": 1.8,
+                    "Score": "0-1",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-01-31",
+                    "Match": "Avellino vs Viterbese",
+                    "Odd": 1.7551020408163265,
+                    "Score": "3-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": false
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 75.51,
+                "Under2.5_Count": 37,
+                "Total_Matches": 49,
+                "Average_Odds": 1.83
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 59.09,
+                "Combo_Under2.5_Count": 13,
+                "Total_Days": 22,
+                "Average_Combo_Odds": 3.36
+            }
+        },
+        "2021-02": {
+            "matches": [
+                {
+                    "Date": "2021-02-02",
+                    "Match": "Werder Bremen vs Greuther Furth",
+                    "Odd": 1.764102564102564,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-02-02",
+                    "Match": "Newcastle United vs Crystal Palace",
+                    "Odd": 1.75,
+                    "Score": "1-2",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-02-03",
+                    "Match": "Arezzo vs Gubbio",
+                    "Odd": 1.7551020408163265,
+                    "Score": "0-1",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-02-04",
+                    "Match": "Al-Duhail vs EL Ahly",
+                    "Odd": 1.8201058201058202,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-02-04",
+                    "Match": "Tampico Madero vs Cancun",
+                    "Odd": 1.78,
+                    "Score": "1-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-02-05",
+                    "Match": "Niort vs Chateauroux",
+                    "Odd": 1.74,
+                    "Score": "1-1",
+                    "H2H Under %": 64.29,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-02-06",
+                    "Match": "VfR Mannheim vs Kaiserslautern",
+                    "Odd": 1.8797814207650272,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-02-06",
+                    "Match": "Accrington Stanl vs Northampton Town",
+                    "Odd": 1.98,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-02-07",
+                    "Match": "Tottenham Hotspu vs W.B.A",
+                    "Odd": 2.0,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-02-08",
+                    "Match": "B.B. Gaziantep vs Goztepe",
+                    "Odd": 1.7823834196891193,
+                    "Score": "2-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-02-09",
+                    "Match": "Bolton Wanderers vs Morecambe",
+                    "Odd": 1.9005524861878451,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-02-09",
+                    "Match": "Cittadella vs Cosenza Calcio 1",
+                    "Odd": 1.9,
+                    "Score": "1-1",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-02-10",
+                    "Match": "Chievo vs Reggiana",
+                    "Odd": 1.7823834196891193,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-02-11",
+                    "Match": "Atletico Huila vs Tigres",
+                    "Odd": 1.73,
+                    "Score": "1-0",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-02-13",
+                    "Match": "Orleans US 45 vs Romorantin",
+                    "Odd": 1.73,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-02-13",
+                    "Match": "Groningen vs Zwolle",
+                    "Odd": 1.72,
+                    "Score": "1-0",
+                    "H2H Under %": 86.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-02-14",
+                    "Match": "Brescia vs Chievo",
+                    "Odd": 1.8201058201058202,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-02-15",
+                    "Match": "Sport Club do Re vs Bragantino",
+                    "Odd": 1.81,
+                    "Score": "0-0",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-02-15",
+                    "Match": "Sporting Lisbon vs Pacos de Ferreir",
+                    "Odd": 1.75,
+                    "Score": "2-0",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-02-16",
+                    "Match": "Famalicao U23 vs Braga U23",
+                    "Odd": 1.85,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-02-16",
+                    "Match": "Juventus U23 vs Pro Vercelli",
+                    "Odd": 1.8105263157894738,
+                    "Score": "0-2",
+                    "H2H Under %": 84.62,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-02-18",
+                    "Match": "Slavia Praha vs Leicester City",
+                    "Odd": 1.79,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-02-18",
+                    "Match": "Real Sociedad vs Manchester Unite",
+                    "Odd": 1.79,
+                    "Score": "0-4",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-02-19",
+                    "Match": "Basaksehir vs Trabzonspor",
+                    "Odd": 1.82,
+                    "Score": "0-1",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-02-19",
+                    "Match": "River Plate (PAR vs Sportivo Luqueno",
+                    "Odd": 1.764102564102564,
+                    "Score": "1-0",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-02-20",
+                    "Match": "NK Junak Sinj vs Orijent",
+                    "Odd": 1.8494623655913978,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-02-22",
+                    "Match": "Hapoel Tel Aviv vs Hapoel Ashkelon",
+                    "Odd": 1.78,
+                    "Score": "4-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-02-22",
+                    "Match": "Newells Old Boys vs Boca Juniors",
+                    "Odd": 1.73,
+                    "Score": "0-1",
+                    "H2H Under %": 73.68,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-02-23",
+                    "Match": "Crewe Alexandra vs Accrington Stanl",
+                    "Odd": 1.9005524861878451,
+                    "Score": "2-0",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-02-24",
+                    "Match": "Groningen vs Feyenoord",
+                    "Odd": 1.943502824858757,
+                    "Score": "0-0",
+                    "H2H Under %": 69.23,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-02-25",
+                    "Match": "FC Shakhtar Done vs Maccabi Tel Aviv",
+                    "Odd": 1.88,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-02-25",
+                    "Match": "Leicester City vs Slavia Praha",
+                    "Odd": 1.7373737373737375,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-02-26",
+                    "Match": "Braga U23 vs Leixoes U23",
+                    "Odd": 1.911111111111111,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-02-26",
+                    "Match": "Maccabi Yavne vs Holon Yermiyahu",
+                    "Odd": 1.8,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-02-27",
+                    "Match": "Radnicki 1923 Kr vs Dubocica",
+                    "Odd": 1.78,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 91.43,
+                "Under2.5_Count": 32,
+                "Total_Matches": 35,
+                "Average_Odds": 1.82
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 75.0,
+                "Combo_Under2.5_Count": 9,
+                "Total_Days": 12,
+                "Average_Combo_Odds": 3.28
+            }
+        },
+        "2021-03": {
+            "matches": [
+                {
+                    "Date": "2021-03-01",
+                    "Match": "Boca Juniors vs Sarmiento Junin",
+                    "Odd": 1.95,
+                    "Score": "1-1",
+                    "H2H Under %": 90.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-01",
+                    "Match": "Maccabi Tel Aviv vs Ashdod MS",
+                    "Odd": 1.8010471204188483,
+                    "Score": "3-1",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-03-02",
+                    "Match": "Perugia vs Sambenedettese",
+                    "Odd": 1.8105263157894738,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-02",
+                    "Match": "Sunderland vs Swindon Town",
+                    "Odd": 1.911111111111111,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-03",
+                    "Match": "FC Tokyo vs Tokushima Vortis",
+                    "Odd": 1.7731958762886597,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-03",
+                    "Match": "Ujpest vs Budafoki MTE",
+                    "Odd": 1.9770114942528736,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-04",
+                    "Match": "Muglaspor vs Modafenspor",
+                    "Odd": 1.77,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-04",
+                    "Match": "Liverpool vs Chelsea",
+                    "Odd": 2.0,
+                    "Score": "0-1",
+                    "H2H Under %": 69.23,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-05",
+                    "Match": "Celaya FC vs Tlaxcala",
+                    "Odd": 1.81,
+                    "Score": "0-0",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-05",
+                    "Match": "Miedz Legnica vs GKS Belchatow",
+                    "Odd": 1.9,
+                    "Score": "3-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-03-06",
+                    "Match": "Blackpool vs AFC Wimbledon",
+                    "Odd": 1.8105263157894738,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-06",
+                    "Match": "Blansko vs Trinec",
+                    "Odd": 1.73,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-09",
+                    "Match": "Crewe Alexandra vs Doncaster Rovers",
+                    "Odd": 1.8297872340425532,
+                    "Score": "1-0",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-09",
+                    "Match": "AFC Wimbledon vs Burton Albion",
+                    "Odd": 1.72,
+                    "Score": "0-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-11",
+                    "Match": "Tottenham Hotspu vs Dinamo Zagreb",
+                    "Odd": 1.9884393063583814,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-12",
+                    "Match": "Suwalki vs Blekitni Stargar",
+                    "Odd": 1.8297872340425532,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-13",
+                    "Match": "Opava vs Pardubice",
+                    "Odd": 1.73,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-14",
+                    "Match": "Thespa Kusatsu vs FC Ryukyu",
+                    "Odd": 1.7373737373737375,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-14",
+                    "Match": "Agua Santa vs Sertaozinho",
+                    "Odd": 1.85,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-15",
+                    "Match": "Justo Jose de Ur vs CA Fenix Pilar",
+                    "Odd": 1.81,
+                    "Score": "0-1",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-15",
+                    "Match": "Boavista (RJ) vs Macae",
+                    "Odd": 1.76,
+                    "Score": "1-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-16",
+                    "Match": "Hapoel Bnei Sakh vs Nordia Jerusalem",
+                    "Odd": 1.95,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-16",
+                    "Match": "Bala Town vs Connahs Quay Tow",
+                    "Odd": 1.72,
+                    "Score": "1-3",
+                    "H2H Under %": 70.59,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-03-17",
+                    "Match": "SG Dynamo Dresde vs SV Wehen Wiesbad",
+                    "Odd": 1.7373737373737375,
+                    "Score": "1-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-18",
+                    "Match": "AC Milan vs Manchester Unite",
+                    "Odd": 1.9,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-18",
+                    "Match": "Dinamo Zagreb vs Tottenham Hotspu",
+                    "Odd": 1.8010471204188483,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-19",
+                    "Match": "Atletico Naciona vs Guarani CA",
+                    "Odd": 1.764102564102564,
+                    "Score": "3-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-03-19",
+                    "Match": "Chiasso vs Thun",
+                    "Odd": 1.943502824858757,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-20",
+                    "Match": "Hansa Rostock vs Hallescher FC",
+                    "Odd": 1.7461928934010151,
+                    "Score": "1-0",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-21",
+                    "Match": "Arezzo vs Imolese",
+                    "Odd": 1.764102564102564,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-22",
+                    "Match": "Orsomarso vs Leones",
+                    "Odd": 1.82,
+                    "Score": "1-1",
+                    "H2H Under %": 64.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-22",
+                    "Match": "Arsenal de Saran vs CA Platense",
+                    "Odd": 1.79,
+                    "Score": "0-0",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-24",
+                    "Match": "Cerro Montevideo vs Cerro Largo",
+                    "Odd": 1.73,
+                    "Score": "0-1",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-25",
+                    "Match": "Guatemala vs Cuba",
+                    "Odd": 2.0,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-25",
+                    "Match": "CA Progreso vs CA Penarol",
+                    "Odd": 1.77,
+                    "Score": "0-2",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-26",
+                    "Match": "Orebro vs AIK Solna",
+                    "Odd": 1.9,
+                    "Score": "2-3",
+                    "H2H Under %": 68.75,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-03-26",
+                    "Match": "Wexford vs Cabinteely",
+                    "Odd": 1.7551020408163265,
+                    "Score": "1-2",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-03-27",
+                    "Match": "Slovenia U21 vs Czech Republic U",
+                    "Odd": 1.8,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-27",
+                    "Match": "Blekitni Stargar vs Chojniczanka Cho",
+                    "Odd": 1.81,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-28",
+                    "Match": "AD Carmelita vs Municipal San Ra",
+                    "Odd": 1.83,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-28",
+                    "Match": "Russia U21 vs France U21",
+                    "Odd": 1.7823834196891193,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-29",
+                    "Match": "Austria U21 vs Poland U21",
+                    "Odd": 1.8797814207650272,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-30",
+                    "Match": "Spain U21 vs Czech Republic U",
+                    "Odd": 1.85,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-30",
+                    "Match": "Cove Rangers vs Airdrie United",
+                    "Odd": 1.9770114942528736,
+                    "Score": "2-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-31",
+                    "Match": "Bosnia-Herzegovi vs France",
+                    "Odd": 1.89,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-03-31",
+                    "Match": "England vs Poland",
+                    "Odd": 1.8010471204188483,
+                    "Score": "2-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 84.78,
+                "Under2.5_Count": 39,
+                "Total_Matches": 46,
+                "Average_Odds": 1.83
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 68.42,
+                "Combo_Under2.5_Count": 13,
+                "Total_Days": 19,
+                "Average_Combo_Odds": 3.37
+            }
+        },
+        "2021-04": {
+            "matches": [
+                {
+                    "Date": "2021-04-01",
+                    "Match": "River Plate (PAR vs 12 de Octubre",
+                    "Odd": 1.75,
+                    "Score": "0-2",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-01",
+                    "Match": "Tecnico Universi vs Ind. del Valle",
+                    "Odd": 1.77,
+                    "Score": "0-2",
+                    "H2H Under %": 64.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-02",
+                    "Match": "Swindon Town vs Blackpool",
+                    "Odd": 1.72,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-02",
+                    "Match": "Sunderland vs Oxford United",
+                    "Odd": 1.85,
+                    "Score": "3-1",
+                    "H2H Under %": 81.82,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-04-06",
+                    "Match": "Lyngby vs Vejle",
+                    "Odd": 1.72,
+                    "Score": "0-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-06",
+                    "Match": "Sportist Svoge vs Strumska Slava",
+                    "Odd": 1.8594594594594593,
+                    "Score": "0-0",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-07",
+                    "Match": "Alajuelense vs Atlanta United",
+                    "Odd": 1.7461928934010151,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-07",
+                    "Match": "Fortaleza vs Ypiranga FC",
+                    "Odd": 1.9325842696629212,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-08",
+                    "Match": "Denizlispor vs Kasimpasa",
+                    "Odd": 1.81,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-08",
+                    "Match": "Stenhousemuir vs Cowdenbeath",
+                    "Odd": 1.7916666666666667,
+                    "Score": "1-0",
+                    "H2H Under %": 64.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-09",
+                    "Match": "Reggiana vs Empoli",
+                    "Odd": 1.8010471204188483,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-12",
+                    "Match": "Jagodina vs Dubocica",
+                    "Odd": 1.74,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-12",
+                    "Match": "Curico Unido vs CSD Antofagasta",
+                    "Odd": 1.764102564102564,
+                    "Score": "1-1",
+                    "H2H Under %": 92.31,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-13",
+                    "Match": "Atletico Tucuman vs Velez Sarsfield",
+                    "Odd": 1.93,
+                    "Score": "2-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-13",
+                    "Match": "Chelsea vs Porto",
+                    "Odd": 1.7461928934010151,
+                    "Score": "0-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-14",
+                    "Match": "Lublin vs Suwalki",
+                    "Odd": 1.72,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-14",
+                    "Match": "Gyeongnam FC vs Mokpo City",
+                    "Odd": 1.8594594594594593,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-15",
+                    "Match": "Manchester Unite vs Granada CF",
+                    "Odd": 1.9217877094972067,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-15",
+                    "Match": "Alianza Atletico vs Ayacucho",
+                    "Odd": 1.73,
+                    "Score": "0-1",
+                    "H2H Under %": 64.29,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-16",
+                    "Match": "SC Farense vs Sporting Lisbon",
+                    "Odd": 1.76,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-16",
+                    "Match": "Podbeskidzie Bie vs Pogon Szczecin",
+                    "Odd": 1.764102564102564,
+                    "Score": "0-2",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-18",
+                    "Match": "Rangers Talca vs Celtic FC",
+                    "Odd": 1.9005524861878451,
+                    "Score": "2-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-18",
+                    "Match": "Spartak Moscow vs Bashinformsvyaz-",
+                    "Odd": 1.7461928934010151,
+                    "Score": "0-3",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-04-19",
+                    "Match": "Vizela vs SL Benfica B",
+                    "Odd": 1.9325842696629212,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-19",
+                    "Match": "Bragantino vs Ponte Preta",
+                    "Odd": 1.9005524861878451,
+                    "Score": "2-0",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-20",
+                    "Match": "GFA74 vs Toulouse",
+                    "Odd": 1.99,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-20",
+                    "Match": "Niort vs Troyes",
+                    "Odd": 1.8297872340425532,
+                    "Score": "0-3",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-04-21",
+                    "Match": "Unterhaching vs Turkgucu Munchen",
+                    "Odd": 1.8797814207650272,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-21",
+                    "Match": "NK Opatija vs NK Junak Sinj",
+                    "Odd": 1.76,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-22",
+                    "Match": "AGF Aarhus vs Randers FC",
+                    "Odd": 1.75,
+                    "Score": "2-0",
+                    "H2H Under %": 62.96,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-22",
+                    "Match": "CD Tondela vs Nacional da Made",
+                    "Odd": 1.78,
+                    "Score": "2-1",
+                    "H2H Under %": 58.33,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-04-23",
+                    "Match": "Atletico Naciona vs Univ Catolica",
+                    "Odd": 1.73,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-23",
+                    "Match": "Cabinteely vs Shelbourne",
+                    "Odd": 1.88,
+                    "Score": "1-3",
+                    "H2H Under %": 65.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-04-24",
+                    "Match": "Morecambe vs Bolton Wanderers",
+                    "Odd": 1.72,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-24",
+                    "Match": "Turkgucu Munchen vs Uerdingen KFC 05",
+                    "Odd": 1.77,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-25",
+                    "Match": "SudTirol vs Cesena",
+                    "Odd": 1.84,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-25",
+                    "Match": "Magdeburg vs VFB Lubeck",
+                    "Odd": 1.79,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-26",
+                    "Match": "SL Benfica B vs Penafiel",
+                    "Odd": 1.79,
+                    "Score": "2-2",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-04-26",
+                    "Match": "Rangers Talca vs CD Copiapo S.A.",
+                    "Odd": 1.79,
+                    "Score": "2-3",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-04-27",
+                    "Match": "Empoli vs Chievo",
+                    "Odd": 1.73,
+                    "Score": "2-2",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-04-27",
+                    "Match": "Sutton United vs Barnet",
+                    "Odd": 1.9884393063583814,
+                    "Score": "1-0",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-28",
+                    "Match": "Skra vs Lech Poznan 2",
+                    "Odd": 1.9884393063583814,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-29",
+                    "Match": "Cerro Porteno vs La Guaira",
+                    "Odd": 1.8105263157894738,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-29",
+                    "Match": "Ankaragucu vs B.B. Gaziantep",
+                    "Odd": 1.943502824858757,
+                    "Score": "0-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-04-30",
+                    "Match": "Palestino vs Atletico Clube G",
+                    "Odd": 1.72,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 82.22,
+                "Under2.5_Count": 37,
+                "Total_Matches": 45,
+                "Average_Odds": 1.81
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 66.67,
+                "Combo_Under2.5_Count": 14,
+                "Total_Days": 21,
+                "Average_Combo_Odds": 3.28
+            }
+        },
+        "2021-05": {
+            "matches": [
+                {
+                    "Date": "2021-05-01",
+                    "Match": "Graficar Beograd vs Jagodina",
+                    "Odd": 1.8494623655913978,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-02",
+                    "Match": "Renate AC vs Lucchese",
+                    "Odd": 1.88,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-03",
+                    "Match": "Yeovil Town vs Halifax Town",
+                    "Odd": 1.8010471204188483,
+                    "Score": "0-3",
+                    "H2H Under %": 90.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-05-03",
+                    "Match": "Dziugas Telsiai vs Banga Gargzdai",
+                    "Odd": 1.89010989010989,
+                    "Score": "1-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-04",
+                    "Match": "Chievo vs Cremonese",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-04",
+                    "Match": "Luton Town vs Rotherham United",
+                    "Odd": 1.8,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-05",
+                    "Match": "Uerdingen KFC 05 vs Viktoria koln",
+                    "Odd": 1.8297872340425532,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-05",
+                    "Match": "SC Paysandu Para vs Bragantino",
+                    "Odd": 1.8010471204188483,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-06",
+                    "Match": "Rentistas vs Sporting Cristal",
+                    "Odd": 1.77,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-06",
+                    "Match": "Bragantino vs Talleres Cordoba",
+                    "Odd": 1.728643216080402,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-07",
+                    "Match": "San Lorenzo vs 12 de Octubre",
+                    "Odd": 1.86,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-07",
+                    "Match": "Cremonese vs Pescara",
+                    "Odd": 1.79,
+                    "Score": "3-0",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-05-08",
+                    "Match": "Sutton United vs Weymouth",
+                    "Odd": 1.9770114942528736,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-08",
+                    "Match": "NK Junak Sinj vs Hajduk Split 2 (",
+                    "Odd": 1.7551020408163265,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-09",
+                    "Match": "SV Meppen vs VFB Lubeck",
+                    "Odd": 1.9770114942528736,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-09",
+                    "Match": "RoPS Rovaniemi vs Mikkelin Kissat",
+                    "Odd": 1.87,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-10",
+                    "Match": "Spal vs Cremonese",
+                    "Odd": 1.9,
+                    "Score": "1-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-10",
+                    "Match": "Cittadella vs Venezia",
+                    "Odd": 1.85,
+                    "Score": "1-1",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-11",
+                    "Match": "Metropolitanos vs Athletico-PR",
+                    "Odd": 1.7916666666666667,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-11",
+                    "Match": "Stockport County vs Dagenham Redbrid",
+                    "Odd": 2.0,
+                    "Score": "1-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-12",
+                    "Match": "Argentinos junio vs Univ Catolica",
+                    "Odd": 1.8,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-12",
+                    "Match": "Ceara vs Arsenal de Saran",
+                    "Odd": 1.83,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-13",
+                    "Match": "Atletico Clube G vs Palestino",
+                    "Odd": 1.9,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-13",
+                    "Match": "Yaracuyanos vs Carabobo FC",
+                    "Odd": 1.72,
+                    "Score": "1-2",
+                    "H2H Under %": 73.33,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-05-14",
+                    "Match": "Vojvodina Novi S vs Sp. Subotica",
+                    "Odd": 1.8,
+                    "Score": "1-1",
+                    "H2H Under %": 73.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-14",
+                    "Match": "Charleston Batte vs Charlotte Indepe",
+                    "Odd": 1.764102564102564,
+                    "Score": "0-3",
+                    "H2H Under %": 68.42,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-05-15",
+                    "Match": "Niort vs Guingamp",
+                    "Odd": 1.86,
+                    "Score": "0-2",
+                    "H2H Under %": 90.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-16",
+                    "Match": "Cracovia Krakow vs Warta Poznan",
+                    "Odd": 1.8105263157894738,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-17",
+                    "Match": "Botev Plovdiv vs Cherno More Varn",
+                    "Odd": 1.94,
+                    "Score": "1-1",
+                    "H2H Under %": 77.27,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-17",
+                    "Match": "Vasteras SK FK vs IFK Varnamo",
+                    "Odd": 1.764102564102564,
+                    "Score": "0-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-19",
+                    "Match": "Sporting Cristal vs Rentistas",
+                    "Odd": 1.85,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-19",
+                    "Match": "Proleter vs Vojvodina Novi S",
+                    "Odd": 1.9545454545454546,
+                    "Score": "2-0",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-20",
+                    "Match": "12 de Octubre vs San Lorenzo",
+                    "Odd": 1.72,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-20",
+                    "Match": "Athletico-PR vs FBC Melgar",
+                    "Odd": 1.7823834196891193,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-22",
+                    "Match": "Orgryte vs GIF Sundsvall",
+                    "Odd": 1.85,
+                    "Score": "0-2",
+                    "H2H Under %": 88.89,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-22",
+                    "Match": "Energetik-BGU vs Slutsksakhar Slu",
+                    "Odd": 1.8,
+                    "Score": "1-0",
+                    "H2H Under %": 81.82,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-23",
+                    "Match": "Melipilla vs CSD Antofagasta",
+                    "Odd": 1.8695652173913042,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-23",
+                    "Match": "RCD Espanyol vs Tenerife",
+                    "Odd": 1.79,
+                    "Score": "1-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-24",
+                    "Match": "Iraq vs Tajikistan",
+                    "Odd": 1.81,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-24",
+                    "Match": "Santiago Morning vs Rangers Talca",
+                    "Odd": 1.9657142857142857,
+                    "Score": "0-0",
+                    "H2H Under %": 72.22,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-25",
+                    "Match": "Nea Salamis vs Doxa Katokopias",
+                    "Odd": 1.764102564102564,
+                    "Score": "1-4",
+                    "H2H Under %": 60.71,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-05-25",
+                    "Match": "San Luis Quillot vs CD Copiapo S.A.",
+                    "Odd": 2.0,
+                    "Score": "1-2",
+                    "H2H Under %": 54.55,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-05-26",
+                    "Match": "CS Universitatea vs Academica Clince",
+                    "Odd": 1.8297872340425532,
+                    "Score": "0-0",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-27",
+                    "Match": "Nacional Montevi vs Argentinos junio",
+                    "Odd": 1.79,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-27",
+                    "Match": "Univ Catolica vs Atletico Naciona",
+                    "Odd": 1.8494623655913978,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-28",
+                    "Match": "Ukraine U21 vs Uzbekistan U21",
+                    "Odd": 2.0,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-28",
+                    "Match": "Cabinteely vs Wexford",
+                    "Odd": 1.87,
+                    "Score": "0-2",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-29",
+                    "Match": "CS Cerrito vs CA Progreso",
+                    "Odd": 1.7373737373737375,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-29",
+                    "Match": "TPS Turku vs JIPPO",
+                    "Odd": 1.7373737373737375,
+                    "Score": "0-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-30",
+                    "Match": "Switzerland U21 vs Ireland U21",
+                    "Odd": 2.0,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-30",
+                    "Match": "Rayo Vallecano vs CD Lugo",
+                    "Odd": 1.8010471204188483,
+                    "Score": "0-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-05-31",
+                    "Match": "Turkey vs Guinea",
+                    "Odd": 1.8797814207650272,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 88.46,
+                "Under2.5_Count": 46,
+                "Total_Matches": 52,
+                "Average_Odds": 1.84
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 78.26,
+                "Combo_Under2.5_Count": 18,
+                "Total_Days": 23,
+                "Average_Combo_Odds": 3.38
+            }
+        },
+        "2021-06": {
+            "matches": [
+                {
+                    "Date": "2021-06-01",
+                    "Match": "Cianorte (PR) vs Santos",
+                    "Odd": 1.86,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-06-01",
+                    "Match": "Coquimbo Unido vs CD Copiapo S.A.",
+                    "Odd": 1.83,
+                    "Score": "0-0",
+                    "H2H Under %": 53.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-06-02",
+                    "Match": "Turkey U21 vs Ukraine U21",
+                    "Odd": 1.9884393063583814,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-06-02",
+                    "Match": "England vs Austria",
+                    "Odd": 1.96,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-06-03",
+                    "Match": "Belgium vs Greece",
+                    "Odd": 1.9770114942528736,
+                    "Score": "1-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-06-03",
+                    "Match": "Bulgaria U21 vs Russia U21",
+                    "Odd": 1.94,
+                    "Score": "0-1",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-06-04",
+                    "Match": "Spain vs Portugal",
+                    "Odd": 1.75,
+                    "Score": "0-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-06-04",
+                    "Match": "Aragua FC vs La Guaira",
+                    "Odd": 1.81,
+                    "Score": "2-0",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-06-05",
+                    "Match": "Sud America vs CS Cerrito",
+                    "Odd": 1.8,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-06-05",
+                    "Match": "Russia vs Bulgaria",
+                    "Odd": 2.0,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-06-06",
+                    "Match": "Kaw Valley vs Menace",
+                    "Odd": 1.8297872340425532,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-06-08",
+                    "Match": "Faroe Islands U2 vs Armenia U21",
+                    "Odd": 1.8201058201058202,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-06-08",
+                    "Match": "Mexico U23 vs Saudi Arabia U23",
+                    "Odd": 1.9545454545454546,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-06-09",
+                    "Match": "Curacao vs Guatemala",
+                    "Odd": 1.9005524861878451,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-06-10",
+                    "Match": "Brasiliense vs Gremio RS",
+                    "Odd": 1.9325842696629212,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-06-10",
+                    "Match": "Real Monarchs vs Sacramento Repub",
+                    "Odd": 1.72,
+                    "Score": "2-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-06-11",
+                    "Match": "Saudi Arabia U23 vs Argentina U23",
+                    "Odd": 1.7551020408163265,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-06-13",
+                    "Match": "Menace vs Kaw Valley",
+                    "Odd": 1.91,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-06-13",
+                    "Match": "Kyoto Sanga vs Thespa Kusatsu",
+                    "Odd": 1.7551020408163265,
+                    "Score": "2-2",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-06-14",
+                    "Match": "Stabaek vs Tromso",
+                    "Odd": 1.81,
+                    "Score": "0-3",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-06-14",
+                    "Match": "Spain vs Sweden",
+                    "Odd": 1.7731958762886597,
+                    "Score": "0-0",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-06-15",
+                    "Match": "Haka vs Lahti",
+                    "Odd": 1.86,
+                    "Score": "1-1",
+                    "H2H Under %": 88.24,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-06-18",
+                    "Match": "Bray Wanderers vs UC Dublin",
+                    "Odd": 1.9770114942528736,
+                    "Score": "4-0",
+                    "H2H Under %": 64.71,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-06-19",
+                    "Match": "FK Vitebsk vs Rukh Brest",
+                    "Odd": 1.72,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-06-19",
+                    "Match": "Hungary vs France",
+                    "Odd": 1.83,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-06-20",
+                    "Match": "Internacional RS vs Ceara",
+                    "Odd": 1.73,
+                    "Score": "1-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-06-20",
+                    "Match": "Melbourne City vs Macarthur Rams",
+                    "Odd": 1.8594594594594593,
+                    "Score": "2-0",
+                    "H2H Under %": 63.64,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-06-21",
+                    "Match": "CD Hermanos Colm vs Zamora Barinas",
+                    "Odd": 1.9325842696629212,
+                    "Score": "3-2",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-06-21",
+                    "Match": "Atletico Mineiro vs Chapecoense SC",
+                    "Odd": 1.9545454545454546,
+                    "Score": "1-1",
+                    "H2H Under %": 54.55,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-06-22",
+                    "Match": "Justo Jose de Ur vs Sacachispas",
+                    "Odd": 1.7373737373737375,
+                    "Score": "0-1",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-06-22",
+                    "Match": "CA Fenix Pilar vs Deportivo Merlo",
+                    "Odd": 1.7823834196891193,
+                    "Score": "1-5",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-06-24",
+                    "Match": "Seattle Sounders vs Real Salt Lake",
+                    "Odd": 1.94,
+                    "Score": "2-1",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-06-24",
+                    "Match": "Miami FC vs Birmingham City",
+                    "Odd": 1.9325842696629212,
+                    "Score": "0-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-06-25",
+                    "Match": "CS Universitatea vs Bashinformsvyaz-",
+                    "Odd": 2.0,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-06-25",
+                    "Match": "Shamrock Rovers vs Drogheda United",
+                    "Odd": 1.9657142857142857,
+                    "Score": "1-1",
+                    "H2H Under %": 63.16,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-06-26",
+                    "Match": "Mirassol vs Ituano(SP)",
+                    "Odd": 1.82,
+                    "Score": "1-2",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-06-26",
+                    "Match": "Asker vs Hodd",
+                    "Odd": 1.943502824858757,
+                    "Score": "2-2",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-06-27",
+                    "Match": "Tokushima Vortis vs Yokohama Marinos",
+                    "Odd": 1.9217877094972067,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-06-27",
+                    "Match": "Banga Gargzdai vs Dziugas Telsiai",
+                    "Odd": 1.8395721925133688,
+                    "Score": "1-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-06-28",
+                    "Match": "Atletico Clube G vs Bragantino",
+                    "Odd": 1.73,
+                    "Score": "0-1",
+                    "H2H Under %": 50.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-06-29",
+                    "Match": "Pogon Szczecin vs MFK Ruzomberok",
+                    "Odd": 1.91,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-06-29",
+                    "Match": "CSKA 1948 vs FK Shkendija 79",
+                    "Odd": 1.8395721925133688,
+                    "Score": "2-3",
+                    "H2H Under %": 50.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-06-30",
+                    "Match": "Vard Haugesund vs FK Arendal",
+                    "Odd": 1.9657142857142857,
+                    "Score": "0-1",
+                    "H2H Under %": 63.64,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-06-30",
+                    "Match": "Haka vs Honka Espoo",
+                    "Odd": 1.84,
+                    "Score": "1-1",
+                    "H2H Under %": 61.54,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 79.55,
+                "Under2.5_Count": 35,
+                "Total_Matches": 44,
+                "Average_Odds": 1.87
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 63.16,
+                "Combo_Under2.5_Count": 12,
+                "Total_Days": 19,
+                "Average_Combo_Odds": 3.5
+            }
+        },
+        "2021-07": {
+            "matches": [
+                {
+                    "Date": "2021-07-01",
+                    "Match": "Mexico vs Panama",
+                    "Odd": 1.8297872340425532,
+                    "Score": "3-0",
+                    "H2H Under %": 64.71,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-07-01",
+                    "Match": "Real Monarchs vs New Mexico",
+                    "Odd": 1.87,
+                    "Score": "3-2",
+                    "H2H Under %": 55.56,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-07-02",
+                    "Match": "Sandviks vs Friska Viljor FC",
+                    "Odd": 2.0,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-02",
+                    "Match": "Banga Gargzdai vs Suduva",
+                    "Odd": 1.9770114942528736,
+                    "Score": "0-2",
+                    "H2H Under %": 73.91,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-03",
+                    "Match": "Dziugas Telsiai vs Hegelmann Litaue",
+                    "Odd": 1.89010989010989,
+                    "Score": "2-1",
+                    "H2H Under %": 73.68,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-07-04",
+                    "Match": "Chapecoense SC vs Bahia(BA)",
+                    "Odd": 1.83,
+                    "Score": "0-2",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-05",
+                    "Match": "Rubin Kazan vs Ural Sverdlovsk",
+                    "Odd": 1.77,
+                    "Score": "3-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-07-05",
+                    "Match": "Colorado Springs vs Real Monarchs",
+                    "Odd": 1.8494623655913978,
+                    "Score": "3-1",
+                    "H2H Under %": 57.89,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-07-06",
+                    "Match": "FK Zalgiris Viln vs Linfield FC",
+                    "Odd": 1.72,
+                    "Score": "3-1",
+                    "H2H Under %": 50.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-07-07",
+                    "Match": "Quevilly Rouen vs Le Havre",
+                    "Odd": 1.8,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-07",
+                    "Match": "Urawa Red Diamon vs SC Sagamihara",
+                    "Odd": 2.0,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-08",
+                    "Match": "Sileks vs Petrocub",
+                    "Odd": 1.76,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-08",
+                    "Match": "Inter Turku vs Puskas Academy",
+                    "Odd": 1.73,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-09",
+                    "Match": "South Melbourne vs Green Gully Cava",
+                    "Odd": 1.98,
+                    "Score": "1-1",
+                    "H2H Under %": 63.16,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-10",
+                    "Match": "Villa Espanola vs Deportivo Maldon",
+                    "Odd": 1.8494623655913978,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-10",
+                    "Match": "Colombia vs Peru",
+                    "Odd": 1.89010989010989,
+                    "Score": "3-2",
+                    "H2H Under %": 73.33,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-07-11",
+                    "Match": "Nardo FK vs Kjelsas",
+                    "Odd": 1.9325842696629212,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-11",
+                    "Match": "Mikkelin Kissat vs RoPS Rovaniemi",
+                    "Odd": 1.8201058201058202,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-12",
+                    "Match": "Halmstads vs Djurgardens",
+                    "Odd": 1.76,
+                    "Score": "0-0",
+                    "H2H Under %": 81.82,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-13",
+                    "Match": "Greenock Morton vs East Kilbride",
+                    "Odd": 1.943502824858757,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-14",
+                    "Match": "FC Kairat Almaty vs Maccabi Haifa",
+                    "Odd": 1.8201058201058202,
+                    "Score": "2-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-15",
+                    "Match": "Spyris Kaunas vs Europa FC",
+                    "Odd": 1.99,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-15",
+                    "Match": "Urartu vs Maribor",
+                    "Odd": 1.72,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-16",
+                    "Match": "Sigma Olomouc vs Arka Gdynia",
+                    "Odd": 1.7731958762886597,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-16",
+                    "Match": "Dziugas Telsiai vs Banga Gargzdai",
+                    "Odd": 1.8494623655913978,
+                    "Score": "1-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-17",
+                    "Match": "Sacachispas vs CA Fenix Pilar",
+                    "Odd": 1.8797814207650272,
+                    "Score": "4-1",
+                    "H2H Under %": 78.57,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-07-18",
+                    "Match": "USA vs Canada",
+                    "Odd": 1.8797814207650272,
+                    "Score": "1-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-19",
+                    "Match": "Univ.Cesar Valle vs Cusco",
+                    "Odd": 1.76,
+                    "Score": "1-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-19",
+                    "Match": "Barcelona SC(ECU vs Macara",
+                    "Odd": 1.77,
+                    "Score": "",
+                    "H2H Under %": 63.16,
+                    "Under2.5_Result": null
+                },
+                {
+                    "Date": "2021-07-20",
+                    "Match": "Domzale vs Honka Espoo",
+                    "Odd": 1.7731958762886597,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-20",
+                    "Match": "Dinamo Zagreb vs Omonia Nicosia F",
+                    "Odd": 1.7731958762886597,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-21",
+                    "Match": "Palmeiras vs Univ Catolica",
+                    "Odd": 1.86,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-22",
+                    "Match": "Bragantino vs Ind. del Valle",
+                    "Odd": 1.8494623655913978,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-22",
+                    "Match": "NK Olimpija Ljub vs Birkirkara FC",
+                    "Odd": 1.8105263157894738,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-23",
+                    "Match": "AC Horsens vs Koge BK",
+                    "Odd": 1.87,
+                    "Score": "0-2",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-23",
+                    "Match": "Charleston Batte vs Charlotte Indepe",
+                    "Odd": 1.8395721925133688,
+                    "Score": "2-0",
+                    "H2H Under %": 68.42,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-24",
+                    "Match": "Feirense vs FC Famalicao",
+                    "Odd": 1.764102564102564,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-25",
+                    "Match": "SV Sandhausen vs Fortuna Dusseldo",
+                    "Odd": 1.8201058201058202,
+                    "Score": "0-2",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-25",
+                    "Match": "CSKA Moscow vs Bashinformsvyaz-",
+                    "Odd": 1.7551020408163265,
+                    "Score": "1-0",
+                    "H2H Under %": 84.62,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-26",
+                    "Match": "Ostersunds FK vs Halmstads",
+                    "Odd": 1.8,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-26",
+                    "Match": "GAIS Goteborg vs Akropolis IF",
+                    "Odd": 1.79,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-27",
+                    "Match": "Omonia Nicosia F vs Dinamo Zagreb",
+                    "Odd": 1.75,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-28",
+                    "Match": "Midtjylland vs Celtic FC",
+                    "Odd": 1.82,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-28",
+                    "Match": "Nantes vs Lorient",
+                    "Odd": 1.97,
+                    "Score": "0-1",
+                    "H2H Under %": 64.29,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-29",
+                    "Match": "Qatar vs USA",
+                    "Odd": 1.7373737373737375,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-29",
+                    "Match": "Herediano vs Guadalupe",
+                    "Odd": 1.8494623655913978,
+                    "Score": "0-1",
+                    "H2H Under %": 56.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-30",
+                    "Match": "Cork City vs UC Dublin",
+                    "Odd": 1.9657142857142857,
+                    "Score": "1-1",
+                    "H2H Under %": 78.57,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-30",
+                    "Match": "GKS Tychy vs LKS Lodz",
+                    "Odd": 1.87,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-07-31",
+                    "Match": "Guingamp vs Valenciennes",
+                    "Odd": 1.7461928934010151,
+                    "Score": "1-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 83.33,
+                "Under2.5_Count": 40,
+                "Total_Matches": 48,
+                "Average_Odds": 1.84
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 82.35,
+                "Combo_Under2.5_Count": 14,
+                "Total_Days": 17,
+                "Average_Combo_Odds": 3.4
+            }
+        },
+        "2021-08": {
+            "matches": [
+                {
+                    "Date": "2021-08-01",
+                    "Match": "Tacoma Defiance vs New Mexico",
+                    "Odd": 1.7373737373737375,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-01",
+                    "Match": "Orense vs Delfin",
+                    "Odd": 1.7916666666666667,
+                    "Score": "2-2",
+                    "H2H Under %": 81.82,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-08-03",
+                    "Match": "Crvena Zvezda vs Sheriff Tiraspol",
+                    "Odd": 1.9657142857142857,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-03",
+                    "Match": "Elche vs FC Cartagena",
+                    "Odd": 1.9770114942528736,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-04",
+                    "Match": "Real Zaragoza vs Getafe",
+                    "Odd": 1.74,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-04",
+                    "Match": "Yantra Gabrovo vs Marek Dupnitsa",
+                    "Odd": 1.9217877094972067,
+                    "Score": "0-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-05",
+                    "Match": "Shamrock Rovers vs Teuta Durres",
+                    "Odd": 1.7823834196891193,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-05",
+                    "Match": "Santa Clara vs NK Olimpija Ljub",
+                    "Odd": 1.7373737373737375,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-06",
+                    "Match": "Habitpharm Javor vs Loznica",
+                    "Odd": 1.9217877094972067,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-06",
+                    "Match": "Groningen vs Venezia",
+                    "Odd": 1.8594594594594593,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-07",
+                    "Match": "Gornik Polkowice vs Sandecja Nowy Sa",
+                    "Odd": 1.7731958762886597,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-07",
+                    "Match": "Miedz Legnica vs GKS Katowice",
+                    "Odd": 1.8695652173913042,
+                    "Score": "1-0",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-08",
+                    "Match": "Fulham vs Middlesbrough",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-08",
+                    "Match": "Vaasa VPS vs JIPPO",
+                    "Odd": 1.7551020408163265,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-09",
+                    "Match": "Oita Trinita vs Kawasaki Frontal",
+                    "Odd": 1.88,
+                    "Score": "0-2",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-10",
+                    "Match": "Slavia Praha vs Ferencvaros",
+                    "Odd": 1.9884393063583814,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-10",
+                    "Match": "Panathinaikos vs APOEL Nicosia",
+                    "Odd": 1.8010471204188483,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-11",
+                    "Match": "Volna Nizhegorod vs Vladimir",
+                    "Odd": 1.8594594594594593,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-12",
+                    "Match": "Maccabi Tel Aviv vs Trnava",
+                    "Odd": 1.8297872340425532,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-12",
+                    "Match": "ZNK Osijek vs CSKA Sofia",
+                    "Odd": 1.95,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-13",
+                    "Match": "Club America vs Philadelphia Uni",
+                    "Odd": 1.911111111111111,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-13",
+                    "Match": "Lahti vs Haka",
+                    "Odd": 1.77,
+                    "Score": "0-2",
+                    "H2H Under %": 88.24,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-14",
+                    "Match": "CA Penarol vs CA Progreso",
+                    "Odd": 1.79,
+                    "Score": "1-0",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-15",
+                    "Match": "FC Heidenheim vs Hansa Rostock",
+                    "Odd": 1.89010989010989,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-15",
+                    "Match": "Vozdovac vs Novi Pazar",
+                    "Odd": 1.93,
+                    "Score": "3-2",
+                    "H2H Under %": 78.57,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-08-16",
+                    "Match": "Hallescher FC vs Eintracht Brauns",
+                    "Odd": 1.72,
+                    "Score": "0-2",
+                    "H2H Under %": 88.89,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-16",
+                    "Match": "Giresunspor vs Galatasaray",
+                    "Odd": 1.8594594594594593,
+                    "Score": "0-2",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-17",
+                    "Match": "Miedz Legnica vs Skra",
+                    "Odd": 1.9770114942528736,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-17",
+                    "Match": "Wigan Athletic vs Wycombe Wanderer",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-18",
+                    "Match": "LKS Lodz vs GKS Jastrzebie",
+                    "Odd": 1.8395721925133688,
+                    "Score": "2-2",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-08-18",
+                    "Match": "Real Murcia vs Hercules FC",
+                    "Odd": 1.8010471204188483,
+                    "Score": "0-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-19",
+                    "Match": "FC Viktoria Plze vs CSKA Sofia",
+                    "Odd": 1.7551020408163265,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-19",
+                    "Match": "Universitario De vs Alianza Lima",
+                    "Odd": 1.74,
+                    "Score": "1-2",
+                    "H2H Under %": 64.29,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-08-20",
+                    "Match": "Kayserispor vs Adana Demir",
+                    "Odd": 1.89,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-20",
+                    "Match": "Real Betis vs Cadiz",
+                    "Odd": 1.7916666666666667,
+                    "Score": "1-1",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-21",
+                    "Match": "Atletico Naciona vs Deportes Quindio",
+                    "Odd": 1.76,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-21",
+                    "Match": "Arsenal Dzyarzhy vs Dnepr Mogilev",
+                    "Odd": 1.8395721925133688,
+                    "Score": "0-0",
+                    "H2H Under %": 88.89,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-22",
+                    "Match": "Piacenza vs Reggiana",
+                    "Odd": 1.8,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-22",
+                    "Match": "Ternana vs Brescia",
+                    "Odd": 1.8105263157894738,
+                    "Score": "0-2",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-23",
+                    "Match": "FC Lviv vs Inhulets",
+                    "Odd": 1.85,
+                    "Score": "1-2",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-08-23",
+                    "Match": "Necaxa vs Juarez",
+                    "Odd": 1.83,
+                    "Score": "1-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-24",
+                    "Match": "Zwickau vs BFC Viktoria 188",
+                    "Odd": 1.97,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-24",
+                    "Match": "Atletico Astorga vs Llanera",
+                    "Odd": 1.81,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-25",
+                    "Match": "Melipilla vs Curico Unido",
+                    "Odd": 1.8010471204188483,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-25",
+                    "Match": "Jiskra Usti nad vs Vyskov",
+                    "Odd": 2.0,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-26",
+                    "Match": "Rijeka vs PAOK",
+                    "Odd": 1.74,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-26",
+                    "Match": "Alashkert vs Glasgow Rangers",
+                    "Odd": 1.94,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-27",
+                    "Match": "Obolon Brovar vs Olimpic Donetsk",
+                    "Odd": 1.8297872340425532,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-27",
+                    "Match": "Qviding FIF vs Lindome GIF",
+                    "Odd": 1.93,
+                    "Score": "2-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-08-28",
+                    "Match": "Grimsby Town vs Weymouth",
+                    "Odd": 1.81,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-28",
+                    "Match": "Astra Ploiesti vs FC Unirea 2004 S",
+                    "Odd": 1.78,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-29",
+                    "Match": "Stjordals Blink vs Bryne",
+                    "Odd": 1.9545454545454546,
+                    "Score": "2-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-08-30",
+                    "Match": "Vozdovac vs Kolubara",
+                    "Odd": 1.7823834196891193,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-30",
+                    "Match": "Wrexham vs Notts County",
+                    "Odd": 1.7373737373737375,
+                    "Score": "1-1",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-08-31",
+                    "Match": "Accrington Stanl vs Barrow",
+                    "Odd": 1.86,
+                    "Score": "2-2",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-08-31",
+                    "Match": "Numancia vs Osasuna",
+                    "Odd": 1.8594594594594593,
+                    "Score": "1-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 85.71,
+                "Under2.5_Count": 48,
+                "Total_Matches": 56,
+                "Average_Odds": 1.84
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 73.08,
+                "Combo_Under2.5_Count": 19,
+                "Total_Days": 26,
+                "Average_Combo_Odds": 3.37
+            }
+        },
+        "2021-09": {
+            "matches": [
+                {
+                    "Date": "2021-09-01",
+                    "Match": "Norway vs Netherlands",
+                    "Odd": 1.9657142857142857,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-02",
+                    "Match": "Czech Republic U vs Slovenia U21",
+                    "Odd": 1.8,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-02",
+                    "Match": "Armenia U21 vs Faroe Islands U2",
+                    "Odd": 1.7373737373737375,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-03",
+                    "Match": "Moldova U21 vs Bulgaria U21",
+                    "Odd": 1.85,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-03",
+                    "Match": "Denmark U21 vs Greece U21",
+                    "Odd": 1.8494623655913978,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-04",
+                    "Match": "Chernomorets Bal vs Minyor Pernik",
+                    "Odd": 1.72,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-05",
+                    "Match": "San Antonio vs Pittsburgh River",
+                    "Odd": 2.0,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-06",
+                    "Match": "Czech Republic U vs Albania U21",
+                    "Odd": 1.97,
+                    "Score": "4-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-09-07",
+                    "Match": "Turkey U21 vs Scotland U21",
+                    "Odd": 1.8695652173913042,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-07",
+                    "Match": "Iceland U21 vs Greece U21",
+                    "Odd": 1.8201058201058202,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-08",
+                    "Match": "Husana Husi vs Politehnica Iasi",
+                    "Odd": 1.9657142857142857,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-10",
+                    "Match": "Chateauroux vs Sete",
+                    "Odd": 1.78,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-10",
+                    "Match": "Osijek 2 vs Solin",
+                    "Odd": 1.7461928934010151,
+                    "Score": "3-2",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-09-11",
+                    "Match": "Kaiserslautern vs VfR Mannheim",
+                    "Odd": 1.7823834196891193,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-11",
+                    "Match": "Blackpool vs Fulham",
+                    "Odd": 1.8010471204188483,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-12",
+                    "Match": "Gornik Polkowice vs Odra Opole",
+                    "Odd": 1.79,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-12",
+                    "Match": "FC Sozopol vs Marek Dupnitsa",
+                    "Odd": 1.8105263157894738,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-13",
+                    "Match": "CA Progreso vs Villa Espanola",
+                    "Odd": 1.74,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-13",
+                    "Match": "B.B. Gaziantep vs Antalyaspor",
+                    "Odd": 1.7373737373737375,
+                    "Score": "2-0",
+                    "H2H Under %": 91.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-14",
+                    "Match": "Sevilla vs Red Bull Salzbur",
+                    "Odd": 1.9325842696629212,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-14",
+                    "Match": "Malmo FF vs Juventus",
+                    "Odd": 1.943502824858757,
+                    "Score": "0-3",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-09-15",
+                    "Match": "Tampico Madero vs Tlaxcala",
+                    "Odd": 1.79,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-15",
+                    "Match": "Spartak Moscow vs Legia Warszawa",
+                    "Odd": 1.72,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-16",
+                    "Match": "Midtjylland vs Ludogorets Razgr",
+                    "Odd": 1.8594594594594593,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-16",
+                    "Match": "Philadelphia Uni vs Club America",
+                    "Odd": 1.89,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-17",
+                    "Match": "Havelse vs Viktoria koln",
+                    "Odd": 1.764102564102564,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-17",
+                    "Match": "Sparta Rotterdam vs NEC Nijmegen",
+                    "Odd": 1.7551020408163265,
+                    "Score": "1-1",
+                    "H2H Under %": 76.92,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-18",
+                    "Match": "FC Ryukyu vs Thespa Kusatsu",
+                    "Odd": 1.9545454545454546,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-18",
+                    "Match": "Mansfield Town vs Rochdale",
+                    "Odd": 1.8395721925133688,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-19",
+                    "Match": "SC Freiburg (You vs BFC Viktoria 188",
+                    "Odd": 1.9545454545454546,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-19",
+                    "Match": "Viterbese vs Cesena",
+                    "Odd": 1.72,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-20",
+                    "Match": "Bohemians vs Derry City",
+                    "Odd": 1.85,
+                    "Score": "3-3",
+                    "H2H Under %": 67.74,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-09-20",
+                    "Match": "Santos Laguna vs Puebla",
+                    "Odd": 1.75,
+                    "Score": "1-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-21",
+                    "Match": "Le Havre vs Quevilly Rouen",
+                    "Odd": 1.9545454545454546,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-22",
+                    "Match": "Loznica vs Timok",
+                    "Odd": 1.8594594594594593,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-23",
+                    "Match": "Marathon vs Real Esteli",
+                    "Odd": 1.9770114942528736,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-23",
+                    "Match": "Minyor Pernik vs Cherno More Varn",
+                    "Odd": 1.8010471204188483,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-24",
+                    "Match": "Gornik Polkowice vs GKS Tychy",
+                    "Odd": 1.72,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-24",
+                    "Match": "Garbarnia vs GKS Belchatow",
+                    "Odd": 1.911111111111111,
+                    "Score": "1-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-25",
+                    "Match": "Wigan Athletic vs Cheltenham Town",
+                    "Odd": 1.75,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-25",
+                    "Match": "Vis Pesaro vs Pistoiese",
+                    "Odd": 1.8010471204188483,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-26",
+                    "Match": "Oleiros vs Varzim",
+                    "Odd": 1.79,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-27",
+                    "Match": "Proleter vs FK Napredak Krus",
+                    "Odd": 1.72,
+                    "Score": "1-0",
+                    "H2H Under %": 88.89,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-27",
+                    "Match": "CD Hermanos Colm vs Zamora Barinas",
+                    "Odd": 1.81,
+                    "Score": "1-1",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-28",
+                    "Match": "Independiente vs Forge",
+                    "Odd": 1.73,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-29",
+                    "Match": "Peterborough Uni vs Bournemouth AFC",
+                    "Odd": 1.8010471204188483,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-29",
+                    "Match": "Bergama Belediye vs Sancaktepe Beled",
+                    "Odd": 1.8494623655913978,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-30",
+                    "Match": "Real Esteli vs Marathon",
+                    "Odd": 1.8797814207650272,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-09-30",
+                    "Match": "CSKA Sofia vs Bodo Glimt",
+                    "Odd": 1.8395721925133688,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 91.84,
+                "Under2.5_Count": 45,
+                "Total_Matches": 49,
+                "Average_Odds": 1.83
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 85.0,
+                "Combo_Under2.5_Count": 17,
+                "Total_Days": 20,
+                "Average_Combo_Odds": 3.3
+            }
+        },
+        "2021-10": {
+            "matches": [
+                {
+                    "Date": "2021-10-01",
+                    "Match": "Lecce vs Monza",
+                    "Odd": 1.8695652173913042,
+                    "Score": "3-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-10-01",
+                    "Match": "CF Atlante vs Venados",
+                    "Odd": 1.87,
+                    "Score": "2-1",
+                    "H2H Under %": 73.33,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-10-02",
+                    "Match": "Halmstads vs Ostersunds FK",
+                    "Odd": 1.86,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-02",
+                    "Match": "Dubrava vs Zapresic",
+                    "Odd": 1.89010989010989,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-03",
+                    "Match": "Metallurg Lipets vs SKA-Energiya Kha",
+                    "Odd": 1.97,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-03",
+                    "Match": "Porto B vs Rio Ave",
+                    "Odd": 1.8297872340425532,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-04",
+                    "Match": "Vasalunds IF vs IFK Varnamo",
+                    "Odd": 1.9005524861878451,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-04",
+                    "Match": "Picerno vs Catania",
+                    "Odd": 1.76,
+                    "Score": "0-1",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-05",
+                    "Match": "Boreham Wood vs Torquay United",
+                    "Odd": 1.9545454545454546,
+                    "Score": "2-0",
+                    "H2H Under %": 70.59,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-06",
+                    "Match": "Celaya FC vs Cimarrones de So",
+                    "Odd": 1.7916666666666667,
+                    "Score": "1-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-08",
+                    "Match": "Belarus U21 vs Greece U21",
+                    "Odd": 1.9005524861878451,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-08",
+                    "Match": "Azerbaijan U21 vs Finland U21",
+                    "Odd": 1.9884393063583814,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-09",
+                    "Match": "Torpedo moskva vs KAMAZ Naberezhny",
+                    "Odd": 1.82,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-09",
+                    "Match": "Rochdale vs Crawley Town",
+                    "Odd": 1.72,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-14",
+                    "Match": "Argentina vs Peru",
+                    "Odd": 1.9,
+                    "Score": "1-0",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-15",
+                    "Match": "Godoy Cruz Anton vs Central Cordoba",
+                    "Odd": 1.93,
+                    "Score": "0-0",
+                    "H2H Under %": 90.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-15",
+                    "Match": "Zapresic vs Orijent",
+                    "Odd": 1.7916666666666667,
+                    "Score": "1-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-16",
+                    "Match": "Uniao Leiria vs Santa Clara",
+                    "Odd": 1.94,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-16",
+                    "Match": "Sp. Espinho vs Caldas",
+                    "Odd": 1.76,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-17",
+                    "Match": "Alianza Huanuco vs Cienciano",
+                    "Odd": 1.8010471204188483,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-17",
+                    "Match": "Altay vs Karagumruk",
+                    "Odd": 1.9005524861878451,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-18",
+                    "Match": "Venezia vs Fiorentina",
+                    "Odd": 1.92,
+                    "Score": "1-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-18",
+                    "Match": "Univ.Cesar Valle vs Sport Huancayo",
+                    "Odd": 1.76,
+                    "Score": "0-0",
+                    "H2H Under %": 72.22,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-20",
+                    "Match": "Arsenal Dzyarzhy vs Krumkachy",
+                    "Odd": 1.9884393063583814,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-20",
+                    "Match": "Macva Sabac vs Zlatibor Cajetin",
+                    "Odd": 1.73,
+                    "Score": "1-0",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-21",
+                    "Match": "CSKA Sofia vs FK Zorya Luhansk",
+                    "Odd": 1.8494623655913978,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-21",
+                    "Match": "Newells Old Boys vs Aldosivi Mar del",
+                    "Odd": 1.8201058201058202,
+                    "Score": "0-0",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-22",
+                    "Match": "Hapoel Rishon Le vs Nes Tziona",
+                    "Odd": 1.7373737373737375,
+                    "Score": "1-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-23",
+                    "Match": "Pruszkow vs Ruch Chorzow",
+                    "Odd": 1.89010989010989,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-23",
+                    "Match": "Cordoba vs Antequera",
+                    "Odd": 1.72,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-24",
+                    "Match": "Pistoiese vs Montevarchi Calc",
+                    "Odd": 1.79,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-25",
+                    "Match": "AJ Auxerre vs Bastia",
+                    "Odd": 1.89,
+                    "Score": "1-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-25",
+                    "Match": "Gil Vicente vs Sporting Braga",
+                    "Odd": 1.764102564102564,
+                    "Score": "0-1",
+                    "H2H Under %": 78.57,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-26",
+                    "Match": "TSV 1860 Munchen vs Schalke 04",
+                    "Odd": 1.8201058201058202,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-27",
+                    "Match": "Ankara Demirspor vs Yomraspor",
+                    "Odd": 1.911111111111111,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-27",
+                    "Match": "Loznica vs Cukaricki Stanko",
+                    "Odd": 1.9005524861878451,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-28",
+                    "Match": "Bragantino vs Sport Club do Re",
+                    "Odd": 1.72,
+                    "Score": "3-0",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-10-28",
+                    "Match": "Creteil vs Red Star FC 93",
+                    "Odd": 1.728643216080402,
+                    "Score": "1-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-29",
+                    "Match": "FC Nacional Asun vs CA River Plate",
+                    "Odd": 1.88,
+                    "Score": "1-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-29",
+                    "Match": "FC Arouca vs CD Tondela",
+                    "Odd": 1.7916666666666667,
+                    "Score": "2-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-30",
+                    "Match": "Warta Poznan vs Lechia Gdansk",
+                    "Odd": 1.87,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-30",
+                    "Match": "Lech Poznan 2 vs Suwalki",
+                    "Odd": 1.83,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-31",
+                    "Match": "Cesena vs Pistoiese",
+                    "Odd": 1.77,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-10-31",
+                    "Match": "San Lorenzo vs Godoy Cruz Anton",
+                    "Odd": 1.7823834196891193,
+                    "Score": "1-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 93.18,
+                "Under2.5_Count": 41,
+                "Total_Matches": 44,
+                "Average_Odds": 1.84
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 89.47,
+                "Combo_Under2.5_Count": 17,
+                "Total_Days": 19,
+                "Average_Combo_Odds": 3.39
+            }
+        },
+        "2021-11": {
+            "matches": [
+                {
+                    "Date": "2021-11-01",
+                    "Match": "Moldova U17 vs Cyprus U17",
+                    "Odd": 1.9005524861878451,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-01",
+                    "Match": "Proleter vs Vojvodina Novi S",
+                    "Odd": 1.77,
+                    "Score": "0-1",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-02",
+                    "Match": "Crewe Alexandra vs Doncaster Rovers",
+                    "Odd": 1.79,
+                    "Score": "1-1",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-02",
+                    "Match": "Peterborough Uni vs Huddersfield Tow",
+                    "Odd": 1.728643216080402,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-03",
+                    "Match": "Deportivo Maldon vs Villa Espanola",
+                    "Odd": 1.9325842696629212,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-03",
+                    "Match": "AC Milan vs Porto",
+                    "Odd": 1.9545454545454546,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-04",
+                    "Match": "FK Zorya Luhansk vs CSKA Sofia",
+                    "Odd": 1.7373737373737375,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-04",
+                    "Match": "Crvena Zvezda vs Midtjylland",
+                    "Odd": 1.764102564102564,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-05",
+                    "Match": "Rukh Brest vs FK Vitebsk",
+                    "Odd": 1.9217877094972067,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-05",
+                    "Match": "Arka Gdynia vs Podbeskidzie Bie",
+                    "Odd": 1.8201058201058202,
+                    "Score": "1-0",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-06",
+                    "Match": "Dortmund II vs SV Meppen",
+                    "Odd": 1.9657142857142857,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-06",
+                    "Match": "Quevilly Rouen vs Toulouse",
+                    "Odd": 1.7551020408163265,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-07",
+                    "Match": "Lucchese vs Montevarchi Calc",
+                    "Odd": 1.76,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-07",
+                    "Match": "Crotone vs Monza",
+                    "Odd": 1.78,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-08",
+                    "Match": "Deportivo Cali vs Deportes Quindio",
+                    "Odd": 1.83,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-08",
+                    "Match": "Cesena vs Pescara",
+                    "Odd": 1.76,
+                    "Score": "1-0",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-09",
+                    "Match": "Stevenage Boroug vs Cambridge United",
+                    "Odd": 1.8797814207650272,
+                    "Score": "1-0",
+                    "H2H Under %": 84.62,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-09",
+                    "Match": "Leyton Orient vs Charlton Athleti",
+                    "Odd": 1.93,
+                    "Score": "1-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-10",
+                    "Match": "Kosovo vs Jordan",
+                    "Odd": 1.85,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-10",
+                    "Match": "Cancun vs Alebrijes Oaxaca",
+                    "Odd": 1.97,
+                    "Score": "1-2",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-11-11",
+                    "Match": "Greece vs Spain",
+                    "Odd": 1.86,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-12",
+                    "Match": "Greece U21 vs Belarus U21",
+                    "Odd": 1.86,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-12",
+                    "Match": "Hungary U21 vs Latvia U21",
+                    "Odd": 1.96,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-13",
+                    "Match": "CS Cerrito vs Villa Espanola",
+                    "Odd": 1.8797814207650272,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-16",
+                    "Match": "Slovenia U21 vs Czech Republic U",
+                    "Odd": 1.8797814207650272,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-16",
+                    "Match": "Greece U21 vs Iceland U21",
+                    "Odd": 1.7916666666666667,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-17",
+                    "Match": "Santos vs Chapecoense SC",
+                    "Odd": 1.81,
+                    "Score": "2-0",
+                    "H2H Under %": 90.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-17",
+                    "Match": "Sandecja Nowy Sa vs Skra",
+                    "Odd": 1.79,
+                    "Score": "0-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-18",
+                    "Match": "Flamengo vs Corinthians",
+                    "Odd": 1.73,
+                    "Score": "1-0",
+                    "H2H Under %": 62.96,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-18",
+                    "Match": "Patronato Parana vs Lanus",
+                    "Odd": 1.8594594594594593,
+                    "Score": "3-2",
+                    "H2H Under %": 62.5,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-11-19",
+                    "Match": "Centro Atletico vs Deportivo Maldon",
+                    "Odd": 1.79,
+                    "Score": "2-1",
+                    "H2H Under %": 78.57,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-11-19",
+                    "Match": "Usti nad Labem vs Opava",
+                    "Odd": 1.9005524861878451,
+                    "Score": "0-2",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-20",
+                    "Match": "SC Freiburg (You vs Havelse",
+                    "Odd": 1.8201058201058202,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-20",
+                    "Match": "Giresunspor vs Yeni Malatyaspor",
+                    "Odd": 1.75,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-21",
+                    "Match": "Brasil De Pelota vs Botafogo RJ",
+                    "Odd": 1.76,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-22",
+                    "Match": "Levski Sofia vs Botev Vratsa",
+                    "Odd": 1.8494623655913978,
+                    "Score": "0-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-22",
+                    "Match": "Kayserispor vs Goztepe",
+                    "Odd": 1.728643216080402,
+                    "Score": "1-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-23",
+                    "Match": "Carlisle United vs Harrogate Town",
+                    "Odd": 1.79,
+                    "Score": "0-2",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-23",
+                    "Match": "Rochdale vs Stevenage Boroug",
+                    "Odd": 1.87,
+                    "Score": "2-2",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-11-24",
+                    "Match": "Korona Kielce vs GKS Tychy",
+                    "Odd": 1.73,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-24",
+                    "Match": "Padova vs Viterbese",
+                    "Odd": 1.95,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-25",
+                    "Match": "FC Flora Tallinn vs Partizan Belgrad",
+                    "Odd": 1.8395721925133688,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-25",
+                    "Match": "Rapid Wien vs West Ham United",
+                    "Odd": 1.9217877094972067,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-26",
+                    "Match": "Basaksehir vs Altay",
+                    "Odd": 1.9770114942528736,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-26",
+                    "Match": "GKS Katowice vs Miedz Legnica",
+                    "Odd": 1.81,
+                    "Score": "2-3",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-11-27",
+                    "Match": "Tom Tomsk vs Neftekhimik Nizh",
+                    "Odd": 1.7373737373737375,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-27",
+                    "Match": "Ascoli vs Monza",
+                    "Odd": 1.75,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-28",
+                    "Match": "Sandecja Nowy Sa vs Gornik Polkowice",
+                    "Odd": 1.8797814207650272,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-28",
+                    "Match": "Sao Paulo vs Sport Club do Re",
+                    "Odd": 1.77,
+                    "Score": "2-0",
+                    "H2H Under %": 78.57,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-29",
+                    "Match": "Juve Stabia vs Taranto Sport",
+                    "Odd": 1.95,
+                    "Score": "3-2",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-11-29",
+                    "Match": "Turkgucu Munchen vs Zwickau",
+                    "Odd": 1.82,
+                    "Score": "2-2",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-11-30",
+                    "Match": "Racing Rioja vs FC Cartagena",
+                    "Odd": 1.8297872340425532,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-11-30",
+                    "Match": "Verona vs Cagliari",
+                    "Odd": 1.9657142857142857,
+                    "Score": "0-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 86.79,
+                "Under2.5_Count": 46,
+                "Total_Matches": 53,
+                "Average_Odds": 1.84
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 76.0,
+                "Combo_Under2.5_Count": 19,
+                "Total_Days": 25,
+                "Average_Combo_Odds": 3.38
+            }
+        },
+        "2021-12": {
+            "matches": [
+                {
+                    "Date": "2021-12-01",
+                    "Match": "Caykur Rizespor vs Ankaraspor",
+                    "Odd": 1.7373737373737375,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-01",
+                    "Match": "Mensajero vs Real Zaragoza",
+                    "Odd": 1.8797814207650272,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-02",
+                    "Match": "Eldense vs CF Rayo Majadaho",
+                    "Odd": 1.82,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-02",
+                    "Match": "Ibiza Islas Piti vs Tenerife",
+                    "Odd": 1.88,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-03",
+                    "Match": "Orleans US 45 vs Sete",
+                    "Odd": 1.8,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-04",
+                    "Match": "Lincoln City vs Hartlepool Unite",
+                    "Odd": 1.8395721925133688,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-04",
+                    "Match": "BFC Viktoria 188 vs Turkgucu Munchen",
+                    "Odd": 1.89010989010989,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-05",
+                    "Match": "Corinthians vs Gremio RS",
+                    "Odd": 1.79,
+                    "Score": "1-1",
+                    "H2H Under %": 85.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-05",
+                    "Match": "Kidderminster Ha vs Halifax Town",
+                    "Odd": 1.764102564102564,
+                    "Score": "2-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-06",
+                    "Match": "Konyaspor vs Yeni Malatyaspor",
+                    "Odd": 1.85,
+                    "Score": "0-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-06",
+                    "Match": "Warta Poznan vs Wisla Krakow",
+                    "Odd": 1.75,
+                    "Score": "1-1",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-07",
+                    "Match": "NK Bravo vs Radomlje",
+                    "Odd": 1.728643216080402,
+                    "Score": "0-3",
+                    "H2H Under %": 64.71,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-12-08",
+                    "Match": "Red Bull Salzbur vs Sevilla",
+                    "Odd": 1.73,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-08",
+                    "Match": "Rijeka vs ZNK Osijek",
+                    "Odd": 1.7823834196891193,
+                    "Score": "0-0",
+                    "H2H Under %": 60.53,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-09",
+                    "Match": "Ludogorets Razgr vs Midtjylland",
+                    "Odd": 2.0,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-09",
+                    "Match": "Legia Warszawa vs Spartak Moscow",
+                    "Odd": 1.8105263157894738,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-10",
+                    "Match": "CA Platense vs Velez Sarsfield",
+                    "Odd": 1.76,
+                    "Score": "3-2",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-12-10",
+                    "Match": "Lokomotiv Plovdi vs Botev Vratsa",
+                    "Odd": 1.764102564102564,
+                    "Score": "2-4",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-12-11",
+                    "Match": "Hertha Berlin vs Arminia Bielefel",
+                    "Odd": 1.78,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-11",
+                    "Match": "Argentinos junio vs Sarmiento Junin",
+                    "Odd": 1.76,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-12",
+                    "Match": "Tianjin Jinmen T vs Chongqing Liangj",
+                    "Odd": 1.75,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-12",
+                    "Match": "Adana Demir vs Giresunspor",
+                    "Odd": 1.81,
+                    "Score": "1-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-13",
+                    "Match": "Mirandes vs Real Sociedad B",
+                    "Odd": 1.89010989010989,
+                    "Score": "2-0",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-13",
+                    "Match": "Sochi vs Spartak Moscow",
+                    "Odd": 1.8494623655913978,
+                    "Score": "3-0",
+                    "H2H Under %": 58.33,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-12-14",
+                    "Match": "Genoa vs Salernitana",
+                    "Odd": 1.94,
+                    "Score": "1-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-14",
+                    "Match": "Novi Pazar vs Vozdovac",
+                    "Odd": 1.78,
+                    "Score": "0-0",
+                    "H2H Under %": 78.57,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-15",
+                    "Match": "Chongqing Liangj vs Dalian Pro",
+                    "Odd": 1.83,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-15",
+                    "Match": "Brann vs Jerv",
+                    "Odd": 1.8494623655913978,
+                    "Score": "1-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-16",
+                    "Match": "Valenciennes vs Strasbourg",
+                    "Odd": 1.9217877094972067,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-16",
+                    "Match": "Albacete vs Cadiz",
+                    "Odd": 1.81,
+                    "Score": "0-1",
+                    "H2H Under %": 88.89,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-17",
+                    "Match": "Dunajska Streda vs MFK Ruzomberok",
+                    "Odd": 1.78,
+                    "Score": "0-0",
+                    "H2H Under %": 68.75,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-17",
+                    "Match": "Telstar vs Jong PSV Eindhov",
+                    "Odd": 1.9005524861878451,
+                    "Score": "0-0",
+                    "H2H Under %": 62.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-18",
+                    "Match": "Sarre Union vs Versailles 78",
+                    "Odd": 1.9545454545454546,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-18",
+                    "Match": "Konyaspor vs Antalyaspor",
+                    "Odd": 1.78,
+                    "Score": "1-0",
+                    "H2H Under %": 82.35,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-19",
+                    "Match": "Potenza vs Campobasso",
+                    "Odd": 1.72,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-19",
+                    "Match": "Bergerac vs Metz",
+                    "Odd": 1.8594594594594593,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-20",
+                    "Match": "CSKA Sofia vs Ludogorets Razgr",
+                    "Odd": 1.72,
+                    "Score": "1-0",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-20",
+                    "Match": "Levante vs Valencia",
+                    "Odd": 1.76,
+                    "Score": "3-4",
+                    "H2H Under %": 53.85,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-12-21",
+                    "Match": "Telford United vs Guiseley",
+                    "Odd": 1.85,
+                    "Score": "0-1",
+                    "H2H Under %": 62.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-21",
+                    "Match": "AJ Auxerre vs Le Havre",
+                    "Odd": 1.72,
+                    "Score": "2-3",
+                    "H2H Under %": 58.33,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-12-22",
+                    "Match": "Sivasspor vs Caykur Rizespor",
+                    "Odd": 1.8201058201058202,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-22",
+                    "Match": "Willem II vs NEC Nijmegen",
+                    "Odd": 1.8297872340425532,
+                    "Score": "0-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-23",
+                    "Match": "Sparta Rotterdam vs RKC Waalwijk",
+                    "Odd": 1.77,
+                    "Score": "1-1",
+                    "H2H Under %": 76.47,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-23",
+                    "Match": "Porto vs Benfica",
+                    "Odd": 1.8494623655913978,
+                    "Score": "3-0",
+                    "H2H Under %": 52.17,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-12-25",
+                    "Match": "Trabzonspor vs Basaksehir",
+                    "Odd": 1.8201058201058202,
+                    "Score": "0-0",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-25",
+                    "Match": "Galatasaray vs Antalyaspor",
+                    "Odd": 1.9217877094972067,
+                    "Score": "2-0",
+                    "H2H Under %": 55.56,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-26",
+                    "Match": "Gloucester City vs Leamington",
+                    "Odd": 1.91,
+                    "Score": "0-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-26",
+                    "Match": "Tottenham Hotspu vs Crystal Palace",
+                    "Odd": 1.7823834196891193,
+                    "Score": "3-0",
+                    "H2H Under %": 61.11,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-12-27",
+                    "Match": "Sint Truiden vs KAS Eupen",
+                    "Odd": 1.92,
+                    "Score": "2-0",
+                    "H2H Under %": 43.48,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-28",
+                    "Match": "Solihull Moors vs Stockport County",
+                    "Odd": 1.8797814207650272,
+                    "Score": "0-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-28",
+                    "Match": "Dagenham Redbrid vs Aldershot Town",
+                    "Odd": 1.9657142857142857,
+                    "Score": "1-0",
+                    "H2H Under %": 55.56,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-29",
+                    "Match": "Shenzhen FC vs Changchun Yatai",
+                    "Odd": 1.7823834196891193,
+                    "Score": "0-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-29",
+                    "Match": "Swindon Town vs Stevenage Boroug",
+                    "Odd": 1.8395721925133688,
+                    "Score": "0-0",
+                    "H2H Under %": 72.73,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-30",
+                    "Match": "B.B. Gaziantep vs Bursaspor",
+                    "Odd": 1.9545454545454546,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-30",
+                    "Match": "Bristol City vs Queens Park Rang",
+                    "Odd": 1.8797814207650272,
+                    "Score": "1-2",
+                    "H2H Under %": 58.82,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2021-12-31",
+                    "Match": "Hapoel Afula vs Hapoel Acco",
+                    "Odd": 1.8,
+                    "Score": "1-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2021-12-31",
+                    "Match": "Valencia vs RCD Espanyol",
+                    "Odd": 1.9217877094972067,
+                    "Score": "1-2",
+                    "H2H Under %": 64.29,
+                    "Under2.5_Result": false
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 82.46,
+                "Under2.5_Count": 47,
+                "Total_Matches": 57,
+                "Average_Odds": 1.83
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 70.37,
+                "Combo_Under2.5_Count": 19,
+                "Total_Days": 27,
+                "Average_Combo_Odds": 3.35
+            }
+        }
+    },
+    "year_summary": {
+        "single_stats": {
+            "Under2.5_Percentage": 85.29,
+            "Under2.5_Count": 493,
+            "Total_Matches": 578,
+            "Average_Odds": 1.83
+        },
+        "combo_stats": {
+            "Combo_Under2.5_Percentage": 73.6,
+            "Combo_Under2.5_Count": 184,
+            "Total_Days": 250,
+            "Average_Combo_Odds": 3.37
+        }
+    }
+}

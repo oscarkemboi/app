@@ -1,0 +1,3290 @@
+{
+    "months": {
+        "2025-01": {
+            "matches": [
+                {
+                    "Date": "2025-01-01",
+                    "Match": "Burnley vs Stoke City",
+                    "Odd": 1.92,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-01",
+                    "Match": "Auckland City vs Melbourne Victor",
+                    "Odd": 1.8395721925133688,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-02",
+                    "Match": "Saint Johnstone vs Hibernian",
+                    "Odd": 1.8395721925133688,
+                    "Score": "1-1",
+                    "H2H Under %": 55.17,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-03",
+                    "Match": "El Gounah vs Al Qanah",
+                    "Odd": 1.85,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-03",
+                    "Match": "Caen vs Clermont",
+                    "Odd": 1.8201058201058202,
+                    "Score": "0-1",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-04",
+                    "Match": "Karagumruk vs Pendikspor",
+                    "Odd": 1.91,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-04",
+                    "Match": "FAR Forces Armee vs AS Maniema",
+                    "Odd": 1.91,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-05",
+                    "Match": "Bodrumspor vs Kayserispor",
+                    "Odd": 1.85,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-05",
+                    "Match": "Gelbison vs Terracina",
+                    "Odd": 1.8494623655913978,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-06",
+                    "Match": "L.R. Vicenza vs Pergolettese",
+                    "Odd": 1.72,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-06",
+                    "Match": "Ternana vs Pontedera",
+                    "Odd": 1.9005524861878451,
+                    "Score": "0-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-07",
+                    "Match": "Wycombe Wanderer vs Huddersfield Tow",
+                    "Odd": 1.81,
+                    "Score": "0-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-07",
+                    "Match": "Bali United vs Persib Bandung",
+                    "Odd": 1.7551020408163265,
+                    "Score": "1-1",
+                    "H2H Under %": 72.22,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-08",
+                    "Match": "Forest Green Rov vs Dagenham Redbrid",
+                    "Odd": 1.9770114942528736,
+                    "Score": "1-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-08",
+                    "Match": "Asteras Tripolis vs Panionios",
+                    "Odd": 1.74,
+                    "Score": "2-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-09",
+                    "Match": "Sitra vs Malkiya",
+                    "Odd": 1.8297872340425532,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-09",
+                    "Match": "Yeni Corumspor vs Konyaspor",
+                    "Odd": 1.86,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-10",
+                    "Match": "Malut United vs Madura United",
+                    "Odd": 1.8395721925133688,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-10",
+                    "Match": "Dempo SC vs Inter Kashi",
+                    "Odd": 1.99,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-11",
+                    "Match": "Manama Club vs Al-Shabab",
+                    "Odd": 1.78,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-11",
+                    "Match": "Erokspor vs Sakaryaspor",
+                    "Odd": 1.7551020408163265,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-12",
+                    "Match": "Fluminense RJ vs Sampaio Correa",
+                    "Odd": 1.92,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-12",
+                    "Match": "Deportiva Minera vs Cadiz B",
+                    "Odd": 1.77,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-13",
+                    "Match": "Karmiotissa Pole vs Omonia Aradippou",
+                    "Odd": 1.79,
+                    "Score": "3-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2025-01-14",
+                    "Match": "Dives vs Le Puy",
+                    "Odd": 1.8797814207650272,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-14",
+                    "Match": "Ourense CF vs Valencia",
+                    "Odd": 1.75,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-15",
+                    "Match": "Avai FC SC vs Santa Catarina",
+                    "Odd": 1.79,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-16",
+                    "Match": "East Riffa vs Ali CSC",
+                    "Odd": 1.943502824858757,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-16",
+                    "Match": "Ipswich Town vs Brighton Hove Al",
+                    "Odd": 1.8797814207650272,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-17",
+                    "Match": "S.Urfaspor vs Ankaragucu",
+                    "Odd": 1.8695652173913042,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-17",
+                    "Match": "Jahn Regensburg vs Hannover 96",
+                    "Odd": 1.8201058201058202,
+                    "Score": "0-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-18",
+                    "Match": "FCV Dender EH vs Cercle Brugge",
+                    "Odd": 1.7461928934010151,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-18",
+                    "Match": "Ceilandia DF vs Real Sao Luiz",
+                    "Odd": 1.8494623655913978,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-19",
+                    "Match": "Igdir vs Boluspor",
+                    "Odd": 1.7461928934010151,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-19",
+                    "Match": "Kepez Bld. vs Adana 1954 FK",
+                    "Odd": 1.8395721925133688,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-20",
+                    "Match": "Slask Wroclaw vs NK Olimpija Ljub",
+                    "Odd": 1.91,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-20",
+                    "Match": "Porto Vitoria vs Real Noroeste",
+                    "Odd": 1.75,
+                    "Score": "1-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-21",
+                    "Match": "FK Sarajevo vs Synot Slovacko",
+                    "Odd": 1.9545454545454546,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-21",
+                    "Match": "Monaco vs Aston Villa",
+                    "Odd": 1.911111111111111,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-22",
+                    "Match": "Athletic Club vs Cruzeiro",
+                    "Odd": 1.74,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-22",
+                    "Match": "FC Shakhtar Done vs Stade Brestois",
+                    "Odd": 1.9325842696629212,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-23",
+                    "Match": "Ludogorets Razgr vs Midtjylland",
+                    "Odd": 1.7373737373737375,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-23",
+                    "Match": "Porto vs Olympiakos",
+                    "Odd": 1.82,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-25",
+                    "Match": "Stoke City vs Oxford United",
+                    "Odd": 1.73,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-25",
+                    "Match": "Weymouth vs Enfield Town",
+                    "Odd": 1.8494623655913978,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-26",
+                    "Match": "Real Kashmir vs Dempo SC",
+                    "Odd": 1.8395721925133688,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-28",
+                    "Match": "Lokeren-Temse vs KAS Eupen",
+                    "Odd": 1.86,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-28",
+                    "Match": "Scunthorpe Unite vs Needham Market",
+                    "Odd": 1.943502824858757,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-29",
+                    "Match": "Gama vs Ceilandense",
+                    "Odd": 1.9657142857142857,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-30",
+                    "Match": "Dynamo Kyiv vs RFS",
+                    "Odd": 1.911111111111111,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-30",
+                    "Match": "FCSB vs Manchester Unite",
+                    "Odd": 1.7731958762886597,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-31",
+                    "Match": "USL Dunkerque vs Martigues",
+                    "Odd": 1.911111111111111,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-01-31",
+                    "Match": "Eyupspor vs Sivasspor",
+                    "Odd": 1.8797814207650272,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 98.11,
+                "Under2.5_Count": 52,
+                "Total_Matches": 53,
+                "Average_Odds": 1.84
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 100.0,
+                "Combo_Under2.5_Count": 24,
+                "Total_Days": 24,
+                "Average_Combo_Odds": 3.4
+            }
+        },
+        "2025-02": {
+            "matches": [
+                {
+                    "Date": "2025-02-01",
+                    "Match": "Ratchaburi FC vs Lamphun Warrior",
+                    "Odd": 1.81,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-01",
+                    "Match": "Vizela vs SL Benfica B",
+                    "Odd": 1.83,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-02",
+                    "Match": "Mineros de Zacat vs Cancun",
+                    "Odd": 1.9217877094972067,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-02",
+                    "Match": "Castellon vs SD Huesca",
+                    "Odd": 1.82,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-03",
+                    "Match": "Levante vs Racing de Ferrol",
+                    "Odd": 1.764102564102564,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-03",
+                    "Match": "Alajuelense vs CS Cartagines",
+                    "Odd": 1.8695652173913042,
+                    "Score": "1-0",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-04",
+                    "Match": "Kocaelispor vs Sivasspor",
+                    "Odd": 1.8395721925133688,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-04",
+                    "Match": "Canvey Island vs Bowers & Pitsea",
+                    "Odd": 1.89010989010989,
+                    "Score": "2-0",
+                    "H2H Under %": 85.71,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-05",
+                    "Match": "Consultants Mora vs Ad Aserri",
+                    "Odd": 1.8297872340425532,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-06",
+                    "Match": "Criciuma EC vs Santa Catarina",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-06",
+                    "Match": "Gimnasia La Plat vs Deportivo Espano",
+                    "Odd": 1.77,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-07",
+                    "Match": "JSM Jeunesse Spo vs Chabab Mohammedi",
+                    "Odd": 1.73,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-08",
+                    "Match": "Warrington Town vs Scunthorpe Unite",
+                    "Odd": 1.81,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-08",
+                    "Match": "Mirassol vs Noroeste",
+                    "Odd": 1.8797814207650272,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-10",
+                    "Match": "Trabzonspor vs Eyupspor",
+                    "Odd": 1.9884393063583814,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-10",
+                    "Match": "Triestina vs Trento",
+                    "Odd": 1.85,
+                    "Score": "1-0",
+                    "H2H Under %": 90.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-11",
+                    "Match": "Scunthorpe Unite vs Curzon Ashton FC",
+                    "Odd": 1.8010471204188483,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-11",
+                    "Match": "Wrexham vs Bolton Wanderers",
+                    "Odd": 1.98,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-12",
+                    "Match": "Drita vs Dukagjini",
+                    "Odd": 1.8201058201058202,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-13",
+                    "Match": "Coruripe Al vs CEO",
+                    "Odd": 1.95,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-14",
+                    "Match": "Semen Padang vs Persita",
+                    "Odd": 1.7731958762886597,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-15",
+                    "Match": "Persebaya vs PSBS Biak",
+                    "Odd": 1.82,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-16",
+                    "Match": "MartinaFranca vs Citta di Fasano",
+                    "Odd": 1.85,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-16",
+                    "Match": "FC Heidenheim vs FSV Mainz 05",
+                    "Odd": 1.7461928934010151,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-17",
+                    "Match": "Persepolis vs Al-Nassr",
+                    "Odd": 1.8594594594594593,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-17",
+                    "Match": "Al Shorta vs Al Ain",
+                    "Odd": 1.8010471204188483,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-18",
+                    "Match": "Al-Sharjah vs Shabab Al Hussei",
+                    "Odd": 1.8201058201058202,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-20",
+                    "Match": "Shamrock Rovers vs Molde",
+                    "Odd": 1.88,
+                    "Score": "0-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-20",
+                    "Match": "FC Viktoria Plze vs Ferencvaros",
+                    "Odd": 1.8105263157894738,
+                    "Score": "3-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2025-02-21",
+                    "Match": "Stripfing vs SKU Amstetten",
+                    "Odd": 1.82,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-21",
+                    "Match": "PSBS Biak vs Persik Kediri",
+                    "Odd": 1.8297872340425532,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-23",
+                    "Match": "Pontevedra vs Union Montanesa",
+                    "Odd": 1.85,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-24",
+                    "Match": "APOEL Nicosia vs Pafos",
+                    "Odd": 1.73,
+                    "Score": "0-2",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-25",
+                    "Match": "Sivasspor vs Bodrumspor",
+                    "Odd": 1.9217877094972067,
+                    "Score": "0-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-25",
+                    "Match": "Hapoel Ramat Gan vs Hapoel Tel Aviv",
+                    "Odd": 1.7461928934010151,
+                    "Score": "0-2",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-26",
+                    "Match": "Drenica vs Ferizaj",
+                    "Odd": 1.85,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-27",
+                    "Match": "SC Humaita vs Operario MS",
+                    "Odd": 1.8797814207650272,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-27",
+                    "Match": "Independiente vs Sportivo Belgran",
+                    "Odd": 1.72,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-02-28",
+                    "Match": "Dyn. Makhachkala vs Lokomotiv Moscow",
+                    "Odd": 1.76,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 97.44,
+                "Under2.5_Count": 38,
+                "Total_Matches": 39,
+                "Average_Odds": 1.83
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 92.86,
+                "Combo_Under2.5_Count": 13,
+                "Total_Days": 14,
+                "Average_Combo_Odds": 3.37
+            }
+        },
+        "2025-03": {
+            "matches": [
+                {
+                    "Date": "2025-03-01",
+                    "Match": "Achuapa vs Antigua GFC",
+                    "Odd": 1.72,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-01",
+                    "Match": "Consultants Mora vs Limon Black Star",
+                    "Odd": 1.8594594594594593,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-02",
+                    "Match": "Tlaxcala vs Tampico Madero",
+                    "Odd": 1.9770114942528736,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-02",
+                    "Match": "Soma Spor vs Belediye Derince",
+                    "Odd": 1.7731958762886597,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-03",
+                    "Match": "Sochi vs Saratov",
+                    "Odd": 1.87,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-03",
+                    "Match": "Basaksehir vs Sivasspor",
+                    "Odd": 1.8105263157894738,
+                    "Score": "1-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-04",
+                    "Match": "Manisa vs Igdir",
+                    "Odd": 1.83,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-04",
+                    "Match": "Bromley vs Doncaster Rovers",
+                    "Odd": 1.83,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-06",
+                    "Match": "KS Elbasani vs Skenderbeu Korca",
+                    "Odd": 1.9545454545454546,
+                    "Score": "0-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-06",
+                    "Match": "Sepahan vs Esteghlal Khuzes",
+                    "Odd": 1.94,
+                    "Score": "1-1",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-07",
+                    "Match": "Bodrumspor vs Kasimpasa",
+                    "Odd": 1.72,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-07",
+                    "Match": "Bastia vs Martigues",
+                    "Odd": 1.83,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-08",
+                    "Match": "FA 2000 vs Holbaek",
+                    "Odd": 1.8494623655913978,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-08",
+                    "Match": "Llantwit Major vs Baglan Dragons",
+                    "Odd": 1.8297872340425532,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-09",
+                    "Match": "Citta di Varese vs Vado",
+                    "Odd": 1.764102564102564,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-09",
+                    "Match": "Cairese vs Chieri",
+                    "Odd": 1.72,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-10",
+                    "Match": "Binacional vs Juan Pablo II Co",
+                    "Odd": 1.92,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-11",
+                    "Match": "Johor DT vs Buriram PEA",
+                    "Odd": 1.7823834196891193,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-11",
+                    "Match": "Bali United vs PSBS Biak",
+                    "Odd": 1.99,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-12",
+                    "Match": "AS Sorrento Calc vs Juventus U23",
+                    "Odd": 1.7916666666666667,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-12",
+                    "Match": "Bragantino vs Ec Sao Jose Sp",
+                    "Odd": 1.9657142857142857,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-14",
+                    "Match": "S.Urfaspor vs Erokspor",
+                    "Odd": 1.79,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-14",
+                    "Match": "Halcones de Zapo vs Gavilanes de Mat",
+                    "Odd": 1.9217877094972067,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-15",
+                    "Match": "Incheon United vs Seoul E.",
+                    "Odd": 1.85,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-16",
+                    "Match": "Karlsruher SC vs SSV Ulm 1846",
+                    "Odd": 1.8010471204188483,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-16",
+                    "Match": "Fagiano Okayama vs Kawasaki Frontal",
+                    "Odd": 1.82,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-17",
+                    "Match": "ACD Virtus Entel vs Sestri Levante",
+                    "Odd": 1.7731958762886597,
+                    "Score": "4-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2025-03-18",
+                    "Match": "Spennymoor Town vs Needham Market",
+                    "Odd": 1.943502824858757,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-18",
+                    "Match": "Rotherham United vs Wycombe Wanderer",
+                    "Odd": 1.73,
+                    "Score": "2-3",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2025-03-19",
+                    "Match": "Tulsa Athletics vs FC Tulsa",
+                    "Odd": 1.8695652173913042,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-19",
+                    "Match": "Norway U19 vs Belgium U19",
+                    "Odd": 1.9325842696629212,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-20",
+                    "Match": "Cape Verde vs Mauritius",
+                    "Odd": 1.83,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-20",
+                    "Match": "Iran vs United Arab Emir",
+                    "Odd": 1.94,
+                    "Score": "2-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-21",
+                    "Match": "Equatorial Guine vs Sao Tome Princip",
+                    "Odd": 1.8105263157894738,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-22",
+                    "Match": "Leamington vs South Shields",
+                    "Odd": 1.9217877094972067,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-22",
+                    "Match": "St Albans City vs Hornchurch",
+                    "Odd": 1.76,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-24",
+                    "Match": "Central Africa vs Mali",
+                    "Odd": 1.8,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-26",
+                    "Match": "Liberia vs AD Guanacasteca",
+                    "Odd": 1.8297872340425532,
+                    "Score": "1-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-26",
+                    "Match": "Racing Club Mont vs CA River Plate",
+                    "Odd": 1.79,
+                    "Score": "1-0",
+                    "H2H Under %": 58.82,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-27",
+                    "Match": "Juventud vs Penarol",
+                    "Odd": 1.74,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-27",
+                    "Match": "Everton CD vs Universidad de C",
+                    "Odd": 1.93,
+                    "Score": "2-0",
+                    "H2H Under %": 65.38,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-28",
+                    "Match": "ASK Voitsberg vs SV Ried",
+                    "Odd": 1.84,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-29",
+                    "Match": "Loudoun vs Rhode Island",
+                    "Odd": 1.8695652173913042,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-29",
+                    "Match": "Fagiano Okayama vs Yokohama Marinos",
+                    "Odd": 1.88,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-30",
+                    "Match": "Ad Aserri vs Antioquia",
+                    "Odd": 1.73,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-30",
+                    "Match": "Lokeren-Temse vs Lommel SK",
+                    "Odd": 1.8594594594594593,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-03-31",
+                    "Match": "IK Oddevold vs Umea FC",
+                    "Odd": 1.9325842696629212,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 95.74,
+                "Under2.5_Count": 45,
+                "Total_Matches": 47,
+                "Average_Odds": 1.84
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 95.0,
+                "Combo_Under2.5_Count": 19,
+                "Total_Days": 20,
+                "Average_Combo_Odds": 3.39
+            }
+        },
+        "2025-04": {
+            "matches": [
+                {
+                    "Date": "2025-04-01",
+                    "Match": "Wealdstone FC vs Boston United",
+                    "Odd": 1.8,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-01",
+                    "Match": "NK Bistrica vs FC Koper",
+                    "Odd": 1.8594594594594593,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-02",
+                    "Match": "Qingdao Hainiu vs Dalian Zhixing",
+                    "Odd": 1.75,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-02",
+                    "Match": "Chattanooga vs Chattanooga Red",
+                    "Odd": 1.95,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-03",
+                    "Match": "Universidad de C vs Botafogo RJ",
+                    "Odd": 1.75,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-03",
+                    "Match": "Vancouver Whitec vs Pumas U.N.A.M.",
+                    "Odd": 1.7823834196891193,
+                    "Score": "1-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-04",
+                    "Match": "Deportivo Tachir vs Flamengo",
+                    "Odd": 1.84,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-05",
+                    "Match": "South Shields vs Brackley Town",
+                    "Odd": 1.89010989010989,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-05",
+                    "Match": "Clube Desportivo vs Vilaverdense",
+                    "Odd": 1.7551020408163265,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-06",
+                    "Match": "Umea FC vs Trelleborgs FF",
+                    "Odd": 1.8105263157894738,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-07",
+                    "Match": "Goztepe vs B.B. Gaziantep",
+                    "Odd": 1.98,
+                    "Score": "1-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-08",
+                    "Match": "Keciorengucu vs S.Urfaspor",
+                    "Odd": 1.9217877094972067,
+                    "Score": "4-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2025-04-09",
+                    "Match": "Stal Stalowa Wol vs GKS Tychy",
+                    "Odd": 1.7731958762886597,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-09",
+                    "Match": "Renofa Yamaguchi vs Kashima Antlers",
+                    "Odd": 1.83,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-10",
+                    "Match": "Glasgow Rangers vs Athletic Bilbao",
+                    "Odd": 1.94,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-10",
+                    "Match": "Pumas U.N.A.M. vs Vancouver Whitec",
+                    "Odd": 1.9,
+                    "Score": "2-2",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2025-04-12",
+                    "Match": "Hiroshima Sanfre vs Fagiano Okayama",
+                    "Odd": 1.75,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-12",
+                    "Match": "Dalian Zhixing vs Tianjin Jinmen T",
+                    "Odd": 1.9217877094972067,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-13",
+                    "Match": "Jubilo Iwata vs Roasso Kumamoto",
+                    "Odd": 1.83,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-13",
+                    "Match": "SC Sagamihara vs Thespa Kusatsu",
+                    "Odd": 1.85,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-14",
+                    "Match": "FK Napredak Krus vs Odzaci",
+                    "Odd": 1.75,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-14",
+                    "Match": "Umraniyespor vs Erokspor",
+                    "Odd": 1.83,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-15",
+                    "Match": "Limache vs Municipal Iquiqu",
+                    "Odd": 1.9545454545454546,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-15",
+                    "Match": "Borac Banja Luka vs FK Sarajevo",
+                    "Odd": 1.74,
+                    "Score": "0-2",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-16",
+                    "Match": "Dalian Zhixing vs Henan Songshan L",
+                    "Odd": 1.77,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-16",
+                    "Match": "Newcastle United vs Crystal Palace",
+                    "Odd": 2.0,
+                    "Score": "5-0",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2025-04-17",
+                    "Match": "Athletic Bilbao vs Glasgow Rangers",
+                    "Odd": 2.0,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-17",
+                    "Match": "FC Tulsa vs Phoenix Rising",
+                    "Odd": 1.911111111111111,
+                    "Score": "1-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-18",
+                    "Match": "Reading vs Lincoln City",
+                    "Odd": 1.8,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-18",
+                    "Match": "Alianza Huanuco vs Grau",
+                    "Odd": 1.8,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-19",
+                    "Match": "Melbourne Victor vs Auckland City",
+                    "Odd": 1.9884393063583814,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-19",
+                    "Match": "Amedspor vs Yeni Corumspor",
+                    "Odd": 1.7551020408163265,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-20",
+                    "Match": "Tescoma Zlin vs Banik Ostrava B",
+                    "Odd": 1.84,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-21",
+                    "Match": "Schwarz-Wei\u00df Bre vs Floridsdorfer AC",
+                    "Odd": 1.89010989010989,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-21",
+                    "Match": "Swindon Town vs Bromley",
+                    "Odd": 1.9884393063583814,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-24",
+                    "Match": "Vitoria BA vs Cerro Largo",
+                    "Odd": 1.83,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-24",
+                    "Match": "Corinthians vs Racing Club Mont",
+                    "Odd": 1.9770114942528736,
+                    "Score": "1-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-25",
+                    "Match": "Greuther Furth vs SSV Ulm 1846",
+                    "Odd": 1.8494623655913978,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-25",
+                    "Match": "Venados vs Mineros de Zacat",
+                    "Odd": 1.9884393063583814,
+                    "Score": "2-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-26",
+                    "Match": "Bristol Rovers vs Reading",
+                    "Odd": 1.9005524861878451,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-26",
+                    "Match": "Estrela vs Porto",
+                    "Odd": 1.764102564102564,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-27",
+                    "Match": "Sparta Praha B vs Tescoma Zlin",
+                    "Odd": 1.85,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-27",
+                    "Match": "Karacabey Beledi vs Menemen Belediye",
+                    "Odd": 1.8797814207650272,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-28",
+                    "Match": "Hapoel Tel Aviv vs Hapoel Ramat Gan",
+                    "Odd": 1.77,
+                    "Score": "1-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-28",
+                    "Match": "Aalborg BK vs Vejle",
+                    "Odd": 1.89010989010989,
+                    "Score": "0-1",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-29",
+                    "Match": "Roasso Kumamoto vs JEF United Ichih",
+                    "Odd": 1.9657142857142857,
+                    "Score": "0-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-29",
+                    "Match": "Kataller Toyama vs Montedio Yamagat",
+                    "Odd": 1.764102564102564,
+                    "Score": "0-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-04-30",
+                    "Match": "Pafos vs Apollon Limassol",
+                    "Odd": 1.78,
+                    "Score": "4-2",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2025-04-30",
+                    "Match": "Blackpool vs Birmingham",
+                    "Odd": 1.9005524861878451,
+                    "Score": "0-2",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 91.84,
+                "Under2.5_Count": 45,
+                "Total_Matches": 49,
+                "Average_Odds": 1.86
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 86.36,
+                "Combo_Under2.5_Count": 19,
+                "Total_Days": 22,
+                "Average_Combo_Odds": 3.44
+            }
+        },
+        "2025-05": {
+            "matches": [
+                {
+                    "Date": "2025-05-01",
+                    "Match": "Sassuolo vs Carrarese",
+                    "Odd": 1.9545454545454546,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-01",
+                    "Match": "Juve Stabia vs Catanzaro",
+                    "Odd": 1.8797814207650272,
+                    "Score": "2-0",
+                    "H2H Under %": 72.22,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-02",
+                    "Match": "Malut United vs Persib Bandung",
+                    "Odd": 1.7731958762886597,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-02",
+                    "Match": "Limache vs Colo Colo",
+                    "Odd": 1.8105263157894738,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-03",
+                    "Match": "Corvinul Hunedoa vs Dumbravita",
+                    "Odd": 1.93,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-03",
+                    "Match": "Sagan Tosu vs JEF United Ichih",
+                    "Odd": 1.8297872340425532,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-04",
+                    "Match": "UD Logrones vs Alfaro",
+                    "Odd": 1.8494623655913978,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-04",
+                    "Match": "Erzurumspor vs Umraniyespor",
+                    "Odd": 1.92,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-05",
+                    "Match": "Crystal Palace vs Nottingham Fores",
+                    "Odd": 1.72,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-05",
+                    "Match": "Braintree Town vs Rochdale",
+                    "Odd": 1.8,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-07",
+                    "Match": "Osaka vs Matsumoto Yamaga",
+                    "Odd": 1.73,
+                    "Score": "1-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-07",
+                    "Match": "Unterhaching vs Hansa Rostock",
+                    "Odd": 1.9217877094972067,
+                    "Score": "0-2",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-08",
+                    "Match": "Deportiva Once C vs Union Espanola",
+                    "Odd": 1.88,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-08",
+                    "Match": "Phoenix Rising vs Houston Dynamo",
+                    "Odd": 2.0,
+                    "Score": "1-4",
+                    "H2H Under %": 50.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2025-05-09",
+                    "Match": "Las Palmas vs Rayo Vallecano",
+                    "Odd": 1.82,
+                    "Score": "0-1",
+                    "H2H Under %": 77.78,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-09",
+                    "Match": "Cadiz vs Almeria",
+                    "Odd": 1.79,
+                    "Score": "2-1",
+                    "H2H Under %": 76.92,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2025-05-10",
+                    "Match": "Rhode Island vs Monterey Bay",
+                    "Odd": 1.76,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-11",
+                    "Match": "Persebaya vs Semen Padang",
+                    "Odd": 1.943502824858757,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-11",
+                    "Match": "Iwaki vs Consadole Sappor",
+                    "Odd": 1.8,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-12",
+                    "Match": "Banik Ostrava B vs Opava",
+                    "Odd": 1.7823834196891193,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-12",
+                    "Match": "APOEL Nicosia vs Pafos",
+                    "Odd": 1.75,
+                    "Score": "1-1",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-13",
+                    "Match": "Partick Thistle vs Livingston",
+                    "Odd": 1.72,
+                    "Score": "0-2",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-13",
+                    "Match": "Modena vs Cesena",
+                    "Odd": 1.92,
+                    "Score": "0-1",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-14",
+                    "Match": "America MG vs SC Paysandu Para",
+                    "Odd": 1.72,
+                    "Score": "2-2",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2025-05-15",
+                    "Match": "IFK Norrkoping F vs Degerfors",
+                    "Odd": 1.9545454545454546,
+                    "Score": "1-2",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2025-05-16",
+                    "Match": "Quevilly Rouen vs Sochaux",
+                    "Odd": 1.9884393063583814,
+                    "Score": "1-0",
+                    "H2H Under %": 87.5,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-16",
+                    "Match": "Falkenberg vs Kalmar",
+                    "Odd": 1.7731958762886597,
+                    "Score": "0-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-17",
+                    "Match": "Standard Liege vs FCV Dender EH",
+                    "Odd": 1.8201058201058202,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-17",
+                    "Match": "Melbourne Victor vs Auckland City",
+                    "Odd": 1.943502824858757,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-18",
+                    "Match": "Leicester City vs Ipswich Town",
+                    "Odd": 1.9217877094972067,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-18",
+                    "Match": "Samsunspor vs Sivasspor",
+                    "Odd": 1.9325842696629212,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-19",
+                    "Match": "Confianca SE vs Londrina (PR)",
+                    "Odd": 1.72,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-19",
+                    "Match": "Widzew lodz vs Puszcza Niepolom",
+                    "Odd": 2.0,
+                    "Score": "2-0",
+                    "H2H Under %": 88.89,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-20",
+                    "Match": "Bahrain SC vs Manama Club",
+                    "Odd": 1.86,
+                    "Score": "3-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2025-05-20",
+                    "Match": "Al-Najma vs Sitra",
+                    "Odd": 1.9005524861878451,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-21",
+                    "Match": "Fortaleza vs Retro",
+                    "Odd": 1.9,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-21",
+                    "Match": "Al Kholood vs Al-Feiha",
+                    "Odd": 1.8201058201058202,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-22",
+                    "Match": "Panaitolikos Agr vs Panserraikos",
+                    "Odd": 1.87,
+                    "Score": "1-0",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-22",
+                    "Match": "GIF Sundsvall vs IK Brage",
+                    "Odd": 1.73,
+                    "Score": "0-2",
+                    "H2H Under %": 63.64,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-23",
+                    "Match": "Limache vs Universidad de C",
+                    "Odd": 1.95,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-23",
+                    "Match": "Radomlje vs Primorje",
+                    "Odd": 1.9884393063583814,
+                    "Score": "0-1",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-24",
+                    "Match": "Hwaseong FC vs Seoul E.",
+                    "Odd": 1.89010989010989,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-25",
+                    "Match": "Benatky n. Jiz. vs Pardubice B",
+                    "Odd": 1.86,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-25",
+                    "Match": "Kayserispor vs Bodrumspor",
+                    "Odd": 1.88,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-26",
+                    "Match": "Grobina vs Super Nova",
+                    "Odd": 1.8297872340425532,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-26",
+                    "Match": "Batman Petrolspo vs Altinordu",
+                    "Odd": 1.728643216080402,
+                    "Score": "1-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-27",
+                    "Match": "Sandviken vs GIF Sundsvall",
+                    "Odd": 1.99,
+                    "Score": "0-1",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-27",
+                    "Match": "Trelleborgs FF vs Helsingborg",
+                    "Odd": 1.8594594594594593,
+                    "Score": "0-0",
+                    "H2H Under %": 70.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-28",
+                    "Match": "River Plate vs Universitario De",
+                    "Odd": 1.9545454545454546,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-28",
+                    "Match": "Botafogo RJ vs Universidad de C",
+                    "Odd": 1.7373737373737375,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-29",
+                    "Match": "Universidad Cato vs Vitoria BA",
+                    "Odd": 1.78,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-30",
+                    "Match": "Fluminense RJ vs Deportiva Once C",
+                    "Odd": 1.93,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-30",
+                    "Match": "Skeid vs Hodd",
+                    "Odd": 1.764102564102564,
+                    "Score": "1-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-31",
+                    "Match": "Shenyang Urban F vs Shijiazhuang",
+                    "Odd": 1.9657142857142857,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-05-31",
+                    "Match": "Santos FC vs UCV Moquegua",
+                    "Odd": 1.7731958762886597,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 90.91,
+                "Under2.5_Count": 50,
+                "Total_Matches": 55,
+                "Average_Odds": 1.85
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 88.0,
+                "Combo_Under2.5_Count": 22,
+                "Total_Days": 25,
+                "Average_Combo_Odds": 3.45
+            }
+        },
+        "2025-06": {
+            "matches": [
+                {
+                    "Date": "2025-06-01",
+                    "Match": "Olimpia Asuncion vs Recoleta",
+                    "Odd": 1.84,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-01",
+                    "Match": "Paredes vs AD Marco 09",
+                    "Odd": 2.0,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-02",
+                    "Match": "Atletico Naciona vs Deportiva Once C",
+                    "Odd": 1.7823834196891193,
+                    "Score": "0-0",
+                    "H2H Under %": 65.52,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-02",
+                    "Match": "Cobresal vs Municipal Iquiqu",
+                    "Odd": 1.8105263157894738,
+                    "Score": "2-1",
+                    "H2H Under %": 53.85,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2025-06-03",
+                    "Match": "Cuniburo vs Libertad",
+                    "Odd": 1.8010471204188483,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-04",
+                    "Match": "Ali CSC vs Bahrain SC",
+                    "Odd": 2.0,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-04",
+                    "Match": "South Africa vs Mozambique",
+                    "Odd": 1.8695652173913042,
+                    "Score": "0-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-05",
+                    "Match": "Malawi vs Lesotho",
+                    "Odd": 1.72,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-05",
+                    "Match": "Spain vs France",
+                    "Odd": 1.76,
+                    "Score": "5-4",
+                    "H2H Under %": 62.5,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2025-06-06",
+                    "Match": "FYR Macedonia vs Belgium",
+                    "Odd": 1.95,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-06",
+                    "Match": "Luxembourg vs Slovenia",
+                    "Odd": 1.72,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-07",
+                    "Match": "Gyeongnam FC vs Hwaseong FC",
+                    "Odd": 1.943502824858757,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-07",
+                    "Match": "Finland vs Netherlands",
+                    "Odd": 1.943502824858757,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-08",
+                    "Match": "Sacramento Repub vs FC Tulsa",
+                    "Odd": 1.7551020408163265,
+                    "Score": "0-1",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-08",
+                    "Match": "Gimpo FC vs Cheonan City",
+                    "Odd": 1.78,
+                    "Score": "1-0",
+                    "H2H Under %": 83.33,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-09",
+                    "Match": "Holbaek vs Bronshoj",
+                    "Odd": 1.88,
+                    "Score": "2-0",
+                    "H2H Under %": 50.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-10",
+                    "Match": "Northern Ireland vs Iceland",
+                    "Odd": 1.75,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-10",
+                    "Match": "Uzbekistan vs Qatar",
+                    "Odd": 1.77,
+                    "Score": "3-0",
+                    "H2H Under %": 55.56,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2025-06-11",
+                    "Match": "Canada vs Ivory Coast",
+                    "Odd": 1.84,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-11",
+                    "Match": "Mexico vs Turkey",
+                    "Odd": 1.7551020408163265,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-12",
+                    "Match": "Mirandes vs Racing Santander",
+                    "Odd": 1.8395721925133688,
+                    "Score": "4-1",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2025-06-12",
+                    "Match": "Alianza Atletico vs Comerciantes Uni",
+                    "Odd": 1.8105263157894738,
+                    "Score": "3-0",
+                    "H2H Under %": 33.33,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2025-06-13",
+                    "Match": "Wuhan Three Town vs Qingdao Hainiu",
+                    "Odd": 1.9770114942528736,
+                    "Score": "2-0",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-13",
+                    "Match": "Finn Harps vs Wexford",
+                    "Odd": 1.943502824858757,
+                    "Score": "1-1",
+                    "H2H Under %": 68.75,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-14",
+                    "Match": "SC Sagamihara vs Kochi United",
+                    "Odd": 1.7823834196891193,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-15",
+                    "Match": "EL Ahly vs Inter Miami CF",
+                    "Odd": 1.943502824858757,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-15",
+                    "Match": "Kataller Toyama vs Fujieda MYFC",
+                    "Odd": 1.73,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-16",
+                    "Match": "Drogheda United vs Shamrock Rovers",
+                    "Odd": 1.72,
+                    "Score": "1-2",
+                    "H2H Under %": 63.16,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2025-06-16",
+                    "Match": "Boca Juniors vs Benfica",
+                    "Odd": 1.7731958762886597,
+                    "Score": "2-2",
+                    "H2H Under %": 0.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2025-06-17",
+                    "Match": "Flamengo vs Esperance Sporti",
+                    "Odd": 1.9545454545454546,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-17",
+                    "Match": "Fluminense RJ vs Borussia Dortmun",
+                    "Odd": 2.0,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-18",
+                    "Match": "Monterrey vs Inter Milan",
+                    "Odd": 1.9657142857142857,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-18",
+                    "Match": "Daejeon Citizen vs Gimcheon Sangmu",
+                    "Odd": 1.9884393063583814,
+                    "Score": "0-0",
+                    "H2H Under %": 57.14,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-19",
+                    "Match": "Palmeiras vs EL Ahly",
+                    "Odd": 1.86,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-19",
+                    "Match": "LDU Quito vs Barcelona SC(ECU",
+                    "Odd": 1.8297872340425532,
+                    "Score": "3-1",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2025-06-20",
+                    "Match": "Drogheda United vs Sligo Rovers",
+                    "Odd": 1.8105263157894738,
+                    "Score": "1-0",
+                    "H2H Under %": 54.55,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-20",
+                    "Match": "Waterford United vs Bohemians",
+                    "Odd": 1.8594594594594593,
+                    "Score": "2-1",
+                    "H2H Under %": 52.38,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2025-06-21",
+                    "Match": "Yokohama Marinos vs Fagiano Okayama",
+                    "Odd": 1.9,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-21",
+                    "Match": "Incheon United vs Hwaseong FC",
+                    "Odd": 1.9657142857142857,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-22",
+                    "Match": "Deportes La Sere vs Limache",
+                    "Odd": 1.8797814207650272,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-22",
+                    "Match": "Suzhou Dongwu vs Shenzhen Juniors",
+                    "Odd": 1.9657142857142857,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-23",
+                    "Match": "Dominican Republ vs Suriname",
+                    "Odd": 2.0,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-23",
+                    "Match": "Atletico Madrid vs Botafogo RJ",
+                    "Odd": 1.96,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-24",
+                    "Match": "Aral Nukus vs Lokomotiv Tashke",
+                    "Odd": 1.8395721925133688,
+                    "Score": "2-0",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-24",
+                    "Match": "Spyris Kaunas vs FK Panevezys",
+                    "Odd": 1.8594594594594593,
+                    "Score": "3-0",
+                    "H2H Under %": 59.26,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2025-06-25",
+                    "Match": "Los Angeles FC vs Flamengo",
+                    "Odd": 1.92,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-26",
+                    "Match": "Union Omaha vs Richmond Kickers",
+                    "Odd": 1.78,
+                    "Score": "3-4",
+                    "H2H Under %": 57.14,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2025-06-27",
+                    "Match": "Shaoxing Shangyu vs Chengdu Rongchen",
+                    "Odd": 1.8201058201058202,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-27",
+                    "Match": "Spaeri vs Torpedo Kutaisi",
+                    "Odd": 1.73,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-28",
+                    "Match": "Fujieda MYFC vs Imabari FC",
+                    "Odd": 1.74,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-29",
+                    "Match": "Canada vs Guatemala",
+                    "Odd": 1.9657142857142857,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-30",
+                    "Match": "Osaka vs Nara Club",
+                    "Odd": 1.9325842696629212,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-06-30",
+                    "Match": "ABB vs Blooming",
+                    "Odd": 1.9217877094972067,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 79.25,
+                "Under2.5_Count": 42,
+                "Total_Matches": 53,
+                "Average_Odds": 1.86
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 65.22,
+                "Combo_Under2.5_Count": 15,
+                "Total_Days": 23,
+                "Average_Combo_Odds": 3.48
+            }
+        },
+        "2025-07": {
+            "matches": [
+                {
+                    "Date": "2025-07-01",
+                    "Match": "Super Nova vs FK Auda Riga",
+                    "Odd": 1.86,
+                    "Score": "0-1",
+                    "H2H Under %": 63.64,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-01",
+                    "Match": "HFX Wanderers vs Valour",
+                    "Odd": 1.86,
+                    "Score": "3-1",
+                    "H2H Under %": 69.57,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2025-07-02",
+                    "Match": "Dila Gori vs Spaeri",
+                    "Odd": 1.89,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-02",
+                    "Match": "Lara Deportiva vs Rayo Zuliano",
+                    "Odd": 2.0,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-03",
+                    "Match": "Mexico vs Honduras",
+                    "Odd": 1.764102564102564,
+                    "Score": "1-0",
+                    "H2H Under %": 55.56,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-03",
+                    "Match": "Al Karkh vs Duhok",
+                    "Odd": 1.74,
+                    "Score": "2-4",
+                    "H2H Under %": 60.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2025-07-04",
+                    "Match": "Kerry League vs Dundalk",
+                    "Odd": 1.764102564102564,
+                    "Score": "0-4",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2025-07-04",
+                    "Match": "Los Chankas vs ADT Tarma",
+                    "Odd": 1.911111111111111,
+                    "Score": "1-1",
+                    "H2H Under %": 66.67,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-05",
+                    "Match": "Phoenix Rising vs Lexington",
+                    "Odd": 1.8297872340425532,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-05",
+                    "Match": "Vegalta Sendai vs Kataller Toyama",
+                    "Odd": 1.78,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-06",
+                    "Match": "Roasso Kumamoto vs Jubilo Iwata",
+                    "Odd": 1.9217877094972067,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-06",
+                    "Match": "Dongguan Guanlia vs Shenyang Urban F",
+                    "Odd": 1.9884393063583814,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-07",
+                    "Match": "Neftchi Fargona vs Xorazm Urganch",
+                    "Odd": 1.91,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-09",
+                    "Match": "Ludogorets Razgr vs Dinamo Minsk",
+                    "Odd": 1.9545454545454546,
+                    "Score": "1-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-10",
+                    "Match": "Nomme JK Kalju vs Partizani Tirana",
+                    "Odd": 1.74,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-10",
+                    "Match": "St. Patricks Ath vs Hegelmann Litaue",
+                    "Odd": 1.8010471204188483,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-11",
+                    "Match": "Riteriai vs Siauliai",
+                    "Odd": 1.9884393063583814,
+                    "Score": "0-2",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-12",
+                    "Match": "Azul Claro Numaz vs Kagoshima United",
+                    "Odd": 1.8,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-13",
+                    "Match": "Bryne vs Valerenga",
+                    "Odd": 1.9545454545454546,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-13",
+                    "Match": "Haugesund vs KFUM Oslo",
+                    "Odd": 1.74,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-14",
+                    "Match": "Diamond Harbour vs Aryan",
+                    "Odd": 1.94,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-14",
+                    "Match": "Nona vs Inter Gainesvill",
+                    "Odd": 1.92,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-15",
+                    "Match": "Real Cartagena vs Internacional Pa",
+                    "Odd": 1.8010471204188483,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-15",
+                    "Match": "China vs Hong Kong",
+                    "Odd": 1.911111111111111,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-16",
+                    "Match": "Bahia(BA) vs America de Cali",
+                    "Odd": 1.85,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-16",
+                    "Match": "Chattanooga Red vs Texoma",
+                    "Odd": 1.85,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-17",
+                    "Match": "F91 Dudelange vs Atletic Club D E",
+                    "Odd": 1.8297872340425532,
+                    "Score": "2-3",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2025-07-17",
+                    "Match": "AEK vs Omonia Nicosia F",
+                    "Odd": 1.8494623655913978,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-18",
+                    "Match": "United SC vs Diamond Harbour",
+                    "Odd": 1.77,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-18",
+                    "Match": "Everton CD vs Limache",
+                    "Odd": 1.72,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-19",
+                    "Match": "Swansea City vs Stevenage Boroug",
+                    "Odd": 1.93,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-19",
+                    "Match": "Rochdale vs Grimsby Town",
+                    "Odd": 1.8594594594594593,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-20",
+                    "Match": "Reims vs Leuven",
+                    "Odd": 2.0,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-20",
+                    "Match": "Guizhou Zhicheng vs Chengdu Rongchen",
+                    "Odd": 1.911111111111111,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-21",
+                    "Match": "Lisen vs Chrudim",
+                    "Odd": 1.8797814207650272,
+                    "Score": "0-0",
+                    "H2H Under %": 78.57,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-22",
+                    "Match": "Southend United vs Luton Town",
+                    "Odd": 1.9770114942528736,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-22",
+                    "Match": "Glasgow Rangers vs Panathinaikos",
+                    "Odd": 1.9657142857142857,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-23",
+                    "Match": "BFA Vilnius vs Ekranas Panevezy",
+                    "Odd": 1.9005524861878451,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-23",
+                    "Match": "The New Saints vs Differdange",
+                    "Odd": 1.72,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-24",
+                    "Match": "Levski Sofia vs Sporting Braga",
+                    "Odd": 1.84,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-24",
+                    "Match": "Radnicki 1923 Kr vs KI Klaksvik",
+                    "Odd": 1.8494623655913978,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-25",
+                    "Match": "Reggiana vs Alcione Milano",
+                    "Odd": 1.83,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-25",
+                    "Match": "Limache vs Nublense",
+                    "Odd": 1.87,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-26",
+                    "Match": "Shandong Taishan vs Xi'an Ronghai",
+                    "Odd": 1.9545454545454546,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-26",
+                    "Match": "FCV Dender EH vs Cercle Brugge",
+                    "Odd": 1.7916666666666667,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-27",
+                    "Match": "Changchun Yatai vs Dalian Zhixing",
+                    "Odd": 1.8,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-27",
+                    "Match": "Guangzhou E-Powe vs Heilongjiang Ice",
+                    "Odd": 1.89,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-28",
+                    "Match": "Botosani vs FC Unirea 2004 S",
+                    "Odd": 1.75,
+                    "Score": "4-0",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": false
+                },
+                {
+                    "Date": "2025-07-29",
+                    "Match": "Drita vs FC Copenhagen",
+                    "Odd": 1.8797814207650272,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-29",
+                    "Match": "Differdange vs The New Saints",
+                    "Odd": 2.0,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-30",
+                    "Match": "Fenerbahce vs Lazio",
+                    "Odd": 1.9884393063583814,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-30",
+                    "Match": "Olimpia Asuncion vs Recoleta",
+                    "Odd": 1.9,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-31",
+                    "Match": "UNA Strassen vs Dundee United",
+                    "Odd": 1.8105263157894738,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-07-31",
+                    "Match": "Maribor vs Paks",
+                    "Odd": 1.7731958762886597,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 90.74,
+                "Under2.5_Count": 49,
+                "Total_Matches": 54,
+                "Average_Odds": 1.87
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 83.33,
+                "Combo_Under2.5_Count": 20,
+                "Total_Days": 24,
+                "Average_Combo_Odds": 3.47
+            }
+        },
+        "2025-08": {
+            "matches": [
+                {
+                    "Date": "2025-08-01",
+                    "Match": "UCSA vs Podillya Khmelny",
+                    "Odd": 1.728643216080402,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-01",
+                    "Match": "Zaglebie Lubin vs Korona Kielce",
+                    "Odd": 1.85,
+                    "Score": "1-1",
+                    "H2H Under %": 80.95,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-02",
+                    "Match": "Stoke City vs Burnley",
+                    "Odd": 1.81,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-02",
+                    "Match": "Patro Eisden vs MVV Maastricht",
+                    "Odd": 1.89,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-03",
+                    "Match": "Dalian Zhixing vs Qingdao Hainiu",
+                    "Odd": 1.9005524861878451,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-03",
+                    "Match": "Maxline vs Slutsksakhar Slu",
+                    "Odd": 1.9,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-04",
+                    "Match": "Mohammedan vs Peerless",
+                    "Odd": 1.8201058201058202,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-04",
+                    "Match": "Sampaio Correa vs Manauara",
+                    "Odd": 1.83,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-05",
+                    "Match": "Politehnica Iasi vs Ceahlaul Piatra",
+                    "Odd": 1.81,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-05",
+                    "Match": "Dynamo Kyiv vs Pafos",
+                    "Odd": 1.84,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-06",
+                    "Match": "Warta Poznan vs Olimpia Elblag",
+                    "Odd": 1.8105263157894738,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-06",
+                    "Match": "Botafogo SP B vs Comercial",
+                    "Odd": 1.75,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-07",
+                    "Match": "Lincoln Red Imps vs Noah",
+                    "Odd": 1.7823834196891193,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-07",
+                    "Match": "Rosenborg vs Hammarby",
+                    "Odd": 1.8105263157894738,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-08",
+                    "Match": "Dalian Zhixing vs Chengdu Rongchen",
+                    "Odd": 1.911111111111111,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-08",
+                    "Match": "Braga B vs Paredes",
+                    "Odd": 1.7551020408163265,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-09",
+                    "Match": "Cheltenham Town vs Chesterfield",
+                    "Odd": 1.9657142857142857,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-09",
+                    "Match": "Rhode Island vs Loudoun",
+                    "Odd": 1.95,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-10",
+                    "Match": "Manta FC vs Ind. del Valle",
+                    "Odd": 1.8695652173913042,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-10",
+                    "Match": "Spokane Velocity vs Alta",
+                    "Odd": 1.7916666666666667,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-11",
+                    "Match": "Trabzonspor vs Kocaelispor",
+                    "Odd": 1.9770114942528736,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-11",
+                    "Match": "Jaguares de Cord vs Real Santander",
+                    "Odd": 1.88,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-12",
+                    "Match": "Slovan Bratislav vs FC Kairat Almaty",
+                    "Odd": 1.8695652173913042,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-12",
+                    "Match": "Barrow vs Preston North En",
+                    "Odd": 1.78,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-13",
+                    "Match": "Villarreal B vs Gimnastic Tarrag",
+                    "Odd": 1.9325842696629212,
+                    "Score": "1-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-13",
+                    "Match": "Bergantinos CF vs Racing de Ferrol",
+                    "Odd": 1.911111111111111,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-14",
+                    "Match": "Hammarby vs Rosenborg",
+                    "Odd": 1.7916666666666667,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-14",
+                    "Match": "FC Shakhtar Done vs Panathinaikos",
+                    "Odd": 1.7461928934010151,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-15",
+                    "Match": "Schwarz-Wei\u00df Bre vs Floridsdorfer AC",
+                    "Odd": 1.9657142857142857,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-15",
+                    "Match": "Utsiktens BK vs Varbergs BoIS FC",
+                    "Odd": 1.9005524861878451,
+                    "Score": "1-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-16",
+                    "Match": "Leamington vs South Shields",
+                    "Odd": 1.7916666666666667,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-16",
+                    "Match": "Santo Andre vs Oeste",
+                    "Odd": 1.72,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-17",
+                    "Match": "Texoma vs Chattanooga Red",
+                    "Odd": 1.9545454545454546,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-17",
+                    "Match": "Pogon Siedlce vs Polonia Bytom",
+                    "Odd": 1.8297872340425532,
+                    "Score": "2-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-20",
+                    "Match": "FK Vrsac vs FAP",
+                    "Odd": 1.88,
+                    "Score": "0-0",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-21",
+                    "Match": "Assyriska vs Sandviken",
+                    "Odd": 1.92,
+                    "Score": "0-1",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-21",
+                    "Match": "HSK Zrinjski Mos vs FC Utrecht",
+                    "Odd": 1.9545454545454546,
+                    "Score": "0-2",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": true
+                },
+                {
+                    "Date": "2025-08-22",
+                    "Match": "Viettel vs Ho Chi Minh",
+                    "Odd": 1.7731958762886597,
+                    "Score": "",
+                    "H2H Under %": 75.0,
+                    "Under2.5_Result": null
+                },
+                {
+                    "Date": "2025-08-22",
+                    "Match": "Radomiak Radom vs Termalica B-B.",
+                    "Odd": 1.943502824858757,
+                    "Score": "",
+                    "H2H Under %": 71.43,
+                    "Under2.5_Result": null
+                },
+                {
+                    "Date": "2025-08-23",
+                    "Match": "South Shields vs Chester FC",
+                    "Odd": 1.72,
+                    "Score": "",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": null
+                },
+                {
+                    "Date": "2025-08-23",
+                    "Match": "Ironi Tiberias vs Hapoel Haifa",
+                    "Odd": 1.8105263157894738,
+                    "Score": "",
+                    "H2H Under %": 80.0,
+                    "Under2.5_Result": null
+                },
+                {
+                    "Date": "2025-08-24",
+                    "Match": "Henan Songshan L vs Dalian Zhixing",
+                    "Odd": 1.911111111111111,
+                    "Score": "",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": null
+                },
+                {
+                    "Date": "2025-08-24",
+                    "Match": "FC Arlanda vs Gefle IF",
+                    "Odd": 1.943502824858757,
+                    "Score": "",
+                    "H2H Under %": 100.0,
+                    "Under2.5_Result": null
+                }
+            ],
+            "single_stats": {
+                "Under2.5_Percentage": 100.0,
+                "Under2.5_Count": 37,
+                "Total_Matches": 37,
+                "Average_Odds": 1.85
+            },
+            "combo_stats": {
+                "Combo_Under2.5_Percentage": 100.0,
+                "Combo_Under2.5_Count": 18,
+                "Total_Days": 18,
+                "Average_Combo_Odds": 3.44
+            }
+        }
+    },
+    "year_summary": {
+        "single_stats": {
+            "Under2.5_Percentage": 92.51,
+            "Under2.5_Count": 358,
+            "Total_Matches": 387,
+            "Average_Odds": 1.85
+        },
+        "combo_stats": {
+            "Combo_Under2.5_Percentage": 88.24,
+            "Combo_Under2.5_Count": 150,
+            "Total_Days": 170,
+            "Average_Combo_Odds": 3.43
+        }
+    }
+}
