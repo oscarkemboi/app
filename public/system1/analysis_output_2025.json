@@ -3275,7 +3275,7 @@
           "odd": "1.77",
           "score": "",
           "h2h_under": "100.00%",
-          "status": ""
+          "status": "\u26aa"
         },
         {
           "date": "2025-08-27",
@@ -3283,7 +3283,7 @@
           "odd": "1.89",
           "score": "",
           "h2h_under": "100.00%",
-          "status": ""
+          "status": "\u26aa"
         },
         {
           "date": "2025-08-28",
@@ -3291,7 +3291,7 @@
           "odd": "1.96",
           "score": "",
           "h2h_under": "100.00%",
-          "status": ""
+          "status": "\u26aa"
         },
         {
           "date": "2025-08-28",
@@ -3299,7 +3299,39 @@
           "odd": "1.90",
           "score": "",
           "h2h_under": "100.00%",
-          "status": ""
+          "status": "\u26aa"
+        },
+        {
+          "date": "2025-08-29",
+          "match": "PSBS Biak vs Persik Kediri",
+          "odd": "1.98",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "\u26aa"
+        },
+        {
+          "date": "2025-08-29",
+          "match": "Atletico Junior vs Llaneros FC",
+          "odd": "1.78",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "\u26aa"
+        },
+        {
+          "date": "2025-08-30",
+          "match": "SL Benfica B vs Portimonense",
+          "odd": "1.91",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "\u26aa"
+        },
+        {
+          "date": "2025-08-30",
+          "match": "Lommel SK vs Lokeren-Temse",
+          "odd": "1.90",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "\u26aa"
         }
       ],
       "single_stats": {
