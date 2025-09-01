@@ -3355,10 +3355,31 @@
     },
     {
       "month": "2025-09",
-      "matches": [],
-      "single_stats": {},
-      "combo_stats": {},
-      "message": "No matches in 2025-09 within odds 1.72\u20132.0."
+      "matches": [
+        {
+          "date": "2025-09-02",
+          "match": "Luton Town vs Barnet",
+          "odd": "1.93",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "\u26aa"
+        },
+        {
+          "date": "2025-09-02",
+          "match": "Eastleigh vs Scunthorpe Unite",
+          "odd": "1.84",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "\u26aa"
+        }
+      ],
+      "single_stats": {
+        "message": "No matches with valid scores in 2025-09.",
+        "total_selected_matches": 2
+      },
+      "combo_stats": {
+        "message": "No valid 2-match combos in 2025-09."
+      }
     }
   ],
   "yearly_stats": {
