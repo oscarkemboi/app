@@ -3387,11 +3387,27 @@
           "score": "",
           "h2h_under": "66.67%",
           "status": "\u26aa"
+        },
+        {
+          "date": "2025-09-04",
+          "match": "Netherlands vs Poland",
+          "odd": "1.87",
+          "score": "",
+          "h2h_under": "33.33%",
+          "status": "\u26aa"
+        },
+        {
+          "date": "2025-09-04",
+          "match": "Uruguay vs Peru",
+          "odd": "1.93",
+          "score": "",
+          "h2h_under": "70.00%",
+          "status": "\u26aa"
         }
       ],
       "single_stats": {
         "message": "No matches with valid scores in 2025-09.",
-        "total_selected_matches": 4
+        "total_selected_matches": 6
       },
       "combo_stats": {
         "message": "No valid 2-match combos in 2025-09."
