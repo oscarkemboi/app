@@ -3403,11 +3403,27 @@
           "score": "",
           "h2h_under": "70.00%",
           "status": "\u26aa"
+        },
+        {
+          "date": "2025-09-05",
+          "match": "Denmark vs Scotland",
+          "odd": "1.95",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "\u26aa"
+        },
+        {
+          "date": "2025-09-05",
+          "match": "Kerry League vs Cobh Ramblers",
+          "odd": "1.85",
+          "score": "",
+          "h2h_under": "70.00%",
+          "status": "\u26aa"
         }
       ],
       "single_stats": {
         "message": "No matches with valid scores in 2025-09.",
-        "total_selected_matches": 6
+        "total_selected_matches": 8
       },
       "combo_stats": {
         "message": "No valid 2-match combos in 2025-09."
