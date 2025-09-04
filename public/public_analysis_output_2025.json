@@ -3332,6 +3332,14 @@
           "score": "",
           "h2h_under": "100.00%",
           "status": "⚪"
+        },
+        {
+          "date": "2025-08-31",
+          "match": "Persita vs Semen Padang",
+          "odd": "1.77",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "⚪"
         }
       ],
       "single_stats": {
@@ -3347,7 +3355,40 @@
     },
     {
       "month": "2025-09",
-      "matches": [],
+      "matches": [
+        {
+          "date": "2025-09-02",
+          "match": "Luton Town vs Barnet",
+          "odd": "1.93",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "⚪"
+        },
+        {
+          "date": "2025-09-02",
+          "match": "Eastleigh vs Scunthorpe Unite",
+          "odd": "1.84",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "⚪"
+        },
+        {
+          "date": "2025-09-03",
+          "match": "Real Soacha vs Deportivo Pereir",
+          "odd": "1.78",
+          "score": "",
+          "h2h_under": "66.67%",
+          "status": "⚪"
+        },
+        {
+          "date": "2025-09-03",
+          "match": "Sutton United vs Boreham Wood",
+          "odd": "1.84",
+          "score": "",
+          "h2h_under": "66.67%",
+          "status": "⚪"
+        }
+      ],
       "single_stats": {
         "message": "No matches with valid scores in 2025-09.",
         "total_selected_matches": 8
