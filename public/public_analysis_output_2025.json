@@ -3451,11 +3451,19 @@
           "score": "",
           "h2h_under": "100.00%",
           "status": "⚪"
+        },
+        {
+          "date": "2025-09-10",
+          "match": "Jamaica vs Trinidad Tobago",
+          "odd": "1.84",
+          "score": "",
+          "h2h_under": "72.73%",
+          "status": "⚪"
         }
       ],
       "single_stats": {
         "message": "No matches with valid scores in 2025-09.",
-        "total_selected_matches": 13
+        "total_selected_matches": 15
       },
       "combo_stats": {
         "message": "No valid 2-match combos in 2025-09."
