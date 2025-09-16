@@ -3499,11 +3499,28 @@
           "score": "",
           "h2h_under": "100.00%",
           "status": "⚪"
+        },
+        {
+          "date": "2025-09-15",
+          "match": "FC Ryukyu vs Kanazawa",
+          "odd": "1.85",
+          "score": "",
+          "h2h_under": "0.00%",
+          "status": "⚪"
+        },
+        {
+          "date": "2025-09-15",
+          "match": "Al-Sharjah vs Al-Gharafa",
+          "odd": "1.76",
+          "score": "",
+          "h2h_under": "0.00%",
+          "status": "⚪"
         }
       ],
       "single_stats": {
-        "message": "No matches with valid scores in 2025-09.",
-        "total_selected_matches": 20
+        "under_2.5_percentage": "100.00%",
+        "under_2.5_count": "1/1",
+        "average_odds": "1.80"
       },
       "combo_stats": {
         "message": "No valid 2-match combos in 2025-09."
@@ -3512,8 +3529,8 @@
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "92.41%",
-      "under_2.5_count": "365/395",
+      "under_2.5_percentage": "92.42%",
+      "under_2.5_count": "366/396",
       "average_odds": "1.85"
     },
     "combo_stats": {
