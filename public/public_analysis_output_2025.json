@@ -3499,11 +3499,27 @@
           "score": "",
           "h2h_under": "100.00%",
           "status": "⚪"
+        },
+        {
+          "date": "2025-09-22",
+          "match": "Dinamo Bucuresti vs Farul Constanta",
+          "odd": "1.96",
+          "score": "",
+          "h2h_under": "83.33%",
+          "status": "⚪"
+        },
+        {
+          "date": "2025-09-22",
+          "match": "Universitario de vs Tigres",
+          "odd": "1.75",
+          "score": "",
+          "h2h_under": "87.50%",
+          "status": "⚪"
         }
       ],
       "single_stats": {
         "message": "No matches with valid scores in 2025-09.",
-        "total_selected_matches": 22
+        "total_selected_matches": 24
       },
       "combo_stats": {
         "message": "No valid 2-match combos in 2025-09."
