@@ -3515,11 +3515,27 @@
           "score": "",
           "h2h_under": "87.50%",
           "status": "⚪"
+        },
+        {
+          "date": "2025-09-23",
+          "match": "Brackley Town vs Truro City",
+          "odd": "1.89",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "⚪"
+        },
+        {
+          "date": "2025-09-23",
+          "match": "Wigan Athletic vs Wycombe Wanderer",
+          "odd": "1.73",
+          "score": "",
+          "h2h_under": "83.33%",
+          "status": "⚪"
         }
       ],
       "single_stats": {
         "message": "No matches with valid scores in 2025-09.",
-        "total_selected_matches": 24
+        "total_selected_matches": 26
       },
       "combo_stats": {
         "message": "No valid 2-match combos in 2025-09."
