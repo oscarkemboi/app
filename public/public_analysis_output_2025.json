@@ -3547,11 +3547,27 @@
           "score": "",
           "h2h_under": "100.00%",
           "status": "⚪"
+        },
+        {
+          "date": "2025-09-25",
+          "match": "Deportiva Once C vs Ind. del Valle",
+          "odd": "1.74",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "⚪"
+        },
+        {
+          "date": "2025-09-25",
+          "match": "Cittadella vs Lumezzane",
+          "odd": "1.80",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "⚪"
         }
       ],
       "single_stats": {
         "message": "No matches with valid scores in 2025-09.",
-        "total_selected_matches": 28
+        "total_selected_matches": 30
       },
       "combo_stats": {
         "message": "No valid 2-match combos in 2025-09."
