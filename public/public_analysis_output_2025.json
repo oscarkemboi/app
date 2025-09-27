@@ -3563,11 +3563,27 @@
           "score": "",
           "h2h_under": "100.00%",
           "status": "⚪"
+        },
+        {
+          "date": "2025-09-26",
+          "match": "Damac vs Al-Ettifaq",
+          "odd": "1.78",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "⚪"
+        },
+        {
+          "date": "2025-09-26",
+          "match": "Troyes vs Annecy",
+          "odd": "1.90",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "⚪"
         }
       ],
       "single_stats": {
         "message": "No matches with valid scores in 2025-09.",
-        "total_selected_matches": 30
+        "total_selected_matches": 32
       },
       "combo_stats": {
         "message": "No valid 2-match combos in 2025-09."
