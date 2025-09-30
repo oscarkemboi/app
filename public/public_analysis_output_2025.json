@@ -3579,14 +3579,57 @@
           "score": "",
           "h2h_under": "100.00%",
           "status": "⚪"
+        },
+        {
+          "date": "2025-09-27",
+          "match": "Thespa Kusatsu vs SC Sagamihara",
+          "odd": "1.90",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "⚪"
+        },
+        {
+          "date": "2025-09-27",
+          "match": "Fortaleza vs Sport Club do Re",
+          "odd": "1.80",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "⚪"
+        },
+        {
+          "date": "2025-09-28",
+          "match": "Seoul E. vs Incheon United",
+          "odd": "1.75",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "⚪"
+        },
+        {
+          "date": "2025-09-28",
+          "match": "Farul Constanta vs FC Unirea 2004 S",
+          "odd": "1.80",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "⚪"
         }
       ],
       "single_stats": {
         "message": "No matches with valid scores in 2025-09.",
-        "total_selected_matches": 32
+        "total_selected_matches": 34
       },
       "combo_stats": {
         "message": "No valid 2-match combos in 2025-09."
+      }
+    },
+    {
+      "month": "2025-10",
+      "matches": [],
+      "single_stats": {
+        "message": "No matches with valid scores in 2025-10.",
+        "total_selected_matches": 2
+      },
+      "combo_stats": {
+        "message": "No valid 2-match combos in 2025-10."
       }
     }
   ],
