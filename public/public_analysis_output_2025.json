@@ -3639,10 +3639,43 @@
     },
     {
       "month": "2025-10",
-      "matches": [],
+      "matches": [
+        {
+          "date": "2025-10-01",
+          "match": "FK Panevezys vs Alytis Alytus",
+          "odd": "1.84",
+          "score": "",
+          "h2h_under": "60.00%",
+          "status": "⚪"
+        },
+        {
+          "date": "2025-10-01",
+          "match": "Palmeiras vs Vasco da Gama",
+          "odd": "1.81",
+          "score": "",
+          "h2h_under": "76.92%",
+          "status": "⚪"
+        },
+        {
+          "date": "2025-10-02",
+          "match": "Alianza Lima vs Grau",
+          "odd": "1.74",
+          "score": "",
+          "h2h_under": "75.00%",
+          "status": "⚪"
+        },
+        {
+          "date": "2025-10-02",
+          "match": "Rotherham United vs Bradford City",
+          "odd": "1.79",
+          "score": "",
+          "h2h_under": "66.67%",
+          "status": "⚪"
+        }
+      ],
       "single_stats": {
         "message": "No matches with valid scores in 2025-10.",
-        "total_selected_matches": 4
+        "total_selected_matches": 6
       },
       "combo_stats": {
         "message": "No valid 2-match combos in 2025-10."
