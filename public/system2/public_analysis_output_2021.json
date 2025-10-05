@@ -1,0 +1,3235 @@
+{
+  "year": 2021,
+  "months": [
+    {
+      "month": "2021-01",
+      "matches": [
+        {
+          "date": "2021-01-01",
+          "match": "Hapoel Jerusalem vs Hapoel Kfar Shal",
+          "odd": "1.83",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-01-01",
+          "match": "Everton vs West Ham United",
+          "odd": "1.76",
+          "score": "0-1",
+          "h2h_under": "55.56%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-01-02",
+          "match": "Rosario Central vs Defensa Y Justic",
+          "odd": "1.90",
+          "score": "3-0",
+          "h2h_under": "33.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-01-05",
+          "match": "Godoy Cruz Anton vs Estudiantes La P",
+          "odd": "1.77",
+          "score": "1-0",
+          "h2h_under": "71.43%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-01-06",
+          "match": "Atletico Tucuman vs Colon de Santa F",
+          "odd": "1.76",
+          "score": "0-2",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-01-08",
+          "match": "Le Mans vs Cholet",
+          "odd": "1.73",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-01-08",
+          "match": "Real Zaragoza vs CD Logrones",
+          "odd": "2.00",
+          "score": "2-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-01-10",
+          "match": "Barracas Central vs Nueva Chicago",
+          "odd": "1.82",
+          "score": "0-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-01-10",
+          "match": "Belgrano vs Alvarado",
+          "odd": "1.87",
+          "score": "2-2",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-01-11",
+          "match": "Banfield vs San Lorenzo",
+          "odd": "1.85",
+          "score": "4-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-01-11",
+          "match": "Colon de Santa F vs Talleres Cordoba",
+          "odd": "1.72",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-01-14",
+          "match": "Lanus vs Velez Sarsfield",
+          "odd": "1.86",
+          "score": "3-0",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-01-14",
+          "match": "Defensa Y Justic vs Aldosivi Mar del",
+          "odd": "1.84",
+          "score": "4-4",
+          "h2h_under": "60.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-01-18",
+          "match": "Spal vs Reggiana",
+          "odd": "1.86",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-01-19",
+          "match": "Morecambe vs Walsall",
+          "odd": "1.77",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-01-20",
+          "match": "Nautico Capibari vs Oeste",
+          "odd": "1.81",
+          "score": "4-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-01-20",
+          "match": "Black Leopards vs Cape Town City",
+          "odd": "1.73",
+          "score": "0-2",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-01-21",
+          "match": "Goias vs Ceara",
+          "odd": "1.73",
+          "score": "0-4",
+          "h2h_under": "60.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-01-23",
+          "match": "Leones vs Fortaleza F.C",
+          "odd": "1.76",
+          "score": "0-0",
+          "h2h_under": "71.43%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-01-24",
+          "match": "Cape Town City vs Lamontville Gold",
+          "odd": "1.75",
+          "score": "4-2",
+          "h2h_under": "71.43%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-01-25",
+          "match": "Corinthians vs Bragantino",
+          "odd": "1.86",
+          "score": "0-2",
+          "h2h_under": "80.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-01-26",
+          "match": "Valenciennes vs Paris FC",
+          "odd": "1.83",
+          "score": "2-0",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-01-27",
+          "match": "Carpi vs Feralpisalo",
+          "odd": "1.74",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-01-27",
+          "match": "AEK vs Pas Giannina",
+          "odd": "1.97",
+          "score": "0-2",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-01-28",
+          "match": "Gremio RS vs Flamengo",
+          "odd": "1.87",
+          "score": "2-4",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-01-29",
+          "match": "CRB AL vs CuiabÃ¡ Esporte",
+          "odd": "1.97",
+          "score": "4-1",
+          "h2h_under": "33.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-01-29",
+          "match": "CF Atlante vs Tlaxcala",
+          "odd": "1.85",
+          "score": "2-1",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-01-30",
+          "match": "Atletico Naciona vs Deportivo Pereir",
+          "odd": "1.81",
+          "score": "5-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-01-31",
+          "match": "Mamelodi Sundown vs Chippa United",
+          "odd": "1.76",
+          "score": "2-0",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-01-31",
+          "match": "Sportivo Dock Su vs Deportivo Merlo",
+          "odd": "1.74",
+          "score": "1-2",
+          "h2h_under": "40.00%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "50.00%",
+        "under_2.5_count": "15/30",
+        "average_odds": "1.82"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "22.22%",
+        "combo_under_2.5_count": "2/9",
+        "average_combo_odds": "3.33"
+      }
+    },
+    {
+      "month": "2021-02",
+      "matches": [
+        {
+          "date": "2021-02-02",
+          "match": "Paris FC vs Niort",
+          "odd": "1.82",
+          "score": "3-3",
+          "h2h_under": "71.43%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-02-02",
+          "match": "Palmeiras vs Botafogo RJ",
+          "odd": "1.75",
+          "score": "1-1",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-02-03",
+          "match": "Arezzo vs Gubbio",
+          "odd": "1.75",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-02-05",
+          "match": "Niort vs Chateauroux",
+          "odd": "1.74",
+          "score": "1-1",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-02-06",
+          "match": "Cortulua vs Fortaleza F.C",
+          "odd": "1.83",
+          "score": "3-0",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-02-07",
+          "match": "Millonarios vs Deportivo Pereir",
+          "odd": "1.99",
+          "score": "3-2",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-02-08",
+          "match": "Botafogo RJ vs Gremio RS",
+          "odd": "1.92",
+          "score": "2-5",
+          "h2h_under": "55.56%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-02-09",
+          "match": "Cittadella vs Cosenza Calcio 1",
+          "odd": "1.90",
+          "score": "1-1",
+          "h2h_under": "60.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-02-09",
+          "match": "Pisa vs Salernitana",
+          "odd": "1.73",
+          "score": "2-2",
+          "h2h_under": "60.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-02-10",
+          "match": "Padova vs Carpi",
+          "odd": "1.82",
+          "score": "6-0",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-02-10",
+          "match": "Friburguense (RJ vs Cabofriense(RJ)",
+          "odd": "1.89",
+          "score": "2-5",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-02-11",
+          "match": "Atletico Huila vs Tigres",
+          "odd": "1.73",
+          "score": "1-0",
+          "h2h_under": "80.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-02-11",
+          "match": "Fluminense RJ vs Atletico Mineiro",
+          "odd": "1.79",
+          "score": "0-0",
+          "h2h_under": "42.86%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-02-16",
+          "match": "Juventus U23 vs Pro Vercelli",
+          "odd": "1.80",
+          "score": "0-2",
+          "h2h_under": "80.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-02-18",
+          "match": "Cerro Montevideo vs Defensor Sportin",
+          "odd": "1.79",
+          "score": "0-0",
+          "h2h_under": "63.64%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-02-18",
+          "match": "Matelica vs Mantova",
+          "odd": "1.99",
+          "score": "0-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-02-19",
+          "match": "CS Universitatea vs AFC Hermannstadt",
+          "odd": "1.72",
+          "score": "1-0",
+          "h2h_under": "60.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-02-20",
+          "match": "Deportes Tolima vs Patriotas FC",
+          "odd": "1.79",
+          "score": "3-1",
+          "h2h_under": "65.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-02-21",
+          "match": "Barcelona B vs L'Hospitalet",
+          "odd": "1.80",
+          "score": "6-0",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-02-22",
+          "match": "Newells Old Boys vs Boca Juniors",
+          "odd": "1.73",
+          "score": "0-1",
+          "h2h_under": "72.73%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-02-22",
+          "match": "Ravenna vs Feralpisalo",
+          "odd": "1.72",
+          "score": "0-0",
+          "h2h_under": "57.14%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-02-23",
+          "match": "Deportivo Cali vs Alianza Petroler",
+          "odd": "1.76",
+          "score": "1-1",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-02-24",
+          "match": "Cortulua vs Real San Andres",
+          "odd": "1.84",
+          "score": "1-0",
+          "h2h_under": "60.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-02-24",
+          "match": "Inegolspor vs Kocaelispor",
+          "odd": "1.76",
+          "score": "2-2",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-02-25",
+          "match": "ABC RN vs Globo",
+          "odd": "1.74",
+          "score": "2-0",
+          "h2h_under": "87.50%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-02-25",
+          "match": "Independiente Sa vs Boyaca Chico",
+          "odd": "1.76",
+          "score": "2-0",
+          "h2h_under": "55.56%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-02-26",
+          "match": "Union Magdalena vs Bogota FC",
+          "odd": "1.91",
+          "score": "1-0",
+          "h2h_under": "36.36%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-02-28",
+          "match": "Deportes Tolima vs Aguilas D.",
+          "odd": "1.74",
+          "score": "1-0",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "64.29%",
+        "under_2.5_count": "18/28",
+        "average_odds": "1.80"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "50.00%",
+        "combo_under_2.5_count": "4/8",
+        "average_combo_odds": "3.23"
+      }
+    },
+    {
+      "month": "2021-03",
+      "matches": [
+        {
+          "date": "2021-03-01",
+          "match": "Boca Juniors vs Sarmiento Junin",
+          "odd": "1.95",
+          "score": "1-1",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-03-01",
+          "match": "Union Santa Fe vs Lanus",
+          "odd": "1.79",
+          "score": "3-2",
+          "h2h_under": "42.86%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-03-02",
+          "match": "Perugia vs Sambenedettese",
+          "odd": "1.80",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-03-02",
+          "match": "Paris FC vs USL Dunkerque",
+          "odd": "1.73",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-03-03",
+          "match": "Atletico Naciona vs Alianza Petroler",
+          "odd": "1.91",
+          "score": "5-0",
+          "h2h_under": "46.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-03-04",
+          "match": "Muglaspor vs Modafenspor",
+          "odd": "1.77",
+          "score": "1-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-03-06",
+          "match": "Cape Town City vs Stellenbosch FC",
+          "odd": "1.75",
+          "score": "1-2",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-03-08",
+          "match": "Racing Club vs Rosario Central",
+          "odd": "1.88",
+          "score": "1-0",
+          "h2h_under": "71.43%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-03-08",
+          "match": "AEK vs Apollon Smirnis",
+          "odd": "1.89",
+          "score": "2-0",
+          "h2h_under": "41.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-03-09",
+          "match": "River Plate (PAR vs Argentinos junio",
+          "odd": "2.00",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-03-09",
+          "match": "Wanderers FC vs Bolivar",
+          "odd": "1.74",
+          "score": "1-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-03-11",
+          "match": "Moto Clube vs Botafogo RJ",
+          "odd": "1.77",
+          "score": "0-5",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-03-12",
+          "match": "Rayo Vallecano vs Real Zaragoza",
+          "odd": "2.00",
+          "score": "3-2",
+          "h2h_under": "25.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-03-15",
+          "match": "Justo Jose de Ur vs CA Fenix Pilar",
+          "odd": "1.81",
+          "score": "0-1",
+          "h2h_under": "75.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-03-15",
+          "match": "Rosario Central vs Arsenal de Saran",
+          "odd": "1.76",
+          "score": "2-1",
+          "h2h_under": "33.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-03-17",
+          "match": "Deportivo Pereir vs Boyaca Chico",
+          "odd": "1.93",
+          "score": "0-0",
+          "h2h_under": "77.78%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-03-17",
+          "match": "Cesena vs Matelica",
+          "odd": "1.82",
+          "score": "2-2",
+          "h2h_under": "33.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-03-18",
+          "match": "Uniao Rondonopol vs Coritiba (PR)",
+          "odd": "1.80",
+          "score": "0-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-03-18",
+          "match": "Penarol vs Ypiranga FC",
+          "odd": "1.82",
+          "score": "1-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-03-19",
+          "match": "Cobresal vs Palestino",
+          "odd": "1.80",
+          "score": "0-0",
+          "h2h_under": "27.27%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-03-22",
+          "match": "Orsomarso vs Leones",
+          "odd": "1.82",
+          "score": "1-1",
+          "h2h_under": "71.43%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-03-22",
+          "match": "Real Cartagena vs Bogota FC",
+          "odd": "1.79",
+          "score": "1-1",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-03-24",
+          "match": "Independiente Sa vs Deportiva Once C",
+          "odd": "1.73",
+          "score": "2-0",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-03-25",
+          "match": "Atletico Naciona vs Jaguares de Cord",
+          "odd": "1.84",
+          "score": "3-1",
+          "h2h_under": "73.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-03-30",
+          "match": "CA Huracan vs Gimnasia La Plat",
+          "odd": "1.72",
+          "score": "1-1",
+          "h2h_under": "42.86%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-03-31",
+          "match": "Envigado FC vs Patriotas FC",
+          "odd": "1.79",
+          "score": "3-0",
+          "h2h_under": "57.14%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "65.38%",
+        "under_2.5_count": "17/26",
+        "average_odds": "1.82"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "62.50%",
+        "combo_under_2.5_count": "5/8",
+        "average_combo_odds": "3.36"
+      }
+    },
+    {
+      "month": "2021-04",
+      "matches": [
+        {
+          "date": "2021-04-06",
+          "match": "Deportiva Once C vs Jaguares de Cord",
+          "odd": "1.78",
+          "score": "1-2",
+          "h2h_under": "63.64%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-04-06",
+          "match": "Trnava vs Trencin",
+          "odd": "1.91",
+          "score": "0-1",
+          "h2h_under": "55.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-04-07",
+          "match": "Fortaleza vs Ypiranga FC",
+          "odd": "1.92",
+          "score": "1-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-04-08",
+          "match": "Puerto Cabello vs Metropolitanos",
+          "odd": "1.72",
+          "score": "0-1",
+          "h2h_under": "83.33%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-04-08",
+          "match": "Graficar Beograd vs Loznica",
+          "odd": "1.73",
+          "score": "1-2",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-04-09",
+          "match": "FBC Melgar vs Carlos Mannucci",
+          "odd": "1.80",
+          "score": "3-2",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-04-09",
+          "match": "Fortaleza F.C vs Bogota FC",
+          "odd": "1.75",
+          "score": "3-0",
+          "h2h_under": "58.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-04-12",
+          "match": "River Plate (PAR vs Colon de Santa F",
+          "odd": "1.95",
+          "score": "3-2",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-04-12",
+          "match": "Jagodina vs Dubocica",
+          "odd": "1.74",
+          "score": "1-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-04-13",
+          "match": "Atletico Tucuman vs Velez Sarsfield",
+          "odd": "1.93",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-04-14",
+          "match": "Olbia vs Como",
+          "odd": "1.81",
+          "score": "3-0",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-04-14",
+          "match": "CSA-AL vs Remo Belem (PA)",
+          "odd": "1.74",
+          "score": "1-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-04-15",
+          "match": "Atletico Naciona vs Libertad",
+          "odd": "1.76",
+          "score": "4-1",
+          "h2h_under": "60.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-04-17",
+          "match": "Villa San Carlos vs Colegiales",
+          "odd": "1.85",
+          "score": "3-2",
+          "h2h_under": "60.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-04-17",
+          "match": "Deportivo Merlo vs Canuelas FC",
+          "odd": "1.76",
+          "score": "2-1",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-04-18",
+          "match": "Atletico Naciona vs Patriotas FC",
+          "odd": "1.86",
+          "score": "7-1",
+          "h2h_under": "42.11%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-04-19",
+          "match": "Banfield vs CA Platense",
+          "odd": "1.76",
+          "score": "0-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-04-19",
+          "match": "Quevilly Rouen vs Annecy",
+          "odd": "1.90",
+          "score": "1-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-04-20",
+          "match": "Niort vs Troyes",
+          "odd": "1.82",
+          "score": "0-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-04-22",
+          "match": "Juventus U23 vs Olbia",
+          "odd": "1.82",
+          "score": "1-1",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-04-23",
+          "match": "Botev Vratsa vs Cherno More Varn",
+          "odd": "1.75",
+          "score": "0-1",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-04-23",
+          "match": "Sao Paulo vs Santo Andre",
+          "odd": "1.72",
+          "score": "2-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-04-27",
+          "match": "Empoli vs Chievo",
+          "odd": "1.73",
+          "score": "2-2",
+          "h2h_under": "85.71%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-04-29",
+          "match": "Ae Velo Clube Sp vs Red Bull Brasil",
+          "odd": "1.77",
+          "score": "1-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-04-29",
+          "match": "FBC Melgar vs Aucas",
+          "odd": "1.99",
+          "score": "2-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "52.00%",
+        "under_2.5_count": "13/25",
+        "average_odds": "1.81"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "33.33%",
+        "combo_under_2.5_count": "3/9",
+        "average_combo_odds": "3.24"
+      }
+    },
+    {
+      "month": "2021-05",
+      "matches": [
+        {
+          "date": "2021-05-01",
+          "match": "Graficar Beograd vs Jagodina",
+          "odd": "1.84",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-05-01",
+          "match": "Portuguesa Santi vs Ae Velo Clube Sp",
+          "odd": "1.75",
+          "score": "1-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-05-04",
+          "match": "Chievo vs Cremonese",
+          "odd": "1.72",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-05-04",
+          "match": "Monza vs Lecce",
+          "odd": "1.78",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-05-05",
+          "match": "Leones vs Fortaleza F.C",
+          "odd": "1.87",
+          "score": "3-0",
+          "h2h_under": "63.64%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-05-05",
+          "match": "Sloga Kraljevo vs Dinamo Vranje",
+          "odd": "1.72",
+          "score": "2-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-05-06",
+          "match": "Bragantino vs Talleres Cordoba",
+          "odd": "1.73",
+          "score": "0-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-05-07",
+          "match": "San Lorenzo vs 12 de Octubre",
+          "odd": "1.86",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-05-07",
+          "match": "CA Penarol vs River Plate",
+          "odd": "1.85",
+          "score": "3-0",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-05-10",
+          "match": "Avranches vs Sete",
+          "odd": "1.81",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-05-10",
+          "match": "Berazategui vs Excursionistas",
+          "odd": "1.75",
+          "score": "0-1",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-05-11",
+          "match": "Metropolitanos vs Athletico-PR",
+          "odd": "1.78",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-05-11",
+          "match": "Lokomotiv Plovdi vs Beroe Stara Zago",
+          "odd": "1.83",
+          "score": "0-0",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-05-13",
+          "match": "Atletico Clube G vs Palestino",
+          "odd": "1.90",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-05-13",
+          "match": "Yaracuyanos vs Carabobo FC",
+          "odd": "1.72",
+          "score": "1-2",
+          "h2h_under": "77.78%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-05-14",
+          "match": "Aucas vs FBC Melgar",
+          "odd": "1.87",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-05-14",
+          "match": "Libertad vs Newells Old Boys",
+          "odd": "1.77",
+          "score": "1-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-05-17",
+          "match": "Botev Plovdiv vs Cherno More Varn",
+          "odd": "1.94",
+          "score": "1-1",
+          "h2h_under": "90.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-05-17",
+          "match": "Altay vs Istanbulspor",
+          "odd": "1.80",
+          "score": "3-2",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-05-18",
+          "match": "Altinordu vs Samsunspor",
+          "odd": "1.76",
+          "score": "1-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-05-20",
+          "match": "12 de Octubre vs San Lorenzo",
+          "odd": "1.72",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-05-20",
+          "match": "Athletico-PR vs FBC Melgar",
+          "odd": "1.78",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-05-22",
+          "match": "Energetik-BGU vs Slutsksakhar Slu",
+          "odd": "1.80",
+          "score": "1-0",
+          "h2h_under": "75.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-05-22",
+          "match": "Brentford vs Bournemouth AFC",
+          "odd": "1.76",
+          "score": "3-1",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-05-23",
+          "match": "RCD Espanyol vs Tenerife",
+          "odd": "1.79",
+          "score": "1-1",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-05-24",
+          "match": "Almeria vs CD Logrones",
+          "odd": "1.75",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-05-25",
+          "match": "San Luis Quillot vs CD Copiapo S.A.",
+          "odd": "2.00",
+          "score": "1-2",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-05-25",
+          "match": "Indonesia vs Afghanistan",
+          "odd": "1.90",
+          "score": "2-3",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-05-26",
+          "match": "FC Cologne vs Holstein Kiel",
+          "odd": "1.74",
+          "score": "0-1",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-05-26",
+          "match": "Altinordu vs Altay",
+          "odd": "1.83",
+          "score": "0-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-05-27",
+          "match": "Herediano vs Deportivo Sapris",
+          "odd": "1.90",
+          "score": "0-1",
+          "h2h_under": "63.27%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-05-27",
+          "match": "Corinthians vs River Plate",
+          "odd": "1.99",
+          "score": "4-0",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-05-29",
+          "match": "Holstein Kiel vs FC Cologne",
+          "odd": "1.91",
+          "score": "1-5",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-05-30",
+          "match": "Nantes vs Toulouse",
+          "odd": "1.97",
+          "score": "0-1",
+          "h2h_under": "42.86%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-05-31",
+          "match": "Rentistas vs Wanderers FC",
+          "odd": "1.84",
+          "score": "0-1",
+          "h2h_under": "16.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-05-31",
+          "match": "Turkey vs Guinea",
+          "odd": "1.87",
+          "score": "0-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "66.67%",
+        "under_2.5_count": "24/36",
+        "average_odds": "1.82"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "40.00%",
+        "combo_under_2.5_count": "6/15",
+        "average_combo_odds": "3.32"
+      }
+    },
+    {
+      "month": "2021-06",
+      "matches": [
+        {
+          "date": "2021-06-01",
+          "match": "Coquimbo Unido vs CD Copiapo S.A.",
+          "odd": "1.83",
+          "score": "0-0",
+          "h2h_under": "55.56%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-06-01",
+          "match": "Cianorte (PR) vs Santos",
+          "odd": "1.86",
+          "score": "0-2",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-06-03",
+          "match": "Slovenia U21 vs FYR Macedonia U2",
+          "odd": "1.96",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-06-03",
+          "match": "Bulgaria U21 vs Russia U21",
+          "odd": "1.94",
+          "score": "0-1",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-06-04",
+          "match": "Korona Kielce vs Widzew lodz",
+          "odd": "1.80",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-06-04",
+          "match": "Aragua FC vs La Guaira",
+          "odd": "1.81",
+          "score": "2-0",
+          "h2h_under": "76.47%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-06-05",
+          "match": "Mamelodi Sundown vs Cape Town City",
+          "odd": "1.76",
+          "score": "3-0",
+          "h2h_under": "62.50%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-06-05",
+          "match": "Black Leopards vs Bloemfontein Cel",
+          "odd": "1.72",
+          "score": "1-1",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-06-06",
+          "match": "Palmeiras vs Chapecoense SC",
+          "odd": "1.78",
+          "score": "3-1",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-06-06",
+          "match": "Sport Club do Re vs Atletico Mineiro",
+          "odd": "1.73",
+          "score": "0-1",
+          "h2h_under": "33.33%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-06-07",
+          "match": "Sacachispas vs Club Atletico Ac",
+          "odd": "1.73",
+          "score": "4-1",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-06-07",
+          "match": "CD Magallanes vs Cobreloa",
+          "odd": "1.76",
+          "score": "2-2",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-06-11",
+          "match": "Atletico Venezue vs Mineros",
+          "odd": "1.99",
+          "score": "1-0",
+          "h2h_under": "46.15%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-06-11",
+          "match": "Internacional RS vs Vitoria BA",
+          "odd": "1.75",
+          "score": "1-3",
+          "h2h_under": "40.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-06-14",
+          "match": "Stabaek vs Tromso",
+          "odd": "1.81",
+          "score": "0-3",
+          "h2h_under": "80.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-06-14",
+          "match": "Spain vs Sweden",
+          "odd": "1.77",
+          "score": "0-0",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-06-18",
+          "match": "Slutsksakhar Slu vs Shakhter Soligor",
+          "odd": "1.85",
+          "score": "1-4",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-06-18",
+          "match": "Chile vs Bolivia",
+          "odd": "2.00",
+          "score": "1-0",
+          "h2h_under": "44.44%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-06-19",
+          "match": "Dinamo Minsk vs BATE Borisov",
+          "odd": "1.75",
+          "score": "0-2",
+          "h2h_under": "55.56%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-06-20",
+          "match": "Flamengo vs Bragantino",
+          "odd": "1.90",
+          "score": "2-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-06-20",
+          "match": "Internacional RS vs Ceara",
+          "odd": "1.73",
+          "score": "1-1",
+          "h2h_under": "80.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-06-21",
+          "match": "Atletico Mineiro vs Chapecoense SC",
+          "odd": "1.95",
+          "score": "1-1",
+          "h2h_under": "55.56%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-06-21",
+          "match": "CD Hermanos Colm vs Zamora Barinas",
+          "odd": "1.92",
+          "score": "3-2",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-06-22",
+          "match": "Justo Jose de Ur vs Sacachispas",
+          "odd": "1.74",
+          "score": "0-1",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-06-22",
+          "match": "CA Fenix Pilar vs Deportivo Merlo",
+          "odd": "1.78",
+          "score": "1-5",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-06-24",
+          "match": "Deportivo Maldon vs CA Progreso",
+          "odd": "1.75",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-06-24",
+          "match": "Metropolitanos vs Monagas SC",
+          "odd": "1.99",
+          "score": "2-4",
+          "h2h_under": "38.46%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-06-26",
+          "match": "Mirassol vs Ituano(SP)",
+          "odd": "1.82",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-06-26",
+          "match": "Volta Redonda vs Santa Cruz RN",
+          "odd": "1.73",
+          "score": "0-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-06-28",
+          "match": "Atletico Clube G vs Bragantino",
+          "odd": "1.73",
+          "score": "0-1",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-06-28",
+          "match": "Croatia vs Spain",
+          "odd": "1.74",
+          "score": "3-3",
+          "h2h_under": "25.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-06-29",
+          "match": "Sud America vs CA Progreso",
+          "odd": "1.75",
+          "score": "2-4",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "53.12%",
+        "under_2.5_count": "17/32",
+        "average_odds": "1.82"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "13.33%",
+        "combo_under_2.5_count": "2/15",
+        "average_combo_odds": "3.32"
+      }
+    },
+    {
+      "month": "2021-07",
+      "matches": [
+        {
+          "date": "2021-07-01",
+          "match": "Real Monarchs vs New Mexico",
+          "odd": "1.87",
+          "score": "3-2",
+          "h2h_under": "83.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-07-01",
+          "match": "Mexico vs Panama",
+          "odd": "1.82",
+          "score": "3-0",
+          "h2h_under": "70.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-07-03",
+          "match": "Brazil vs Chile",
+          "odd": "1.89",
+          "score": "1-0",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-07-04",
+          "match": "Club Atletico Ti vs Nueva Chicago",
+          "odd": "1.81",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-07-05",
+          "match": "Ilves Tampere vs Haka",
+          "odd": "1.89",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-07-05",
+          "match": "CS Cerrito vs Rentistas",
+          "odd": "1.78",
+          "score": "0-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-07-07",
+          "match": "Bodo Glimt vs Legia Warszawa",
+          "odd": "1.88",
+          "score": "2-3",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-07-08",
+          "match": "Sant Julia vs Gzira United",
+          "odd": "1.85",
+          "score": "0-0",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-07-08",
+          "match": "Sileks vs Petrocub",
+          "odd": "1.76",
+          "score": "1-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-07-10",
+          "match": "Colombia vs Peru",
+          "odd": "1.88",
+          "score": "3-2",
+          "h2h_under": "72.73%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-07-12",
+          "match": "KTP Kotka vs IFK Mariehamn",
+          "odd": "1.81",
+          "score": "1-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-07-12",
+          "match": "Kalmar vs Hacken",
+          "odd": "1.75",
+          "score": "2-3",
+          "h2h_under": "85.71%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-07-13",
+          "match": "Shamrock Rovers vs Slovan Bratislav",
+          "odd": "1.74",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-07-13",
+          "match": "LDU Quito vs Gremio RS",
+          "odd": "1.74",
+          "score": "0-1",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-07-15",
+          "match": "Union San Felipe vs Municipal Iquiqu",
+          "odd": "1.74",
+          "score": "3-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-07-15",
+          "match": "River Plate vs Argentinos junio",
+          "odd": "1.81",
+          "score": "1-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-07-16",
+          "match": "FC Torpedo Zhodi vs Dinamo Minsk",
+          "odd": "1.79",
+          "score": "1-2",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-07-16",
+          "match": "Sportivo Luqueno vs Cerro Porteno",
+          "odd": "1.78",
+          "score": "0-0",
+          "h2h_under": "38.46%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-07-17",
+          "match": "Sacachispas vs CA Fenix Pilar",
+          "odd": "1.87",
+          "score": "4-1",
+          "h2h_under": "71.43%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-07-19",
+          "match": "Barcelona SC(ECU vs Macara",
+          "odd": "1.77",
+          "score": "",
+          "h2h_under": "63.64%",
+          "status": "⚪"
+        },
+        {
+          "date": "2021-07-19",
+          "match": "Manta FC vs Club Sport Emele",
+          "odd": "1.99",
+          "score": "",
+          "h2h_under": "0.00%",
+          "status": "⚪"
+        },
+        {
+          "date": "2021-07-21",
+          "match": "Palmeiras vs Univ Catolica",
+          "odd": "1.86",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-07-21",
+          "match": "Gamba Osaka vs Vissel Kobe",
+          "odd": "1.82",
+          "score": "1-2",
+          "h2h_under": "61.11%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-07-22",
+          "match": "Flamengo vs Defensa Y Justic",
+          "odd": "1.84",
+          "score": "4-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-07-22",
+          "match": "Bragantino vs Ind. del Valle",
+          "odd": "1.84",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-07-23",
+          "match": "Beroe Stara Zago vs Lokomotiv Sofia",
+          "odd": "1.81",
+          "score": "1-0",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-07-23",
+          "match": "CA Penarol vs Nacional Montevi",
+          "odd": "1.74",
+          "score": "0-1",
+          "h2h_under": "56.52%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-07-25",
+          "match": "Mexico vs Honduras",
+          "odd": "1.74",
+          "score": "3-0",
+          "h2h_under": "55.56%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-07-25",
+          "match": "Penafiel vs Moreirense",
+          "odd": "1.72",
+          "score": "1-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-07-26",
+          "match": "USA vs Jamaica",
+          "odd": "1.91",
+          "score": "1-0",
+          "h2h_under": "40.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-07-27",
+          "match": "Omonia Nicosia F vs Dinamo Zagreb",
+          "odd": "1.75",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-07-27",
+          "match": "HJK Helsinki vs Malmo FF",
+          "odd": "1.80",
+          "score": "2-2",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-07-29",
+          "match": "Qatar vs USA",
+          "odd": "1.74",
+          "score": "0-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-07-29",
+          "match": "Fortaleza vs CRB AL",
+          "odd": "1.75",
+          "score": "2-1",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-07-30",
+          "match": "Energetik-BGU vs Rukh Brest",
+          "odd": "1.91",
+          "score": "0-2",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-07-31",
+          "match": "Deportivo Riestr vs Club Atletico Ti",
+          "odd": "1.75",
+          "score": "1-3",
+          "h2h_under": "33.33%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "52.94%",
+        "under_2.5_count": "18/34",
+        "average_odds": "1.81"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "23.08%",
+        "combo_under_2.5_count": "3/13",
+        "average_combo_odds": "3.20"
+      }
+    },
+    {
+      "month": "2021-08",
+      "matches": [
+        {
+          "date": "2021-08-03",
+          "match": "Atletico Tucuman vs Velez Sarsfield",
+          "odd": "1.74",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-08-03",
+          "match": "Cienciano vs Deportivo Munici",
+          "odd": "1.94",
+          "score": "2-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-08-04",
+          "match": "Independiente Sa vs Atletico Naciona",
+          "odd": "1.81",
+          "score": "0-1",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-08-04",
+          "match": "Yantra Gabrovo vs Marek Dupnitsa",
+          "odd": "1.91",
+          "score": "0-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-08-05",
+          "match": "Alianza Lima vs AD Cantolao",
+          "odd": "1.89",
+          "score": "2-1",
+          "h2h_under": "71.43%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-08-05",
+          "match": "FC Kairat Almaty vs Alashkert",
+          "odd": "1.87",
+          "score": "0-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-08-06",
+          "match": "Habitpharm Javor vs Loznica",
+          "odd": "1.91",
+          "score": "2-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-08-07",
+          "match": "Leicester City vs Manchester City",
+          "odd": "1.87",
+          "score": "1-0",
+          "h2h_under": "54.55%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-08-11",
+          "match": "Olimpia Asuncion vs Flamengo",
+          "odd": "1.74",
+          "score": "1-4",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-08-12",
+          "match": "Resovia Rzeszow vs Skra",
+          "odd": "1.74",
+          "score": "0-1",
+          "h2h_under": "80.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-08-16",
+          "match": "Lanus vs Godoy Cruz Anton",
+          "odd": "1.74",
+          "score": "",
+          "h2h_under": "33.33%",
+          "status": "⚪"
+        },
+        {
+          "date": "2021-08-19",
+          "match": "Metropolitanos vs Mineros",
+          "odd": "1.89",
+          "score": "3-0",
+          "h2h_under": "33.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-08-25",
+          "match": "Lanus vs Gimnasia La Plat",
+          "odd": "1.86",
+          "score": "2-0",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-08-26",
+          "match": "Godoy Cruz Anton vs Union Santa Fe",
+          "odd": "1.74",
+          "score": "1-2",
+          "h2h_under": "40.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-08-28",
+          "match": "Canuelas FC vs Deportivo Merlo",
+          "odd": "1.72",
+          "score": "1-1",
+          "h2h_under": "45.45%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-08-30",
+          "match": "Sarmiento Junin vs River Plate (PAR",
+          "odd": "1.79",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-08-30",
+          "match": "Atletico Naciona vs Aguilas D.",
+          "odd": "1.95",
+          "score": "1-0",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-08-31",
+          "match": "Cowdenbeath vs Stranraer",
+          "odd": "1.88",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-08-31",
+          "match": "Curico Unido vs Deportes La Sere",
+          "odd": "1.78",
+          "score": "2-0",
+          "h2h_under": "88.89%",
+          "status": "✅"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "61.11%",
+        "under_2.5_count": "11/18",
+        "average_odds": "1.83"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "20.00%",
+        "combo_under_2.5_count": "1/5",
+        "average_combo_odds": "3.44"
+      }
+    },
+    {
+      "month": "2021-09",
+      "matches": [
+        {
+          "date": "2021-09-01",
+          "match": "Cortulua vs Real Santander",
+          "odd": "1.79",
+          "score": "2-0",
+          "h2h_under": "80.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-09-02",
+          "match": "Morocco vs Sudan",
+          "odd": "1.98",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-09-02",
+          "match": "Iran vs Syria",
+          "odd": "1.85",
+          "score": "1-0",
+          "h2h_under": "25.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-09-03",
+          "match": "Mexico vs Jamaica",
+          "odd": "1.98",
+          "score": "2-1",
+          "h2h_under": "83.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-09-03",
+          "match": "El Salvador vs USA",
+          "odd": "1.84",
+          "score": "0-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-09-07",
+          "match": "Millonarios vs Patriotas FC",
+          "odd": "1.84",
+          "score": "1-0",
+          "h2h_under": "53.85%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-09-07",
+          "match": "China vs Japan",
+          "odd": "1.82",
+          "score": "0-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-09-09",
+          "match": "Mineros vs Monagas SC",
+          "odd": "1.86",
+          "score": "0-2",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-09-12",
+          "match": "Independiente Sa vs Alianza Petroler",
+          "odd": "1.81",
+          "score": "1-1",
+          "h2h_under": "68.75%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-09-12",
+          "match": "Mamelodi Sundown vs Kaizer Chiefs",
+          "odd": "1.80",
+          "score": "2-0",
+          "h2h_under": "40.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-09-14",
+          "match": "Renofa Yamaguchi vs Kanazawa",
+          "odd": "1.74",
+          "score": "4-1",
+          "h2h_under": "54.55%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-09-15",
+          "match": "Fortaleza F.C vs Bogota FC",
+          "odd": "1.74",
+          "score": "3-0",
+          "h2h_under": "53.85%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-09-16",
+          "match": "Flamengo vs Gremio RS",
+          "odd": "1.92",
+          "score": "2-0",
+          "h2h_under": "64.29%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-09-16",
+          "match": "Newells Old Boys vs River Plate (PAR",
+          "odd": "1.75",
+          "score": "1-4",
+          "h2h_under": "25.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-09-19",
+          "match": "Millonarios vs Atletico Huila",
+          "odd": "1.83",
+          "score": "3-1",
+          "h2h_under": "63.64%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-09-20",
+          "match": "Lanus vs Newells Old Boys",
+          "odd": "1.89",
+          "score": "1-2",
+          "h2h_under": "54.55%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-09-20",
+          "match": "Rosario Central vs San Lorenzo",
+          "odd": "1.87",
+          "score": "1-0",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-09-21",
+          "match": "Le Havre vs Quevilly Rouen",
+          "odd": "1.95",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-09-22",
+          "match": "Habitpharm Javor vs Backa",
+          "odd": "1.76",
+          "score": "2-0",
+          "h2h_under": "33.33%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-09-22",
+          "match": "Loznica vs Timok",
+          "odd": "1.85",
+          "score": "2-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-09-23",
+          "match": "Marathon vs Real Esteli",
+          "odd": "1.97",
+          "score": "2-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-09-27",
+          "match": "Toulouse vs Caen",
+          "odd": "1.81",
+          "score": "2-3",
+          "h2h_under": "57.14%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-09-27",
+          "match": "CS Universitatea vs Dinamo Bucuresti",
+          "odd": "1.81",
+          "score": "5-0",
+          "h2h_under": "33.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-09-28",
+          "match": "ACD Virtus Entel vs Olbia",
+          "odd": "1.76",
+          "score": "3-3",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-09-30",
+          "match": "Real Esteli vs Marathon",
+          "odd": "1.87",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-09-30",
+          "match": "Alianza FC vs Club Comunicacio",
+          "odd": "2.00",
+          "score": "0-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "65.38%",
+        "under_2.5_count": "17/26",
+        "average_odds": "1.85"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "55.56%",
+        "combo_under_2.5_count": "5/9",
+        "average_combo_odds": "3.45"
+      }
+    },
+    {
+      "month": "2021-10",
+      "matches": [
+        {
+          "date": "2021-10-01",
+          "match": "Chambly Fc vs Avranches",
+          "odd": "1.72",
+          "score": "4-2",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-10-03",
+          "match": "Millonarios vs Aguilas D.",
+          "odd": "1.79",
+          "score": "1-0",
+          "h2h_under": "76.92%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-10-05",
+          "match": "Nublense vs Deportes La Sere",
+          "odd": "1.89",
+          "score": "0-1",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-10-05",
+          "match": "Huachipato vs Curico Unido",
+          "odd": "1.75",
+          "score": "1-4",
+          "h2h_under": "62.50%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-10-07",
+          "match": "USA vs Jamaica",
+          "odd": "1.94",
+          "score": "2-0",
+          "h2h_under": "45.45%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-10-10",
+          "match": "Mexico vs Honduras",
+          "odd": "1.75",
+          "score": "3-0",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-10-12",
+          "match": "Claypole vs Sportivo Italian",
+          "odd": "1.76",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-10-15",
+          "match": "Godoy Cruz Anton vs Central Cordoba",
+          "odd": "1.93",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-10-15",
+          "match": "Rosario Central vs Patronato Parana",
+          "odd": "1.75",
+          "score": "3-2",
+          "h2h_under": "33.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-10-17",
+          "match": "Feralpisalo vs Legnago Salus",
+          "odd": "1.74",
+          "score": "5-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-10-18",
+          "match": "Atletico Junior vs Jaguares de Cord",
+          "odd": "1.80",
+          "score": "2-1",
+          "h2h_under": "61.11%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-10-19",
+          "match": "Gubbio vs Carrarese",
+          "odd": "1.83",
+          "score": "4-0",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-10-19",
+          "match": "Boyaca Chico vs Real Santander",
+          "odd": "2.00",
+          "score": "3-1",
+          "h2h_under": "28.57%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-10-20",
+          "match": "Macva Sabac vs Zlatibor Cajetin",
+          "odd": "1.73",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-10-20",
+          "match": "Pro Sesto vs Padova",
+          "odd": "1.79",
+          "score": "2-2",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-10-21",
+          "match": "Newells Old Boys vs Aldosivi Mar del",
+          "odd": "1.81",
+          "score": "0-0",
+          "h2h_under": "80.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-10-21",
+          "match": "Mirandes vs Girona",
+          "odd": "1.73",
+          "score": "1-2",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-10-22",
+          "match": "Guarani SP vs Confianca SE",
+          "odd": "1.73",
+          "score": "1-2",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-10-22",
+          "match": "Atletico Naciona vs Deportivo Cali",
+          "odd": "1.83",
+          "score": "1-0",
+          "h2h_under": "57.14%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-10-23",
+          "match": "Tristan Suarez vs Villa Dalmine",
+          "odd": "1.96",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-10-23",
+          "match": "Club Atletico Ti vs Chacarita junior",
+          "odd": "1.77",
+          "score": "1-0",
+          "h2h_under": "33.33%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-10-24",
+          "match": "Quilmes vs Nueva Chicago",
+          "odd": "1.77",
+          "score": "3-1",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-10-25",
+          "match": "Lanus vs Talleres Cordoba",
+          "odd": "1.78",
+          "score": "3-3",
+          "h2h_under": "42.86%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-10-26",
+          "match": "Cholet vs Villefranche",
+          "odd": "1.89",
+          "score": "3-4",
+          "h2h_under": "33.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-10-26",
+          "match": "Avranches vs Annecy",
+          "odd": "1.86",
+          "score": "2-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-10-27",
+          "match": "Deportivo Pereir vs Atletico Bucaram",
+          "odd": "1.80",
+          "score": "1-1",
+          "h2h_under": "57.14%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-10-27",
+          "match": "Deportivo Cali vs Patriotas FC",
+          "odd": "1.94",
+          "score": "2-0",
+          "h2h_under": "53.85%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-10-28",
+          "match": "Bragantino vs Sport Club do Re",
+          "odd": "1.72",
+          "score": "3-0",
+          "h2h_under": "80.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-10-28",
+          "match": "Creteil vs Red Star FC 93",
+          "odd": "1.73",
+          "score": "1-0",
+          "h2h_under": "60.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-10-29",
+          "match": "Brasil De Pelota vs Nautico Capibari",
+          "odd": "1.90",
+          "score": "3-2",
+          "h2h_under": "71.43%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-10-31",
+          "match": "Deportiva Once C vs Patriotas FC",
+          "odd": "1.76",
+          "score": "1-1",
+          "h2h_under": "68.75%",
+          "status": "✅"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "48.39%",
+        "under_2.5_count": "15/31",
+        "average_odds": "1.81"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "20.00%",
+        "combo_under_2.5_count": "2/10",
+        "average_combo_odds": "3.32"
+      }
+    },
+    {
+      "month": "2021-11",
+      "matches": [
+        {
+          "date": "2021-11-01",
+          "match": "Atletico Huila vs Deportivo Cali",
+          "odd": "1.90",
+          "score": "0-5",
+          "h2h_under": "54.55%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-11-01",
+          "match": "America de Cali vs Alianza Petroler",
+          "odd": "1.73",
+          "score": "1-1",
+          "h2h_under": "27.27%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-11-02",
+          "match": "Central Cordoba vs Aldosivi Mar del",
+          "odd": "1.77",
+          "score": "0-0",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-11-03",
+          "match": "Bray Wanderers vs Galway United",
+          "odd": "1.72",
+          "score": "0-0",
+          "h2h_under": "54.55%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-11-03",
+          "match": "Treaty United vs UC Dublin",
+          "odd": "1.87",
+          "score": "0-3",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-11-04",
+          "match": "Tampico Madero vs Atl. Morelia",
+          "odd": "1.78",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-11-04",
+          "match": "Monagas SC vs Guaros de Lara",
+          "odd": "1.80",
+          "score": "1-0",
+          "h2h_under": "81.82%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-11-08",
+          "match": "Deportivo Cali vs Deportes Quindio",
+          "odd": "1.83",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-11-08",
+          "match": "Cortulua vs Real Cartagena",
+          "odd": "1.82",
+          "score": "3-1",
+          "h2h_under": "58.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-11-09",
+          "match": "Confianca SE vs Nautico Capibari",
+          "odd": "1.78",
+          "score": "0-0",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-11-09",
+          "match": "Atl. Morelia vs Tlaxcala",
+          "odd": "1.95",
+          "score": "1-3",
+          "h2h_under": "25.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-11-10",
+          "match": "Brasil De Pelota vs Guarani SP",
+          "odd": "1.74",
+          "score": "0-1",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-11-11",
+          "match": "Australia vs Saudi Arabia",
+          "odd": "1.73",
+          "score": "0-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-11-13",
+          "match": "Fortaleza F.C vs Union Magdalena",
+          "odd": "1.80",
+          "score": "0-0",
+          "h2h_under": "28.57%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-11-14",
+          "match": "Millonarios vs Alianza Petroler",
+          "odd": "1.86",
+          "score": "1-1",
+          "h2h_under": "57.89%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-11-14",
+          "match": "Cordoba vs Cacereno",
+          "odd": "1.80",
+          "score": "5-0",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-11-16",
+          "match": "China vs Australia",
+          "odd": "1.90",
+          "score": "1-1",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-11-16",
+          "match": "Vietnam vs Saudi Arabia",
+          "odd": "1.78",
+          "score": "0-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-11-17",
+          "match": "Santos vs Chapecoense SC",
+          "odd": "1.81",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-11-17",
+          "match": "Gazovik Orenburg vs Tom Tomsk",
+          "odd": "1.91",
+          "score": "2-1",
+          "h2h_under": "42.86%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-11-18",
+          "match": "Venados vs Tapatio",
+          "odd": "1.94",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-11-18",
+          "match": "Patronato Parana vs Lanus",
+          "odd": "1.85",
+          "score": "3-2",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-11-19",
+          "match": "Banfield vs Aldosivi Mar del",
+          "odd": "1.91",
+          "score": "0-2",
+          "h2h_under": "42.86%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-11-22",
+          "match": "CA Platense vs River Plate (PAR",
+          "odd": "1.88",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-11-22",
+          "match": "Boyaca Chico vs Real Cartagena",
+          "odd": "1.79",
+          "score": "4-0",
+          "h2h_under": "62.50%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-11-23",
+          "match": "FC Sozopol vs Maritsa Plovdiv",
+          "odd": "1.77",
+          "score": "3-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-11-23",
+          "match": "Portuguesa FC vs Metropolitanos",
+          "odd": "1.75",
+          "score": "1-1",
+          "h2h_under": "55.56%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-11-24",
+          "match": "Godoy Cruz Anton vs Estudiantes La P",
+          "odd": "1.82",
+          "score": "1-3",
+          "h2h_under": "77.78%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-11-24",
+          "match": "Guastatoya vs Club Comunicacio",
+          "odd": "1.76",
+          "score": "0-1",
+          "h2h_under": "69.70%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-11-25",
+          "match": "Colon de Santa F vs Rosario Central",
+          "odd": "1.92",
+          "score": "1-4",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-11-25",
+          "match": "Puerto Montt vs CD Copiapo S.A.",
+          "odd": "1.78",
+          "score": "0-1",
+          "h2h_under": "60.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-11-26",
+          "match": "Ponte Preta vs Coritiba (PR)",
+          "odd": "1.83",
+          "score": "3-2",
+          "h2h_under": "70.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-11-26",
+          "match": "Hapoel Acco vs Beitar Shimshon",
+          "odd": "1.89",
+          "score": "2-0",
+          "h2h_under": "62.50%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-11-27",
+          "match": "Deportivo Cali vs Deportivo Pereir",
+          "odd": "1.87",
+          "score": "2-1",
+          "h2h_under": "33.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-11-29",
+          "match": "Juve Stabia vs Taranto Sport",
+          "odd": "1.95",
+          "score": "3-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-11-29",
+          "match": "Union Santa Fe vs Atletico Tucuman",
+          "odd": "1.95",
+          "score": "3-0",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-11-30",
+          "match": "Central Cordoba vs Arsenal de Saran",
+          "odd": "1.78",
+          "score": "5-0",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-11-30",
+          "match": "Botev Plovdiv vs Botev Vratsa",
+          "odd": "1.88",
+          "score": "2-1",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "52.63%",
+        "under_2.5_count": "20/38",
+        "average_odds": "1.83"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "12.50%",
+        "combo_under_2.5_count": "2/16",
+        "average_combo_odds": "3.37"
+      }
+    },
+    {
+      "month": "2021-12",
+      "matches": [
+        {
+          "date": "2021-12-01",
+          "match": "Padova vs Juventus U23",
+          "odd": "1.72",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-12-01",
+          "match": "America MG vs Chapecoense SC",
+          "odd": "1.97",
+          "score": "3-0",
+          "h2h_under": "80.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-02",
+          "match": "Deportivo Sapris vs Herediano",
+          "odd": "1.92",
+          "score": "3-0",
+          "h2h_under": "61.54%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-02",
+          "match": "Dalkurd FF vs GAIS Goteborg",
+          "odd": "1.79",
+          "score": "2-1",
+          "h2h_under": "33.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-03",
+          "match": "Orleans US 45 vs Sete",
+          "odd": "1.80",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-12-03",
+          "match": "Millonarios vs Alianza Petroler",
+          "odd": "1.98",
+          "score": "3-0",
+          "h2h_under": "60.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-04",
+          "match": "Fortaleza F.C vs Bogota FC",
+          "odd": "1.97",
+          "score": "1-2",
+          "h2h_under": "46.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-05",
+          "match": "Deportivo Cali vs Atletico Naciona",
+          "odd": "1.76",
+          "score": "3-1",
+          "h2h_under": "58.62%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-05",
+          "match": "GAIS Goteborg vs Dalkurd FF",
+          "odd": "1.87",
+          "score": "1-1",
+          "h2h_under": "28.57%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-12-06",
+          "match": "Herediano vs Deportivo Sapris",
+          "odd": "1.94",
+          "score": "1-0",
+          "h2h_under": "60.38%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-12-06",
+          "match": "Ind. del Valle vs Club Sport Emele",
+          "odd": "2.00",
+          "score": "3-1",
+          "h2h_under": "35.29%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-08",
+          "match": "Rijeka vs ZNK Osijek",
+          "odd": "1.78",
+          "score": "0-0",
+          "h2h_under": "52.38%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-12-08",
+          "match": "Atletico Junior vs Deportivo Pereir",
+          "odd": "1.84",
+          "score": "3-0",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-09",
+          "match": "Ludogorets Razgr vs Midtjylland",
+          "odd": "2.00",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-12-09",
+          "match": "Legia Warszawa vs Spartak Moscow",
+          "odd": "1.80",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-12-10",
+          "match": "CD Copiapo S.A. vs Temuco",
+          "odd": "1.75",
+          "score": "3-1",
+          "h2h_under": "72.73%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-10",
+          "match": "CA Platense vs Velez Sarsfield",
+          "odd": "1.76",
+          "score": "3-2",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-11",
+          "match": "Loznica vs Habitpharm Javor",
+          "odd": "1.88",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-12-11",
+          "match": "Argentinos junio vs Sarmiento Junin",
+          "odd": "1.76",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-12-12",
+          "match": "Alajuelense vs Deportivo Sapris",
+          "odd": "1.97",
+          "score": "0-0",
+          "h2h_under": "54.35%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-12-12",
+          "match": "Atletico Naciona vs Deportivo Pereir",
+          "odd": "1.85",
+          "score": "5-1",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-13",
+          "match": "Mirandes vs Real Sociedad B",
+          "odd": "1.88",
+          "score": "2-0",
+          "h2h_under": "75.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-12-13",
+          "match": "Banfield vs Arsenal de Saran",
+          "odd": "1.83",
+          "score": "0-0",
+          "h2h_under": "42.86%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-12-14",
+          "match": "Mamelodi Sundown vs Baroka FC",
+          "odd": "1.76",
+          "score": "2-1",
+          "h2h_under": "60.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-14",
+          "match": "Viseu vs SL Benfica B",
+          "odd": "1.84",
+          "score": "0-1",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-12-15",
+          "match": "Atletico Junior vs Atletico Naciona",
+          "odd": "1.97",
+          "score": "1-1",
+          "h2h_under": "59.38%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-12-15",
+          "match": "PAE Atromitos vs Olympiakos",
+          "odd": "1.85",
+          "score": "0-3",
+          "h2h_under": "58.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-16",
+          "match": "Albacete vs Cadiz",
+          "odd": "1.81",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-12-16",
+          "match": "Deportivo La Cor vs Osasuna",
+          "odd": "1.78",
+          "score": "1-2",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-17",
+          "match": "Estoril vs FC Famalicao",
+          "odd": "1.75",
+          "score": "2-2",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-17",
+          "match": "Wisla Plock vs Lechia Gdansk",
+          "odd": "1.81",
+          "score": "1-0",
+          "h2h_under": "58.33%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-12-18",
+          "match": "Virtus Verona vs Padova",
+          "odd": "1.83",
+          "score": "0-0",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-12-20",
+          "match": "AEK vs OFI Crete",
+          "odd": "1.92",
+          "score": "1-2",
+          "h2h_under": "55.56%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-21",
+          "match": "AJ Auxerre vs Le Havre",
+          "odd": "1.72",
+          "score": "2-3",
+          "h2h_under": "87.50%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-21",
+          "match": "Nimes vs Toulouse",
+          "odd": "1.92",
+          "score": "1-2",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-22",
+          "match": "Carrarese vs Pontedera",
+          "odd": "1.83",
+          "score": "2-0",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-12-23",
+          "match": "Porto vs Benfica",
+          "odd": "1.84",
+          "score": "3-0",
+          "h2h_under": "61.54%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-23",
+          "match": "Volos NFC vs Panathinaikos",
+          "odd": "1.76",
+          "score": "0-0",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-12-25",
+          "match": "Trabzonspor vs Basaksehir",
+          "odd": "1.81",
+          "score": "0-0",
+          "h2h_under": "72.73%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-12-25",
+          "match": "Galatasaray vs Antalyaspor",
+          "odd": "1.91",
+          "score": "2-0",
+          "h2h_under": "60.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-12-26",
+          "match": "Oldham Athletic vs Scunthorpe Unite",
+          "odd": "1.73",
+          "score": "1-3",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-26",
+          "match": "Lincoln City vs Milton Keynes Do",
+          "odd": "1.94",
+          "score": "2-3",
+          "h2h_under": "33.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-27",
+          "match": "Queens Park Rang vs Bournemouth AFC",
+          "odd": "1.94",
+          "score": "0-1",
+          "h2h_under": "33.33%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-12-27",
+          "match": "Sint Truiden vs KAS Eupen",
+          "odd": "1.92",
+          "score": "2-0",
+          "h2h_under": "27.78%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-12-28",
+          "match": "Feirense vs SL Benfica B",
+          "odd": "1.79",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-28",
+          "match": "Maritimo vs Vizela",
+          "odd": "1.74",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-12-29",
+          "match": "Ipswich Town vs Wycombe Wanderer",
+          "odd": "1.94",
+          "score": "1-0",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-12-29",
+          "match": "Swindon Town vs Stevenage Boroug",
+          "odd": "1.83",
+          "score": "0-0",
+          "h2h_under": "62.50%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-12-30",
+          "match": "Bournemouth AFC vs Cardiff City",
+          "odd": "1.83",
+          "score": "3-0",
+          "h2h_under": "57.14%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-30",
+          "match": "Porto vs Benfica",
+          "odd": "1.87",
+          "score": "3-1",
+          "h2h_under": "57.14%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-31",
+          "match": "Valencia vs RCD Espanyol",
+          "odd": "1.91",
+          "score": "1-2",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-31",
+          "match": "Hapoel Afula vs Hapoel Acco",
+          "odd": "1.80",
+          "score": "1-1",
+          "h2h_under": "72.73%",
+          "status": "✅"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "51.92%",
+        "under_2.5_count": "27/52",
+        "average_odds": "1.85"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "25.00%",
+        "combo_under_2.5_count": "6/24",
+        "average_combo_odds": "3.41"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "56.38%",
+      "under_2.5_count": "212/376",
+      "average_odds": "1.82"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "29.08%",
+      "combo_under_2.5_count": "41/141",
+      "average_combo_odds": "3.34"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: 0.03 (positive → possible profitability).",
+    "EV Combos: -0.03 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.72–2.0."
+  ]
+}
