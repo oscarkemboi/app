@@ -1,0 +1,2843 @@
+{
+  "year": 2020,
+  "months": [
+    {
+      "month": "2020-01",
+      "matches": [
+        {
+          "date": "2020-01-01",
+          "match": "Cambridge United vs Mansfield Town",
+          "odd": "1.78",
+          "score": "2-3",
+          "h2h_under": "57.14%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-01-01",
+          "match": "Walsall vs Leyton Orient",
+          "odd": "1.84",
+          "score": "1-0",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-01-02",
+          "match": "Derby County vs Barnsley",
+          "odd": "1.98",
+          "score": "2-1",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-01-03",
+          "match": "Doxa Katokopias vs AEL Limassol",
+          "odd": "1.79",
+          "score": "2-2",
+          "h2h_under": "54.55%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-01-04",
+          "match": "Stellenbosch FC vs Bidvest Wits",
+          "odd": "1.86",
+          "score": "0-2",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-01-05",
+          "match": "Rayo Vallecano vs Girona",
+          "odd": "1.78",
+          "score": "1-0",
+          "h2h_under": "33.33%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-01-05",
+          "match": "UE Cornella vs Valencia B",
+          "odd": "1.73",
+          "score": "1-0",
+          "h2h_under": "14.29%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-01-06",
+          "match": "AEP Paphos vs Anorthosis Famag",
+          "odd": "1.82",
+          "score": "0-3",
+          "h2h_under": "85.71%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-01-06",
+          "match": "AC Milan vs Sampdoria",
+          "odd": "1.78",
+          "score": "0-0",
+          "h2h_under": "83.33%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-01-08",
+          "match": "Celta vigo b vs Real M. B",
+          "odd": "1.96",
+          "score": "0-1",
+          "h2h_under": "75.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-01-08",
+          "match": "Cape Town City vs AmaZulu",
+          "odd": "1.72",
+          "score": "2-2",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-01-09",
+          "match": "Barcelona vs Atletico Madrid",
+          "odd": "1.80",
+          "score": "2-3",
+          "h2h_under": "76.92%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-01-09",
+          "match": "Torino vs Genoa",
+          "odd": "1.81",
+          "score": "1-1",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-01-10",
+          "match": "USL Dunkerque vs Quevilly Rouen",
+          "odd": "1.82",
+          "score": "3-2",
+          "h2h_under": "40.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-01-11",
+          "match": "Cavese vs Reggina",
+          "odd": "1.80",
+          "score": "3-0",
+          "h2h_under": "60.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-01-11",
+          "match": "Rieti vs Picerno",
+          "odd": "1.79",
+          "score": "0-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-01-13",
+          "match": "Hapoel Ashkelon vs Hapoel Bnei Lod",
+          "odd": "1.82",
+          "score": "0-1",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-01-13",
+          "match": "Maccabi Tel Aviv vs Beitar Jerusalem",
+          "odd": "1.74",
+          "score": "0-0",
+          "h2h_under": "43.48%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-01-14",
+          "match": "Lincoln City vs Bolton Wanderers",
+          "odd": "1.83",
+          "score": "5-1",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-01-15",
+          "match": "Rayo Vallecano vs CD Lugo",
+          "odd": "1.98",
+          "score": "1-0",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-01-17",
+          "match": "Fulham vs Middlesbrough",
+          "odd": "1.85",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-01-17",
+          "match": "Maccabi Ahi Naza vs Ironi Nir Ramat",
+          "odd": "1.75",
+          "score": "1-0",
+          "h2h_under": "60.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-01-20",
+          "match": "Beitar Jerusalem vs Maccabi Netanya",
+          "odd": "1.82",
+          "score": "3-1",
+          "h2h_under": "54.55%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-01-21",
+          "match": "Recreativo Huelv vs Osasuna",
+          "odd": "1.78",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-01-21",
+          "match": "Leyton Orient vs Northampton Town",
+          "odd": "1.91",
+          "score": "1-1",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-01-23",
+          "match": "Vasco da Gama vs Flamengo",
+          "odd": "1.75",
+          "score": "0-1",
+          "h2h_under": "78.57%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-01-26",
+          "match": "UE Cornella vs RCD Espanyol B",
+          "odd": "1.80",
+          "score": "1-0",
+          "h2h_under": "83.33%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-01-27",
+          "match": "Hapoel Katamon J vs Hapoel Bnei Lod",
+          "odd": "1.93",
+          "score": "0-1",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-01-28",
+          "match": "Port Vale vs Exeter City",
+          "odd": "1.72",
+          "score": "3-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-01-28",
+          "match": "Walsall vs Morecambe",
+          "odd": "1.83",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-01-29",
+          "match": "Flamengo vs Fluminense RJ",
+          "odd": "1.81",
+          "score": "0-1",
+          "h2h_under": "54.55%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-01-29",
+          "match": "Ternana vs Catania",
+          "odd": "1.78",
+          "score": "2-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-01-31",
+          "match": "Avai FC SC vs Brusque FC",
+          "odd": "1.81",
+          "score": "0-1",
+          "h2h_under": "42.86%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-01-31",
+          "match": "Marcilio Dias SC vs Concordia SC",
+          "odd": "1.76",
+          "score": "2-1",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "61.76%",
+        "under_2.5_count": "21/34",
+        "average_odds": "1.82"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "33.33%",
+        "combo_under_2.5_count": "4/12",
+        "average_combo_odds": "3.23"
+      }
+    },
+    {
+      "month": "2020-02",
+      "matches": [
+        {
+          "date": "2020-02-03",
+          "match": "Patronato Parana vs Arsenal de Saran",
+          "odd": "1.82",
+          "score": "2-2",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-02-03",
+          "match": "Politehnica Iasi vs FC Viitorul Cons",
+          "odd": "1.92",
+          "score": "1-2",
+          "h2h_under": "57.14%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-02-05",
+          "match": "XV de Piracicaba vs Londrina (PR)",
+          "odd": "1.74",
+          "score": "1-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-02-06",
+          "match": "Vitoria ES vs CSA-AL",
+          "odd": "1.72",
+          "score": "2-1",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-02-06",
+          "match": "The Strongest vs Atletico Tucuman",
+          "odd": "1.90",
+          "score": "2-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-02-07",
+          "match": "Millonarios vs Always Ready",
+          "odd": "1.83",
+          "score": "2-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-02-10",
+          "match": "Arsenal de Saran vs Talleres Cordoba",
+          "odd": "1.83",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-02-10",
+          "match": "Union Santa Fe vs River Plate (PAR",
+          "odd": "1.73",
+          "score": "1-2",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-02-11",
+          "match": "Argentinos junio vs Sport Huancayo",
+          "odd": "1.76",
+          "score": "1-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-02-11",
+          "match": "Deportivo Tachir vs Dep.Independient",
+          "odd": "1.79",
+          "score": "2-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-02-12",
+          "match": "Red Bull Brasil vs Sao Caetano",
+          "odd": "1.75",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-02-12",
+          "match": "Alagoinhas Atlet vs Botafogo PB",
+          "odd": "1.89",
+          "score": "0-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-02-13",
+          "match": "Corinthians vs Guarani CA",
+          "odd": "1.90",
+          "score": "2-1",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-02-13",
+          "match": "Galvez vs Vila Nova",
+          "odd": "1.78",
+          "score": "0-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-02-14",
+          "match": "Union Magdalena vs Deportes Quindio",
+          "odd": "1.74",
+          "score": "1-1",
+          "h2h_under": "40.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-02-16",
+          "match": "Black Leopards vs Orlando Pirates",
+          "odd": "1.87",
+          "score": "0-1",
+          "h2h_under": "33.33%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-02-18",
+          "match": "Hapoel Bnei Sakh vs Beitar Shimshon",
+          "odd": "1.88",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-02-18",
+          "match": "Independiente vs Arsenal de Saran",
+          "odd": "1.88",
+          "score": "1-1",
+          "h2h_under": "71.43%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-02-19",
+          "match": "FBC Melgar vs Nacional Potosi",
+          "odd": "1.74",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-02-19",
+          "match": "Mamelodi Sundown vs Bloemfontein Cel",
+          "odd": "1.80",
+          "score": "2-1",
+          "h2h_under": "62.50%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-02-21",
+          "match": "CD El Nacional vs Centro Atletico",
+          "odd": "1.78",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-02-21",
+          "match": "Atletico Mineiro vs Union Santa Fe",
+          "odd": "1.84",
+          "score": "2-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-02-23",
+          "match": "Yenisey Krasnoya vs Fakel",
+          "odd": "1.80",
+          "score": "0-0",
+          "h2h_under": "60.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-02-24",
+          "match": "Spartak Tambov vs Shinnik Yaroslav",
+          "odd": "1.85",
+          "score": "1-0",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-02-25",
+          "match": "Santiago Morning vs Cobreloa",
+          "odd": "1.72",
+          "score": "0-1",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-02-26",
+          "match": "Monopoli vs Rieti",
+          "odd": "1.77",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-02-26",
+          "match": "River-PI vs America FC Natal",
+          "odd": "1.74",
+          "score": "1-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-02-27",
+          "match": "Deportes Quindio vs Tigres",
+          "odd": "1.76",
+          "score": "2-0",
+          "h2h_under": "71.43%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-02-27",
+          "match": "KAMAZ Naberezhny vs Shinnik Yaroslav",
+          "odd": "1.85",
+          "score": "0-3",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "68.97%",
+        "under_2.5_count": "20/29",
+        "average_odds": "1.81"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "27.27%",
+        "combo_under_2.5_count": "3/11",
+        "average_combo_odds": "3.27"
+      }
+    },
+    {
+      "month": "2020-03",
+      "matches": [
+        {
+          "date": "2020-03-03",
+          "match": "Cremonese vs Empoli",
+          "odd": "1.73",
+          "score": "2-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-03-03",
+          "match": "Crotone vs Pisa",
+          "odd": "1.96",
+          "score": "6-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-03-04",
+          "match": "Fluminense RJ vs Botafogo PB",
+          "odd": "1.74",
+          "score": "2-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-03-05",
+          "match": "Deportes Quindio vs Valledupar FC",
+          "odd": "1.77",
+          "score": "2-0",
+          "h2h_under": "80.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-03-05",
+          "match": "Tigres vs Barranquilla FC",
+          "odd": "1.77",
+          "score": "2-1",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-03-07",
+          "match": "Kaizer Chiefs vs AmaZulu",
+          "odd": "1.74",
+          "score": "0-1",
+          "h2h_under": "80.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-03-08",
+          "match": "EC Pelotas(RS)) vs Gremio RS",
+          "odd": "1.76",
+          "score": "0-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-03-09",
+          "match": "Newells Old Boys vs Godoy Cruz Anton",
+          "odd": "1.85",
+          "score": "0-2",
+          "h2h_under": "60.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-03-11",
+          "match": "Boca Juniors vs Dep.Independient",
+          "odd": "1.84",
+          "score": "3-0",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-03-12",
+          "match": "Tigres vs Cortulua",
+          "odd": "1.90",
+          "score": "0-0",
+          "h2h_under": "71.43%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-03-13",
+          "match": "Deportes Quindio vs Real Cartagena",
+          "odd": "1.76",
+          "score": "5-1",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-03-15",
+          "match": "Gremio RS vs Sao Luiz(RS)",
+          "odd": "1.84",
+          "score": "3-2",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-03-16",
+          "match": "Club America vs Cruz Azul",
+          "odd": "1.94",
+          "score": "0-1",
+          "h2h_under": "64.71%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-03-17",
+          "match": "Goztepe vs Caykur Rizespor",
+          "odd": "1.83",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-03-17",
+          "match": "San Luis Quillot vs CD Copiapo S.A.",
+          "odd": "1.76",
+          "score": "2-2",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-03-19",
+          "match": "Shakhter Soligor vs FC Torpedo Zhodi",
+          "odd": "1.76",
+          "score": "0-1",
+          "h2h_under": "62.50%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-03-20",
+          "match": "Dinamo Minsk vs Rukh Brest",
+          "odd": "1.98",
+          "score": "0-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-03-27",
+          "match": "Rukh Brest vs Energetik-BGU",
+          "odd": "1.85",
+          "score": "0-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-03-28",
+          "match": "Slutsksakhar Slu vs Dinamo Brest",
+          "odd": "1.87",
+          "score": "0-1",
+          "h2h_under": "62.50%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-03-28",
+          "match": "Slavia Mozyr vs BATE Borisov",
+          "odd": "1.96",
+          "score": "2-1",
+          "h2h_under": "33.33%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "60.00%",
+        "under_2.5_count": "12/20",
+        "average_odds": "1.83"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "0.00%",
+        "combo_under_2.5_count": "0/4",
+        "average_combo_odds": "3.35"
+      }
+    },
+    {
+      "month": "2020-04",
+      "matches": [
+        {
+          "date": "2020-04-04",
+          "match": "Shakhter Soligor vs Neman Grodno",
+          "odd": "1.76",
+          "score": "0-0",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-04-04",
+          "match": "Dinamo Brest vs Slavia Mozyr",
+          "odd": "1.90",
+          "score": "1-2",
+          "h2h_under": "33.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-04-05",
+          "match": "Energetik-BGU vs FC Minsk",
+          "odd": "1.92",
+          "score": "2-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-04-11",
+          "match": "FC Torpedo Zhodi vs Energetik-BGU",
+          "odd": "1.74",
+          "score": "2-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-04-12",
+          "match": "FC Minsk vs BATE Borisov",
+          "odd": "1.74",
+          "score": "0-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "60.00%",
+        "under_2.5_count": "3/5",
+        "average_odds": "1.81"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "0.00%",
+        "combo_under_2.5_count": "0/1",
+        "average_combo_odds": "3.34"
+      }
+    },
+    {
+      "month": "2020-05",
+      "matches": [
+        {
+          "date": "2020-05-03",
+          "match": "Shakhter Soligor vs FK Isloch Minsk",
+          "odd": "1.80",
+          "score": "4-0",
+          "h2h_under": "60.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-05-10",
+          "match": "FK Isloch Minsk vs FC Belshyna Babr",
+          "odd": "1.74",
+          "score": "2-1",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-05-22",
+          "match": "Pohang Steelers vs FC Seoul",
+          "odd": "1.90",
+          "score": "1-2",
+          "h2h_under": "61.54%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-05-22",
+          "match": "Nurnberg vs Erzgebirge Aue",
+          "odd": "1.83",
+          "score": "1-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-05-23",
+          "match": "VfL Osnabruck vs Hannover 96",
+          "odd": "1.83",
+          "score": "2-4",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-05-24",
+          "match": "Hamburger SV vs Arminia Bielefel",
+          "odd": "1.90",
+          "score": "0-0",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-05-26",
+          "match": "SK Slovan Varnsd vs Hradec Kralove",
+          "odd": "1.99",
+          "score": "1-2",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-05-26",
+          "match": "Mlada Boleslav vs Slavia Praha",
+          "odd": "1.99",
+          "score": "0-1",
+          "h2h_under": "37.50%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-05-27",
+          "match": "Sparta Praha vs FC Viktoria Plze",
+          "odd": "1.96",
+          "score": "1-2",
+          "h2h_under": "55.56%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-05-28",
+          "match": "Guadalupe vs Perez Zeledon",
+          "odd": "1.95",
+          "score": "3-1",
+          "h2h_under": "80.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-05-28",
+          "match": "AGF Aarhus vs Randers FC",
+          "odd": "1.79",
+          "score": "1-1",
+          "h2h_under": "71.43%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-05-30",
+          "match": "LKS Lodz vs Gornik Zabrze",
+          "odd": "1.87",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-05-30",
+          "match": "Piast Gliwice vs Wisla Krakow",
+          "odd": "1.75",
+          "score": "4-0",
+          "h2h_under": "57.14%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-05-31",
+          "match": "Cracovia Krakow vs Jagiellonia Bial",
+          "odd": "1.83",
+          "score": "0-1",
+          "h2h_under": "54.55%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-05-31",
+          "match": "Lechia Gdansk vs Arka Gdynia",
+          "odd": "1.75",
+          "score": "4-3",
+          "h2h_under": "42.86%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "40.00%",
+        "under_2.5_count": "6/15",
+        "average_odds": "1.86"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "0.00%",
+        "combo_under_2.5_count": "0/5",
+        "average_combo_odds": "3.48"
+      }
+    },
+    {
+      "month": "2020-06",
+      "matches": [
+        {
+          "date": "2020-06-01",
+          "match": "Suduva vs Spyris Kaunas",
+          "odd": "1.77",
+          "score": "1-0",
+          "h2h_under": "46.15%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-06-01",
+          "match": "Beitar Shimshon vs Hapoel Bnei Lod",
+          "odd": "1.99",
+          "score": "3-0",
+          "h2h_under": "28.57%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-06-02",
+          "match": "Mattersburg vs Rheindorf Altach",
+          "odd": "1.90",
+          "score": "1-1",
+          "h2h_under": "76.92%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-06-02",
+          "match": "Miedz Legnica vs Stal Mielec",
+          "odd": "1.87",
+          "score": "1-2",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-06-03",
+          "match": "Maccabi Tel Aviv vs Maccabi Haifa",
+          "odd": "1.75",
+          "score": "2-0",
+          "h2h_under": "46.15%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-06-04",
+          "match": "Vitoria Guimarae vs Sporting Lisbon",
+          "odd": "1.79",
+          "score": "2-2",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-06-05",
+          "match": "Santa Clara vs Sporting Braga",
+          "odd": "1.87",
+          "score": "3-2",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-06-06",
+          "match": "Slavia Mozyr vs Neman Grodno",
+          "odd": "1.87",
+          "score": "1-3",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-06-06",
+          "match": "Aris Thessalonik vs OFI Crete",
+          "odd": "1.81",
+          "score": "3-1",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-06-07",
+          "match": "FK Vitebsk vs BATE Borisov",
+          "odd": "1.80",
+          "score": "2-2",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-06-09",
+          "match": "Piast Gliwice vs Gornik Zabrze",
+          "odd": "1.95",
+          "score": "0-0",
+          "h2h_under": "80.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-06-10",
+          "match": "Wisla Krakow vs Rakow",
+          "odd": "1.87",
+          "score": "3-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-06-10",
+          "match": "Radnicki Pirot vs Zemun",
+          "odd": "1.91",
+          "score": "2-1",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-06-11",
+          "match": "Belenenses vs Vitoria Guimarae",
+          "odd": "1.83",
+          "score": "1-1",
+          "h2h_under": "75.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-06-11",
+          "match": "Sevilla vs Real Betis",
+          "odd": "1.80",
+          "score": "2-0",
+          "h2h_under": "44.44%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-06-12",
+          "match": "GKS Jastrzebie vs Sandecja Nowy Sa",
+          "odd": "1.90",
+          "score": "1-2",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-06-13",
+          "match": "Dinamo Minsk vs Slavia Mozyr",
+          "odd": "1.74",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-06-13",
+          "match": "Hapoel Raanana vs Hapoel Kiryat Sh",
+          "odd": "1.78",
+          "score": "0-1",
+          "h2h_under": "75.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-06-16",
+          "match": "SKN St. Polten vs Mattersburg",
+          "odd": "1.87",
+          "score": "1-0",
+          "h2h_under": "63.64%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-06-19",
+          "match": "Cherno More Varn vs Vitosha Bistrits",
+          "odd": "2.00",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-06-20",
+          "match": "Metalac vs Novi Pazar",
+          "odd": "1.80",
+          "score": "2-0",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-06-20",
+          "match": "Backa vs Radnicki Pirot",
+          "odd": "1.75",
+          "score": "3-0",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-06-21",
+          "match": "Olympiakos vs Panathinaikos",
+          "odd": "1.79",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-06-21",
+          "match": "Cadiz vs AD Alcorcon",
+          "odd": "1.79",
+          "score": "1-1",
+          "h2h_under": "60.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-06-22",
+          "match": "Exeter City vs Colchester Unite",
+          "odd": "1.85",
+          "score": "2-1",
+          "h2h_under": "57.14%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-06-22",
+          "match": "Cheltenham Town vs Northampton Town",
+          "odd": "1.76",
+          "score": "0-3",
+          "h2h_under": "57.14%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-06-24",
+          "match": "Hapoel Kiryat Sh vs Hapoel Hadera",
+          "odd": "1.78",
+          "score": "0-3",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-06-28",
+          "match": "Fuenlabrada vs Extremadura",
+          "odd": "1.73",
+          "score": "1-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "46.43%",
+        "under_2.5_count": "13/28",
+        "average_odds": "1.83"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "22.22%",
+        "combo_under_2.5_count": "2/9",
+        "average_combo_odds": "3.34"
+      }
+    },
+    {
+      "month": "2020-07",
+      "matches": [
+        {
+          "date": "2020-07-03",
+          "match": "ACD Virtus Entel vs Chievo",
+          "odd": "1.75",
+          "score": "1-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-07-04",
+          "match": "OFI Crete vs PAOK",
+          "odd": "1.98",
+          "score": "2-2",
+          "h2h_under": "14.29%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-07-06",
+          "match": "Moreirense vs Sporting Lisbon",
+          "odd": "1.80",
+          "score": "0-0",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-07-07",
+          "match": "Spartak Tambov vs Akhmat Grozny (R",
+          "odd": "1.90",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-07-08",
+          "match": "PAOK vs Panathinaikos",
+          "odd": "1.84",
+          "score": "0-0",
+          "h2h_under": "73.68%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-07-09",
+          "match": "Albacete vs Sporting Gijon",
+          "odd": "1.80",
+          "score": "1-1",
+          "h2h_under": "60.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-07-12",
+          "match": "Fluminense RJ vs Flamengo",
+          "odd": "1.90",
+          "score": "1-2",
+          "h2h_under": "58.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-07-12",
+          "match": "Olympiakos vs PAOK",
+          "odd": "1.95",
+          "score": "0-1",
+          "h2h_under": "54.55%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-07-14",
+          "match": "Stal Mielec vs Chrobry Glogow",
+          "odd": "1.78",
+          "score": "1-0",
+          "h2h_under": "42.86%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-07-15",
+          "match": "Kanazawa vs JEF United Ichih",
+          "odd": "1.83",
+          "score": "0-2",
+          "h2h_under": "54.55%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-07-16",
+          "match": "FC Vorskla vs Mariupol",
+          "odd": "1.80",
+          "score": "1-2",
+          "h2h_under": "80.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-07-17",
+          "match": "Fuenlabrada vs Elche",
+          "odd": "1.75",
+          "score": "3-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-07-17",
+          "match": "SD Huesca vs Numancia",
+          "odd": "1.79",
+          "score": "3-0",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-07-25",
+          "match": "Ehime FC vs FC Ryukyu",
+          "odd": "1.90",
+          "score": "1-1",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-07-26",
+          "match": "Barcelona B vs Sabadell",
+          "odd": "1.76",
+          "score": "1-2",
+          "h2h_under": "57.14%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-07-28",
+          "match": "Riteriai vs Suduva",
+          "odd": "1.79",
+          "score": "1-2",
+          "h2h_under": "25.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-07-28",
+          "match": "Parma vs Atalanta",
+          "odd": "1.83",
+          "score": "1-2",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "47.06%",
+        "under_2.5_count": "8/17",
+        "average_odds": "1.83"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "0.00%",
+        "combo_under_2.5_count": "0/3",
+        "average_combo_odds": "3.37"
+      }
+    },
+    {
+      "month": "2020-08",
+      "matches": [
+        {
+          "date": "2020-08-02",
+          "match": "Shinnik Yaroslav vs Torpedo moskva",
+          "odd": "1.74",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-08-02",
+          "match": "FC Minsk vs Rukh Brest",
+          "odd": "1.85",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-08-03",
+          "match": "Ahrobiznes Voloc vs MFK Mikolaiv",
+          "odd": "1.91",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-03",
+          "match": "Orgryte vs Vasteras SK FK",
+          "odd": "1.90",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-04",
+          "match": "Lillestrom vs Sogndal",
+          "odd": "1.85",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-08-04",
+          "match": "WS Wanderers vs Perth Glory",
+          "odd": "1.81",
+          "score": "1-3",
+          "h2h_under": "70.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-05",
+          "match": "Vojvodina Novi S vs Cukaricki Stanko",
+          "odd": "1.82",
+          "score": "2-2",
+          "h2h_under": "71.43%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-05",
+          "match": "Radnik Surdulica vs Mladost Lucani",
+          "odd": "1.82",
+          "score": "2-3",
+          "h2h_under": "70.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-06",
+          "match": "Kalmar vs Orebro",
+          "odd": "1.78",
+          "score": "0-3",
+          "h2h_under": "85.71%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-06",
+          "match": "FC Belshyna Babr vs Slutsksakhar Slu",
+          "odd": "2.00",
+          "score": "4-2",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-07",
+          "match": "FK Avanhard Kram vs Minaj (Ukr)",
+          "odd": "1.97",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-08-07",
+          "match": "FK Vitebsk vs FK Isloch Minsk",
+          "odd": "1.76",
+          "score": "2-3",
+          "h2h_under": "85.71%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-08",
+          "match": "Spartak Moscow I vs Torpedo moskva",
+          "odd": "1.87",
+          "score": "1-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-08-10",
+          "match": "Atl. San Luis vs Atlas",
+          "odd": "1.99",
+          "score": "1-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-08-10",
+          "match": "IK Sirius FK vs Varbergs BoIS FC",
+          "odd": "1.92",
+          "score": "3-3",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-11",
+          "match": "Drita vs Linfield FC",
+          "odd": "1.74",
+          "score": "0-3",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-11",
+          "match": "FC Shakhtar Done vs Basel",
+          "odd": "2.00",
+          "score": "4-1",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-13",
+          "match": "D. Zagreb 2 vs Bijelo Brdo",
+          "odd": "1.89",
+          "score": "3-0",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-13",
+          "match": "Castanhal vs Remo Belem (PA)",
+          "odd": "1.75",
+          "score": "0-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-08-14",
+          "match": "Spartak Moscow vs Akhmat Grozny (R",
+          "odd": "1.75",
+          "score": "2-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-08-15",
+          "match": "Graficar Beograd vs Dinamo Vranje",
+          "odd": "1.94",
+          "score": "2-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-08-17",
+          "match": "Longford Town vs Cabinteely",
+          "odd": "1.88",
+          "score": "1-3",
+          "h2h_under": "83.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-17",
+          "match": "Queretaro FC vs Club America",
+          "odd": "1.82",
+          "score": "4-1",
+          "h2h_under": "78.57%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-18",
+          "match": "FK Krasnodar vs Arsenal Tula",
+          "odd": "1.87",
+          "score": "2-0",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-08-20",
+          "match": "Remo Belem (PA) vs Castanhal",
+          "odd": "1.79",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-08-20",
+          "match": "Botafogo RJ vs Atletico Mineiro",
+          "odd": "1.76",
+          "score": "2-1",
+          "h2h_under": "53.85%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-21",
+          "match": "Slutsksakhar Slu vs Dinamo Minsk",
+          "odd": "1.77",
+          "score": "1-2",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-22",
+          "match": "Volta Redonda vs Tombense",
+          "odd": "1.74",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-08-22",
+          "match": "Hapoel Bnei Sakh vs Maccabi Tel Aviv",
+          "odd": "1.75",
+          "score": "0-2",
+          "h2h_under": "47.06%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-08-23",
+          "match": "Dinamo Vranje vs Kolubara",
+          "odd": "1.76",
+          "score": "2-4",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-23",
+          "match": "Flamengo vs Botafogo RJ",
+          "odd": "1.93",
+          "score": "1-1",
+          "h2h_under": "64.29%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-08-24",
+          "match": "Jagiellonia Bial vs Wisla Krakow",
+          "odd": "1.89",
+          "score": "1-1",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-08-25",
+          "match": "Penapolense vs Red Bull Brasil",
+          "odd": "1.85",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-25",
+          "match": "Macara vs Tecnico Universi",
+          "odd": "1.89",
+          "score": "0-0",
+          "h2h_under": "83.33%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-08-26",
+          "match": "Votuporanguense vs Sao Caetano",
+          "odd": "1.99",
+          "score": "0-3",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-27",
+          "match": "Guayaquil City vs Barcelona SC(ECU",
+          "odd": "1.91",
+          "score": "2-1",
+          "h2h_under": "71.43%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-27",
+          "match": "FBC Melgar vs Carlos Stein",
+          "odd": "1.83",
+          "score": "0-2",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-08-30",
+          "match": "XV de Piracicaba vs Penapolense",
+          "odd": "1.74",
+          "score": "2-1",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-30",
+          "match": "Portuguesa Santi vs Votuporanguense",
+          "odd": "1.77",
+          "score": "0-2",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-08-31",
+          "match": "CD Magallanes vs Barnechea",
+          "odd": "1.73",
+          "score": "1-1",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-08-31",
+          "match": "Cienciano vs Universitario De",
+          "odd": "1.92",
+          "score": "1-3",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "46.34%",
+        "under_2.5_count": "19/41",
+        "average_odds": "1.85"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "11.76%",
+        "combo_under_2.5_count": "2/17",
+        "average_combo_odds": "3.39"
+      }
+    },
+    {
+      "month": "2020-09",
+      "matches": [
+        {
+          "date": "2020-09-01",
+          "match": "LDU Quito vs Macara",
+          "odd": "1.80",
+          "score": "1-0",
+          "h2h_under": "60.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-09-01",
+          "match": "Deportivo Cuenca vs Tecnico Universi",
+          "odd": "1.98",
+          "score": "2-2",
+          "h2h_under": "33.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-09-03",
+          "match": "Russia vs Serbia",
+          "odd": "1.81",
+          "score": "3-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-09-05",
+          "match": "Bidvest Wits vs Polokwane",
+          "odd": "1.80",
+          "score": "3-1",
+          "h2h_under": "87.50%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-09-05",
+          "match": "Mamelodi Sundown vs Black Leopards",
+          "odd": "1.76",
+          "score": "3-0",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-09-06",
+          "match": "Sloga Kraljevo vs Zarkovo",
+          "odd": "1.90",
+          "score": "1-2",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-09-07",
+          "match": "Czech Republic vs Scotland",
+          "odd": "1.89",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-09-07",
+          "match": "Israel vs Slovakia",
+          "odd": "1.78",
+          "score": "1-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-09-08",
+          "match": "Tecnico Universi vs Orense",
+          "odd": "1.88",
+          "score": "2-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-09-09",
+          "match": "Chertanovo M. vs FK Krylya Soveto",
+          "odd": "1.87",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-09-10",
+          "match": "Venados vs CSyD Dorados de",
+          "odd": "1.74",
+          "score": "1-2",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-09-10",
+          "match": "Nes Tziona vs Hapoel Acco",
+          "odd": "1.74",
+          "score": "3-3",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-09-11",
+          "match": "PAOK vs AEL Larissa",
+          "odd": "1.94",
+          "score": "1-0",
+          "h2h_under": "57.14%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-09-11",
+          "match": "FC Minsk vs FK Gorodeya",
+          "odd": "1.89",
+          "score": "3-0",
+          "h2h_under": "33.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-09-13",
+          "match": "Neftekhimik Nizh vs Spartak Moscow I",
+          "odd": "1.75",
+          "score": "0-1",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-09-13",
+          "match": "FK Krylya Soveto vs Tom Tomsk",
+          "odd": "1.83",
+          "score": "2-0",
+          "h2h_under": "60.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-09-14",
+          "match": "Kolubara vs Jagodina",
+          "odd": "1.90",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-09-14",
+          "match": "Juventude vs Vitoria BA",
+          "odd": "1.74",
+          "score": "1-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-09-15",
+          "match": "Gwangju FC Gwang vs Sangju Sangmu",
+          "odd": "1.74",
+          "score": "0-1",
+          "h2h_under": "62.50%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-09-15",
+          "match": "PAOK vs Benfica",
+          "odd": "1.87",
+          "score": "2-1",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-09-16",
+          "match": "Chrobry Glogow vs Radomiak Radom",
+          "odd": "1.79",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-09-16",
+          "match": "Widzew lodz vs LKS Lodz",
+          "odd": "1.94",
+          "score": "0-2",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-09-17",
+          "match": "Hapoel Acco vs Beitar Shimshon",
+          "odd": "1.79",
+          "score": "1-1",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-09-18",
+          "match": "Graficar Beograd vs Zarkovo",
+          "odd": "1.82",
+          "score": "1-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-09-19",
+          "match": "Radnicki Pirot vs Kabel Novi Sad",
+          "odd": "1.75",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-09-19",
+          "match": "Leones vs Valledupar FC",
+          "odd": "1.77",
+          "score": "1-2",
+          "h2h_under": "71.43%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-09-20",
+          "match": "CuiabÃ¡ Esporte vs Oeste",
+          "odd": "1.76",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-09-21",
+          "match": "Atletico Junior vs Aguilas D.",
+          "odd": "1.76",
+          "score": "2-1",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-09-21",
+          "match": "Hapoel Kfar Saba vs Bnei Yehuda Tel",
+          "odd": "1.78",
+          "score": "3-1",
+          "h2h_under": "72.73%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-09-22",
+          "match": "Barnechea vs Melipilla",
+          "odd": "1.87",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-09-23",
+          "match": "Radnicki 1923 Kr vs Radnicki Pirot",
+          "odd": "1.96",
+          "score": "2-1",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-09-24",
+          "match": "Atletico Huila vs Real San Andres",
+          "odd": "1.80",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-09-24",
+          "match": "Beitar Shimshon vs Hapoel Afula",
+          "odd": "1.74",
+          "score": "2-1",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-09-27",
+          "match": "Graficar Beograd vs Zemun",
+          "odd": "1.81",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-09-28",
+          "match": "Dinamo Bucuresti vs FC UT Arad",
+          "odd": "1.80",
+          "score": "0-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-09-29",
+          "match": "Vitoria BA vs CSA-AL",
+          "odd": "1.74",
+          "score": "0-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-09-30",
+          "match": "CuiabÃ¡ Esporte vs Nautico Capibari",
+          "odd": "1.87",
+          "score": "1-0",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-09-30",
+          "match": "Sao Bernardo vs Sao Bento",
+          "odd": "1.90",
+          "score": "2-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "55.26%",
+        "under_2.5_count": "21/38",
+        "average_odds": "1.82"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "23.08%",
+        "combo_under_2.5_count": "3/13",
+        "average_combo_odds": "3.30"
+      }
+    },
+    {
+      "month": "2020-10",
+      "matches": [
+        {
+          "date": "2020-10-03",
+          "match": "Jaguares de Cord vs Deportivo Cali",
+          "odd": "1.76",
+          "score": "0-0",
+          "h2h_under": "55.56%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-10-03",
+          "match": "Radnicki 1923 Kr vs Dinamo Vranje",
+          "odd": "1.83",
+          "score": "2-0",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-10-04",
+          "match": "Atletico Naciona vs Envigado FC",
+          "odd": "1.73",
+          "score": "3-2",
+          "h2h_under": "60.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-10-04",
+          "match": "Leones vs Union Magdalena",
+          "odd": "1.87",
+          "score": "1-1",
+          "h2h_under": "33.33%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-10-05",
+          "match": "Trayal Krusevac vs Sloga Kraljevo",
+          "odd": "1.97",
+          "score": "0-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-10-05",
+          "match": "Orleans US 45 vs Annecy",
+          "odd": "1.77",
+          "score": "6-1",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-10-07",
+          "match": "Deportivo Cali vs La Equidad",
+          "odd": "1.82",
+          "score": "1-0",
+          "h2h_under": "75.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-10-07",
+          "match": "Atletico Bucaram vs Atletico Naciona",
+          "odd": "1.89",
+          "score": "1-2",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-10-09",
+          "match": "America MG vs Nautico Capibari",
+          "odd": "1.86",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-10-09",
+          "match": "Quevilly Rouen vs Orleans US 45",
+          "odd": "1.80",
+          "score": "3-1",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-10-10",
+          "match": "Radnicki 1923 Kr vs Zarkovo",
+          "odd": "1.79",
+          "score": "3-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-10-12",
+          "match": "Millonarios vs Aguilas D.",
+          "odd": "1.79",
+          "score": "0-0",
+          "h2h_under": "72.73%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-10-12",
+          "match": "Sao Caetano vs Sao Bento",
+          "odd": "1.81",
+          "score": "0-1",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-10-13",
+          "match": "Bogota FC vs Real Cartagena",
+          "odd": "1.74",
+          "score": "1-0",
+          "h2h_under": "42.86%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-10-14",
+          "match": "Nacional Montevi vs Rentistas",
+          "odd": "1.94",
+          "score": "0-0",
+          "h2h_under": "75.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-10-14",
+          "match": "Deportivo Cali vs Boyaca Chico",
+          "odd": "1.82",
+          "score": "3-1",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-10-15",
+          "match": "Aguilas D. vs Atletico Naciona",
+          "odd": "1.94",
+          "score": "2-3",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-10-15",
+          "match": "Dep.Independient vs Jaguares de Cord",
+          "odd": "1.74",
+          "score": "1-1",
+          "h2h_under": "53.33%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-10-16",
+          "match": "Goias vs Bahia(BA)",
+          "odd": "1.74",
+          "score": "1-1",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-10-16",
+          "match": "Gangwon FC vs Incheon United",
+          "odd": "1.84",
+          "score": "3-1",
+          "h2h_under": "27.27%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-10-17",
+          "match": "Deportes Quindio vs Cortulua",
+          "odd": "1.90",
+          "score": "1-2",
+          "h2h_under": "62.50%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-10-18",
+          "match": "Atletico Naciona vs America de Cali",
+          "odd": "1.80",
+          "score": "2-2",
+          "h2h_under": "83.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-10-18",
+          "match": "RCD Espanyol B vs AE Prat",
+          "odd": "1.99",
+          "score": "2-1",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-10-19",
+          "match": "Bahia(BA) vs Atletico Mineiro",
+          "odd": "1.97",
+          "score": "3-1",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-10-19",
+          "match": "Botafogo RJ vs Goias",
+          "odd": "1.89",
+          "score": "0-0",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-10-20",
+          "match": "Lokomotiv Plovdi vs Arda",
+          "odd": "1.73",
+          "score": "0-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-10-23",
+          "match": "Bastia vs Orleans US 45",
+          "odd": "1.87",
+          "score": "1-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-10-23",
+          "match": "Empoli vs Pisa",
+          "odd": "1.92",
+          "score": "3-1",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-10-24",
+          "match": "Deportiva Once C vs Jaguares de Cord",
+          "odd": "1.73",
+          "score": "2-1",
+          "h2h_under": "70.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-10-26",
+          "match": "Bari vs Catania",
+          "odd": "1.81",
+          "score": "4-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-10-27",
+          "match": "Carlisle United vs Morecambe",
+          "odd": "1.89",
+          "score": "3-1",
+          "h2h_under": "63.64%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-10-27",
+          "match": "Bolton Wanderers vs Bradford City",
+          "odd": "1.79",
+          "score": "1-0",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-10-28",
+          "match": "Mamelodi Sundown vs Tshakhuma",
+          "odd": "1.98",
+          "score": "0-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-10-29",
+          "match": "Athletico-PR vs Flamengo",
+          "odd": "1.82",
+          "score": "0-1",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-10-30",
+          "match": "Lokomotiv Plovdi vs FC Montana",
+          "odd": "1.83",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-10-30",
+          "match": "Gremio RS vs Juventude",
+          "odd": "1.73",
+          "score": "1-0",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-10-31",
+          "match": "Arezzo vs Triestina",
+          "odd": "1.83",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-10-31",
+          "match": "Millonarios vs Atletico Naciona",
+          "odd": "1.81",
+          "score": "3-0",
+          "h2h_under": "55.00%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "50.00%",
+        "under_2.5_count": "19/38",
+        "average_odds": "1.84"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "13.33%",
+        "combo_under_2.5_count": "2/15",
+        "average_combo_odds": "3.39"
+      }
+    },
+    {
+      "month": "2020-11",
+      "matches": [
+        {
+          "date": "2020-11-02",
+          "match": "Deportes Quindio vs Barranquilla FC",
+          "odd": "1.83",
+          "score": "4-0",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-11-02",
+          "match": "Trayal Krusevac vs Radnicki Pirot",
+          "odd": "1.74",
+          "score": "1-2",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-11-05",
+          "match": "Palmeiras vs Bragantino",
+          "odd": "1.74",
+          "score": "1-0",
+          "h2h_under": "40.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-11-05",
+          "match": "Waterhouse vs Arcahaie",
+          "odd": "1.80",
+          "score": "1-3",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-11-06",
+          "match": "Deportivo Sapris vs CSD Municipal",
+          "odd": "1.87",
+          "score": "4-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-11-07",
+          "match": "Deportes Tolima vs Boyaca Chico",
+          "odd": "1.73",
+          "score": "2-0",
+          "h2h_under": "33.33%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-11-09",
+          "match": "Newells Old Boys vs Boca Juniors",
+          "odd": "1.72",
+          "score": "0-2",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-11-09",
+          "match": "Atletico Naciona vs Deportivo Pasto",
+          "odd": "1.86",
+          "score": "1-0",
+          "h2h_under": "46.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-11-10",
+          "match": "Dep.Independient vs Atletico Bucaram",
+          "odd": "1.93",
+          "score": "1-0",
+          "h2h_under": "45.45%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-11-10",
+          "match": "Central Cordoba vs Defensa Y Justic",
+          "odd": "1.73",
+          "score": "2-2",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-11-11",
+          "match": "Deportivo Cali vs Envigado FC",
+          "odd": "1.78",
+          "score": "3-0",
+          "h2h_under": "83.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-11-12",
+          "match": "Flamengo vs Sao Paulo",
+          "odd": "1.96",
+          "score": "1-2",
+          "h2h_under": "71.43%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-11-13",
+          "match": "Cucuta vs America de Cali",
+          "odd": "1.79",
+          "score": "0-3",
+          "h2h_under": "42.86%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-11-13",
+          "match": "Rosario Central vs Banfield",
+          "odd": "1.77",
+          "score": "2-4",
+          "h2h_under": "28.57%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-11-16",
+          "match": "Mantova vs Modena",
+          "odd": "1.75",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-11-16",
+          "match": "Velez Sarsfield vs Patronato Parana",
+          "odd": "1.76",
+          "score": "1-0",
+          "h2h_under": "80.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-11-17",
+          "match": "Slovenia U21 vs Russia U21",
+          "odd": "1.91",
+          "score": "2-2",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-11-17",
+          "match": "Port Vale vs Scunthorpe Unite",
+          "odd": "1.75",
+          "score": "0-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-11-18",
+          "match": "Hungary vs Turkey",
+          "odd": "1.79",
+          "score": "2-0",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-11-19",
+          "match": "Mineros vs Carabobo FC",
+          "odd": "1.89",
+          "score": "4-2",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-11-20",
+          "match": "Radnicki 1923 Kr vs Buducnost Dobano",
+          "odd": "1.74",
+          "score": "2-0",
+          "h2h_under": "83.33%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-11-20",
+          "match": "Atletico Tucuman vs Racing Club",
+          "odd": "1.94",
+          "score": "2-0",
+          "h2h_under": "16.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-11-23",
+          "match": "Godoy Cruz Anton vs Rosario Central",
+          "odd": "1.95",
+          "score": "0-1",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-11-24",
+          "match": "Newells Old Boys vs Talleres Cordoba",
+          "odd": "1.78",
+          "score": "1-1",
+          "h2h_under": "40.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-11-24",
+          "match": "Athletico-PR vs River Plate",
+          "odd": "1.81",
+          "score": "1-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-11-26",
+          "match": "Libertad vs Jorge Wilsterman",
+          "odd": "1.74",
+          "score": "3-1",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-11-27",
+          "match": "Dep.Independient vs Deportivo Pereir",
+          "odd": "1.73",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-11-29",
+          "match": "Villarreal B vs Valencia B",
+          "odd": "1.73",
+          "score": "1-1",
+          "h2h_under": "70.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-11-30",
+          "match": "Como vs Piacenza",
+          "odd": "1.74",
+          "score": "0-0",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "55.17%",
+        "under_2.5_count": "16/29",
+        "average_odds": "1.80"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "44.44%",
+        "combo_under_2.5_count": "4/9",
+        "average_combo_odds": "3.23"
+      }
+    },
+    {
+      "month": "2020-12",
+      "matches": [
+        {
+          "date": "2020-12-01",
+          "match": "Santos vs LDU Quito",
+          "odd": "1.83",
+          "score": "0-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-12-02",
+          "match": "Pergolettese vs Juventus U23",
+          "odd": "1.85",
+          "score": "1-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-12-02",
+          "match": "Pontedera vs Lucchese",
+          "odd": "1.75",
+          "score": "0-1",
+          "h2h_under": "54.55%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-12-04",
+          "match": "Gremio RS vs Guarani CA",
+          "odd": "1.86",
+          "score": "2-0",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-12-04",
+          "match": "Central Cordoba vs Colon de Santa F",
+          "odd": "1.73",
+          "score": "0-2",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-12-08",
+          "match": "Pisa vs Ascoli",
+          "odd": "1.82",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-12-08",
+          "match": "Casa Pia AC vs CD Mafra",
+          "odd": "1.88",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-12-09",
+          "match": "Brommapojkarna vs Trelleborgs FF",
+          "odd": "1.84",
+          "score": "1-1",
+          "h2h_under": "16.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-12-10",
+          "match": "Deportiva Once C vs Patriotas FC",
+          "odd": "1.93",
+          "score": "2-0",
+          "h2h_under": "64.29%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-12-10",
+          "match": "Aguilas D. vs Dep.Independient",
+          "odd": "1.77",
+          "score": "2-1",
+          "h2h_under": "60.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-12-11",
+          "match": "River Plate vs Nacional Montevi",
+          "odd": "1.85",
+          "score": "2-0",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-12-11",
+          "match": "CSA-AL vs Oeste",
+          "odd": "1.73",
+          "score": "2-1",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-12-12",
+          "match": "Leones vs Bogota FC",
+          "odd": "1.96",
+          "score": "0-1",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-12-12",
+          "match": "Cortulua vs Valledupar FC",
+          "odd": "1.79",
+          "score": "5-0",
+          "h2h_under": "30.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-12-14",
+          "match": "Central Cordoba vs Godoy Cruz Anton",
+          "odd": "1.81",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-12-14",
+          "match": "San Martin T. vs Atletico De Rafa",
+          "odd": "1.78",
+          "score": "0-3",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-12-15",
+          "match": "FC Viitorul Cons vs Botosani",
+          "odd": "1.84",
+          "score": "1-2",
+          "h2h_under": "37.50%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-12-15",
+          "match": "Atletico Tucuman vs Banfield",
+          "odd": "1.81",
+          "score": "0-2",
+          "h2h_under": "25.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-12-16",
+          "match": "Palmeiras vs Libertad",
+          "odd": "1.85",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-12-17",
+          "match": "Herediano vs Alajuelense",
+          "odd": "1.90",
+          "score": "0-1",
+          "h2h_under": "55.56%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-12-17",
+          "match": "Sao Paulo vs Atletico Mineiro",
+          "odd": "1.79",
+          "score": "3-0",
+          "h2h_under": "41.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-12-18",
+          "match": "Nacional Montevi vs River Plate",
+          "odd": "1.97",
+          "score": "2-6",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-12-21",
+          "match": "Rosario Central vs Union Santa Fe",
+          "odd": "1.99",
+          "score": "2-2",
+          "h2h_under": "80.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-12-21",
+          "match": "Alajuelense vs Herediano",
+          "odd": "1.92",
+          "score": "1-0",
+          "h2h_under": "56.52%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-12-22",
+          "match": "CSA-AL vs Vitoria BA",
+          "odd": "1.72",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-12-22",
+          "match": "Chateauroux vs Clermont",
+          "odd": "1.72",
+          "score": "0-1",
+          "h2h_under": "55.56%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-12-23",
+          "match": "Millonarios vs Deportivo Pereir",
+          "odd": "1.82",
+          "score": "1-0",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-12-24",
+          "match": "Barcelona SC(ECU vs LDU Quito",
+          "odd": "1.73",
+          "score": "1-1",
+          "h2h_under": "70.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-12-24",
+          "match": "Sivasspor vs Genclerbirligi",
+          "odd": "1.85",
+          "score": "3-1",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-12-25",
+          "match": "Hapoel Rishon Le vs Hapoel Kfar Shal",
+          "odd": "1.81",
+          "score": "3-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-12-26",
+          "match": "Cheltenham Town vs Stevenage Boroug",
+          "odd": "1.73",
+          "score": "1-1",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-12-26",
+          "match": "Maccabi Netanya vs Maccabi Haifa",
+          "odd": "1.96",
+          "score": "0-2",
+          "h2h_under": "42.86%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-12-28",
+          "match": "Newells Old Boys vs Central Cordoba",
+          "odd": "1.84",
+          "score": "3-1",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-12-30",
+          "match": "Monza vs Salernitana",
+          "odd": "1.83",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-12-30",
+          "match": "Atletico Tucuman vs San Lorenzo",
+          "odd": "1.85",
+          "score": "1-3",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-12-31",
+          "match": "Central Coast Ma vs Newcastle Jets",
+          "odd": "1.86",
+          "score": "1-0",
+          "h2h_under": "58.33%",
+          "status": "✅"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "52.78%",
+        "under_2.5_count": "19/36",
+        "average_odds": "1.83"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "14.29%",
+        "combo_under_2.5_count": "2/14",
+        "average_combo_odds": "3.34"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "53.64%",
+      "under_2.5_count": "177/330",
+      "average_odds": "1.83"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "19.47%",
+      "combo_under_2.5_count": "22/113",
+      "average_combo_odds": "3.33"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.02 (positive → possible profitability).",
+    "EV Combos: -0.35 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.72–2.0."
+  ]
+}
