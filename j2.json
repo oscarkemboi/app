@@ -54754,6 +54754,102 @@
       "Year": "2025",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2025-10-10",
+      "Team A": "Honduras",
+      "Team B": "Costa Rica",
+      "League": "America - World Cup - Qualification CONCACAF",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.8091520773603064,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 1.68,
+      "Actual Score": "0-0",
+      "League Rank": 1256,
+      "Year": "2025",
+      "Win": true,
+      "Profit": 68.0
+    },
+    {
+      "Date": "2025-10-10",
+      "Team A": "Bronshoj",
+      "Team B": "Vanlose",
+      "League": "Denmark - 3rd Division",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.8034352224481056,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.13,
+      "Actual Score": "",
+      "League Rank": 1078,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2025-10-11",
+      "Team A": "El Salvador",
+      "Team B": "Panama",
+      "League": "America - World Cup - Qualification CONCACAF",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.7594978797195618,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 1.86,
+      "Actual Score": "",
+      "League Rank": 1256,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2025-10-11",
+      "Team A": "Northampton Town",
+      "Team B": "Rotherham United",
+      "League": "England - League One",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.7588857988920938,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 1.66,
+      "Actual Score": "",
+      "League Rank": 753,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2025-10-12",
+      "Team A": "Cosenza Calcio 1",
+      "Team B": "Atalanta U23",
+      "League": "Italy - Serie C - Girone C",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.9287739130139986,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 1.9,
+      "Actual Score": "",
+      "League Rank": 497,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2025-10-12",
+      "Team A": "Thespa Kusatsu",
+      "Team B": "Vanraure",
+      "League": "Japan - J3 League",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.8529964719164227,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 1.78,
+      "Actual Score": "",
+      "League Rank": 621,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
@@ -55234,11 +55330,11 @@
       "win_rate": 55.10204081632652
     },
     "2025-10": {
-      "wins": 3,
+      "wins": 4,
       "losses": 2,
-      "total": 5,
-      "profit": 38.0,
-      "win_rate": 60.0
+      "total": 6,
+      "profit": 106.0,
+      "win_rate": 66.66666666666666
     }
   },
   "yearly_stats": {
@@ -55278,11 +55374,11 @@
       "win_rate": 81.38528138528139
     },
     "2025": {
-      "wins": 397,
+      "wins": 398,
       "losses": 88,
-      "total": 485,
-      "profit": 27974.0,
-      "win_rate": 81.85567010309278
+      "total": 486,
+      "profit": 28042.0,
+      "win_rate": 81.89300411522635
     }
   }
 }
