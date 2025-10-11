@@ -54850,6 +54850,38 @@
       "Year": "2025",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2025-10-13",
+      "Team A": "San Luis Quillot",
+      "Team B": "Recoleta",
+      "League": "Chile - Primera B",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.7124841563697142,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 1.73,
+      "Actual Score": "",
+      "League Rank": 637,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2025-10-13",
+      "Team A": "Juan Pablo II Co",
+      "Team B": "Deportivo Garcil",
+      "League": "Peru - Primera Divisi\u00f3n",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6667243075005261,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 1.74,
+      "Actual Score": "",
+      "League Rank": 738,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
