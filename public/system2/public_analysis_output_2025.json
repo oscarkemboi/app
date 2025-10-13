@@ -3770,11 +3770,35 @@
           "score": "",
           "h2h_under": "100.00%",
           "status": "⚪"
+        },
+        {
+          "date": "2025-10-11",
+          "match": "Shijiazhuang vs Shenyang Urban F",
+          "odd": "1.79",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "⚪"
+        },
+        {
+          "date": "2025-10-11",
+          "match": "Tlaxcala vs Tampico Madero",
+          "odd": "1.85",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "⚪"
+        },
+        {
+          "date": "2025-10-12",
+          "match": "Benevento vs Altamura",
+          "odd": "1.97",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "⚪"
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "16.67%",
-        "under_2.5_count": "1/6",
+        "under_2.5_percentage": "28.57%",
+        "under_2.5_count": "2/7",
         "average_odds": "1.79"
       },
       "combo_stats": {
@@ -3786,8 +3810,8 @@
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "48.98%",
-      "under_2.5_count": "216/441",
+      "under_2.5_percentage": "49.10%",
+      "under_2.5_count": "217/442",
       "average_odds": "1.84"
     },
     "combo_stats": {
