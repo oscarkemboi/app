@@ -3882,12 +3882,36 @@
           "score": "",
           "h2h_under": "100.00%",
           "status": "⚪"
+        },
+        {
+          "date": "2025-10-13",
+          "match": "Nagano vs Kamatamare Sanuk",
+          "odd": "1.78",
+          "score": "1-0",
+          "h2h_under": "75.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-10-14",
+          "match": "Tigres de Alica vs Mineros de Fresn",
+          "odd": "1.78",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "⚪"
+        },
+        {
+          "date": "2025-10-14",
+          "match": "Croatia U21 vs Ukraine U21",
+          "odd": "1.82",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "⚪"
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "28.57%",
-        "under_2.5_count": "2/7",
-        "average_odds": "1.79"
+        "under_2.5_percentage": "37.50%",
+        "under_2.5_count": "3/8",
+        "average_odds": "1.80"
       },
       "combo_stats": {
         "combo_under_2.5_percentage": "0.00%",
@@ -3898,8 +3922,8 @@
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "87.22%",
-      "under_2.5_count": "396/454",
+      "under_2.5_percentage": "87.25%",
+      "under_2.5_count": "397/455",
       "average_odds": "1.85"
     },
     "combo_stats": {
