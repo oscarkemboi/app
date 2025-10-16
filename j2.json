@@ -54946,6 +54946,102 @@
       "Year": "2025",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2025-10-16",
+      "Team A": "Tampico Madero",
+      "Team B": "Mineros de Zacat",
+      "League": "Mexico - Liga de Expansi\u00f3n MX",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6632373544068162,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 1.66,
+      "Actual Score": "2-2",
+      "League Rank": 1002,
+      "Year": "2025",
+      "Win": false,
+      "Profit": -100
+    },
+    {
+      "Date": "2025-10-17",
+      "Team A": "Standard Liege",
+      "Team B": "Royal Antwerp",
+      "League": "Belgium - Jupiler League",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.7525755422022092,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 1.8,
+      "Actual Score": "",
+      "League Rank": 1061,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2025-10-17",
+      "Team A": "Sochaux",
+      "Team B": "Aubagne",
+      "League": "France - National League",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.685223043686747,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 1.7,
+      "Actual Score": "",
+      "League Rank": 499,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2025-10-18",
+      "Team A": "Wuhan Three Town",
+      "Team B": "Xi'an Ronghai",
+      "League": "China - League Two",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.937850092014751,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 1.69,
+      "Actual Score": "",
+      "League Rank": 446,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2025-10-18",
+      "Team A": "Aurora",
+      "Team B": "Achuapa",
+      "League": "Guatemala - Liga Nacional",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.8912560198558982,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 1.75,
+      "Actual Score": "",
+      "League Rank": 573,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2025-10-19",
+      "Team A": "Colorado Springs",
+      "Team B": "Las Vegas Lights",
+      "League": "United States - Usl Championship",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.580696664470017,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 1.92,
+      "Actual Score": "",
+      "League Rank": 766,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
@@ -55427,10 +55523,10 @@
     },
     "2025-10": {
       "wins": 4,
-      "losses": 2,
-      "total": 6,
-      "profit": 106.0,
-      "win_rate": 66.66666666666666
+      "losses": 3,
+      "total": 7,
+      "profit": 6.0,
+      "win_rate": 57.14285714285714
     }
   },
   "yearly_stats": {
@@ -55471,10 +55567,10 @@
     },
     "2025": {
       "wins": 398,
-      "losses": 88,
-      "total": 486,
-      "profit": 28042.0,
-      "win_rate": 81.89300411522635
+      "losses": 89,
+      "total": 487,
+      "profit": 27942.0,
+      "win_rate": 81.72484599589322
     }
   }
 }
