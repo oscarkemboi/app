@@ -3794,12 +3794,36 @@
           "score": "",
           "h2h_under": "100.00%",
           "status": "⚪"
+        },
+        {
+          "date": "2025-10-13",
+          "match": "Nagano vs Kamatamare Sanuk",
+          "odd": "1.78",
+          "score": "1-0",
+          "h2h_under": "75.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-10-14",
+          "match": "Croatia U21 vs Ukraine U21",
+          "odd": "1.82",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "⚪"
+        },
+        {
+          "date": "2025-10-14",
+          "match": "South Africa vs Rwanda",
+          "odd": "1.76",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "⚪"
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "28.57%",
-        "under_2.5_count": "2/7",
-        "average_odds": "1.79"
+        "under_2.5_percentage": "37.50%",
+        "under_2.5_count": "3/8",
+        "average_odds": "1.80"
       },
       "combo_stats": {
         "combo_under_2.5_percentage": "0.00%",
@@ -3810,8 +3834,8 @@
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "49.10%",
-      "under_2.5_count": "217/442",
+      "under_2.5_percentage": "49.21%",
+      "under_2.5_count": "218/443",
       "average_odds": "1.84"
     },
     "combo_stats": {
@@ -3821,7 +3845,7 @@
     }
   },
   "notable_analysis": [
-    "EV Singles: -0.10 (positive → possible profitability).",
+    "EV Singles: -0.09 (positive → possible profitability).",
     "EV Combos: -0.13 (positive → possible profitability).",
     "Note: Combos are riskier but offer larger multipliers.",
     "Strategy: focus on high H2H Under% with odds 1.72–2.0."
