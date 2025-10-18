@@ -55042,6 +55042,38 @@
       "Year": "2025",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2025-10-20",
+      "Team A": "IFK Goteborg",
+      "Team B": "Mjallby AIF",
+      "League": "Sweden - Allsvenskanliga",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.655607688341975,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 1.97,
+      "Actual Score": "",
+      "League Rank": 1029,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2025-10-20",
+      "Team A": "Ferroviaria SP",
+      "Team B": "SC Paysandu Para",
+      "League": "Brazil - Serie B",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6281095311088221,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 1.68,
+      "Actual Score": "",
+      "League Rank": 447,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
