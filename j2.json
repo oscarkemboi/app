@@ -55346,6 +55346,38 @@
       "Year": "2025",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2025-10-30",
+      "Team A": "Pisa",
+      "Team B": "Lazio",
+      "League": "Italy - Serie A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.8796952029424421,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 1.75,
+      "Actual Score": "",
+      "League Rank": 955,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2025-10-30",
+      "Team A": "Millonarios",
+      "Team B": "Deportiva Once C",
+      "League": "Colombia - Primera A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.661033010948751,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 1.72,
+      "Actual Score": "",
+      "League Rank": 400,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
