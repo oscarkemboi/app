@@ -55378,6 +55378,38 @@
       "Year": "2025",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2025-10-31",
+      "Team A": "Piast Gliwice",
+      "Team B": "Korona Kielce",
+      "League": "Poland - Ekstraklasa",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.7374311137413498,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 1.76,
+      "Actual Score": "",
+      "League Rank": 715,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2025-10-31",
+      "Team A": "2 de Mayo PJC",
+      "Team B": "Atl. Tembetary",
+      "League": "Paraguay - Primera Division - Clausura",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6929266881286775,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 1.76,
+      "Actual Score": "",
+      "League Rank": 665,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
