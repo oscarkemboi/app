@@ -55410,6 +55410,38 @@
       "Year": "2025",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2025-11-01",
+      "Team A": "Slatina",
+      "Team B": "Chindia Targovis",
+      "League": "Romania - Liga 2",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.8393454885950231,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 1.74,
+      "Actual Score": "",
+      "League Rank": 723,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2025-11-01",
+      "Team A": "Gent B",
+      "Team B": "KAS Eupen",
+      "League": "Belgium - Proximus League",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.8320256150773239,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 1.96,
+      "Actual Score": "",
+      "League Rank": 1019,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
