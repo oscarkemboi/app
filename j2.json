@@ -55442,6 +55442,38 @@
       "Year": "2025",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2025-11-03",
+      "Team A": "Puszcza Niepolom",
+      "Team B": "Stal Mielec",
+      "League": "Poland - 1. Liga",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6564518931294748,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 1.96,
+      "Actual Score": "",
+      "League Rank": 676,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2025-11-03",
+      "Team A": "Beroe Stara Zago",
+      "Team B": "Lokomotiv Sofia",
+      "League": "Bulgaria - Parva liga",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6466825962109362,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 1.71,
+      "Actual Score": "",
+      "League Rank": 555,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
