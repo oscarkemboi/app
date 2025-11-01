@@ -4090,6 +4090,38 @@
           "score": "",
           "h2h_under": "100.00%",
           "status": "⚪"
+        },
+        {
+          "date": "2025-10-30",
+          "match": "Millonarios vs Deportiva Once C",
+          "odd": "1.72",
+          "score": "",
+          "h2h_under": "66.67%",
+          "status": "⚪"
+        },
+        {
+          "date": "2025-10-30",
+          "match": "Bahrain SC vs Ali CSC",
+          "odd": "1.97",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "⚪"
+        },
+        {
+          "date": "2025-10-31",
+          "match": "Standard Liege vs Charleroi",
+          "odd": "1.80",
+          "score": "",
+          "h2h_under": "75.00%",
+          "status": "⚪"
+        },
+        {
+          "date": "2025-10-31",
+          "match": "2 de Mayo PJC vs Atl. Tembetary",
+          "odd": "1.76",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "⚪"
         }
       ],
       "single_stats": {
@@ -4102,12 +4134,24 @@
         "combo_under_2.5_count": "0/3",
         "average_combo_odds": "3.22"
       }
+    },
+    {
+      "month": "2025-11",
+      "matches": [],
+      "single_stats": {
+        "under_2.5_percentage": "0.00%",
+        "under_2.5_count": "0/1",
+        "average_odds": "1.83"
+      },
+      "combo_stats": {
+        "message": "No valid 2-match combos in 2025-11."
+      }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "87.25%",
-      "under_2.5_count": "397/455",
+      "under_2.5_percentage": "87.06%",
+      "under_2.5_count": "397/456",
       "average_odds": "1.85"
     },
     "combo_stats": {
