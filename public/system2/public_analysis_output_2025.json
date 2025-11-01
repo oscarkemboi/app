@@ -4018,6 +4018,38 @@
           "score": "",
           "h2h_under": "100.00%",
           "status": "⚪"
+        },
+        {
+          "date": "2025-10-30",
+          "match": "Millonarios vs Deportiva Once C",
+          "odd": "1.72",
+          "score": "",
+          "h2h_under": "66.67%",
+          "status": "⚪"
+        },
+        {
+          "date": "2025-10-30",
+          "match": "Bahrain SC vs Ali CSC",
+          "odd": "1.97",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "⚪"
+        },
+        {
+          "date": "2025-10-31",
+          "match": "Standard Liege vs Charleroi",
+          "odd": "1.80",
+          "score": "",
+          "h2h_under": "75.00%",
+          "status": "⚪"
+        },
+        {
+          "date": "2025-10-31",
+          "match": "2 de Mayo PJC vs Atl. Tembetary",
+          "odd": "1.76",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "⚪"
         }
       ],
       "single_stats": {
@@ -4030,12 +4062,24 @@
         "combo_under_2.5_count": "0/3",
         "average_combo_odds": "3.22"
       }
+    },
+    {
+      "month": "2025-11",
+      "matches": [],
+      "single_stats": {
+        "under_2.5_percentage": "0.00%",
+        "under_2.5_count": "0/1",
+        "average_odds": "1.83"
+      },
+      "combo_stats": {
+        "message": "No valid 2-match combos in 2025-11."
+      }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "49.21%",
-      "under_2.5_count": "218/443",
+      "under_2.5_percentage": "49.10%",
+      "under_2.5_count": "218/444",
       "average_odds": "1.84"
     },
     "combo_stats": {
@@ -4045,7 +4089,7 @@
     }
   },
   "notable_analysis": [
-    "EV Singles: -0.09 (positive → possible profitability).",
+    "EV Singles: -0.10 (positive → possible profitability).",
     "EV Combos: -0.13 (positive → possible profitability).",
     "Note: Combos are riskier but offer larger multipliers.",
     "Strategy: focus on high H2H Under% with odds 1.72–2.0."
