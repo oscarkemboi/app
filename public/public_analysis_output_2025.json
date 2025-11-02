@@ -4137,7 +4137,24 @@
     },
     {
       "month": "2025-11",
-      "matches": [],
+      "matches": [
+        {
+          "date": "2025-11-01",
+          "match": "FC Anyang vs Ulsan Hyundai Ho",
+          "odd": "1.83",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2025-11-01",
+          "match": "Ural Sverdlovsk vs Saratov",
+          "odd": "1.75",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "⚪"
+        }
+      ],
       "single_stats": {
         "under_2.5_percentage": "0.00%",
         "under_2.5_count": "0/1",
