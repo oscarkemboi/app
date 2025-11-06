@@ -55522,6 +55522,22 @@
       "Year": "2025",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2025-11-09",
+      "Team A": "North Carolina",
+      "Team B": "Rhode Island",
+      "League": "United States - Usl Championship",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5555013205223875,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 1.69,
+      "Actual Score": "",
+      "League Rank": 766,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
