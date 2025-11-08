@@ -55538,6 +55538,38 @@
       "Year": "2025",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2025-11-10",
+      "Team A": "Atl. Tembetary",
+      "Team B": "FC Nacional Asun",
+      "League": "Paraguay - Primera Division - Clausura",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6214452015128882,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 1.75,
+      "Actual Score": "",
+      "League Rank": 665,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2025-11-10",
+      "Team A": "Esbjerg",
+      "Team B": "Middelfart G og",
+      "League": "Denmark - Bet25 Liga",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5970333570043255,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.17,
+      "Actual Score": "",
+      "League Rank": 1034,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
