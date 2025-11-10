@@ -55570,6 +55570,38 @@
       "Year": "2025",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2025-11-11",
+      "Team A": "Newport",
+      "Team B": "Exeter City",
+      "League": "England - Efl Trophy",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.7043215523651651,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 1.97,
+      "Actual Score": "",
+      "League Rank": 1407,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2025-11-11",
+      "Team A": "Enfield Town",
+      "Team B": "Salisbury City",
+      "League": "England - Vanarama National League South",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6969214755054738,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 1.88,
+      "Actual Score": "",
+      "League Rank": 1051,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
