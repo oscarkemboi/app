@@ -55618,6 +55618,38 @@
       "Year": "2025",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2025-11-14",
+      "Team A": "Canada",
+      "Team B": "Ecuador",
+      "League": "International - Friendly International",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.8299311685012323,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 1.8,
+      "Actual Score": "",
+      "League Rank": 751,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2025-11-14",
+      "Team A": "Fremad Amager",
+      "Team B": "Skive IK",
+      "League": "Denmark - 2nd Division - Group 1",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6077061589034389,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 1.95,
+      "Actual Score": "",
+      "League Rank": 989,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
