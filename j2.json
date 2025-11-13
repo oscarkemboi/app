@@ -55650,6 +55650,38 @@
       "Year": "2025",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2025-11-15",
+      "Team A": "Volta Redonda",
+      "Team B": "Chapecoense SC",
+      "League": "Brazil - Serie B",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.8082387504652306,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 1.71,
+      "Actual Score": "",
+      "League Rank": 447,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2025-11-15",
+      "Team A": "Pen-y-Bont FC",
+      "Team B": "Bala Town",
+      "League": "Wales - Premier League",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6443374399207589,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 1.77,
+      "Actual Score": "",
+      "League Rank": 1165,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
