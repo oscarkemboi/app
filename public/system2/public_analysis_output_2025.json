@@ -1471,7 +1471,7 @@
           "odd": "1.78",
           "score": "",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "🟠"
         },
         {
           "date": "2025-04-22",
@@ -1638,7 +1638,7 @@
           "odd": "1.76",
           "score": "",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "🟠"
         },
         {
           "date": "2025-05-03",
@@ -1982,7 +1982,7 @@
           "odd": "1.74",
           "score": "",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "🟠"
         },
         {
           "date": "2025-05-26",
@@ -2764,7 +2764,7 @@
           "odd": "1.87",
           "score": "0-0",
           "h2h_under": "76.92%",
-          "status": "✅"
+          "status": "🟠"
         },
         {
           "date": "2025-07-21",
@@ -3275,7 +3275,7 @@
           "odd": "1.77",
           "score": "",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "🟠"
         }
       ],
       "single_stats": {
@@ -3306,7 +3306,7 @@
           "odd": "1.84",
           "score": "0-0",
           "h2h_under": "100.00%",
-          "status": "✅"
+          "status": "🟠"
         },
         {
           "date": "2025-09-03",
@@ -3640,17 +3640,17 @@
           "date": "2025-09-30",
           "match": "Al-Sadd vs Al-Sharjah",
           "odd": "1.97",
-          "score": "",
+          "score": "1-1",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "✅"
         },
         {
           "date": "2025-09-30",
           "match": "Birmingham vs Sheffield Wednes",
           "odd": "1.80",
-          "score": "",
+          "score": "2-2",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "🟠"
         }
       ],
       "single_stats": {
@@ -3719,81 +3719,81 @@
           "date": "2025-10-05",
           "match": "Guangxi Pingguo vs Chongqing Tongli",
           "odd": "1.87",
-          "score": "",
+          "score": "1-2",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "🟠"
         },
         {
           "date": "2025-10-06",
           "match": "Cultural Leonesa vs Albacete",
           "odd": "1.83",
-          "score": "",
+          "score": "0-0",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "✅"
         },
         {
           "date": "2025-10-06",
           "match": "Harrogate Town vs Crewe",
           "odd": "1.77",
-          "score": "",
+          "score": "1-2",
           "h2h_under": "60.00%",
-          "status": "⚪"
+          "status": "🟠"
         },
         {
           "date": "2025-10-07",
           "match": "Seoul E. vs Hwaseong FC",
           "odd": "1.88",
-          "score": "",
+          "score": "1-1",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "✅"
         },
         {
           "date": "2025-10-07",
           "match": "Walsall vs Northampton Town",
           "odd": "1.85",
-          "score": "",
+          "score": "0-1",
           "h2h_under": "80.00%",
-          "status": "⚪"
+          "status": "✅"
         },
         {
           "date": "2025-10-10",
           "match": "Osaka vs FC Ryukyu",
           "odd": "1.91",
-          "score": "",
+          "score": "3-0",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "🟠"
         },
         {
           "date": "2025-10-10",
           "match": "Recoleta vs Olimpia Asuncion",
           "odd": "1.99",
-          "score": "",
+          "score": "1-0",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "✅"
         },
         {
           "date": "2025-10-11",
           "match": "Shijiazhuang vs Shenyang Urban F",
           "odd": "1.79",
-          "score": "",
+          "score": "1-2",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "🟠"
         },
         {
           "date": "2025-10-11",
           "match": "Tlaxcala vs Tampico Madero",
           "odd": "1.85",
-          "score": "",
+          "score": "1-1",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "✅"
         },
         {
           "date": "2025-10-12",
           "match": "Benevento vs Altamura",
           "odd": "1.97",
-          "score": "",
+          "score": "4-0",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "🟠"
         },
         {
           "date": "2025-10-13",
@@ -3807,17 +3807,17 @@
           "date": "2025-10-14",
           "match": "Croatia U21 vs Ukraine U21",
           "odd": "1.82",
-          "score": "",
+          "score": "1-0",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "✅"
         },
         {
           "date": "2025-10-14",
           "match": "South Africa vs Rwanda",
           "odd": "1.76",
-          "score": "",
+          "score": "3-0",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "🟠"
         },
         {
           "date": "2025-10-16",
@@ -3831,225 +3831,225 @@
           "date": "2025-10-17",
           "match": "Middlesbrough vs Ipswich Town",
           "odd": "1.72",
-          "score": "",
+          "score": "2-1",
           "h2h_under": "83.33%",
-          "status": "⚪"
+          "status": "🟠"
         },
         {
           "date": "2025-10-18",
           "match": "Ratchaburi FC vs Lamphun Warrior",
           "odd": "1.96",
-          "score": "",
+          "score": "5-0",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "🟠"
         },
         {
           "date": "2025-10-18",
           "match": "Zhytomyr vs FC Shakhtar Done",
           "odd": "1.79",
-          "score": "",
+          "score": "0-0",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "✅"
         },
         {
           "date": "2025-10-19",
           "match": "Ludogorets II vs Chernomorets 191",
           "odd": "1.80",
-          "score": "",
+          "score": "4-2",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "🟠"
         },
         {
           "date": "2025-10-19",
           "match": "APOEL Nicosia vs Olympiakos",
           "odd": "1.97",
-          "score": "",
+          "score": "2-2",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "🟠"
         },
         {
           "date": "2025-10-20",
           "match": "FK Chayka vs Ural Sverdlovsk",
           "odd": "1.83",
-          "score": "",
+          "score": "0-1",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "✅"
         },
         {
           "date": "2025-10-20",
           "match": "Fratria vs Spartak Pleven",
           "odd": "1.80",
-          "score": "",
+          "score": "1-0",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "✅"
         },
         {
           "date": "2025-10-21",
           "match": "Melbourne City vs Buriram PEA",
           "odd": "1.96",
-          "score": "",
+          "score": "2-1",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "🟠"
         },
         {
           "date": "2025-10-21",
           "match": "Worksop Town vs Kings Lynn",
           "odd": "1.94",
-          "score": "",
+          "score": "2-2",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "🟠"
         },
         {
           "date": "2025-10-22",
           "match": "Konyaspor vs Besiktas",
           "odd": "1.95",
-          "score": "",
+          "score": "0-2",
           "h2h_under": "65.00%",
-          "status": "⚪"
+          "status": "✅"
         },
         {
           "date": "2025-10-22",
           "match": "Atletico Naciona vs Deportiva Once C",
           "odd": "1.77",
-          "score": "",
+          "score": "2-0",
           "h2h_under": "66.67%",
-          "status": "⚪"
+          "status": "✅"
         },
         {
           "date": "2025-10-23",
           "match": "Rijeka vs Sparta Praha",
           "odd": "1.90",
-          "score": "",
+          "score": "1-0",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "✅"
         },
         {
           "date": "2025-10-23",
           "match": "Maccabi Tel Aviv vs Midtjylland",
           "odd": "1.84",
-          "score": "",
+          "score": "0-3",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "🟠"
         },
         {
           "date": "2025-10-24",
           "match": "PSBS Biak vs Persebaya",
           "odd": "1.82",
-          "score": "",
+          "score": "0-0",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "✅"
         },
         {
           "date": "2025-10-24",
           "match": "Erzurumspor vs Umraniyespor",
           "odd": "1.86",
-          "score": "",
+          "score": "2-0",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "✅"
         },
         {
           "date": "2025-10-25",
           "match": "Forest Green Rov vs Boreham Wood",
           "odd": "1.77",
-          "score": "",
+          "score": "2-1",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "🟠"
         },
         {
           "date": "2025-10-26",
           "match": "Bandirmaspor vs Erokspor",
           "odd": "1.92",
-          "score": "",
+          "score": "0-0",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "✅"
         },
         {
           "date": "2025-10-26",
           "match": "Bari vs Mantova",
           "odd": "1.89",
-          "score": "",
+          "score": "1-0",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "✅"
         },
         {
           "date": "2025-10-27",
           "match": "Radomiak Radom vs Wisla Plock",
           "odd": "1.77",
-          "score": "",
+          "score": "1-1",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "✅"
         },
         {
           "date": "2025-10-27",
           "match": "Colo Colo vs Limache",
           "odd": "1.91",
-          "score": "",
+          "score": "2-2",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "🟠"
         },
         {
           "date": "2025-10-28",
           "match": "Athletico-PR vs Amazonas",
           "odd": "1.79",
-          "score": "",
+          "score": "2-0",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "✅"
         },
         {
           "date": "2025-10-28",
           "match": "Boulogne vs Reims",
           "odd": "1.72",
-          "score": "",
+          "score": "2-6",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "🟠"
         },
         {
           "date": "2025-10-29",
           "match": "Paris FC vs Lyon",
           "odd": "1.95",
-          "score": "",
+          "score": "3-3",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "🟠"
         },
         {
           "date": "2025-10-29",
           "match": "Penarol vs Plaza Colonia",
           "odd": "1.80",
-          "score": "",
+          "score": "2-0",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "✅"
         },
         {
           "date": "2025-10-30",
           "match": "Millonarios vs Deportiva Once C",
           "odd": "1.72",
-          "score": "",
+          "score": "0-0",
           "h2h_under": "66.67%",
-          "status": "⚪"
+          "status": "✅"
         },
         {
           "date": "2025-10-30",
           "match": "Bahrain SC vs Ali CSC",
           "odd": "1.97",
-          "score": "",
+          "score": "1-0",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "✅"
         },
         {
           "date": "2025-10-31",
           "match": "Standard Liege vs Charleroi",
           "odd": "1.80",
-          "score": "",
+          "score": "3-1",
           "h2h_under": "75.00%",
-          "status": "⚪"
+          "status": "🟠"
         },
         {
           "date": "2025-10-31",
           "match": "2 de Mayo PJC vs Atl. Tembetary",
           "odd": "1.76",
-          "score": "",
+          "score": "0-1",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "✅"
         }
       ],
       "single_stats": {
@@ -4078,129 +4078,129 @@
           "date": "2025-11-01",
           "match": "Ural Sverdlovsk vs Saratov",
           "odd": "1.75",
-          "score": "",
+          "score": "2-0",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "✅"
         },
         {
           "date": "2025-11-02",
           "match": "Kataller Toyama vs Ehime FC",
           "odd": "1.83",
-          "score": "",
+          "score": "1-1",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "✅"
         },
         {
           "date": "2025-11-02",
           "match": "Monza vs Spezia",
           "odd": "1.72",
-          "score": "",
+          "score": "1-0",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "✅"
         },
         {
           "date": "2025-11-03",
           "match": "Igdir vs Bandirmaspor",
           "odd": "1.86",
-          "score": "",
+          "score": "1-1",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "✅"
         },
         {
           "date": "2025-11-03",
           "match": "Caykur Rizespor vs Karagumruk",
           "odd": "1.85",
-          "score": "",
+          "score": "1-0",
           "h2h_under": "71.43%",
-          "status": "⚪"
+          "status": "✅"
         },
         {
           "date": "2025-11-05",
           "match": "Universidad de C vs Everton CD",
           "odd": "1.92",
-          "score": "",
+          "score": "2-0",
           "h2h_under": "62.96%",
-          "status": "⚪"
+          "status": "✅"
         },
         {
           "date": "2025-11-07",
           "match": "Farul Constanta vs Botosani",
           "odd": "1.83",
-          "score": "",
+          "score": "2-0",
           "h2h_under": "80.00%",
-          "status": "⚪"
+          "status": "✅"
         },
         {
           "date": "2025-11-07",
           "match": "FC Rapperswil-Jo vs FC Wil 1900",
           "odd": "1.94",
-          "score": "",
+          "score": "1-2",
           "h2h_under": "72.73%",
-          "status": "⚪"
+          "status": "🟠"
         },
         {
           "date": "2025-11-08",
           "match": "SL Benfica B vs Vizela",
           "odd": "1.93",
-          "score": "",
+          "score": "1-2",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "🟠"
         },
         {
           "date": "2025-11-08",
           "match": "Vasco da Gama vs Juventude",
           "odd": "1.89",
-          "score": "",
+          "score": "1-3",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "🟠"
         },
         {
           "date": "2025-11-09",
           "match": "IMT Novi Beograd vs TSC",
           "odd": "1.98",
-          "score": "",
+          "score": "1-1",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "✅"
         },
         {
           "date": "2025-11-10",
           "match": "Salernitana vs Crotone",
           "odd": "1.77",
-          "score": "",
+          "score": "0-0",
           "h2h_under": "75.00%",
-          "status": "⚪"
+          "status": "✅"
         },
         {
           "date": "2025-11-10",
           "match": "Atl. Tembetary vs FC Nacional Asun",
           "odd": "1.75",
-          "score": "",
+          "score": "0-2",
           "h2h_under": "66.67%",
-          "status": "⚪"
+          "status": "✅"
         },
         {
           "date": "2025-11-11",
           "match": "Gillingham vs Wycombe Wanderer",
           "odd": "1.81",
-          "score": "",
+          "score": "0-3",
           "h2h_under": "80.00%",
-          "status": "⚪"
+          "status": "🟠"
         },
         {
           "date": "2025-11-11",
           "match": "Chichester City vs Whitehawk",
           "odd": "1.84",
-          "score": "",
+          "score": "2-1",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "🟠"
         },
         {
           "date": "2025-11-12",
           "match": "Atletico Mineiro vs Fortaleza",
           "odd": "1.77",
-          "score": "",
+          "score": "3-3",
           "h2h_under": "35.71%",
-          "status": "⚪"
+          "status": "🟠"
         },
         {
           "date": "2025-11-13",
@@ -4208,7 +4208,7 @@
           "odd": "1.83",
           "score": "",
           "h2h_under": "100.00%",
-          "status": "⚪"
+          "status": "🟠"
         },
         {
           "date": "2025-11-14",
@@ -4216,7 +4216,7 @@
           "odd": "1.95",
           "score": "",
           "h2h_under": "68.42%",
-          "status": "⚪"
+          "status": "🟠"
         }
       ],
       "single_stats": {
