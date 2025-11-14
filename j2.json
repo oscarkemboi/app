@@ -6410,10 +6410,10 @@
       "Confidence": 0.5051732749773146,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.08,
-      "Actual Score": "",
+      "Actual Score": "0-0",
       "Year": "2021",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 108.0
     },
     {
       "Date": "2021-01-15",
@@ -6560,10 +6560,10 @@
       "Confidence": 0.6207508917918948,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.38,
-      "Actual Score": "",
+      "Actual Score": "0-0",
       "Year": "2021",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 138.0
     },
     {
       "Date": "2021-01-20",
@@ -19370,10 +19370,10 @@
       "Confidence": 0.5847255144457297,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.28,
-      "Actual Score": "",
+      "Actual Score": "0-0",
       "Year": "2022",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 127.99999999999999
     },
     {
       "Date": "2022-12-17",
@@ -21965,10 +21965,10 @@
       "Confidence": 0.7521657909128172,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.34,
-      "Actual Score": "",
+      "Actual Score": "2-1",
       "Year": "2023",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2023-05-13",
@@ -21995,10 +21995,10 @@
       "Confidence": 0.6875973911829291,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.19,
-      "Actual Score": "",
+      "Actual Score": "0-0",
       "Year": "2023",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 119.0
     },
     {
       "Date": "2023-05-14",
@@ -22010,10 +22010,10 @@
       "Confidence": 0.6716032226542092,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.13,
-      "Actual Score": "",
+      "Actual Score": "0-0",
       "Year": "2023",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 112.99999999999999
     },
     {
       "Date": "2023-05-15",
@@ -22325,10 +22325,10 @@
       "Confidence": 0.7630189684952794,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.02,
-      "Actual Score": "",
+      "Actual Score": "4-3",
       "Year": "2023",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2023-05-28",
@@ -23975,10 +23975,10 @@
       "Confidence": 0.8199919314013545,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.16,
-      "Actual Score": "",
+      "Actual Score": "1-2",
       "Year": "2023",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2023-07-31",
@@ -24185,10 +24185,10 @@
       "Confidence": 0.6511273168433971,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.02,
-      "Actual Score": "",
+      "Actual Score": "0-0",
       "Year": "2023",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 102.0
     },
     {
       "Date": "2023-08-08",
@@ -25235,10 +25235,10 @@
       "Confidence": 0.5759949685919183,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.25,
-      "Actual Score": "",
+      "Actual Score": "0-0",
       "Year": "2023",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 125.0
     },
     {
       "Date": "2023-09-16",
@@ -25310,10 +25310,10 @@
       "Confidence": 0.6207555348580309,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.01,
-      "Actual Score": "",
+      "Actual Score": "0-0",
       "Year": "2023",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 100.99999999999997
     },
     {
       "Date": "2023-09-18",
@@ -25355,10 +25355,10 @@
       "Confidence": 0.7042022375518504,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.1,
-      "Actual Score": "",
+      "Actual Score": "0-0",
       "Year": "2023",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 110.00000000000001
     },
     {
       "Date": "2023-09-20",
@@ -25505,10 +25505,10 @@
       "Confidence": 0.6741604488962142,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.08,
-      "Actual Score": "",
+      "Actual Score": "0-0",
       "Year": "2023",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 108.0
     },
     {
       "Date": "2023-09-25",
@@ -25700,10 +25700,10 @@
       "Confidence": 0.6340601900703658,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.27,
-      "Actual Score": "",
+      "Actual Score": "0-0",
       "Year": "2023",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 127.0
     },
     {
       "Date": "2023-10-02",
@@ -26435,10 +26435,10 @@
       "Confidence": 0.6133974857042748,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.15,
-      "Actual Score": "",
+      "Actual Score": "0-2",
       "Year": "2023",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 114.99999999999999
     },
     {
       "Date": "2023-10-30",
@@ -26450,10 +26450,10 @@
       "Confidence": 0.5697493284574435,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.03,
-      "Actual Score": "",
+      "Actual Score": "0-0",
       "Year": "2023",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 102.99999999999999
     },
     {
       "Date": "2023-10-30",
@@ -26525,10 +26525,10 @@
       "Confidence": 0.7568534740244632,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.01,
-      "Actual Score": "",
+      "Actual Score": "0-0",
       "Year": "2023",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 100.99999999999997
     },
     {
       "Date": "2023-11-02",
@@ -33935,10 +33935,10 @@
       "Confidence": 0.7308730875820856,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.06,
-      "Actual Score": "",
+      "Actual Score": "0-0",
       "Year": "2024",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 106.0
     },
     {
       "Date": "2024-08-15",
@@ -38945,10 +38945,10 @@
       "Confidence": 0.7768594510019782,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.03,
-      "Actual Score": "",
+      "Actual Score": "0-0",
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 102.99999999999999
     },
     {
       "Date": "2025-03-16",
@@ -39755,10 +39755,10 @@
       "Confidence": 0.7576257880365231,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2,
-      "Actual Score": "",
+      "Actual Score": "0-0",
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 100
     },
     {
       "Date": "2025-04-22",
@@ -39845,10 +39845,10 @@
       "Confidence": 0.637655440959807,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.49,
-      "Actual Score": "",
+      "Actual Score": "0-0",
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 149.00000000000003
     },
     {
       "Date": "2025-04-26",
@@ -40115,10 +40115,10 @@
       "Confidence": 0.9232919426677741,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2,
-      "Actual Score": "",
+      "Actual Score": "0-0",
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 100
     },
     {
       "Date": "2025-05-08",
@@ -42890,10 +42890,10 @@
       "Confidence": 0.6836532198464877,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.15,
-      "Actual Score": "",
+      "Actual Score": "0-0",
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 114.99999999999999
     },
     {
       "Date": "2025-09-19",
@@ -43115,10 +43115,10 @@
       "Confidence": 0.9065769229864288,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.04,
-      "Actual Score": "",
+      "Actual Score": "0-0",
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 104.0
     },
     {
       "Date": "2025-09-27",
@@ -43250,10 +43250,10 @@
       "Confidence": 0.7768453063976306,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.19,
-      "Actual Score": "",
+      "Actual Score": "4-0",
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2025-10-03",
@@ -43265,10 +43265,10 @@
       "Confidence": 0.607815572257483,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.35,
-      "Actual Score": "",
+      "Actual Score": "3-1",
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2025-10-04",
@@ -43280,10 +43280,10 @@
       "Confidence": 0.9750077069318608,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.2,
-      "Actual Score": "",
+      "Actual Score": "2-2",
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2025-10-04",
@@ -43295,10 +43295,10 @@
       "Confidence": 0.8739507727087188,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.3,
-      "Actual Score": "",
+      "Actual Score": "2-0",
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 129.99999999999997
     },
     {
       "Date": "2025-10-05",
@@ -43310,10 +43310,10 @@
       "Confidence": 0.8589549222931887,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.04,
-      "Actual Score": "",
+      "Actual Score": "3-1",
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2025-10-05",
@@ -43325,10 +43325,10 @@
       "Confidence": 0.6946056089921762,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.02,
-      "Actual Score": "",
+      "Actual Score": "2-3",
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2025-10-07",
@@ -43340,11 +43340,11 @@
       "Confidence": 0.9140505217687592,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.05,
-      "Actual Score": "",
+      "Actual Score": "2-1",
       "League Rank": 1407,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2025-10-07",
@@ -43356,11 +43356,11 @@
       "Confidence": 0.6219963713693125,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.05,
-      "Actual Score": "",
+      "Actual Score": "0-2",
       "League Rank": 1407,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 104.99999999999999
     },
     {
       "Date": "2025-10-08",
@@ -43372,11 +43372,11 @@
       "Confidence": 0.891329342337065,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.23,
-      "Actual Score": "",
+      "Actual Score": "0-2",
       "League Rank": 510,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 123.0
     },
     {
       "Date": "2025-10-08",
@@ -43388,11 +43388,11 @@
       "Confidence": 0.8796058878665063,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.11,
-      "Actual Score": "",
+      "Actual Score": "0-2",
       "League Rank": 510,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 110.99999999999999
     },
     {
       "Date": "2025-10-10",
@@ -43404,11 +43404,11 @@
       "Confidence": 0.8034352224481056,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.13,
-      "Actual Score": "",
+      "Actual Score": "3-2",
       "League Rank": 1078,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2025-10-10",
@@ -43420,11 +43420,11 @@
       "Confidence": 0.7625129358131217,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.25,
-      "Actual Score": "",
+      "Actual Score": "1-2",
       "League Rank": 510,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2025-10-11",
@@ -43436,11 +43436,11 @@
       "Confidence": 0.7845327934454569,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.46,
-      "Actual Score": "",
+      "Actual Score": "1-0",
       "League Rank": 1104,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 146.0
     },
     {
       "Date": "2025-10-11",
@@ -43452,11 +43452,11 @@
       "Confidence": 0.7755856451298122,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.38,
-      "Actual Score": "",
+      "Actual Score": "1-0",
       "League Rank": 1104,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 138.0
     },
     {
       "Date": "2025-10-12",
@@ -43468,11 +43468,11 @@
       "Confidence": 0.5660743625432075,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.04,
-      "Actual Score": "",
+      "Actual Score": "0-0",
       "League Rank": 1002,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 104.0
     },
     {
       "Date": "2025-10-12",
@@ -43484,11 +43484,11 @@
       "Confidence": 0.558341081654312,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.0,
-      "Actual Score": "",
+      "Actual Score": "2-0",
       "League Rank": 472,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 100.0
     },
     {
       "Date": "2025-10-14",
@@ -43500,11 +43500,11 @@
       "Confidence": 0.8180963714463542,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.38,
-      "Actual Score": "",
+      "Actual Score": "1-1",
       "League Rank": 751,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 138.0
     },
     {
       "Date": "2025-10-14",
@@ -43516,11 +43516,11 @@
       "Confidence": 0.6841051271951399,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.1,
-      "Actual Score": "",
+      "Actual Score": "1-1",
       "League Rank": 1117,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 110.00000000000001
     },
     {
       "Date": "2025-10-17",
@@ -43532,11 +43532,11 @@
       "Confidence": 0.6209951339685268,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.28,
-      "Actual Score": "",
+      "Actual Score": "1-2",
       "League Rank": 1124,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2025-10-17",
@@ -43548,11 +43548,11 @@
       "Confidence": 0.6108799398762865,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.08,
-      "Actual Score": "",
+      "Actual Score": "2-1",
       "League Rank": 1034,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2025-10-18",
@@ -43564,11 +43564,11 @@
       "Confidence": 0.8729037765261403,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.14,
-      "Actual Score": "",
+      "Actual Score": "1-5",
       "League Rank": 446,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2025-10-18",
@@ -43580,11 +43580,11 @@
       "Confidence": 0.6288067717815817,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.43,
-      "Actual Score": "",
+      "Actual Score": "1-1",
       "League Rank": 1249,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 143.00000000000003
     },
     {
       "Date": "2025-10-20",
@@ -43596,11 +43596,11 @@
       "Confidence": 0.5160748223455227,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.35,
-      "Actual Score": "",
+      "Actual Score": "4-0",
       "League Rank": 1266,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2025-10-21",
@@ -43612,11 +43612,11 @@
       "Confidence": 0.7116715832072718,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.14,
-      "Actual Score": "",
+      "Actual Score": "1-0",
       "League Rank": 1060,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 114.00000000000001
     },
     {
       "Date": "2025-10-21",
@@ -43628,11 +43628,11 @@
       "Confidence": 0.6202498287102002,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.06,
-      "Actual Score": "",
+      "Actual Score": "0-0",
       "League Rank": 938,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 106.0
     },
     {
       "Date": "2025-10-22",
@@ -43644,11 +43644,11 @@
       "Confidence": 0.7529390761658352,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.4,
-      "Actual Score": "",
+      "Actual Score": "0-0",
       "League Rank": 1103,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 140.0
     },
     {
       "Date": "2025-10-22",
@@ -43660,11 +43660,11 @@
       "Confidence": 0.6185802166619621,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.25,
-      "Actual Score": "",
+      "Actual Score": "1-3",
       "League Rank": 1240,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2025-10-23",
@@ -43676,11 +43676,11 @@
       "Confidence": 0.8686865608716327,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.39,
-      "Actual Score": "",
+      "Actual Score": "2-1",
       "League Rank": 912,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2025-10-23",
@@ -43692,11 +43692,11 @@
       "Confidence": 0.7994141342430051,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.25,
-      "Actual Score": "",
+      "Actual Score": "1-1",
       "League Rank": 1030,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 125.0
     },
     {
       "Date": "2025-10-24",
@@ -43708,11 +43708,11 @@
       "Confidence": 0.5274315484664245,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.01,
-      "Actual Score": "",
+      "Actual Score": "1-0",
       "League Rank": 1034,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 100.99999999999997
     },
     {
       "Date": "2025-10-24",
@@ -43724,11 +43724,11 @@
       "Confidence": 0.5169018427206475,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.43,
-      "Actual Score": "",
+      "Actual Score": "4-2",
       "League Rank": 1266,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2025-10-25",
@@ -43740,11 +43740,11 @@
       "Confidence": 0.9217133052193466,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.04,
-      "Actual Score": "",
+      "Actual Score": "1-0",
       "League Rank": 753,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 104.0
     },
     {
       "Date": "2025-10-25",
@@ -43756,11 +43756,11 @@
       "Confidence": 0.9003493450000194,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.26,
-      "Actual Score": "",
+      "Actual Score": "1-2",
       "League Rank": 1022,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2025-10-26",
@@ -43772,11 +43772,11 @@
       "Confidence": 0.6930383401330542,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.04,
-      "Actual Score": "",
+      "Actual Score": "2-0",
       "League Rank": 554,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 104.0
     },
     {
       "Date": "2025-10-26",
@@ -43788,11 +43788,11 @@
       "Confidence": 0.6467095349412515,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.04,
-      "Actual Score": "",
+      "Actual Score": "3-1",
       "League Rank": 1066,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2025-10-28",
@@ -43804,11 +43804,11 @@
       "Confidence": 0.7140815472285079,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.1,
-      "Actual Score": "",
+      "Actual Score": "0-1",
       "League Rank": 1129,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 110.00000000000001
     },
     {
       "Date": "2025-10-28",
@@ -43820,11 +43820,11 @@
       "Confidence": 0.6898712712811281,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.14,
-      "Actual Score": "",
+      "Actual Score": "0-1",
       "League Rank": 1250,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 114.00000000000001
     },
     {
       "Date": "2025-10-29",
@@ -43836,11 +43836,11 @@
       "Confidence": 0.5931489540315078,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.18,
-      "Actual Score": "",
+      "Actual Score": "2-0",
       "League Rank": 763,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 118.00000000000001
     },
     {
       "Date": "2025-11-01",
@@ -43852,11 +43852,11 @@
       "Confidence": 0.6684416934656583,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.06,
-      "Actual Score": "",
+      "Actual Score": "1-4",
       "League Rank": 1078,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2025-11-01",
@@ -43868,11 +43868,11 @@
       "Confidence": 0.6516519111746037,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.14,
-      "Actual Score": "",
+      "Actual Score": "0-2",
       "League Rank": 1022,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 114.00000000000001
     },
     {
       "Date": "2025-11-02",
@@ -43884,11 +43884,11 @@
       "Confidence": 0.5203226994691187,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.27,
-      "Actual Score": "",
+      "Actual Score": "3-0",
       "League Rank": 537,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2025-11-03",
@@ -43900,11 +43900,11 @@
       "Confidence": 0.574174106780615,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.09,
-      "Actual Score": "",
+      "Actual Score": "2-0",
       "League Rank": 715,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 108.99999999999999
     },
     {
       "Date": "2025-11-03",
@@ -43916,11 +43916,11 @@
       "Confidence": 0.5132970437713886,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.17,
-      "Actual Score": "",
+      "Actual Score": "0-1",
       "League Rank": 695,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 117.0
     },
     {
       "Date": "2025-11-07",
@@ -43932,11 +43932,11 @@
       "Confidence": 0.7254777358532937,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.0,
-      "Actual Score": "",
+      "Actual Score": "0-1",
       "League Rank": 597,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 100.0
     },
     {
       "Date": "2025-11-10",
@@ -43948,11 +43948,11 @@
       "Confidence": 0.5970333570043255,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.17,
-      "Actual Score": "",
+      "Actual Score": "4-2",
       "League Rank": 1034,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2025-11-11",
@@ -43964,11 +43964,11 @@
       "Confidence": 0.6823705885826763,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.21,
-      "Actual Score": "",
+      "Actual Score": "2-6",
       "League Rank": 1407,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2025-11-13",
@@ -43980,11 +43980,11 @@
       "Confidence": 0.5251248963208737,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.27,
-      "Actual Score": "",
+      "Actual Score": "2-0",
       "League Rank": 1050,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 127.0
     },
     {
       "Date": "2025-11-13",
@@ -43996,11 +43996,11 @@
       "Confidence": 0.50715090857903,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.15,
-      "Actual Score": "",
+      "Actual Score": "2-0",
       "League Rank": 1050,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 114.99999999999999
     },
     {
       "Date": "2025-11-15",
@@ -44012,11 +44012,11 @@
       "Confidence": 0.5394073662186059,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.07,
-      "Actual Score": "",
+      "Actual Score": "0-0",
       "League Rank": 914,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 106.99999999999999
     },
     {
       "Date": "2025-11-15",
@@ -44028,11 +44028,11 @@
       "Confidence": 0.5189153603717954,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.0,
-      "Actual Score": "",
+      "Actual Score": "0-0",
       "League Rank": 556,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 100.0
     },
     {
       "Date": "2025-11-16",
@@ -44044,11 +44044,11 @@
       "Confidence": 0.6638706832163259,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.33,
-      "Actual Score": "",
+      "Actual Score": "0-0",
       "League Rank": 751,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 133.0
     }
   ],
   "monthly_stats": {
@@ -44130,11 +44130,11 @@
       "win_rate": 57.49999999999999
     },
     "2021-01": {
-      "wins": 21,
+      "wins": 23,
       "losses": 17,
-      "total": 38,
-      "profit": 714.0,
-      "win_rate": 55.26315789473685
+      "total": 40,
+      "profit": 960.0,
+      "win_rate": 57.49999999999999
     },
     "2021-02": {
       "wins": 17,
@@ -44291,11 +44291,11 @@
       "win_rate": 79.41176470588235
     },
     "2022-12": {
-      "wins": 14,
+      "wins": 15,
       "losses": 9,
-      "total": 23,
-      "profit": 697.0,
-      "win_rate": 60.86956521739131
+      "total": 24,
+      "profit": 825.0,
+      "win_rate": 62.5
     },
     "2023-01": {
       "wins": 24,
@@ -44326,11 +44326,11 @@
       "win_rate": 64.0
     },
     "2023-05": {
-      "wins": 35,
-      "losses": 15,
-      "total": 50,
-      "profit": 2511.0,
-      "win_rate": 70.0
+      "wins": 37,
+      "losses": 17,
+      "total": 54,
+      "profit": 2543.0,
+      "win_rate": 68.51851851851852
     },
     "2023-06": {
       "wins": 41,
@@ -44341,38 +44341,38 @@
     },
     "2023-07": {
       "wins": 47,
-      "losses": 11,
-      "total": 58,
-      "profit": 4363.0,
-      "win_rate": 81.03448275862068
+      "losses": 12,
+      "total": 59,
+      "profit": 4263.0,
+      "win_rate": 79.66101694915254
     },
     "2023-08": {
-      "wins": 42,
+      "wins": 43,
       "losses": 14,
-      "total": 56,
-      "profit": 3424.0,
-      "win_rate": 75.0
+      "total": 57,
+      "profit": 3526.0,
+      "win_rate": 75.43859649122807
     },
     "2023-09": {
-      "wins": 39,
+      "wins": 43,
       "losses": 11,
-      "total": 50,
-      "profit": 3470.0,
-      "win_rate": 78.0
+      "total": 54,
+      "profit": 3914.0,
+      "win_rate": 79.62962962962963
     },
     "2023-10": {
-      "wins": 41,
+      "wins": 44,
       "losses": 11,
-      "total": 52,
-      "profit": 3878.0,
-      "win_rate": 78.84615384615384
+      "total": 55,
+      "profit": 4223.0,
+      "win_rate": 80.0
     },
     "2023-11": {
-      "wins": 44,
+      "wins": 45,
       "losses": 8,
-      "total": 52,
-      "profit": 4559.0,
-      "win_rate": 84.61538461538461
+      "total": 53,
+      "profit": 4660.0,
+      "win_rate": 84.90566037735849
     },
     "2023-12": {
       "wins": 31,
@@ -44431,11 +44431,11 @@
       "win_rate": 81.66666666666667
     },
     "2024-08": {
-      "wins": 48,
+      "wins": 49,
       "losses": 8,
-      "total": 56,
-      "profit": 4820.0,
-      "win_rate": 85.71428571428571
+      "total": 57,
+      "profit": 4926.0,
+      "win_rate": 85.96491228070175
     },
     "2024-09": {
       "wins": 34,
@@ -44480,25 +44480,25 @@
       "win_rate": 83.72093023255815
     },
     "2025-03": {
-      "wins": 33,
+      "wins": 34,
       "losses": 9,
-      "total": 42,
-      "profit": 2921.0,
-      "win_rate": 78.57142857142857
+      "total": 43,
+      "profit": 3024.0,
+      "win_rate": 79.06976744186046
     },
     "2025-04": {
-      "wins": 36,
+      "wins": 38,
       "losses": 7,
-      "total": 43,
-      "profit": 3481.0,
-      "win_rate": 83.72093023255815
+      "total": 45,
+      "profit": 3730.0,
+      "win_rate": 84.44444444444444
     },
     "2025-05": {
-      "wins": 37,
+      "wins": 38,
       "losses": 13,
-      "total": 50,
-      "profit": 3004.0,
-      "win_rate": 74.0
+      "total": 51,
+      "profit": 3104.0,
+      "win_rate": 74.50980392156863
     },
     "2025-06": {
       "wins": 24,
@@ -44522,18 +44522,25 @@
       "win_rate": 89.79591836734694
     },
     "2025-09": {
-      "wins": 17,
+      "wins": 19,
       "losses": 18,
-      "total": 35,
-      "profit": 91.0,
-      "win_rate": 48.57142857142857
+      "total": 37,
+      "profit": 310.0,
+      "win_rate": 51.35135135135135
     },
     "2025-10": {
-      "wins": 1,
-      "losses": 2,
-      "total": 3,
-      "profit": -93.00000000000001,
-      "win_rate": 33.33333333333333
+      "wins": 22,
+      "losses": 19,
+      "total": 41,
+      "profit": 691.0,
+      "win_rate": 53.65853658536586
+    },
+    "2025-11": {
+      "wins": 9,
+      "losses": 4,
+      "total": 13,
+      "profit": 622.0,
+      "win_rate": 69.23076923076923
     }
   },
   "yearly_stats": {
@@ -44545,39 +44552,39 @@
       "win_rate": 58.96103896103896
     },
     "2021": {
-      "wins": 277,
+      "wins": 279,
       "losses": 191,
-      "total": 468,
-      "profit": 13141.0,
-      "win_rate": 59.18803418803419
+      "total": 470,
+      "profit": 13387.0,
+      "win_rate": 59.361702127659576
     },
     "2022": {
-      "wins": 263,
+      "wins": 264,
       "losses": 157,
-      "total": 420,
-      "profit": 14698.0,
-      "win_rate": 62.61904761904762
+      "total": 421,
+      "profit": 14826.0,
+      "win_rate": 62.70783847980997
     },
     "2023": {
-      "wins": 421,
-      "losses": 135,
-      "total": 556,
-      "profit": 35670.0,
-      "win_rate": 75.71942446043165
+      "wins": 432,
+      "losses": 138,
+      "total": 570,
+      "profit": 36594.0,
+      "win_rate": 75.78947368421053
     },
     "2024": {
-      "wins": 460,
+      "wins": 461,
       "losses": 155,
-      "total": 615,
-      "profit": 38088.0,
-      "win_rate": 74.79674796747967
+      "total": 616,
+      "profit": 38194.0,
+      "win_rate": 74.83766233766234
     },
     "2025": {
-      "wins": 311,
-      "losses": 78,
-      "total": 389,
-      "profit": 28680.0,
-      "win_rate": 79.94858611825192
+      "wins": 347,
+      "losses": 99,
+      "total": 446,
+      "profit": 30757.0,
+      "win_rate": 77.80269058295964
     }
   }
 }
