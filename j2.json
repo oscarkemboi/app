@@ -44049,6 +44049,22 @@
       "Year": "2025",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2025-11-18",
+      "Team A": "Botafogo RJ",
+      "Team B": "Sport Club do Re",
+      "League": "Brazil - Serie A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5372680290999998,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.31,
+      "Actual Score": "",
+      "League Rank": 537,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
