@@ -44065,6 +44065,38 @@
       "Year": "2025",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2025-11-21",
+      "Team A": "Limache",
+      "Team B": "Union Espanola",
+      "League": "Chile - Primera Divisi\u00f3n",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.7058245108192376,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.06,
+      "Actual Score": "",
+      "League Rank": 756,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2025-11-21",
+      "Team A": "Ruthin Town FC",
+      "Team B": "Brickfield Range",
+      "League": "Wales - Cymru South",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5321349712336281,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.33,
+      "Actual Score": "",
+      "League Rank": 1404,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
