@@ -44012,11 +44012,11 @@
       "Confidence": 0.5394073662186059,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.07,
-      "Actual Score": "",
+      "Actual Score": "1-2",
       "League Rank": 914,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2025-11-15",
@@ -44028,11 +44028,11 @@
       "Confidence": 0.5189153603717954,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.0,
-      "Actual Score": "",
+      "Actual Score": "5-0",
       "League Rank": 556,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2025-11-16",
@@ -44044,11 +44044,11 @@
       "Confidence": 0.6638706832163259,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.33,
-      "Actual Score": "",
+      "Actual Score": "2-1",
       "League Rank": 751,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2025-11-18",
@@ -44060,11 +44060,11 @@
       "Confidence": 0.5372680290999998,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.31,
-      "Actual Score": "",
+      "Actual Score": "3-2",
       "League Rank": 537,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2025-11-21",
@@ -44073,7 +44073,7 @@
       "League": "Chile - Primera Divisi\u00f3n",
       "Prediction": "Under2.5",
       "Original Pred_": "Under2.5",
-      "Confidence": 0.7058245108192376,
+      "Confidence": 0.6920906910348509,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.06,
       "Actual Score": "",
@@ -44084,16 +44084,48 @@
     },
     {
       "Date": "2025-11-21",
-      "Team A": "Ruthin Town FC",
-      "Team B": "Brickfield Range",
-      "League": "Wales - Cymru South",
+      "Team A": "Persib Bandung",
+      "Team B": "Dewa United",
+      "League": "Indonesia - Liga Primer",
       "Prediction": "Under2.5",
       "Original Pred_": "Under2.5",
-      "Confidence": 0.5321349712336281,
+      "Confidence": 0.5189052614818492,
       "Possible Score": "1-0 / 0-0",
-      "Odds": 2.33,
+      "Odds": 2.01,
       "Actual Score": "",
-      "League Rank": 1404,
+      "League Rank": 1003,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2025-11-22",
+      "Team A": "Gent B",
+      "Team B": "Genk U23",
+      "League": "Belgium - Proximus League",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.7071456597416599,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.19,
+      "Actual Score": "",
+      "League Rank": 1019,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2025-11-22",
+      "Team A": "Kampaniakos",
+      "Team B": "Niki Volou",
+      "League": "Greece - Super League 2",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.684095489408182,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.2,
+      "Actual Score": "",
+      "League Rank": 472,
       "Year": "2025",
       "Win": null,
       "Profit": 0
@@ -44585,10 +44617,10 @@
     },
     "2025-11": {
       "wins": 6,
-      "losses": 4,
-      "total": 10,
-      "profit": 282.0,
-      "win_rate": 60.0
+      "losses": 8,
+      "total": 14,
+      "profit": -118.0,
+      "win_rate": 42.857142857142854
     }
   },
   "yearly_stats": {
@@ -44629,10 +44661,10 @@
     },
     "2025": {
       "wins": 338,
-      "losses": 99,
-      "total": 437,
-      "profit": 29746.0,
-      "win_rate": 77.34553775743707
+      "losses": 103,
+      "total": 441,
+      "profit": 29346.0,
+      "win_rate": 76.64399092970523
     }
   }
 }
