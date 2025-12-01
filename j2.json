@@ -44305,6 +44305,38 @@
       "Year": "2025",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2025-12-02",
+      "Team A": "Morocco",
+      "Team B": "Comoros",
+      "League": "Asia - Arab Cup",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.7353461334090493,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.46,
+      "Actual Score": "",
+      "League Rank": "N/A",
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2025-12-03",
+      "Team A": "Inter Milan",
+      "Team B": "Venezia",
+      "League": "Italy - Coppa Italia",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5360268233309066,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.4,
+      "Actual Score": "",
+      "League Rank": 1007,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
