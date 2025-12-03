@@ -44076,11 +44076,11 @@
       "Confidence": 0.6920906910348509,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.06,
-      "Actual Score": "",
+      "Actual Score": "1-0",
       "League Rank": 756,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 106.0
     },
     {
       "Date": "2025-11-21",
@@ -44092,11 +44092,11 @@
       "Confidence": 0.5189052614818492,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.01,
-      "Actual Score": "",
+      "Actual Score": "1-0",
       "League Rank": 1003,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 100.99999999999997
     },
     {
       "Date": "2025-11-22",
@@ -44108,11 +44108,11 @@
       "Confidence": 0.7071456597416599,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.19,
-      "Actual Score": "",
+      "Actual Score": "0-0",
       "League Rank": 1019,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 119.0
     },
     {
       "Date": "2025-11-22",
@@ -44124,11 +44124,11 @@
       "Confidence": 0.684095489408182,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.2,
-      "Actual Score": "",
+      "Actual Score": "1-3",
       "League Rank": 472,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2025-11-23",
@@ -44140,11 +44140,11 @@
       "Confidence": 0.9766194372984655,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.31,
-      "Actual Score": "",
+      "Actual Score": "2-0",
       "League Rank": "N/A",
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 131.0
     },
     {
       "Date": "2025-11-23",
@@ -44156,11 +44156,11 @@
       "Confidence": 0.7646373120830222,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.08,
-      "Actual Score": "",
+      "Actual Score": "0-0",
       "League Rank": 1003,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 108.0
     },
     {
       "Date": "2025-11-24",
@@ -44172,11 +44172,11 @@
       "Confidence": 0.5162368821774097,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.0,
-      "Actual Score": "",
+      "Actual Score": "3-4",
       "League Rank": 1000,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2025-11-27",
@@ -44188,11 +44188,11 @@
       "Confidence": 0.772666920243384,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.18,
-      "Actual Score": "",
+      "Actual Score": "4-1",
       "League Rank": 912,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2025-11-27",
@@ -44204,11 +44204,11 @@
       "Confidence": 0.610888018761796,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.37,
-      "Actual Score": "",
+      "Actual Score": "2-1",
       "League Rank": 912,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2025-11-29",
@@ -44220,11 +44220,11 @@
       "Confidence": 0.6552588283465575,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.0,
-      "Actual Score": "",
+      "Actual Score": "1-2",
       "League Rank": 1000,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2025-11-29",
@@ -44236,11 +44236,11 @@
       "Confidence": 0.6519322314974858,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.43,
-      "Actual Score": "",
+      "Actual Score": "4-0",
       "League Rank": 1304,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2025-11-30",
@@ -44252,11 +44252,11 @@
       "Confidence": 0.9132828841105081,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.13,
-      "Actual Score": "",
+      "Actual Score": "0-2",
       "League Rank": 955,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 112.99999999999999
     },
     {
       "Date": "2025-11-30",
@@ -44268,11 +44268,11 @@
       "Confidence": 0.750170703531968,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.0,
-      "Actual Score": "",
+      "Actual Score": "3-0",
       "League Rank": 777,
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2025-12-01",
@@ -44307,15 +44307,47 @@
       "Profit": 0
     },
     {
-      "Date": "2025-12-02",
-      "Team A": "Morocco",
-      "Team B": "Comoros",
+      "Date": "2025-12-03",
+      "Team A": "Inter Milan",
+      "Team B": "Venezia",
+      "League": "Italy - Coppa Italia",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5314995275826112,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.4,
+      "Actual Score": "",
+      "League Rank": 1007,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2025-12-04",
+      "Team A": "Flamengo",
+      "Team B": "Ceara",
+      "League": "Brazil - Serie A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6001721031340346,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.04,
+      "Actual Score": "",
+      "League Rank": 537,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2025-12-05",
+      "Team A": "Oman",
+      "Team B": "Morocco",
       "League": "Asia - Arab Cup",
       "Prediction": "Under2.5",
       "Original Pred_": "Under2.5",
-      "Confidence": 0.7353461334090493,
+      "Confidence": 0.7749136875380149,
       "Possible Score": "1-0 / 0-0",
-      "Odds": 2.46,
+      "Odds": 2.27,
       "Actual Score": "",
       "League Rank": "N/A",
       "Year": "2025",
@@ -44323,17 +44355,17 @@
       "Profit": 0
     },
     {
-      "Date": "2025-12-03",
-      "Team A": "Inter Milan",
-      "Team B": "Venezia",
-      "League": "Italy - Coppa Italia",
+      "Date": "2025-12-05",
+      "Team A": "Preussen Munster",
+      "Team B": "Hannover 96",
+      "League": "Germany - 2. Bundesliga",
       "Prediction": "Under2.5",
       "Original Pred_": "Under2.5",
-      "Confidence": 0.5360268233309066,
+      "Confidence": 0.6064437235801412,
       "Possible Score": "1-0 / 0-0",
-      "Odds": 2.4,
+      "Odds": 2.17,
       "Actual Score": "",
-      "League Rank": 1007,
+      "League Rank": 1023,
       "Year": "2025",
       "Win": null,
       "Profit": 0
@@ -44824,11 +44856,11 @@
       "win_rate": 53.65853658536586
     },
     "2025-11": {
-      "wins": 6,
-      "losses": 8,
-      "total": 14,
-      "profit": -118.0,
-      "win_rate": 42.857142857142854
+      "wins": 12,
+      "losses": 15,
+      "total": 27,
+      "profit": -140.0,
+      "win_rate": 44.44444444444444
     }
   },
   "yearly_stats": {
@@ -44868,11 +44900,11 @@
       "win_rate": 74.79674796747967
     },
     "2025": {
-      "wins": 338,
-      "losses": 103,
-      "total": 441,
-      "profit": 29346.0,
-      "win_rate": 76.64399092970523
+      "wins": 344,
+      "losses": 110,
+      "total": 454,
+      "profit": 29324.0,
+      "win_rate": 75.77092511013215
     }
   }
 }
