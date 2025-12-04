@@ -44369,6 +44369,38 @@
       "Year": "2025",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2025-12-06",
+      "Team A": "Castellon B",
+      "Team B": "Barbastro",
+      "League": "Spain - Segunda Rfef - Group 3",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.8374946387754361,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.14,
+      "Actual Score": "",
+      "League Rank": 596,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2025-12-06",
+      "Team A": "Manchester City",
+      "Team B": "Sunderland",
+      "League": "England - Premier League",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6977750475615553,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.46,
+      "Actual Score": "",
+      "League Rank": 1022,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
