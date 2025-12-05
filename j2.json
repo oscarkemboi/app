@@ -44401,6 +44401,38 @@
       "Year": "2025",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2025-12-07",
+      "Team A": "FK Krasnodar",
+      "Team B": "CSKA Moscow",
+      "League": "Russia - Premier League",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5216101894267252,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.04,
+      "Actual Score": "",
+      "League Rank": 650,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2025-12-07",
+      "Team A": "VfR Mannheim",
+      "Team B": "Saarbrucken",
+      "League": "Germany - 3.Lega",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5150587669657353,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.17,
+      "Actual Score": "",
+      "League Rank": 913,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
