@@ -44449,6 +44449,102 @@
       "Year": "2025",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2025-12-12",
+      "Team A": "Beyoglu Yeni Car",
+      "Team B": "Buca",
+      "League": "Turkey - 2. Lig",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6989715778816668,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.12,
+      "Actual Score": "3-0",
+      "League Rank": 777,
+      "Year": "2025",
+      "Win": false,
+      "Profit": -100
+    },
+    {
+      "Date": "2025-12-12",
+      "Team A": "Lommel SK",
+      "Team B": "Gent B",
+      "League": "Belgium - Proximus League",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5691193289313563,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.19,
+      "Actual Score": "2-0",
+      "League Rank": 1019,
+      "Year": "2025",
+      "Win": true,
+      "Profit": 119.0
+    },
+    {
+      "Date": "2025-12-13",
+      "Team A": "PAE Egaleo",
+      "Team B": "Kalamata AO",
+      "League": "Greece - Super League 2",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.7801391142215279,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.05,
+      "Actual Score": "",
+      "League Rank": 472,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2025-12-13",
+      "Team A": "Muscelul C\u00e2mpulu",
+      "Team B": "CS Voluntari",
+      "League": "Romania - Liga 2",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6871721249017717,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.25,
+      "Actual Score": "",
+      "League Rank": 723,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2025-12-14",
+      "Team A": "Borac Banja Luka",
+      "Team B": "Rudar Prijedor",
+      "League": "Bosnia - Premijer Liga",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6892510664093819,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.28,
+      "Actual Score": "",
+      "League Rank": 514,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2025-12-14",
+      "Team A": "E.N.Paralimniou",
+      "Team B": "Pafos",
+      "League": "Cyprus - 1 Division",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6740979465671728,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.19,
+      "Actual Score": "",
+      "League Rank": 919,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
@@ -44941,6 +45037,13 @@
       "total": 27,
       "profit": -140.0,
       "win_rate": 44.44444444444444
+    },
+    "2025-12": {
+      "wins": 1,
+      "losses": 1,
+      "total": 2,
+      "profit": 19.0,
+      "win_rate": 50.0
     }
   },
   "yearly_stats": {
@@ -44980,11 +45083,11 @@
       "win_rate": 74.79674796747967
     },
     "2025": {
-      "wins": 344,
-      "losses": 110,
-      "total": 454,
-      "profit": 29324.0,
-      "win_rate": 75.77092511013215
+      "wins": 345,
+      "losses": 111,
+      "total": 456,
+      "profit": 29343.0,
+      "win_rate": 75.6578947368421
     }
   }
 }
