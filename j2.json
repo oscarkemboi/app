@@ -44545,6 +44545,22 @@
       "Year": "2025",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2025-12-15",
+      "Team A": "Porto",
+      "Team B": "Estrela",
+      "League": "Portugal - Primeira Liga",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6035325835935914,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.38,
+      "Actual Score": "",
+      "League Rank": 732,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
