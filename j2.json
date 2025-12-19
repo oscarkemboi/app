@@ -44625,6 +44625,38 @@
       "Year": "2025",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2025-12-21",
+      "Team A": "PSM Makassar",
+      "Team B": "Malut United",
+      "League": "Indonesia - Liga Primer",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.7845219993022955,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.0,
+      "Actual Score": "",
+      "League Rank": 1003,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2025-12-21",
+      "Team A": "Catania",
+      "Team B": "Atalanta U23",
+      "League": "Italy - Serie C - Girone C",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.7370419051473047,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.0,
+      "Actual Score": "",
+      "League Rank": 497,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
