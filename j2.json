@@ -44657,6 +44657,38 @@
       "Year": "2025",
       "Win": true,
       "Profit": 100.0
+    },
+    {
+      "Date": "2025-12-26",
+      "Team A": "Bolton Wanderers",
+      "Team B": "Rotherham United",
+      "League": "England - League One",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6185033788992669,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.03,
+      "Actual Score": "",
+      "League Rank": 753,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2025-12-26",
+      "Team A": "Newport",
+      "Team B": "Barnet",
+      "League": "England - League Two",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5942402612435014,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.0,
+      "Actual Score": "",
+      "League Rank": 667,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
