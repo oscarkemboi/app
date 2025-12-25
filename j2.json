@@ -44689,6 +44689,22 @@
       "Year": "2025",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2025-12-27",
+      "Team A": "Al Ittihad(KSA)",
+      "Team B": "Al-Shabab(KSA)",
+      "League": "Saudi Arabia - Professional League",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.8811917962382825,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.43,
+      "Actual Score": "",
+      "League Rank": 1059,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
