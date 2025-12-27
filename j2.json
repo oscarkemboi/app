@@ -44737,6 +44737,38 @@
       "Year": "2025",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2025-12-29",
+      "Team A": "Zambia",
+      "Team B": "Morocco",
+      "League": "Africa - Africa Cup Of Nations",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.8607117523548724,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.08,
+      "Actual Score": "",
+      "League Rank": 202,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2025-12-29",
+      "Team A": "Melbourne Victor",
+      "Team B": "Wellington Phoen",
+      "League": "Australia - League A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5024697293730908,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.23,
+      "Actual Score": "",
+      "League Rank": 1194,
+      "Year": "2025",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
