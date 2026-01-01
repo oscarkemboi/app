@@ -44801,6 +44801,38 @@
       "Year": "2025",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-01-03",
+      "Team A": "Hapoel Bnei Sakh",
+      "Team B": "Hapoel Beer Shev",
+      "League": "Israel - Ligat Ha'Al",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.744090117507876,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.05,
+      "Actual Score": "",
+      "League Rank": 611,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-01-03",
+      "Team A": "Juventus",
+      "Team B": "Lecce",
+      "League": "Italy - Serie A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6996482726832325,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.01,
+      "Actual Score": "",
+      "League Rank": 955,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
