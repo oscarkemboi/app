@@ -1,0 +1,188 @@
+{
+  "year": 2026,
+  "target_min_odds": 2.0,
+  "months": [
+    {
+      "month": "2026-01",
+      "matches": [
+        {
+          "date": "2026-01-05",
+          "match": "Altamura vs Casertana",
+          "final_odds": "2.03",
+          "original_odds": "2.17",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "66.67%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-01-05",
+          "match": "Montpellier vs USL Dunkerque",
+          "final_odds": "2.10",
+          "original_odds": "2.10",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-01-06",
+          "match": "Scarborough Athl vs Hereford Unit..",
+          "final_odds": "2.75",
+          "original_odds": "1.70",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "40.00%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-01-06",
+          "match": "Enfield Town vs Hampton Richmond",
+          "final_odds": "2.65",
+          "original_odds": "1.74",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "33.33%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-01-07",
+          "match": "Barcelona B vs Valencia B",
+          "final_odds": "2.65",
+          "original_odds": "1.74",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "25.00%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-01-07",
+          "match": "Blackburn Rovers vs Coventry U21",
+          "final_odds": "4.50",
+          "original_odds": "1.37",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "50.00%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-01-08",
+          "match": "Atletico Madrid vs Real Madrid",
+          "final_odds": "2.60",
+          "original_odds": "1.76",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "69.44%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-01-08",
+          "match": "AC Milan vs Genoa",
+          "final_odds": "2.11",
+          "original_odds": "2.09",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "46.67%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-01-09",
+          "match": "Bnei Yehuda Tel vs Hapoel Kfar Sa..",
+          "final_odds": "2.21",
+          "original_odds": "2.00",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "65.38%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-01-09",
+          "match": "NEC Nijmegen vs FC Utrecht",
+          "final_odds": "3.88",
+          "original_odds": "1.44",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "60.00%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-01-10",
+          "match": "Persebaya vs Malut United",
+          "final_odds": "2.38",
+          "original_odds": "1.88",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-01-10",
+          "match": "Fulham vs Middlesbrough",
+          "final_odds": "2.67",
+          "original_odds": "1.73",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-01-11",
+          "match": "Tuzlaspor Kulubu vs S.Urfaspor",
+          "final_odds": "2.19",
+          "original_odds": "2.02",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
+          "was_converted": true
+        }
+      ],
+      "single_stats": {
+        "message": "No matches with valid scores in 2026-01."
+      },
+      "combo_stats": {
+        "message": "No valid 2-match combos in 2026-01."
+      },
+      "filtered_stats": {
+        "total_matches_in_month": 57,
+        "matches_above_threshold": 13
+      }
+    }
+  ],
+  "yearly_stats": {},
+  "notable_analysis": [
+    "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
+    "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
+    "Total matches analyzed: 57",
+    "Matches converted from Over2.5: 0"
+  ],
+  "conversion_info": {
+    "market_margin": 1.05,
+    "note": "Over2.5 odds converted to Under2.5 odds assuming 5% market margin"
+  }
+}
