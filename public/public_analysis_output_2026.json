@@ -160,6 +160,54 @@
           "h2h_under": "100.00%",
           "status": "",
           "was_converted": true
+        },
+        {
+          "date": "2026-01-12",
+          "match": "Pafos vs Omonia Aradippou",
+          "final_odds": "2.16",
+          "original_odds": "2.16",
+          "original_prediction": "Under2.5",
+          "final_prediction": "Under2.5",
+          "score": "",
+          "h2h_under": "66.67%",
+          "status": "",
+          "was_converted": false
+        },
+        {
+          "date": "2026-01-12",
+          "match": "Juventus vs Cremonese",
+          "final_odds": "2.25",
+          "original_odds": "2.25",
+          "original_prediction": "Under2.5",
+          "final_prediction": "Under2.5",
+          "score": "",
+          "h2h_under": "66.67%",
+          "status": "",
+          "was_converted": false
+        },
+        {
+          "date": "2026-01-13",
+          "match": "Barry Town AFC vs Llanelli",
+          "final_odds": "2.52",
+          "original_odds": "2.52",
+          "original_prediction": "Under2.5",
+          "final_prediction": "Under2.5",
+          "score": "",
+          "h2h_under": "57.14%",
+          "status": "",
+          "was_converted": false
+        },
+        {
+          "date": "2026-01-13",
+          "match": "The New Saints vs Colwyn Bay",
+          "final_odds": "4.61",
+          "original_odds": "1.36",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "50.00%",
+          "status": "",
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -169,8 +217,8 @@
         "message": "No valid 2-match combos in 2026-01."
       },
       "filtered_stats": {
-        "total_matches_in_month": 57,
-        "matches_above_threshold": 13
+        "total_matches_in_month": 75,
+        "matches_above_threshold": 17
       }
     }
   ],
@@ -178,7 +226,7 @@
   "notable_analysis": [
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 57",
+    "Total matches analyzed: 75",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
