@@ -44945,6 +44945,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-01-17",
+      "Team A": "Excelsior SBV",
+      "Team B": "Telstar",
+      "League": "Netherlands - Eredivisie",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.7643536649484179,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.17,
+      "Actual Score": "",
+      "League Rank": 1204,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-01-17",
+      "Team A": "Braintree Town",
+      "Team B": "Boreham Wood",
+      "League": "England - Vanarama National League",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6803832057817827,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.0,
+      "Actual Score": "",
+      "League Rank": 914,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
