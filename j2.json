@@ -44977,6 +44977,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-01-18",
+      "Team A": "AEK Larnaca",
+      "Team B": "Ypsonas",
+      "League": "Cyprus - 1 Division",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.749027164559853,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.16,
+      "Actual Score": "",
+      "League Rank": 919,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-01-18",
+      "Team A": "Pathum United",
+      "Team B": "Bangkok United F",
+      "League": "Thailand - Thai League 1",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5315497521579338,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.01,
+      "Actual Score": "",
+      "League Rank": 1137,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
