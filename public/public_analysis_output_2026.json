@@ -268,6 +268,30 @@
           "h2h_under": "100.00%",
           "status": "",
           "was_converted": true
+        },
+        {
+          "date": "2026-01-18",
+          "match": "Boluspor vs Sariyer",
+          "final_odds": "2.45",
+          "original_odds": "1.84",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-01-18",
+          "match": "Lusitania vs Maritimo",
+          "final_odds": "2.09",
+          "original_odds": "2.11",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -277,8 +301,8 @@
         "message": "No valid 2-match combos in 2026-01."
       },
       "filtered_stats": {
-        "total_matches_in_month": 96,
-        "matches_above_threshold": 22
+        "total_matches_in_month": 106,
+        "matches_above_threshold": 24
       }
     }
   ],
@@ -286,7 +310,7 @@
   "notable_analysis": [
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 96",
+    "Total matches analyzed: 106",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
