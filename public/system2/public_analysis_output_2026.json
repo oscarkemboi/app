@@ -88,6 +88,54 @@
           "h2h_under": "85.71%",
           "status": "",
           "was_converted": true
+        },
+        {
+          "date": "2026-01-20",
+          "match": "Boreham Wood vs Scunthorpe Unite",
+          "final_odds": "2.92",
+          "original_odds": "1.64",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-01-20",
+          "match": "Truro City vs Brackley Town",
+          "final_odds": "2.04",
+          "original_odds": "2.16",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-01-21",
+          "match": "Galatasaray vs Atletico Madrid",
+          "final_odds": "3.50",
+          "original_odds": "1.50",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-01-21",
+          "match": "Juventus vs Benfica",
+          "final_odds": "2.22",
+          "original_odds": "1.99",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "66.67%",
+          "status": "",
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -97,8 +145,8 @@
         "message": "No valid 2-match combos in 2026-01."
       },
       "filtered_stats": {
-        "total_matches_in_month": 40,
-        "matches_above_threshold": 7
+        "total_matches_in_month": 60,
+        "matches_above_threshold": 11
       }
     }
   ],
@@ -106,7 +154,7 @@
   "notable_analysis": [
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 40",
+    "Total matches analyzed: 60",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
