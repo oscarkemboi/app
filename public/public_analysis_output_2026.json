@@ -364,6 +364,30 @@
           "h2h_under": "66.67%",
           "status": "",
           "was_converted": true
+        },
+        {
+          "date": "2026-01-22",
+          "match": "Lincoln City vs Burton Albion",
+          "final_odds": "2.36",
+          "original_odds": "1.89",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "57.14%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-01-22",
+          "match": "Cruzeiro vs Democrata",
+          "final_odds": "3.05",
+          "original_odds": "1.60",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "60.00%",
+          "status": "",
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -373,8 +397,8 @@
         "message": "No valid 2-match combos in 2026-01."
       },
       "filtered_stats": {
-        "total_matches_in_month": 136,
-        "matches_above_threshold": 30
+        "total_matches_in_month": 146,
+        "matches_above_threshold": 32
       }
     }
   ],
@@ -382,7 +406,7 @@
   "notable_analysis": [
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 136",
+    "Total matches analyzed: 146",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
