@@ -45105,6 +45105,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-01-23",
+      "Team A": "Larne FC",
+      "Team B": "Bangor FC",
+      "League": "Northern Ireland - Premier League",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6081538638849391,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.02,
+      "Actual Score": "",
+      "League Rank": 1122,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-01-23",
+      "Team A": "Viktoria koln",
+      "Team B": "Saarbrucken",
+      "League": "Germany - 3.Lega",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6048303887383233,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.02,
+      "Actual Score": "",
+      "League Rank": 913,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
