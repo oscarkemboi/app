@@ -232,6 +232,30 @@
           "h2h_under": "100.00%",
           "status": "",
           "was_converted": true
+        },
+        {
+          "date": "2026-01-27",
+          "match": "Trefelin vs Baglan Dragons",
+          "final_odds": "2.27",
+          "original_odds": "2.27",
+          "original_prediction": "Under2.5",
+          "final_prediction": "Under2.5",
+          "score": "",
+          "h2h_under": "50.00%",
+          "status": "",
+          "was_converted": false
+        },
+        {
+          "date": "2026-01-27",
+          "match": "Stranraer vs Clyde",
+          "final_odds": "2.58",
+          "original_odds": "1.77",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "58.82%",
+          "status": "",
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -241,8 +265,8 @@
         "message": "No valid 2-match combos in 2026-01."
       },
       "filtered_stats": {
-        "total_matches_in_month": 110,
-        "matches_above_threshold": 19
+        "total_matches_in_month": 120,
+        "matches_above_threshold": 21
       }
     }
   ],
@@ -250,7 +274,7 @@
   "notable_analysis": [
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 110",
+    "Total matches analyzed: 120",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
