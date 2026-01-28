@@ -484,6 +484,18 @@
           "h2h_under": "58.82%",
           "status": "",
           "was_converted": true
+        },
+        {
+          "date": "2026-01-28",
+          "match": "Aguila vs Platense",
+          "final_odds": "2.21",
+          "original_odds": "2.00",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "41.67%",
+          "status": "",
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -493,8 +505,8 @@
         "message": "No valid 2-match combos in 2026-01."
       },
       "filtered_stats": {
-        "total_matches_in_month": 186,
-        "matches_above_threshold": 40
+        "total_matches_in_month": 187,
+        "matches_above_threshold": 41
       }
     }
   ],
@@ -502,7 +514,7 @@
   "notable_analysis": [
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 186",
+    "Total matches analyzed: 187",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
