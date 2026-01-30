@@ -280,6 +280,54 @@
           "h2h_under": "41.67%",
           "status": "",
           "was_converted": true
+        },
+        {
+          "date": "2026-01-30",
+          "match": "Omonia Aradippou vs Apollon Limas..",
+          "final_odds": "2.05",
+          "original_odds": "2.15",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-01-30",
+          "match": "Montpellier vs Guingamp",
+          "final_odds": "2.10",
+          "original_odds": "2.10",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-01-31",
+          "match": "Igdir vs Manisa",
+          "final_odds": "3.50",
+          "original_odds": "1.50",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-01-31",
+          "match": "Exeter City vs Rotherham United",
+          "final_odds": "2.01",
+          "original_odds": "2.20",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -289,8 +337,8 @@
         "message": "No valid 2-match combos in 2026-01."
       },
       "filtered_stats": {
-        "total_matches_in_month": 122,
-        "matches_above_threshold": 23
+        "total_matches_in_month": 142,
+        "matches_above_threshold": 27
       }
     }
   ],
@@ -298,7 +346,7 @@
   "notable_analysis": [
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 122",
+    "Total matches analyzed: 142",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
