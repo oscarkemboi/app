@@ -556,13 +556,52 @@
         "total_matches_in_month": 207,
         "matches_above_threshold": 45
       }
+    },
+    {
+      "month": "2026-02",
+      "matches": [
+        {
+          "date": "2026-02-01",
+          "match": "Numancia vs CD Lealtad",
+          "final_odds": "2.14",
+          "original_odds": "2.06",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-02-01",
+          "match": "Nottingham Fores vs Crystal Palac..",
+          "final_odds": "2.13",
+          "original_odds": "2.07",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
+          "was_converted": true
+        }
+      ],
+      "single_stats": {
+        "message": "No matches with valid scores in 2026-02."
+      },
+      "combo_stats": {
+        "message": "No valid 2-match combos in 2026-02."
+      },
+      "filtered_stats": {
+        "total_matches_in_month": 10,
+        "matches_above_threshold": 2
+      }
     }
   ],
   "yearly_stats": {},
   "notable_analysis": [
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 207",
+    "Total matches analyzed: 217",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
