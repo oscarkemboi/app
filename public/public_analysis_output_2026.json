@@ -583,6 +583,30 @@
           "h2h_under": "100.00%",
           "status": "",
           "was_converted": true
+        },
+        {
+          "date": "2026-02-02",
+          "match": "Arema FC vs Persijap Jepara",
+          "final_odds": "2.36",
+          "original_odds": "1.89",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-02-02",
+          "match": "Erokspor vs Umraniyespor",
+          "final_odds": "4.20",
+          "original_odds": "1.40",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -592,8 +616,8 @@
         "message": "No valid 2-match combos in 2026-02."
       },
       "filtered_stats": {
-        "total_matches_in_month": 10,
-        "matches_above_threshold": 2
+        "total_matches_in_month": 20,
+        "matches_above_threshold": 4
       }
     }
   ],
@@ -601,7 +625,7 @@
   "notable_analysis": [
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 217",
+    "Total matches analyzed: 227",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
