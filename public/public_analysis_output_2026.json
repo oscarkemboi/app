@@ -607,6 +607,54 @@
           "h2h_under": "100.00%",
           "status": "",
           "was_converted": true
+        },
+        {
+          "date": "2026-02-03",
+          "match": "Al-adalh vs Al Taee",
+          "final_odds": "2.65",
+          "original_odds": "1.74",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-02-03",
+          "match": "Rochdale vs Boreham Wood",
+          "final_odds": "2.52",
+          "original_odds": "1.80",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-02-04",
+          "match": "Apollon Limassol vs Omonia Aradip..",
+          "final_odds": "2.38",
+          "original_odds": "1.88",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-02-04",
+          "match": "Pafos vs APOEL Nicosia",
+          "final_odds": "2.35",
+          "original_odds": "1.90",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "80.00%",
+          "status": "",
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -616,8 +664,8 @@
         "message": "No valid 2-match combos in 2026-02."
       },
       "filtered_stats": {
-        "total_matches_in_month": 20,
-        "matches_above_threshold": 4
+        "total_matches_in_month": 40,
+        "matches_above_threshold": 8
       }
     }
   ],
@@ -625,7 +673,7 @@
   "notable_analysis": [
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 227",
+    "Total matches analyzed: 247",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
