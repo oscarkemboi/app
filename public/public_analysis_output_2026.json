@@ -727,6 +727,30 @@
           "h2h_under": "100.00%",
           "status": "",
           "was_converted": true
+        },
+        {
+          "date": "2026-02-08",
+          "match": "Flamengo vs Sampaio Correa",
+          "final_odds": "2.17",
+          "original_odds": "2.17",
+          "original_prediction": "Under2.5",
+          "final_prediction": "Under2.5",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
+          "was_converted": false
+        },
+        {
+          "date": "2026-02-08",
+          "match": "Nublense vs Limache",
+          "final_odds": "2.46",
+          "original_odds": "1.83",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -736,8 +760,8 @@
         "message": "No valid 2-match combos in 2026-02."
       },
       "filtered_stats": {
-        "total_matches_in_month": 70,
-        "matches_above_threshold": 14
+        "total_matches_in_month": 80,
+        "matches_above_threshold": 16
       }
     }
   ],
@@ -745,7 +769,7 @@
   "notable_analysis": [
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 277",
+    "Total matches analyzed: 287",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
