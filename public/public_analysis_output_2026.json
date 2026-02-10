@@ -799,6 +799,30 @@
           "h2h_under": "47.83%",
           "status": "",
           "was_converted": true
+        },
+        {
+          "date": "2026-02-11",
+          "match": "NEC Nijmegen vs FC Utrecht",
+          "final_odds": "2.86",
+          "original_odds": "1.66",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "54.55%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-02-11",
+          "match": "Virtus vs SP Libertas",
+          "final_odds": "5.84",
+          "original_odds": "1.28",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "50.00%",
+          "status": "",
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -808,8 +832,8 @@
         "message": "No valid 2-match combos in 2026-02."
       },
       "filtered_stats": {
-        "total_matches_in_month": 100,
-        "matches_above_threshold": 20
+        "total_matches_in_month": 103,
+        "matches_above_threshold": 22
       }
     }
   ],
@@ -817,7 +841,7 @@
   "notable_analysis": [
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 307",
+    "Total matches analyzed: 310",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
