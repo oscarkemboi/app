@@ -1,0 +1,174 @@
+{
+  "year": 2020,
+  "months": [
+    {
+      "month": "2020-12",
+      "matches": [
+        {
+          "date": "2020-12-01",
+          "match": "GD Chaves vs Casa Pia AC",
+          "odd": "1.98",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-12-01",
+          "match": "River Plate vs Athletico-PR",
+          "odd": "2.42",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-12-03",
+          "match": "Gran Valencia vs Zamora Barinas",
+          "odd": "2.46",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-12-04",
+          "match": "Koge BK vs Elite 3000 Helsi",
+          "odd": "2.04",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-12-05",
+          "match": "Havant Waterloov vs Chelmsford City",
+          "odd": "2.28",
+          "score": "3-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-12-07",
+          "match": "Grorud vs Kongsvinger",
+          "odd": "2.35",
+          "score": "4-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-12-08",
+          "match": "SV Meppen vs VfR Mannheim",
+          "odd": "2.30",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-12-08",
+          "match": "Seattle Sounders vs Minnesota United",
+          "odd": "2.48",
+          "score": "3-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-12-09",
+          "match": "Croatia Zmijavci vs Dubrava",
+          "odd": "2.02",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-12-11",
+          "match": "Kasimpasa vs Denizlispor",
+          "odd": "2.07",
+          "score": "3-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-12-12",
+          "match": "Stenhousemuir vs Stranraer",
+          "odd": "2.48",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-12-12",
+          "match": "Athletico-PR vs Atletico Mineiro",
+          "odd": "2.05",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-12-16",
+          "match": "Paris Saint Germ vs Lorient",
+          "odd": "2.12",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-12-17",
+          "match": "Audax Italiano vs CSD Antofagasta",
+          "odd": "2.04",
+          "score": "3-0",
+          "h2h_under": "72.73%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-12-18",
+          "match": "San Lorenzo vs CA River Plate",
+          "odd": "2.08",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-12-21",
+          "match": "CA Huracan vs River Plate (PAR",
+          "odd": "2.21",
+          "score": "1-3",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-12-22",
+          "match": "TSG Hoffenheim vs Greuther Furth",
+          "odd": "2.12",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "35.29%",
+        "under_2.5_count": "6/17",
+        "average_odds": "2.21"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "0.00%",
+        "combo_under_2.5_count": "0/3",
+        "average_combo_odds": "5.19"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "38.46%",
+      "under_2.5_count": "95/247",
+      "average_odds": "2.13"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "20.97%",
+      "combo_under_2.5_count": "13/62",
+      "average_combo_odds": "4.55"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.18 (positive → possible profitability).",
+    "EV Combos: -0.05 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}
