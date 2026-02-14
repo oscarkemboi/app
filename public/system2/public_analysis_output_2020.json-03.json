@@ -1,0 +1,198 @@
+{
+  "year": 2020,
+  "months": [
+    {
+      "month": "2020-03",
+      "matches": [
+        {
+          "date": "2020-03-02",
+          "match": "Swansea U23 vs West Brom U23",
+          "odd": "1.98",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-03-04",
+          "match": "Dunajska Streda vs Poprad",
+          "odd": "2.28",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-03-04",
+          "match": "FK Zorya Luhansk vs FC Lviv",
+          "odd": "2.02",
+          "score": "2-0",
+          "h2h_under": "80.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-03-05",
+          "match": "Akranes vs Leiknir Reykjavi",
+          "odd": "2.41",
+          "score": "4-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-03-05",
+          "match": "Universidad de C vs Everton CD",
+          "odd": "1.98",
+          "score": "0-0",
+          "h2h_under": "64.29%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-03-09",
+          "match": "Maccabi Ahi Naza vs Maccabi Petah Ti",
+          "odd": "1.98",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-03-09",
+          "match": "Gloucester City vs Farsley Celtic",
+          "odd": "1.96",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-03-11",
+          "match": "Palmeiras vs Guarani CA",
+          "odd": "2.18",
+          "score": "3-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-03-12",
+          "match": "Monterrey vs Juarez",
+          "odd": "2.38",
+          "score": "2-0",
+          "h2h_under": "80.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-03-16",
+          "match": "Antalyaspor vs Sivasspor",
+          "odd": "2.12",
+          "score": "1-0",
+          "h2h_under": "28.57%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-03-18",
+          "match": "Brasiliense vs Paranoa",
+          "odd": "2.34",
+          "score": "8-0",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-03-19",
+          "match": "Energetik-BGU vs BATE Borisov",
+          "odd": "1.96",
+          "score": "3-1",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-03-20",
+          "match": "Dinamo Minsk vs Rukh Brest",
+          "odd": "1.98",
+          "score": "0-1",
+          "h2h_under": "0.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-03-24",
+          "match": "Gilport Lions vs Morupule",
+          "odd": "2.07",
+          "score": "1-3",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-03-24",
+          "match": "Angelholms FF vs BK Astrio",
+          "odd": "2.37",
+          "score": "1-2",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-03-25",
+          "match": "Sandsbro vs Ingelstads",
+          "odd": "2.45",
+          "score": "3-1",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-03-26",
+          "match": "Kalmar vs Jonkopings Sodra",
+          "odd": "2.27",
+          "score": "3-0",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-03-27",
+          "match": "Qviding FIF vs IK Oddevold",
+          "odd": "2.02",
+          "score": "0-0",
+          "h2h_under": "25.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-03-29",
+          "match": "FK Isloch Minsk vs Smolevichi STI",
+          "odd": "2.28",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-03-29",
+          "match": "Vrango vs Knippla",
+          "odd": "2.27",
+          "score": "3-1",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "50.00%",
+        "under_2.5_count": "10/20",
+        "average_odds": "2.17"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "20.00%",
+        "combo_under_2.5_count": "1/5",
+        "average_combo_odds": "4.67"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "38.46%",
+      "under_2.5_count": "95/247",
+      "average_odds": "2.13"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "20.97%",
+      "combo_under_2.5_count": "13/62",
+      "average_combo_odds": "4.55"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.18 (positive → possible profitability).",
+    "EV Combos: -0.05 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}
