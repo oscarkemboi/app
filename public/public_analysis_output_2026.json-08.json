@@ -4,27 +4,90 @@
   "months": [
     {
       "month": "2026-08",
-      "matches": []
+      "matches": [
+        {
+          "date": "2026-08-27",
+          "match": "FC Riga United vs Sparta Praha",
+          "final_odds": "3.05",
+          "original_odds": "1.60",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅",
+          "was_converted": true
+        },
+        {
+          "date": "2026-08-27",
+          "match": "FC Copenhagen vs Basel",
+          "final_odds": "2.52",
+          "original_odds": "1.80",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅",
+          "was_converted": true
+        },
+        {
+          "date": "2026-08-28",
+          "match": "Fredrikstad vs Crystal Palace",
+          "final_odds": "2.62",
+          "original_odds": "1.75",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅",
+          "was_converted": true
+        },
+        {
+          "date": "2026-08-28",
+          "match": "Besiktas vs Lausanne Sports",
+          "final_odds": "3.02",
+          "original_odds": "1.61",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅",
+          "was_converted": true
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "100.00%",
+        "under_2.5_count": "4/4",
+        "average_odds": "2.80"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "100.00%",
+        "combo_under_2.5_count": "2/2",
+        "average_combo_odds": "7.81"
+      },
+      "filtered_stats": {
+        "total_matches_in_month": 20,
+        "matches_above_threshold": 4
+      }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "48.08%",
-      "under_2.5_count": "25/52",
-      "average_odds": "2.56"
+      "under_2.5_percentage": "100.00%",
+      "under_2.5_count": "4/4",
+      "average_odds": "2.80"
     },
     "combo_stats": {
-      "combo_under_2.5_percentage": "23.81%",
-      "combo_under_2.5_count": "5/21",
-      "average_combo_odds": "6.93"
+      "combo_under_2.5_percentage": "100.00%",
+      "combo_under_2.5_count": "2/2",
+      "average_combo_odds": "7.81"
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.2315 (💰 POSITIVE (potentially profitable))",
-    "Daily Combo EV: 0.6503 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: 1.8046 (💰 POSITIVE (potentially profitable))",
+    "Daily Combo EV: 6.8108 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 330",
+    "Total matches analyzed: 20",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
