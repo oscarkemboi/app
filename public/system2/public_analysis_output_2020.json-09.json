@@ -1,0 +1,174 @@
+{
+  "year": 2020,
+  "months": [
+    {
+      "month": "2020-09",
+      "matches": [
+        {
+          "date": "2020-09-03",
+          "match": "Birmingham City vs North Carolina",
+          "odd": "2.05",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-09-04",
+          "match": "Sheffield United vs Preston North En",
+          "odd": "2.10",
+          "score": "2-2",
+          "h2h_under": "71.43%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-09-06",
+          "match": "Eskilsminne IF vs Qviding FIF",
+          "odd": "2.08",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-09-10",
+          "match": "Shanghai Dongya vs Qingdao Huanghai",
+          "odd": "2.35",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-09-11",
+          "match": "Belupo vs HNK Sibenik",
+          "odd": "2.08",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-09-14",
+          "match": "Grotta Seltjarna vs Fjolnir",
+          "odd": "2.35",
+          "score": "2-2",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-09-15",
+          "match": "Inter Milan vs Lugano",
+          "odd": "2.34",
+          "score": "5-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-09-15",
+          "match": "Pachuca vs Monterrey",
+          "odd": "2.08",
+          "score": "1-1",
+          "h2h_under": "52.63%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-09-18",
+          "match": "Lafnitz vs SKU Amstetten",
+          "odd": "2.23",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-09-18",
+          "match": "Taby vs Haninge",
+          "odd": "2.02",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-09-20",
+          "match": "Greuther Furth vs VfL Osnabruck",
+          "odd": "2.14",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-09-23",
+          "match": "Kabel Novi Sad vs Dinamo Vranje",
+          "odd": "2.16",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-09-24",
+          "match": "Municipal Iquiqu vs Union La Calera",
+          "odd": "2.06",
+          "score": "0-3",
+          "h2h_under": "85.71%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-09-25",
+          "match": "Stjordals Blink vs KFUM Oslo",
+          "odd": "1.96",
+          "score": "4-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-09-29",
+          "match": "Newtown AFC vs Druids (Wal)",
+          "odd": "2.15",
+          "score": "4-1",
+          "h2h_under": "81.82%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-09-30",
+          "match": "Pisa vs Juve Stabia",
+          "odd": "2.23",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-09-30",
+          "match": "Cosenza Calcio 1 vs Alessandria",
+          "odd": "2.04",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "29.41%",
+        "under_2.5_count": "5/17",
+        "average_odds": "2.14"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "33.33%",
+        "combo_under_2.5_count": "1/3",
+        "average_combo_odds": "4.64"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "38.46%",
+      "under_2.5_count": "95/247",
+      "average_odds": "2.13"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "20.97%",
+      "combo_under_2.5_count": "13/62",
+      "average_combo_odds": "4.55"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.18 (positive → possible profitability).",
+    "EV Combos: -0.05 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}
