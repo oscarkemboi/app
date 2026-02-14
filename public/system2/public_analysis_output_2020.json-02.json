@@ -1,0 +1,150 @@
+{
+  "year": 2020,
+  "months": [
+    {
+      "month": "2020-02",
+      "matches": [
+        {
+          "date": "2020-02-03",
+          "match": "Maccabi Tel Aviv vs Hapoel Raanana",
+          "odd": "2.23",
+          "score": "2-1",
+          "h2h_under": "58.82%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-02-06",
+          "match": "Omonia Nicosia F vs Doxa Katokopias",
+          "odd": "2.48",
+          "score": "4-1",
+          "h2h_under": "36.36%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-02-07",
+          "match": "NAC Breda vs FC Oss",
+          "odd": "2.30",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-02-07",
+          "match": "Ayacucho vs Sport Boys",
+          "odd": "2.07",
+          "score": "2-1",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-02-08",
+          "match": "Sporting Braga vs Gil Vicente",
+          "odd": "2.12",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-02-13",
+          "match": "Herediano vs Cartagines Depor",
+          "odd": "2.12",
+          "score": "3-0",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-02-13",
+          "match": "Alajuelense vs Guadalupe",
+          "odd": "2.10",
+          "score": "3-2",
+          "h2h_under": "44.44%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-02-14",
+          "match": "FC Oss vs Dordrecht",
+          "odd": "2.17",
+          "score": "1-3",
+          "h2h_under": "80.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-02-16",
+          "match": "Juazeirense vs EC Jacuipense",
+          "odd": "1.97",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-02-18",
+          "match": "FC Riga United vs Shinnik Yaroslav",
+          "odd": "2.07",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-02-20",
+          "match": "Rotor Volgograd vs Yenisey Krasnoya",
+          "odd": "2.33",
+          "score": "1-2",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-02-23",
+          "match": "JEF United Ichih vs FC Ryukyu",
+          "odd": "2.10",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-02-27",
+          "match": "Ajax vs Getafe",
+          "odd": "1.97",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-02-28",
+          "match": "Laval vs Toulon",
+          "odd": "2.20",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "21.43%",
+        "under_2.5_count": "3/14",
+        "average_odds": "2.16"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "0.00%",
+        "combo_under_2.5_count": "0/2",
+        "average_combo_odds": "4.61"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "38.46%",
+      "under_2.5_count": "95/247",
+      "average_odds": "2.13"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "20.97%",
+      "combo_under_2.5_count": "13/62",
+      "average_combo_odds": "4.55"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.18 (positive → possible profitability).",
+    "EV Combos: -0.05 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}
