@@ -1,0 +1,230 @@
+{
+  "year": 2020,
+  "months": [
+    {
+      "month": "2020-11",
+      "matches": [
+        {
+          "date": "2020-11-01",
+          "match": "Eskisehirspor vs Akhisar Bld.Geng",
+          "odd": "1.98",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-11-02",
+          "match": "Shijiazhuang vs Shenzhen FC",
+          "odd": "1.96",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-11-06",
+          "match": "12 de Octubre vs San Lorenzo",
+          "odd": "2.38",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-11-07",
+          "match": "Karlskrona AIF vs Skovde AIK",
+          "odd": "2.07",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-11-08",
+          "match": "River Plate (PAR vs Rosario Central",
+          "odd": "2.03",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-11-09",
+          "match": "Dundalk vs Sligo Rovers",
+          "odd": "2.12",
+          "score": "0-2",
+          "h2h_under": "58.33%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-11-10",
+          "match": "Colchester Unite vs Southend United",
+          "odd": "2.14",
+          "score": "6-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-11-10",
+          "match": "Stenhousemuir vs Livingston",
+          "odd": "2.12",
+          "score": "0-4",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-11-11",
+          "match": "Giravanz Kitakyu vs Ehime FC",
+          "odd": "1.98",
+          "score": "3-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-11-12",
+          "match": "Switzerland U21 vs Azerbaijan U21",
+          "odd": "2.15",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-11-13",
+          "match": "Qviding FIF vs Utsiktens BK",
+          "odd": "2.28",
+          "score": "2-1",
+          "h2h_under": "80.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-11-14",
+          "match": "GKS Jastrzebie vs LKS Lodz",
+          "odd": "2.00",
+          "score": "0-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-11-14",
+          "match": "Kettering Town vs Curzon Ashton FC",
+          "odd": "1.98",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-11-16",
+          "match": "Nublense vs San Luis Quillot",
+          "odd": "1.98",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-11-17",
+          "match": "Spain U21 vs Israel U21",
+          "odd": "1.98",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-11-17",
+          "match": "Hull City vs Grimsby Town",
+          "odd": "2.23",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-11-19",
+          "match": "De Graafschap vs Cambuur Leeuwaar",
+          "odd": "2.00",
+          "score": "0-2",
+          "h2h_under": "75.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-11-19",
+          "match": "LDU Quito vs Club Sport Emele",
+          "odd": "2.16",
+          "score": "1-2",
+          "h2h_under": "61.54%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-11-21",
+          "match": "Akhmat Grozny (R vs Zenit St. Peters",
+          "odd": "1.95",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-11-21",
+          "match": "Curzon Ashton FC vs Leamington",
+          "odd": "2.02",
+          "score": "0-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-11-22",
+          "match": "BATE Borisov vs FC Belshyna Babr",
+          "odd": "2.18",
+          "score": "5-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-11-28",
+          "match": "FK Vitebsk vs FC Torpedo Zhodi",
+          "odd": "2.05",
+          "score": "2-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-11-30",
+          "match": "FC Utrecht (Yout vs Telstar",
+          "odd": "2.45",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-11-30",
+          "match": "Newcastle Utd U2 vs Wolves U23",
+          "odd": "2.07",
+          "score": "0-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "16.67%",
+        "under_2.5_count": "4/24",
+        "average_odds": "2.09"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "0.00%",
+        "combo_under_2.5_count": "0/6",
+        "average_combo_odds": "4.37"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "38.46%",
+      "under_2.5_count": "95/247",
+      "average_odds": "2.13"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "20.97%",
+      "combo_under_2.5_count": "13/62",
+      "average_combo_odds": "4.55"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.18 (positive → possible profitability).",
+    "EV Combos: -0.05 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}
