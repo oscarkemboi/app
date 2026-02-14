@@ -1,0 +1,294 @@
+{
+  "year": 2020,
+  "months": [
+    {
+      "month": "2020-06",
+      "matches": [
+        {
+          "date": "2020-06-01",
+          "match": "Midtjylland vs AC Horsens",
+          "odd": "2.25",
+          "score": "0-1",
+          "h2h_under": "62.50%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-06-02",
+          "match": "Hapoel Tel Aviv vs Beitar Jerusalem",
+          "odd": "2.05",
+          "score": "3-0",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-06-02",
+          "match": "Termalica B-B. vs Suwalki",
+          "odd": "1.95",
+          "score": "1-0",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-06-03",
+          "match": "Hapoel Hadera vs Nes Tziona",
+          "odd": "2.30",
+          "score": "2-2",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-06-05",
+          "match": "Magdeburg vs Uerdingen KFC 05",
+          "odd": "2.20",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-06-05",
+          "match": "FC Dornbirn 1913 vs SKU Amstetten",
+          "odd": "2.15",
+          "score": "0-4",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-06-06",
+          "match": "Backa vs Novi Pazar",
+          "odd": "2.25",
+          "score": "4-0",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-06-09",
+          "match": "SG Dynamo Dresde vs Greuther Furth",
+          "odd": "2.00",
+          "score": "1-1",
+          "h2h_under": "85.71%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-06-09",
+          "match": "Piast Gliwice vs Gornik Zabrze",
+          "odd": "1.95",
+          "score": "0-0",
+          "h2h_under": "80.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-06-10",
+          "match": "FC Viktoria Plze vs Tescoma Zlin",
+          "odd": "1.98",
+          "score": "3-0",
+          "h2h_under": "85.71%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-06-12",
+          "match": "Termalica B-B. vs Olimpia Grudziad",
+          "odd": "1.98",
+          "score": "3-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-06-12",
+          "match": "Proleter vs Habitpharm Javor",
+          "odd": "2.12",
+          "score": "2-2",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-06-14",
+          "match": "Bohemians 1905 vs Baumit Jablonec",
+          "odd": "1.98",
+          "score": "3-0",
+          "h2h_under": "80.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-06-15",
+          "match": "Maccabi Ahi Naza vs Hapoel Afula",
+          "odd": "2.30",
+          "score": "3-0",
+          "h2h_under": "71.43%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-06-16",
+          "match": "Greuther Furth vs FC Heidenheim",
+          "odd": "2.05",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-06-16",
+          "match": "SV Wehen Wiesbad vs Nurnberg",
+          "odd": "1.95",
+          "score": "0-6",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-06-18",
+          "match": "Varbergs BoIS FC vs IFK Goteborg",
+          "odd": "2.35",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-06-19",
+          "match": "Cherno More Varn vs Vitosha Bistrits",
+          "odd": "2.00",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-06-19",
+          "match": "Austria Lustenau vs SG Austria Klage",
+          "odd": "2.15",
+          "score": "0-2",
+          "h2h_under": "75.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-06-20",
+          "match": "Miedz Legnica vs Termalica B-B.",
+          "odd": "1.98",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-06-20",
+          "match": "SC Paderborn 07 vs Borussia Monchen",
+          "odd": "2.12",
+          "score": "1-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-06-21",
+          "match": "Servette vs Lugano",
+          "odd": "2.25",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-06-23",
+          "match": "Real Valladolid vs Getafe",
+          "odd": "2.00",
+          "score": "1-1",
+          "h2h_under": "83.33%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-06-23",
+          "match": "Rheindorf Altach vs Mattersburg",
+          "odd": "2.27",
+          "score": "1-1",
+          "h2h_under": "78.57%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-06-24",
+          "match": "Real Madrid vs Mallorca",
+          "odd": "2.27",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-06-25",
+          "match": "Alajuelense vs Deportivo Sapris",
+          "odd": "2.05",
+          "score": "0-2",
+          "h2h_under": "62.86%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-06-26",
+          "match": "Akhmat Grozny (R vs Sochi",
+          "odd": "2.12",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-06-26",
+          "match": "Juventus vs Lecce",
+          "odd": "2.05",
+          "score": "4-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-06-27",
+          "match": "Busan I'Park vs Seongnam Ilhwa C",
+          "odd": "2.00",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-06-28",
+          "match": "Kyoto Sanga vs Jubilo Iwata",
+          "odd": "1.98",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-06-28",
+          "match": "SV Meppen vs Ingolstadt",
+          "odd": "2.20",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-06-30",
+          "match": "Vitoria Guimarae vs Vitoria Setubal",
+          "odd": "1.95",
+          "score": "2-0",
+          "h2h_under": "83.33%",
+          "status": "✅"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "59.38%",
+        "under_2.5_count": "19/32",
+        "average_odds": "2.10"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "40.00%",
+        "combo_under_2.5_count": "4/10",
+        "average_combo_odds": "4.25"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "38.46%",
+      "under_2.5_count": "95/247",
+      "average_odds": "2.13"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "20.97%",
+      "combo_under_2.5_count": "13/62",
+      "average_combo_odds": "4.55"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.18 (positive → possible profitability).",
+    "EV Combos: -0.05 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}
