@@ -288,8 +288,80 @@
           "original_odds": "2.01",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅",
+          "was_converted": true
+        },
+        {
+          "date": "2026-02-14",
+          "match": "Septemvri Sofia vs FC Montana",
+          "final_odds": "2.02",
+          "original_odds": "2.19",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-02-14",
+          "match": "Cordoba vs Leganes",
+          "final_odds": "2.18",
+          "original_odds": "2.03",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-02-15",
+          "match": "Cancun vs Mineros de Zacat",
+          "final_odds": "2.29",
+          "original_odds": "1.94",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-02-15",
+          "match": "Albinoleffe vs ArzignanoChiampo",
+          "final_odds": "2.02",
+          "original_odds": "2.19",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "71.43%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-02-16",
+          "match": "AFC Hermannstadt vs CFR Cluj",
+          "final_odds": "2.04",
+          "original_odds": "2.16",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "71.43%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-02-16",
+          "match": "NK Bravo vs NK Aluminij",
+          "final_odds": "3.09",
+          "original_odds": "1.59",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "64.71%",
           "status": "🟠",
           "was_converted": true
         }
@@ -301,8 +373,8 @@
         "message": "No valid 2-match combos in 2026-02."
       },
       "filtered_stats": {
-        "total_matches_in_month": 111,
-        "matches_above_threshold": 24
+        "total_matches_in_month": 141,
+        "matches_above_threshold": 30
       }
     }
   ],
@@ -310,7 +382,7 @@
   "notable_analysis": [
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 357",
+    "Total matches analyzed: 387",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
