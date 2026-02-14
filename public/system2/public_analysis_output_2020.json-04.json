@@ -1,0 +1,52 @@
+{
+  "year": 2020,
+  "months": [
+    {
+      "month": "2020-04",
+      "matches": [
+        {
+          "date": "2020-04-04",
+          "match": "Karlbergs BK vs Kungsangens",
+          "odd": "2.41",
+          "score": "2-1",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-04-10",
+          "match": "Landskrona BoIS vs Eskilsminne IF",
+          "odd": "2.40",
+          "score": "5-0",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "0.00%",
+        "under_2.5_count": "0/2",
+        "average_odds": "2.41"
+      },
+      "combo_stats": {
+        "message": "No valid 2-match combos in 2020-04."
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "38.46%",
+      "under_2.5_count": "95/247",
+      "average_odds": "2.13"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "20.97%",
+      "combo_under_2.5_count": "13/62",
+      "average_combo_odds": "4.55"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.18 (positive → possible profitability).",
+    "EV Combos: -0.05 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}
