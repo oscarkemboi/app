@@ -1,0 +1,238 @@
+{
+  "year": 2020,
+  "months": [
+    {
+      "month": "2020-07",
+      "matches": [
+        {
+          "date": "2020-07-01",
+          "match": "Lecce vs Sampdoria",
+          "odd": "2.15",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-07-01",
+          "match": "Verona vs Parma",
+          "odd": "1.98",
+          "score": "3-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-07-04",
+          "match": "Mypa vs AC Oulu",
+          "odd": "2.12",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-07-09",
+          "match": "B.B. Gaziantep vs Konyaspor",
+          "odd": "2.45",
+          "score": "3-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-07-12",
+          "match": "Dynamo Moscow vs FK Krylya Soveto",
+          "odd": "2.00",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-07-12",
+          "match": "Aston Villa vs Crystal Palace",
+          "odd": "2.00",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-07-13",
+          "match": "Konyaspor vs Basaksehir",
+          "odd": "2.45",
+          "score": "4-3",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-07-14",
+          "match": "LKS Lodz vs Rakow",
+          "odd": "2.07",
+          "score": "3-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-07-14",
+          "match": "Cardiff City vs Derby County",
+          "odd": "1.98",
+          "score": "2-1",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-07-15",
+          "match": "Mito Hollyhock vs Matsumoto Yamaga",
+          "odd": "1.98",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-07-16",
+          "match": "Olimpia Grudziad vs GKS Jastrzebie",
+          "odd": "2.07",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-07-19",
+          "match": "IK Sirius FK vs IFK Norrkoping F",
+          "odd": "2.15",
+          "score": "4-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-07-21",
+          "match": "Ferencvaros vs Haladas",
+          "odd": "2.38",
+          "score": "2-2",
+          "h2h_under": "62.50%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-07-21",
+          "match": "Sydney FC vs Newcastle Jets",
+          "odd": "2.05",
+          "score": "1-2",
+          "h2h_under": "54.55%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-07-22",
+          "match": "Santos vs Santo Andre",
+          "odd": "2.15",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-07-22",
+          "match": "Wigan Athletic vs Fulham",
+          "odd": "2.30",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-07-23",
+          "match": "IFK Goteborg vs Falkenberg",
+          "odd": "2.30",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-07-24",
+          "match": "First Wien 1894 vs FC Magna Wiener",
+          "odd": "2.37",
+          "score": "6-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-07-26",
+          "match": "Shimizu S-Pulse vs Oita Trinita",
+          "odd": "2.40",
+          "score": "4-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-07-26",
+          "match": "Bahia(BA) vs Fluminense de Fe",
+          "odd": "2.37",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-07-27",
+          "match": "Mjallby AIF vs Kalmar",
+          "odd": "2.20",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-07-28",
+          "match": "Seattle Sounders vs LA Galaxy",
+          "odd": "1.98",
+          "score": "1-4",
+          "h2h_under": "35.29%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-07-29",
+          "match": "Sampdoria vs AC Milan",
+          "odd": "2.27",
+          "score": "1-4",
+          "h2h_under": "85.71%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-07-30",
+          "match": "Winterthur vs Kriens",
+          "odd": "2.00",
+          "score": "4-0",
+          "h2h_under": "71.43%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-07-30",
+          "match": "Uniao Recreativa vs America MG",
+          "odd": "2.15",
+          "score": "0-3",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "24.00%",
+        "under_2.5_count": "6/25",
+        "average_odds": "2.17"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "28.57%",
+        "combo_under_2.5_count": "2/7",
+        "average_combo_odds": "4.59"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "38.46%",
+      "under_2.5_count": "95/247",
+      "average_odds": "2.13"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "20.97%",
+      "combo_under_2.5_count": "13/62",
+      "average_combo_odds": "4.55"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.18 (positive → possible profitability).",
+    "EV Combos: -0.05 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}
