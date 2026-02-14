@@ -1,0 +1,286 @@
+{
+  "year": 2020,
+  "months": [
+    {
+      "month": "2020-08",
+      "matches": [
+        {
+          "date": "2020-08-01",
+          "match": "Dundee United vs Saint Johnstone",
+          "odd": "2.25",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-08-01",
+          "match": "Banga Gargzdai vs Riteriai",
+          "odd": "2.15",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-08-02",
+          "match": "Ventforet Kofu vs Renofa Yamaguchi",
+          "odd": "2.26",
+          "score": "1-1",
+          "h2h_under": "75.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-08-03",
+          "match": "Rakow vs Korona Kielce",
+          "odd": "2.18",
+          "score": "5-0",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-04",
+          "match": "Shenzhen FC vs Guangzhou Evergr",
+          "odd": "2.00",
+          "score": "1-3",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-05",
+          "match": "Ilves Tampere vs RoPS Rovaniemi",
+          "odd": "2.00",
+          "score": "1-0",
+          "h2h_under": "70.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-08-07",
+          "match": "FK Zalgiris Viln vs Banga Gargzdai",
+          "odd": "2.10",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-08-08",
+          "match": "Barcelona vs Napoli",
+          "odd": "2.33",
+          "score": "3-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-09",
+          "match": "Rosenborg vs Sarpsborg 08",
+          "odd": "1.95",
+          "score": "5-1",
+          "h2h_under": "83.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-10",
+          "match": "Sogndal vs Ham-Kam",
+          "odd": "2.02",
+          "score": "4-2",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-13",
+          "match": "IFK Norrkoping F vs Hammarby",
+          "odd": "2.38",
+          "score": "1-2",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-14",
+          "match": "FC Maardu vs Parnu",
+          "odd": "2.15",
+          "score": "5-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-14",
+          "match": "Poprad vs Komarno",
+          "odd": "2.33",
+          "score": "2-3",
+          "h2h_under": "80.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-15",
+          "match": "North Carolina vs Birmingham City",
+          "odd": "2.04",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-08-16",
+          "match": "Sandefjord vs Bodo Glimt",
+          "odd": "2.00",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-17",
+          "match": "Santos Laguna vs Atlas",
+          "odd": "2.10",
+          "score": "0-0",
+          "h2h_under": "57.14%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-08-19",
+          "match": "North Carolina vs Charleston Batte",
+          "odd": "1.98",
+          "score": "0-3",
+          "h2h_under": "80.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-20",
+          "match": "Fredericia vs Sonderjyske",
+          "odd": "2.05",
+          "score": "3-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-20",
+          "match": "Flora Tallinn II vs Parnu",
+          "odd": "2.21",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-08-21",
+          "match": "Macara vs Deportivo Cuenca",
+          "odd": "1.98",
+          "score": "",
+          "h2h_under": "60.00%",
+          "status": "⚪"
+        },
+        {
+          "date": "2020-08-21",
+          "match": "Proleter vs Crvena Zvezda",
+          "odd": "2.23",
+          "score": "0-1",
+          "h2h_under": "60.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-08-22",
+          "match": "Skovde AIK vs Karlskrona AIF",
+          "odd": "2.07",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-08-23",
+          "match": "Nykopings BIS vs Brommapojkarna",
+          "odd": "2.07",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-24",
+          "match": "Ranheim IL vs Strommen",
+          "odd": "2.05",
+          "score": "5-1",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-27",
+          "match": "Borussia Monchen vs Greuther Furth",
+          "odd": "2.45",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-08-27",
+          "match": "RKC Waalwijk vs Sparta Rotterdam",
+          "odd": "2.33",
+          "score": "1-1",
+          "h2h_under": "60.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-08-28",
+          "match": "Blacktown City D vs Marconi Stallion",
+          "odd": "2.15",
+          "score": "0-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-28",
+          "match": "FC Zurich vs FC Wil 1900",
+          "odd": "2.30",
+          "score": "1-0",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-08-29",
+          "match": "Termalica B-B. vs Zaglebie Sosnowi",
+          "odd": "2.10",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-08-29",
+          "match": "Red Star Waaslan vs Leuven",
+          "odd": "2.00",
+          "score": "1-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-08-31",
+          "match": "AD San Carlos vs Limon FC",
+          "odd": "2.33",
+          "score": "2-2",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "46.67%",
+        "under_2.5_count": "14/30",
+        "average_odds": "2.15"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "33.33%",
+        "combo_under_2.5_count": "2/6",
+        "average_combo_odds": "4.87"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "38.46%",
+      "under_2.5_count": "95/247",
+      "average_odds": "2.13"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "20.97%",
+      "combo_under_2.5_count": "13/62",
+      "average_combo_odds": "4.55"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.18 (positive → possible profitability).",
+    "EV Combos: -0.05 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}
