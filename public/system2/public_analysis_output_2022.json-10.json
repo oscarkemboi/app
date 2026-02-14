@@ -1,0 +1,142 @@
+{
+  "year": 2022,
+  "months": [
+    {
+      "month": "2022-10",
+      "matches": [
+        {
+          "date": "2022-10-04",
+          "match": "Hanley Town vs Chester FC",
+          "odd": "2.15",
+          "score": "0-4",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-10-04",
+          "match": "Plymouth Parkway vs Oxford City",
+          "odd": "2.33",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-10-09",
+          "match": "Energetik-BGU vs Arsenal Dzyarzhy",
+          "odd": "2.04",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-10-09",
+          "match": "Sturm Graz vs First Wien 1894",
+          "odd": "2.13",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-10-15",
+          "match": "Ingolstadt vs SV Meppen",
+          "odd": "2.17",
+          "score": "3-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-10-15",
+          "match": "Burnley vs Swansea City",
+          "odd": "2.01",
+          "score": "4-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-10-18",
+          "match": "Harrogate Town vs Morecambe",
+          "odd": "2.12",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-10-18",
+          "match": "IK Brage vs Skovde AIK",
+          "odd": "1.97",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-10-20",
+          "match": "Neman Grodno vs Dnepr Mogilev",
+          "odd": "2.13",
+          "score": "2-0",
+          "h2h_under": "71.43%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-10-22",
+          "match": "Blackpool vs Preston North En",
+          "odd": "2.50",
+          "score": "4-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-10-26",
+          "match": "Inter Milan vs FC Viktoria Plze",
+          "odd": "2.12",
+          "score": "4-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-10-26",
+          "match": "Atletico de Madr vs Bayer Leverkusen",
+          "odd": "2.18",
+          "score": "4-0",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-10-28",
+          "match": "VVV-Venlo vs AZ Alkmaar (Yout",
+          "odd": "2.20",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "38.46%",
+        "under_2.5_count": "5/13",
+        "average_odds": "2.16"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "20.00%",
+        "combo_under_2.5_count": "1/5",
+        "average_combo_odds": "4.50"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "37.50%",
+      "under_2.5_count": "90/240",
+      "average_odds": "2.13"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "16.67%",
+      "combo_under_2.5_count": "11/66",
+      "average_combo_odds": "4.58"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.20 (positive → possible profitability).",
+    "EV Combos: -0.24 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}

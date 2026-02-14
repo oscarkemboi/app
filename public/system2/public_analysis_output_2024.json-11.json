@@ -1,0 +1,206 @@
+{
+  "year": 2024,
+  "months": [
+    {
+      "month": "2024-11",
+      "matches": [
+        {
+          "date": "2024-11-01",
+          "match": "Derby County U21 vs West Bromwich U2",
+          "odd": "2.18",
+          "score": "4-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-11-02",
+          "match": "Bradford City vs Aldershot Town",
+          "odd": "2.20",
+          "score": "3-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-11-03",
+          "match": "Go Ahead Eagles vs Zwolle",
+          "odd": "2.16",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-11-06",
+          "match": "Tatran Presov vs Raca",
+          "odd": "2.10",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-11-07",
+          "match": "Ruch Chorzow vs Chrobry Glogow",
+          "odd": "2.00",
+          "score": "5-0",
+          "h2h_under": "80.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-11-08",
+          "match": "Nottingham Fores vs Hull U21",
+          "odd": "1.98",
+          "score": "5-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-11-08",
+          "match": "Ekranas Panevezy vs Siauliai 2",
+          "odd": "2.27",
+          "score": "2-4",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-11-13",
+          "match": "Bulgaria U19 vs Belgium U19",
+          "odd": "2.25",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-11-13",
+          "match": "Kosovo U19 vs Austria U19",
+          "odd": "2.00",
+          "score": "0-4",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-11-14",
+          "match": "Kuwait vs Korea Republic",
+          "odd": "2.25",
+          "score": "1-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-11-15",
+          "match": "CDM vs Poza Rica",
+          "odd": "2.11",
+          "score": "1-4",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-11-16",
+          "match": "England U19 vs Bulgaria U19",
+          "odd": "2.50",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-11-18",
+          "match": "Batman Petrolspo vs Afjet Afyonspor",
+          "odd": "2.45",
+          "score": "3-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-11-18",
+          "match": "Spain vs Switzerland",
+          "odd": "2.50",
+          "score": "3-2",
+          "h2h_under": "71.43%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-11-19",
+          "match": "Belarus U19 vs Armenia U19",
+          "odd": "2.25",
+          "score": "3-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-11-20",
+          "match": "Argentina vs Peru",
+          "odd": "2.10",
+          "score": "1-0",
+          "h2h_under": "75.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-11-23",
+          "match": "Koninklijke HFC vs Almere City 2",
+          "odd": "2.02",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-11-25",
+          "match": "East Riffa vs Sitra",
+          "odd": "2.00",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-11-27",
+          "match": "Nam Dinh vs Lee Man Warriors",
+          "odd": "2.09",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-11-28",
+          "match": "Port MTI FC vs Persib Bandung",
+          "odd": "2.25",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-11-29",
+          "match": "Lommel SK vs Lokeren-Temse",
+          "odd": "2.00",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "19.05%",
+        "under_2.5_count": "4/21",
+        "average_odds": "2.17"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "0.00%",
+        "combo_under_2.5_count": "0/3",
+        "average_combo_odds": "5.04"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "43.94%",
+      "under_2.5_count": "116/264",
+      "average_odds": "2.15"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "26.15%",
+      "combo_under_2.5_count": "17/65",
+      "average_combo_odds": "4.61"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.06 (positive → possible profitability).",
+    "EV Combos: 0.21 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}

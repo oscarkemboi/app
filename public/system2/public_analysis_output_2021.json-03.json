@@ -1,0 +1,198 @@
+{
+  "year": 2021,
+  "months": [
+    {
+      "month": "2021-03",
+      "matches": [
+        {
+          "date": "2021-03-01",
+          "match": "NAC Breda vs FC Oss",
+          "odd": "2.25",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-03-01",
+          "match": "Boca Juniors vs Sarmiento Junin",
+          "odd": "1.95",
+          "score": "1-1",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-03-02",
+          "match": "Burton Albion vs Bristol Rovers",
+          "odd": "2.04",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-03-02",
+          "match": "Viktoria koln vs Magdeburg",
+          "odd": "1.98",
+          "score": "2-4",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-03-04",
+          "match": "Liverpool vs Chelsea",
+          "odd": "2.00",
+          "score": "0-1",
+          "h2h_under": "71.43%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-03-06",
+          "match": "FK Krylya Soveto vs Chertanovo M.",
+          "odd": "2.24",
+          "score": "5-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-03-06",
+          "match": "CSE vs Coruripe Al",
+          "odd": "2.28",
+          "score": "4-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-03-10",
+          "match": "Urawa Red Diamon vs Yokohama FC",
+          "odd": "1.96",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-03-10",
+          "match": "Liverpool vs RB Leipzig",
+          "odd": "2.30",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-03-12",
+          "match": "Winterthur vs Thun",
+          "odd": "1.98",
+          "score": "2-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-03-14",
+          "match": "VfR Mannheim vs SV Meppen",
+          "odd": "2.06",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-03-16",
+          "match": "Milton Keynes Do vs Plymouth Argyle",
+          "odd": "2.30",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-03-18",
+          "match": "San Lorenzo vs Universidad de C",
+          "odd": "2.10",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-03-23",
+          "match": "Partick Thistle vs Cowdenbeath",
+          "odd": "2.20",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-03-25",
+          "match": "Greece U21 vs Cyprus U21",
+          "odd": "2.08",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-03-25",
+          "match": "Tajikistan vs Mongolia",
+          "odd": "2.20",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-03-28",
+          "match": "Georgia vs Spain",
+          "odd": "2.08",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-03-29",
+          "match": "FYR Macedonia U2 vs Bulgaria U21",
+          "odd": "2.08",
+          "score": "5-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-03-30",
+          "match": "Croatia vs Malta",
+          "odd": "2.02",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-03-30",
+          "match": "Alianza Lima vs Cusco",
+          "odd": "2.25",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "40.00%",
+        "under_2.5_count": "8/20",
+        "average_odds": "2.12"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "16.67%",
+        "combo_under_2.5_count": "1/6",
+        "average_combo_odds": "4.53"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "42.48%",
+      "under_2.5_count": "96/226",
+      "average_odds": "2.13"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "18.87%",
+      "combo_under_2.5_count": "10/53",
+      "average_combo_odds": "4.54"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.10 (positive → possible profitability).",
+    "EV Combos: -0.14 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}

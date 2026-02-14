@@ -1,0 +1,21 @@
+{
+  "year": 2026,
+  "target_min_odds": 2.0,
+  "months": [
+    {
+      "month": "2026-08",
+      "matches": []
+    }
+  ],
+  "yearly_stats": {},
+  "notable_analysis": [
+    "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
+    "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
+    "Total matches analyzed: 357",
+    "Matches converted from Over2.5: 0"
+  ],
+  "conversion_info": {
+    "market_margin": 1.05,
+    "note": "Over2.5 odds converted to Under2.5 odds assuming 5% market margin"
+  }
+}

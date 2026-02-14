@@ -1,0 +1,190 @@
+{
+  "year": 2022,
+  "months": [
+    {
+      "month": "2022-09",
+      "matches": [
+        {
+          "date": "2022-09-01",
+          "match": "Odra Opole vs Jagiellonia Bial",
+          "odd": "2.24",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-09-01",
+          "match": "Cukaricki Stanko vs Mladost Lucani",
+          "odd": "2.25",
+          "score": "3-1",
+          "h2h_under": "73.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-09-02",
+          "match": "Fremad Amager vs Hillerod Fodbold",
+          "odd": "2.09",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-09-02",
+          "match": "Cork City vs Longford Town",
+          "odd": "1.96",
+          "score": "2-2",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-09-03",
+          "match": "Spartak Varna vs CSKA Sofia",
+          "odd": "2.16",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-09-07",
+          "match": "Fortaleza F.C vs Barranquilla FC",
+          "odd": "2.18",
+          "score": "3-0",
+          "h2h_under": "70.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-09-07",
+          "match": "Yokohama Marinos vs Shonan Bellmare",
+          "odd": "2.20",
+          "score": "3-0",
+          "h2h_under": "58.82%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-09-14",
+          "match": "Sporting Kansas vs D.C. United",
+          "odd": "2.25",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-09-16",
+          "match": "Fremad Amager vs Koge BK",
+          "odd": "2.40",
+          "score": "2-3",
+          "h2h_under": "85.71%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-09-17",
+          "match": "Levadia U21 vs Tulevik Viljandi",
+          "odd": "2.00",
+          "score": "3-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-09-20",
+          "match": "Dalian Pro vs Hebei",
+          "odd": "2.05",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-09-20",
+          "match": "Stevenage Boroug vs Wycombe Wanderer",
+          "odd": "1.97",
+          "score": "3-0",
+          "h2h_under": "80.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-09-21",
+          "match": "New York Red Bul vs Detroit",
+          "odd": "2.32",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-09-21",
+          "match": "Paulton Rovers vs Gosport Borough",
+          "odd": "2.15",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-09-23",
+          "match": "Romania U21 vs Spain U21",
+          "odd": "2.31",
+          "score": "1-4",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-09-28",
+          "match": "Argentina vs Jamaica",
+          "odd": "2.07",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-09-28",
+          "match": "Cimarrones de So vs Correcaminos UAT",
+          "odd": "2.24",
+          "score": "2-1",
+          "h2h_under": "73.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-09-29",
+          "match": "CS Cerrito vs Montevideo City",
+          "odd": "2.12",
+          "score": "0-0",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-09-30",
+          "match": "Aston Villa U21 vs West Bromwich U2",
+          "odd": "2.12",
+          "score": "2-6",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "26.32%",
+        "under_2.5_count": "5/19",
+        "average_odds": "2.16"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "0.00%",
+        "combo_under_2.5_count": "0/6",
+        "average_combo_odds": "4.60"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "37.50%",
+      "under_2.5_count": "90/240",
+      "average_odds": "2.13"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "16.67%",
+      "combo_under_2.5_count": "11/66",
+      "average_combo_odds": "4.58"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.20 (positive → possible profitability).",
+    "EV Combos: -0.24 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}

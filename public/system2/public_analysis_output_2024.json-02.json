@@ -1,0 +1,174 @@
+{
+  "year": 2024,
+  "months": [
+    {
+      "month": "2024-02",
+      "matches": [
+        {
+          "date": "2024-02-03",
+          "match": "Basaksehir vs Istanbulspor",
+          "odd": "1.99",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-02-03",
+          "match": "Dukla Banska Bys vs Pohronie",
+          "odd": "2.15",
+          "score": "5-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-02-05",
+          "match": "Sunderland U21 vs Bristol City U21",
+          "odd": "2.27",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-02-05",
+          "match": "Birmingham City vs Middlesbrough U2",
+          "odd": "2.18",
+          "score": "0-4",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-02-06",
+          "match": "Whitehawk vs Cheshunt",
+          "odd": "2.31",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-02-06",
+          "match": "Polonia Bytom vs Zaglebie Sosnowi",
+          "odd": "2.14",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-02-08",
+          "match": "Dynamo Moscow vs Gazovik Orenburg",
+          "odd": "2.45",
+          "score": "4-1",
+          "h2h_under": "60.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-02-10",
+          "match": "Zulte-Waregem vs Lommel SK",
+          "odd": "2.27",
+          "score": "0-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-02-13",
+          "match": "Dortmund II vs Preussen Munster",
+          "odd": "2.08",
+          "score": "2-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-02-14",
+          "match": "Niki Volou vs Aiolikos",
+          "odd": "2.04",
+          "score": "3-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-02-15",
+          "match": "Kopavogur vs UMF Njardvik",
+          "odd": "2.34",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-02-21",
+          "match": "Liverpool vs Luton Town",
+          "odd": "2.05",
+          "score": "4-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-02-22",
+          "match": "Dinamo Zagreb vs Real Betis",
+          "odd": "1.95",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-02-25",
+          "match": "Rio Ave vs Sporting CP",
+          "odd": "2.33",
+          "score": "3-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-02-27",
+          "match": "Dundee United vs Airdrie United",
+          "odd": "1.96",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-02-28",
+          "match": "Bragantino vs Aguilas D.",
+          "odd": "1.97",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-02-28",
+          "match": "Shillong Lajong vs Rajasthan",
+          "odd": "2.00",
+          "score": "4-4",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "41.18%",
+        "under_2.5_count": "7/17",
+        "average_odds": "2.15"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "25.00%",
+        "combo_under_2.5_count": "1/4",
+        "average_combo_odds": "4.52"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "43.94%",
+      "under_2.5_count": "116/264",
+      "average_odds": "2.15"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "26.15%",
+      "combo_under_2.5_count": "17/65",
+      "average_combo_odds": "4.61"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.06 (positive → possible profitability).",
+    "EV Combos: 0.21 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}

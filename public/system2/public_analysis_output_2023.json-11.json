@@ -1,0 +1,230 @@
+{
+  "year": 2023,
+  "months": [
+    {
+      "month": "2023-11",
+      "matches": [
+        {
+          "date": "2023-11-01",
+          "match": "Nurnberg vs Hansa Rostock",
+          "odd": "2.06",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-11-03",
+          "match": "Koge BK vs AC Horsens",
+          "odd": "2.05",
+          "score": "1-4",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-11-03",
+          "match": "Wisla Pulawy vs GKS Jastrzebie",
+          "odd": "2.20",
+          "score": "2-2",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-11-07",
+          "match": "FC Van vs West Armenia",
+          "odd": "2.12",
+          "score": "4-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-11-08",
+          "match": "Melbourne City vs Buriram PEA",
+          "odd": "2.32",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2023-11-10",
+          "match": "SV Ried vs Lafnitz",
+          "odd": "2.42",
+          "score": "5-0",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-11-12",
+          "match": "Hong Kong FC vs Resources Capita",
+          "odd": "2.45",
+          "score": "4-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-11-14",
+          "match": "Carlisle United vs Harrogate Town",
+          "odd": "2.22",
+          "score": "2-0",
+          "h2h_under": "75.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2023-11-15",
+          "match": "Armenia U19 vs Croatia U19",
+          "odd": "2.12",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-11-16",
+          "match": "Sanluqueno vs Cadiz",
+          "odd": "2.42",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2023-11-17",
+          "match": "Belgium U21 vs Scotland U21",
+          "odd": "1.96",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2023-11-17",
+          "match": "Spain U21 vs Hungary U21",
+          "odd": "2.09",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2023-11-18",
+          "match": "Rajasthan vs Mohammedan",
+          "odd": "2.08",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-11-19",
+          "match": "Portugal vs Iceland",
+          "odd": "1.98",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2023-11-20",
+          "match": "Czech Republic vs Moldova",
+          "odd": "2.24",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-11-21",
+          "match": "Croatia vs Armenia",
+          "odd": "2.43",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2023-11-22",
+          "match": "FC Dunav Ruse vs Levski Sofia",
+          "odd": "2.19",
+          "score": "1-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-11-22",
+          "match": "KS Elbasani vs Kastrioti",
+          "odd": "2.31",
+          "score": "3-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-11-23",
+          "match": "Esteghlal Khuzes vs Sepahan",
+          "odd": "1.99",
+          "score": "1-3",
+          "h2h_under": "80.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-11-24",
+          "match": "Newcastle U21 vs Huddersfield Tow",
+          "odd": "2.05",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2023-11-27",
+          "match": "Al-Duhail vs Istiqlol Dushanb",
+          "odd": "2.22",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2023-11-28",
+          "match": "Al-Feiha vs Ahal",
+          "odd": "2.15",
+          "score": "3-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-11-29",
+          "match": "Central Coast Ma vs Terengganu",
+          "odd": "2.34",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2023-11-30",
+          "match": "NK Olimpija Ljub vs Lille",
+          "odd": "2.04",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "45.83%",
+        "under_2.5_count": "11/24",
+        "average_odds": "2.19"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "33.33%",
+        "combo_under_2.5_count": "1/3",
+        "average_combo_odds": "4.56"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "43.88%",
+      "under_2.5_count": "129/294",
+      "average_odds": "2.15"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "22.97%",
+      "combo_under_2.5_count": "17/74",
+      "average_combo_odds": "4.63"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.06 (positive → possible profitability).",
+    "EV Combos: 0.06 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}

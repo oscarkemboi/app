@@ -1,0 +1,134 @@
+{
+  "year": 2022,
+  "months": [
+    {
+      "month": "2022-03",
+      "matches": [
+        {
+          "date": "2022-03-05",
+          "match": "Western United vs Newcastle Jets",
+          "odd": "2.12",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-03-07",
+          "match": "Jong Ajax (Youth vs ADO Den Haag",
+          "odd": "2.27",
+          "score": "6-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-03-08",
+          "match": "Maidstone United vs Braintree Town",
+          "odd": "2.18",
+          "score": "1-0",
+          "h2h_under": "85.71%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-03-11",
+          "match": "FC Eindhoven vs VVV-Venlo",
+          "odd": "2.13",
+          "score": "4-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-03-11",
+          "match": "BFC Viktoria 188 vs TSV 1860 Munchen",
+          "odd": "2.05",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-03-14",
+          "match": "Mallorca vs Real Madrid",
+          "odd": "2.06",
+          "score": "0-3",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-03-15",
+          "match": "Egersund vs Staal Jorpeland",
+          "odd": "2.18",
+          "score": "6-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-03-17",
+          "match": "Monaco vs Sporting Braga",
+          "odd": "2.21",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-03-21",
+          "match": "Raufoss vs Honefoss BK",
+          "odd": "2.27",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-03-24",
+          "match": "France U21 vs Faroe Islands U2",
+          "odd": "2.34",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-03-24",
+          "match": "New Zealand vs New Caledonia",
+          "odd": "2.02",
+          "score": "7-1",
+          "h2h_under": "80.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-03-30",
+          "match": "Perth Glory vs Newcastle Jets",
+          "odd": "1.96",
+          "score": "0-0",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "41.67%",
+        "under_2.5_count": "5/12",
+        "average_odds": "2.15"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "0.00%",
+        "combo_under_2.5_count": "0/2",
+        "average_combo_odds": "4.55"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "37.50%",
+      "under_2.5_count": "90/240",
+      "average_odds": "2.13"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "16.67%",
+      "combo_under_2.5_count": "11/66",
+      "average_combo_odds": "4.58"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.20 (positive → possible profitability).",
+    "EV Combos: -0.24 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}

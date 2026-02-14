@@ -1,0 +1,190 @@
+{
+  "year": 2021,
+  "months": [
+    {
+      "month": "2021-04",
+      "matches": [
+        {
+          "date": "2021-04-04",
+          "match": "Lierse K. vs Westerlo",
+          "odd": "2.20",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-04-05",
+          "match": "Rotherham United vs Wycombe Wanderer",
+          "odd": "2.02",
+          "score": "0-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-04-06",
+          "match": "Norwich City vs Huddersfield Tow",
+          "odd": "2.10",
+          "score": "7-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-04-07",
+          "match": "Kawasaki Frontal vs Sagan Tosu",
+          "odd": "2.00",
+          "score": "1-0",
+          "h2h_under": "84.62%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-04-08",
+          "match": "ASSU RN vs CE Forca E Luz",
+          "odd": "2.50",
+          "score": "0-4",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-04-09",
+          "match": "Macarthur Rams vs Brisbane Roar",
+          "odd": "1.97",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-04-12",
+          "match": "Vojvodina Novi S vs Zlatibor Cajetin",
+          "odd": "2.34",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-04-13",
+          "match": "Atlanta United vs Alajuelense",
+          "odd": "2.08",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-04-14",
+          "match": "Hradec Kralove vs FK MAS Taborsko",
+          "odd": "2.05",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-04-14",
+          "match": "Cruz Azul vs Arcahaie",
+          "odd": "2.50",
+          "score": "8-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-04-20",
+          "match": "Greenock Morton vs Hearts",
+          "odd": "2.08",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-04-21",
+          "match": "Hannover 96 vs Jahn Regensburg",
+          "odd": "2.05",
+          "score": "3-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-04-21",
+          "match": "Mjondalen IF vs Sandefjord",
+          "odd": "2.40",
+          "score": "4-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-04-23",
+          "match": "Den Bosch vs Roda JC",
+          "odd": "1.98",
+          "score": "7-0",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-04-24",
+          "match": "Godoy Cruz Anton vs Central Cordoba",
+          "odd": "2.05",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-04-26",
+          "match": "Western United vs Newcastle Jets",
+          "odd": "2.23",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-04-27",
+          "match": "Charlton Athleti vs Crewe Alexandra",
+          "odd": "1.95",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-04-29",
+          "match": "Esbjerg vs Koge BK",
+          "odd": "2.00",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-04-29",
+          "match": "Jorge Wilsterman vs Bolivar",
+          "odd": "2.30",
+          "score": "0-0",
+          "h2h_under": "52.17%",
+          "status": "✅"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "42.11%",
+        "under_2.5_count": "8/19",
+        "average_odds": "2.15"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "33.33%",
+        "combo_under_2.5_count": "1/3",
+        "average_combo_odds": "4.88"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "42.48%",
+      "under_2.5_count": "96/226",
+      "average_odds": "2.13"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "18.87%",
+      "combo_under_2.5_count": "10/53",
+      "average_combo_odds": "4.54"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.10 (positive → possible profitability).",
+    "EV Combos: -0.14 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "year": 2021,
+  "months": [
+    {
+      "month": "2021-05",
+      "matches": [
+        {
+          "date": "2021-05-01",
+          "match": "Everton vs Aston Villa",
+          "odd": "1.95",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-05-04",
+          "match": "Charlton Athleti vs Lincoln City",
+          "odd": "1.96",
+          "score": "3-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-05-08",
+          "match": "Barnsley vs Norwich City",
+          "odd": "2.14",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-05-10",
+          "match": "Monza vs Brescia",
+          "odd": "2.20",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-05-15",
+          "match": "Torpedo moskva vs Shinnik Yaroslav",
+          "odd": "2.14",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-05-15",
+          "match": "Uerdingen KFC 05 vs Magdeburg",
+          "odd": "2.04",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-05-16",
+          "match": "Everton vs Sheffield United",
+          "odd": "2.02",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-05-16",
+          "match": "Porto B vs Feirense",
+          "odd": "2.10",
+          "score": "4-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-05-17",
+          "match": "Verona vs Bologna",
+          "odd": "2.38",
+          "score": "2-2",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-05-20",
+          "match": "CA River Plate vs Independiente Sa",
+          "odd": "2.12",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-05-22",
+          "match": "Hansa Rostock vs VFB Lubeck",
+          "odd": "2.45",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-05-23",
+          "match": "Dynamo Ceske Bud vs Synot Slovacko",
+          "odd": "2.00",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-05-23",
+          "match": "Bohemians 1905 vs Sparta Praha",
+          "odd": "2.12",
+          "score": "1-2",
+          "h2h_under": "88.89%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-05-25",
+          "match": "San Luis Quillot vs CD Copiapo S.A.",
+          "odd": "2.00",
+          "score": "1-2",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-05-25",
+          "match": "Independiente Sa vs Atletico Junior",
+          "odd": "2.07",
+          "score": "0-0",
+          "h2h_under": "58.33%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-05-26",
+          "match": "Internacional RS vs Always Ready",
+          "odd": "2.21",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-05-27",
+          "match": "Boca Juniors vs The Strongest",
+          "odd": "1.96",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-05-29",
+          "match": "Barnet vs Sutton United",
+          "odd": "2.30",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-05-29",
+          "match": "NK Opatija vs Bijelo Brdo",
+          "odd": "2.26",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "47.37%",
+        "under_2.5_count": "9/19",
+        "average_odds": "2.13"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "20.00%",
+        "combo_under_2.5_count": "1/5",
+        "average_combo_odds": "4.44"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "42.48%",
+      "under_2.5_count": "96/226",
+      "average_odds": "2.13"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "18.87%",
+      "combo_under_2.5_count": "10/53",
+      "average_combo_odds": "4.54"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.10 (positive → possible profitability).",
+    "EV Combos: -0.14 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "year": 2024,
+  "months": [
+    {
+      "month": "2024-03",
+      "matches": [
+        {
+          "date": "2024-03-05",
+          "match": "Mansfield Town vs Milton Keynes Do",
+          "odd": "2.00",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-03-08",
+          "match": "Boluspor vs Giresunspor",
+          "odd": "2.00",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-03-09",
+          "match": "Palmeiras vs Botafogo SP",
+          "odd": "2.02",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-03-09",
+          "match": "Sutton United vs Grimsby Town",
+          "odd": "1.96",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-03-12",
+          "match": "Columbus Crew vs Houston Dynamo",
+          "odd": "1.97",
+          "score": "1-1",
+          "h2h_under": "85.71%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-03-13",
+          "match": "HSK Zrinjski Mos vs Jedinstvo Bihac",
+          "odd": "2.27",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-03-20",
+          "match": "Spain U19 vs Slovenia U19",
+          "odd": "2.18",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-03-21",
+          "match": "Palestine vs Bangladesh",
+          "odd": "2.15",
+          "score": "5-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-03-21",
+          "match": "Korea Republic vs Thailand",
+          "odd": "1.96",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-03-22",
+          "match": "Belarus U21 vs Greece U21",
+          "odd": "2.16",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-03-22",
+          "match": "Deportiva Once C vs Bogota FC",
+          "odd": "2.23",
+          "score": "4-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-03-26",
+          "match": "Latvia vs Liechtenstein",
+          "odd": "2.06",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-03-26",
+          "match": "Thailand vs Korea Republic",
+          "odd": "2.27",
+          "score": "0-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-03-29",
+          "match": "Hapoel Natzrat I vs Bnei Yehuda Tel",
+          "odd": "2.03",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "57.14%",
+        "under_2.5_count": "8/14",
+        "average_odds": "2.09"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "25.00%",
+        "combo_under_2.5_count": "1/4",
+        "average_combo_odds": "4.42"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "43.94%",
+      "under_2.5_count": "116/264",
+      "average_odds": "2.15"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "26.15%",
+      "combo_under_2.5_count": "17/65",
+      "average_combo_odds": "4.61"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.06 (positive → possible profitability).",
+    "EV Combos: 0.21 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}

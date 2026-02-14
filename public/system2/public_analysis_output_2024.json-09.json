@@ -1,0 +1,198 @@
+{
+  "year": 2024,
+  "months": [
+    {
+      "month": "2024-09",
+      "matches": [
+        {
+          "date": "2024-09-01",
+          "match": "FC Tulsa vs Colorado Springs",
+          "odd": "2.01",
+          "score": "1-4",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-09-02",
+          "match": "Brann 2 vs FK Arendal",
+          "odd": "2.34",
+          "score": "3-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-09-04",
+          "match": "Benesov vs FC Pisek",
+          "odd": "2.07",
+          "score": "1-3",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-09-05",
+          "match": "Australia vs Bahrain",
+          "odd": "2.25",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-09-06",
+          "match": "Bosnia-Herzegovi vs Austria U21",
+          "odd": "2.09",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-09-07",
+          "match": "Scunthorpe Unite vs Warrington Town",
+          "odd": "2.18",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-09-10",
+          "match": "Hungary U21 vs Spain U21",
+          "odd": "2.34",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-09-13",
+          "match": "Lexington vs One Knoxville",
+          "odd": "1.97",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-09-13",
+          "match": "Club Brugge II vs Seraing Utd",
+          "odd": "2.08",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-09-17",
+          "match": "Llacuabamba vs Deportiva Agrope",
+          "odd": "2.16",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-09-17",
+          "match": "Scunthorpe Unite vs Newcastle Town F",
+          "odd": "2.25",
+          "score": "5-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-09-18",
+          "match": "Alashkert vs FC Gandzasar",
+          "odd": "1.96",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-09-18",
+          "match": "Al Quwa Al Jawiy vs FC Altyn Asyr",
+          "odd": "2.23",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-09-19",
+          "match": "Los Chankas vs Cajamarca",
+          "odd": "2.04",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-09-19",
+          "match": "Chivas Guadalaja vs Club Leon",
+          "odd": "2.01",
+          "score": "2-0",
+          "h2h_under": "62.96%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-09-20",
+          "match": "CR Belouizdad vs AS Douanes",
+          "odd": "2.14",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-09-24",
+          "match": "Elana Torun vs Widzew lodz",
+          "odd": "2.24",
+          "score": "1-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-09-26",
+          "match": "Vasteras SK FK vs IFK Goteborg",
+          "odd": "2.07",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-09-27",
+          "match": "Arsenal U21 vs Liverpool U21",
+          "odd": "2.18",
+          "score": "0-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-09-28",
+          "match": "Cove Rangers vs Arbroath",
+          "odd": "1.97",
+          "score": "2-4",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "55.00%",
+        "under_2.5_count": "11/20",
+        "average_odds": "2.13"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "50.00%",
+        "combo_under_2.5_count": "2/4",
+        "average_combo_odds": "4.36"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "43.94%",
+      "under_2.5_count": "116/264",
+      "average_odds": "2.15"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "26.15%",
+      "combo_under_2.5_count": "17/65",
+      "average_combo_odds": "4.61"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.06 (positive → possible profitability).",
+    "EV Combos: 0.21 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}

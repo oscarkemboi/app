@@ -1,0 +1,166 @@
+{
+  "year": 2021,
+  "months": [
+    {
+      "month": "2021-02",
+      "matches": [
+        {
+          "date": "2021-02-01",
+          "match": "Sport Club do Re vs Flamengo",
+          "odd": "2.12",
+          "score": "0-3",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-02-02",
+          "match": "Bournemouth AFC vs Sheffield Wednes",
+          "odd": "1.98",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-02-04",
+          "match": "Coquimbo Unido vs Cobresal",
+          "odd": "2.04",
+          "score": "0-1",
+          "h2h_under": "85.71%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-02-04",
+          "match": "Goias vs Atletico Mineiro",
+          "odd": "2.30",
+          "score": "1-0",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-02-05",
+          "match": "Reading U23 vs West Brom U23",
+          "odd": "2.37",
+          "score": "5-2",
+          "h2h_under": "71.43%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-02-06",
+          "match": "Troyes vs Toulouse",
+          "odd": "2.18",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-02-08",
+          "match": "Burnley U23 vs Stoke City U23",
+          "odd": "2.38",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-02-12",
+          "match": "Hannover 96 vs SC Paderborn 07",
+          "odd": "2.18",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-02-13",
+          "match": "Union La Calera vs Curico Unido",
+          "odd": "2.30",
+          "score": "2-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-02-15",
+          "match": "Debreceni VSC vs Gyirmot SE",
+          "odd": "2.00",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-02-16",
+          "match": "B93 Copenhagen vs Nykobing Falster",
+          "odd": "2.07",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-02-16",
+          "match": "Telstar vs NAC Breda",
+          "odd": "2.10",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-02-19",
+          "match": "Inter Turku vs Haka",
+          "odd": "2.04",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-02-19",
+          "match": "Norwich U23 vs Leeds U23",
+          "odd": "2.02",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-02-20",
+          "match": "UMF Selfoss vs Grotta Seltjarna",
+          "odd": "2.24",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-02-26",
+          "match": "AD Carmelita vs AD Escazucena",
+          "odd": "1.96",
+          "score": "4-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "56.25%",
+        "under_2.5_count": "9/16",
+        "average_odds": "2.14"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "66.67%",
+        "combo_under_2.5_count": "2/3",
+        "average_combo_odds": "4.39"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "42.48%",
+      "under_2.5_count": "96/226",
+      "average_odds": "2.13"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "18.87%",
+      "combo_under_2.5_count": "10/53",
+      "average_combo_odds": "4.54"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.10 (positive → possible profitability).",
+    "EV Combos: -0.14 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}

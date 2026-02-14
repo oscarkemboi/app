@@ -1,0 +1,238 @@
+{
+  "year": 2024,
+  "months": [
+    {
+      "month": "2024-12",
+      "matches": [
+        {
+          "date": "2024-12-01",
+          "match": "Penarol vs Centro Atletico",
+          "odd": "2.09",
+          "score": "3-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-12-03",
+          "match": "Gualberto Villar vs Universitario de",
+          "odd": "2.25",
+          "score": "4-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-12-04",
+          "match": "Al Khalidiyah vs FC Altyn Asyr",
+          "odd": "2.21",
+          "score": "4-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-12-05",
+          "match": "Cebu FC vs Selangor",
+          "odd": "2.27",
+          "score": "0-4",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-12-05",
+          "match": "Persib Bandung vs Zhejiang Profess",
+          "odd": "2.30",
+          "score": "3-4",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-12-07",
+          "match": "Swindon Town vs Fleetwood Town",
+          "odd": "2.00",
+          "score": "3-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-12-10",
+          "match": "South Shields vs Rushall Olympic",
+          "odd": "2.20",
+          "score": "7-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-12-10",
+          "match": "Queens Park R U2 vs Colchester Unite",
+          "odd": "2.09",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-12-12",
+          "match": "Arema FC vs Persis Solo FC",
+          "odd": "2.20",
+          "score": "1-1",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-12-16",
+          "match": "Athens Kallithea vs Olympiakos",
+          "odd": "2.00",
+          "score": "1-1",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-12-17",
+          "match": "Granada CF vs FC Cartagena SAD",
+          "odd": "2.00",
+          "score": "4-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-12-17",
+          "match": "Charlton Athleti vs Birmingham City",
+          "odd": "2.37",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-12-19",
+          "match": "Rapid Wien vs FC Copenhagen",
+          "odd": "2.10",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-12-19",
+          "match": "Cardiff City vs Watford U21",
+          "odd": "2.07",
+          "score": "3-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-12-23",
+          "match": "Beitar Jerusalem vs Ironi Tiberias",
+          "odd": "2.20",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-12-23",
+          "match": "Hatayspor vs Adana Demir",
+          "odd": "2.49",
+          "score": "1-3",
+          "h2h_under": "62.50%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-12-25",
+          "match": "Pyramids vs Pharco",
+          "odd": "2.00",
+          "score": "3-0",
+          "h2h_under": "60.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-12-26",
+          "match": "Barnet vs Sutton United",
+          "odd": "2.07",
+          "score": "3-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-12-27",
+          "match": "Sint Truiden vs Cercle Brugge",
+          "odd": "2.00",
+          "score": "1-1",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-12-28",
+          "match": "Caersws vs Gresford",
+          "odd": "2.07",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-12-29",
+          "match": "Napoli vs Venezia",
+          "odd": "2.30",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-12-30",
+          "match": "Thailand vs Philippines",
+          "odd": "2.13",
+          "score": "3-1",
+          "h2h_under": "40.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-12-30",
+          "match": "Newington Youth vs Institute FC",
+          "odd": "2.05",
+          "score": "2-0",
+          "h2h_under": "40.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-12-31",
+          "match": "The New Saints vs Connahs Quay Tow",
+          "odd": "1.98",
+          "score": "2-1",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-12-31",
+          "match": "Ards FC vs Dundela",
+          "odd": "2.24",
+          "score": "1-3",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "32.00%",
+        "under_2.5_count": "8/25",
+        "average_odds": "2.15"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "0.00%",
+        "combo_under_2.5_count": "0/7",
+        "average_combo_odds": "4.74"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "43.94%",
+      "under_2.5_count": "116/264",
+      "average_odds": "2.15"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "26.15%",
+      "combo_under_2.5_count": "17/65",
+      "average_combo_odds": "4.61"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.06 (positive → possible profitability).",
+    "EV Combos: 0.21 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}

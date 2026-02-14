@@ -1,0 +1,134 @@
+{
+  "year": 2024,
+  "months": [
+    {
+      "month": "2024-04",
+      "matches": [
+        {
+          "date": "2024-04-01",
+          "match": "Leeds United vs Hull City",
+          "odd": "2.38",
+          "score": "3-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-04-02",
+          "match": "Wisla Plock vs S. Rzeszow",
+          "odd": "2.25",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-04-04",
+          "match": "Erzurumspor vs Giresunspor",
+          "odd": "2.12",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-04-07",
+          "match": "Crotone vs FB Brindisi 1912",
+          "odd": "1.97",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-04-09",
+          "match": "Leeds United vs Sunderland",
+          "odd": "2.35",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-04-09",
+          "match": "Southampton vs Coventry City",
+          "odd": "1.98",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-04-11",
+          "match": "FC Koper vs NK Aluminij",
+          "odd": "1.96",
+          "score": "2-1",
+          "h2h_under": "58.82%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-04-19",
+          "match": "Hapoel Ramat Gan vs Ihud Bnei Shfara",
+          "odd": "2.50",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-04-26",
+          "match": "Lafnitz vs Leoben",
+          "odd": "2.05",
+          "score": "2-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-04-27",
+          "match": "Universidad Cato vs Cumbaya",
+          "odd": "2.38",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-04-28",
+          "match": "UD Logrones vs Brea",
+          "odd": "2.01",
+          "score": "4-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-04-29",
+          "match": "Universitario De vs Comerciantes Uni",
+          "odd": "2.26",
+          "score": "6-0",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "8.33%",
+        "under_2.5_count": "1/12",
+        "average_odds": "2.18"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "0.00%",
+        "combo_under_2.5_count": "0/1",
+        "average_combo_odds": "4.65"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "43.94%",
+      "under_2.5_count": "116/264",
+      "average_odds": "2.15"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "26.15%",
+      "combo_under_2.5_count": "17/65",
+      "average_combo_odds": "4.61"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.06 (positive → possible profitability).",
+    "EV Combos: 0.21 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}

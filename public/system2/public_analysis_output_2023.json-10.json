@@ -1,0 +1,254 @@
+{
+  "year": 2023,
+  "months": [
+    {
+      "month": "2023-10",
+      "matches": [
+        {
+          "date": "2023-10-02",
+          "match": "Al-Riffa vs Al Zawraa",
+          "odd": "1.99",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2023-10-03",
+          "match": "Landskrona BoIS vs GIF Sundsvall",
+          "odd": "2.34",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-10-05",
+          "match": "Trnava vs Fenerbahce",
+          "odd": "2.28",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-10-07",
+          "match": "Philadelphia Uni vs Nashville SC",
+          "odd": "1.97",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2023-10-09",
+          "match": "Aurora vs Club Guabira",
+          "odd": "2.16",
+          "score": "1-0",
+          "h2h_under": "64.71%",
+          "status": "✅"
+        },
+        {
+          "date": "2023-10-10",
+          "match": "Cheltenham Town vs Newport",
+          "odd": "1.99",
+          "score": "0-2",
+          "h2h_under": "75.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2023-10-12",
+          "match": "England U21 vs Serbia U21",
+          "odd": "2.24",
+          "score": "9-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-10-12",
+          "match": "Nepal vs Laos",
+          "odd": "2.20",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2023-10-13",
+          "match": "Glentoran FC vs Loughgall FC",
+          "odd": "2.14",
+          "score": "6-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-10-13",
+          "match": "Dortmund II vs Rot-Weiss Essen",
+          "odd": "1.96",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-10-14",
+          "match": "Italy vs Malta",
+          "odd": "2.37",
+          "score": "4-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-10-14",
+          "match": "Yalmakan vs Escorpiones",
+          "odd": "2.02",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-10-15",
+          "match": "Vitalâ€™O vs Dynamik",
+          "odd": "2.40",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2023-10-16",
+          "match": "Suriname vs Grenada",
+          "odd": "2.38",
+          "score": "4-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-10-18",
+          "match": "Vibonese vs Lamezia Terme",
+          "odd": "1.98",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2023-10-20",
+          "match": "De Graafschap vs Groningen",
+          "odd": "2.24",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-10-21",
+          "match": "Hodd vs Sogndal",
+          "odd": "2.15",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-10-23",
+          "match": "Chelmsford City vs Dover Athletic",
+          "odd": "2.04",
+          "score": "3-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-10-23",
+          "match": "Genclerbirligi vs Altay",
+          "odd": "2.02",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-10-24",
+          "match": "Manchester Unite vs FC Copenhagen",
+          "odd": "2.00",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2023-10-25",
+          "match": "Senglea Athletic vs Luqa St. Andrew'",
+          "odd": "2.05",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-10-27",
+          "match": "Persik Kediri vs Persebaya",
+          "odd": "2.08",
+          "score": "4-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-10-28",
+          "match": "Leeds United vs Huddersfield Tow",
+          "odd": "2.34",
+          "score": "4-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-10-29",
+          "match": "Royal AM U23 vs Mamelodi Sundown",
+          "odd": "2.42",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2023-10-29",
+          "match": "FC Alliance vs Tallinna JK Legi",
+          "odd": "2.07",
+          "score": "3-4",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-10-31",
+          "match": "Airdrie United vs Dundee United",
+          "odd": "2.16",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2023-10-31",
+          "match": "Litex Lovech vs Cherno More Varn",
+          "odd": "2.12",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "40.74%",
+        "under_2.5_count": "11/27",
+        "average_odds": "2.15"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "16.67%",
+        "combo_under_2.5_count": "1/6",
+        "average_combo_odds": "4.60"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "43.88%",
+      "under_2.5_count": "129/294",
+      "average_odds": "2.15"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "22.97%",
+      "combo_under_2.5_count": "17/74",
+      "average_combo_odds": "4.63"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.06 (positive → possible profitability).",
+    "EV Combos: 0.06 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}

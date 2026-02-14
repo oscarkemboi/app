@@ -1,0 +1,222 @@
+{
+  "year": 2024,
+  "months": [
+    {
+      "month": "2024-01",
+      "matches": [
+        {
+          "date": "2024-01-02",
+          "match": "Abergavenny Town vs Abertillery Blue",
+          "odd": "2.00",
+          "score": "3-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-01-02",
+          "match": "Glasgow Rangers vs Kilmarnock",
+          "odd": "2.23",
+          "score": "3-1",
+          "h2h_under": "56.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-01-04",
+          "match": "Hapoel Haifa vs Beitar Jerusalem",
+          "odd": "2.06",
+          "score": "3-2",
+          "h2h_under": "62.96%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-01-04",
+          "match": "Osasuna vs Almeria",
+          "odd": "2.01",
+          "score": "1-0",
+          "h2h_under": "57.14%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-01-05",
+          "match": "Trefelin vs Caerau Ely",
+          "odd": "2.30",
+          "score": "3-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-01-05",
+          "match": "Fafe vs Felgueiras",
+          "odd": "2.03",
+          "score": "0-3",
+          "h2h_under": "80.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-01-06",
+          "match": "Rochdale vs Kidderminster Ha",
+          "odd": "1.99",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-01-07",
+          "match": "Egypt vs Tanzania",
+          "odd": "2.18",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-01-08",
+          "match": "Adelaide United vs Macarthur Rams",
+          "odd": "2.21",
+          "score": "1-1",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-01-09",
+          "match": "Burundi vs Algeria",
+          "odd": "2.04",
+          "score": "0-4",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-01-11",
+          "match": "Vitoria Guimarae vs Penafiel",
+          "odd": "2.38",
+          "score": "1-0",
+          "h2h_under": "40.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-01-11",
+          "match": "Sivasspor vs Galatasaray",
+          "odd": "2.23",
+          "score": "1-1",
+          "h2h_under": "14.29%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-01-13",
+          "match": "FC Cologne vs FC Heidenheim",
+          "odd": "2.14",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-01-16",
+          "match": "Birmingham vs Hull City",
+          "odd": "2.06",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-01-18",
+          "match": "Galatasaray vs Umraniyespor",
+          "odd": "2.41",
+          "score": "4-1",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-01-20",
+          "match": "Sparta Praha vs FC Copenhagen",
+          "odd": "2.19",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-01-22",
+          "match": "Guinea Bissau vs Nigeria",
+          "odd": "2.09",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-01-22",
+          "match": "Levadiakos vs Kampaniakos",
+          "odd": "1.99",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-01-24",
+          "match": "Dortmund II vs Jahn Regensburg",
+          "odd": "1.95",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-01-24",
+          "match": "Lohne vs VfL Oldenburg",
+          "odd": "2.18",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-01-25",
+          "match": "Palmeiras vs Inter de Limeira",
+          "odd": "2.33",
+          "score": "3-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-01-26",
+          "match": "Raufoss vs Stabaek",
+          "odd": "2.45",
+          "score": "2-3",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-01-31",
+          "match": "Fortaleza vs Iguatu",
+          "odd": "2.18",
+          "score": "3-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "47.83%",
+        "under_2.5_count": "11/23",
+        "average_odds": "2.16"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "33.33%",
+        "combo_under_2.5_count": "2/6",
+        "average_combo_odds": "4.50"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "43.94%",
+      "under_2.5_count": "116/264",
+      "average_odds": "2.15"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "26.15%",
+      "combo_under_2.5_count": "17/65",
+      "average_combo_odds": "4.61"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.06 (positive → possible profitability).",
+    "EV Combos: 0.21 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}

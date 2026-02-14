@@ -1,0 +1,262 @@
+{
+  "year": 2022,
+  "months": [
+    {
+      "month": "2022-01",
+      "matches": [
+        {
+          "date": "2022-01-01",
+          "match": "East Thurrock Un vs Cray Wanderers",
+          "odd": "2.25",
+          "score": "1-3",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-01-02",
+          "match": "Queen of South vs Hamilton Academi",
+          "odd": "1.99",
+          "score": "0-3",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-01-03",
+          "match": "Folkestone vs Leatherhead",
+          "odd": "1.98",
+          "score": "3-0",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-01-04",
+          "match": "Crewe Alexandra vs Rotherham United",
+          "odd": "2.40",
+          "score": "2-4",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-01-04",
+          "match": "VfL Wolfsburg vs SC Paderborn 07",
+          "odd": "1.98",
+          "score": "5-4",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-01-06",
+          "match": "Banik Ostrava vs MFK Karvina",
+          "odd": "2.27",
+          "score": "5-2",
+          "h2h_under": "60.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-01-06",
+          "match": "Spezia vs Verona",
+          "odd": "2.08",
+          "score": "1-2",
+          "h2h_under": "40.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-01-10",
+          "match": "Fenerbahce vs Adana Demir",
+          "odd": "2.09",
+          "score": "1-2",
+          "h2h_under": "33.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-01-10",
+          "match": "Derby U23 vs Liverpool U23",
+          "odd": "2.37",
+          "score": "0-1",
+          "h2h_under": "30.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-01-11",
+          "match": "Milton Keynes Do vs AFC Wimbledon",
+          "odd": "2.04",
+          "score": "1-0",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-01-11",
+          "match": "Sunderland vs Lincoln City",
+          "odd": "2.33",
+          "score": "1-3",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-01-12",
+          "match": "Maccabi Netanya vs Hapoel Beer Shev",
+          "odd": "2.05",
+          "score": "1-1",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-01-12",
+          "match": "Dynamo Ceske Bud vs FK MAS Taborsko",
+          "odd": "2.37",
+          "score": "1-0",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-01-13",
+          "match": "AC Milan vs Genoa",
+          "odd": "2.30",
+          "score": "1-1",
+          "h2h_under": "33.33%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-01-13",
+          "match": "MFK Karvina vs Pardubice",
+          "odd": "2.21",
+          "score": "2-1",
+          "h2h_under": "33.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-01-14",
+          "match": "KAA Gent vs Kortrijk",
+          "odd": "2.11",
+          "score": "2-2",
+          "h2h_under": "62.50%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-01-14",
+          "match": "Nice vs Nantes",
+          "odd": "1.96",
+          "score": "2-1",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-01-17",
+          "match": "Dordrecht vs AZ Alkmaar (Yout",
+          "odd": "2.42",
+          "score": "2-0",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-01-19",
+          "match": "Montpellier vs Troyes",
+          "odd": "1.98",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-01-19",
+          "match": "Fenerbahce vs Altay",
+          "odd": "2.23",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-01-20",
+          "match": "Galatasaray vs Kasimpasa",
+          "odd": "2.07",
+          "score": "1-3",
+          "h2h_under": "33.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-01-21",
+          "match": "AZ Alkmaar (Yout vs VVV-Venlo",
+          "odd": "2.19",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-01-21",
+          "match": "Verona vs Bologna",
+          "odd": "2.09",
+          "score": "2-1",
+          "h2h_under": "62.50%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-01-22",
+          "match": "Jacyoba vs ASA AL",
+          "odd": "2.05",
+          "score": "0-5",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-01-22",
+          "match": "Bournemouth AFC vs Hull City",
+          "odd": "2.07",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-01-26",
+          "match": "CRB AL vs Murici",
+          "odd": "1.95",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-01-29",
+          "match": "Grimsby Town vs Wealdstone FC",
+          "odd": "1.95",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-01-30",
+          "match": "Crato CE vs Icasa(CE)",
+          "odd": "2.03",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "39.29%",
+        "under_2.5_count": "11/28",
+        "average_odds": "2.14"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "10.00%",
+        "combo_under_2.5_count": "1/10",
+        "average_combo_odds": "4.65"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "37.50%",
+      "under_2.5_count": "90/240",
+      "average_odds": "2.13"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "16.67%",
+      "combo_under_2.5_count": "11/66",
+      "average_combo_odds": "4.58"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.20 (positive → possible profitability).",
+    "EV Combos: -0.24 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}

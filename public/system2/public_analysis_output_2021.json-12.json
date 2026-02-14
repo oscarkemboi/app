@@ -1,0 +1,206 @@
+{
+  "year": 2021,
+  "months": [
+    {
+      "month": "2021-12",
+      "matches": [
+        {
+          "date": "2021-12-01",
+          "match": "Clermont vs Lens",
+          "odd": "2.02",
+          "score": "2-2",
+          "h2h_under": "85.71%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-01",
+          "match": "America MG vs Chapecoense SC",
+          "odd": "1.97",
+          "score": "3-0",
+          "h2h_under": "80.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-07",
+          "match": "AC Milan U19 vs Liverpool U19",
+          "odd": "2.30",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-12-08",
+          "match": "VfL Wolfsburg U1 vs LilleU19",
+          "odd": "2.06",
+          "score": "0-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-09",
+          "match": "Ludogorets Razgr vs Midtjylland",
+          "odd": "2.00",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-12-09",
+          "match": "Sparta Praha vs Brondby IF",
+          "odd": "2.11",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-12-10",
+          "match": "Newcastle Utd U2 vs Watford U23",
+          "odd": "2.12",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-13",
+          "match": "Maccabi Haifa vs Beitar Jerusalem",
+          "odd": "2.26",
+          "score": "2-1",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-15",
+          "match": "Borussia Dortmun vs Greuther Furth",
+          "odd": "2.34",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-15",
+          "match": "Benfica vs SC Covilha",
+          "odd": "2.37",
+          "score": "3-0",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-16",
+          "match": "Spezia vs Lecce",
+          "odd": "2.03",
+          "score": "0-2",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-12-19",
+          "match": "Beitar Shimshon vs Hapoel Beer Shev",
+          "odd": "2.27",
+          "score": "0-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-19",
+          "match": "Magdeburg vs VfR Mannheim",
+          "odd": "2.09",
+          "score": "3-0",
+          "h2h_under": "80.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-21",
+          "match": "Arsenal vs Sunderland",
+          "odd": "2.50",
+          "score": "5-1",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-22",
+          "match": "Lorient vs Paris Saint Germ",
+          "odd": "2.34",
+          "score": "1-1",
+          "h2h_under": "75.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-12-26",
+          "match": "Cheltenham Town vs Plymouth Argyle",
+          "odd": "2.21",
+          "score": "0-2",
+          "h2h_under": "75.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-12-27",
+          "match": "Doncaster Rovers vs Sunderland",
+          "odd": "2.27",
+          "score": "0-3",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-27",
+          "match": "Charleroi vs Leuven",
+          "odd": "2.46",
+          "score": "0-3",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-29",
+          "match": "Sporting Lisbon vs Portimonense",
+          "odd": "2.09",
+          "score": "3-2",
+          "h2h_under": "40.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-12-30",
+          "match": "Konyaspor vs Umraniyespor",
+          "odd": "2.16",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-12-30",
+          "match": "Manchester Unite vs Burnley",
+          "odd": "2.15",
+          "score": "3-1",
+          "h2h_under": "62.50%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "33.33%",
+        "under_2.5_count": "7/21",
+        "average_odds": "2.20"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "16.67%",
+        "combo_under_2.5_count": "1/6",
+        "average_combo_odds": "4.79"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "42.48%",
+      "under_2.5_count": "96/226",
+      "average_odds": "2.13"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "18.87%",
+      "combo_under_2.5_count": "10/53",
+      "average_combo_odds": "4.54"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.10 (positive → possible profitability).",
+    "EV Combos: -0.14 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}

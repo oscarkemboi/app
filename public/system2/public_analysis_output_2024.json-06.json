@@ -1,0 +1,246 @@
+{
+  "year": 2024,
+  "months": [
+    {
+      "month": "2024-06",
+      "matches": [
+        {
+          "date": "2024-06-01",
+          "match": "Levanger FK vs Start IK",
+          "odd": "2.28",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-06-05",
+          "match": "Tomayapo vs Internacional RS",
+          "odd": "2.38",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-06-06",
+          "match": "Fjolnir vs UMF Njardvik",
+          "odd": "2.18",
+          "score": "4-2",
+          "h2h_under": "80.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-06-07",
+          "match": "Romania vs Liechtenstein",
+          "odd": "2.12",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-06-08",
+          "match": "Vanlose vs Vejgaard 2",
+          "odd": "2.21",
+          "score": "1-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-06-09",
+          "match": "Mexico vs Brazil",
+          "odd": "2.01",
+          "score": "2-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-06-11",
+          "match": "Malaysia vs Chinese Taipei",
+          "odd": "2.37",
+          "score": "3-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-06-14",
+          "match": "Orgryte vs GIF Sundsvall",
+          "odd": "2.32",
+          "score": "1-1",
+          "h2h_under": "83.33%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-06-15",
+          "match": "Minneapolis City vs Bavarian United",
+          "odd": "1.96",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-06-15",
+          "match": "Lobi Stars vs Kwara United",
+          "odd": "2.02",
+          "score": "4-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-06-16",
+          "match": "Houston Sur vs Houston FC",
+          "odd": "2.28",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-06-16",
+          "match": "Cangzhou vs Qingdao Hainiu",
+          "odd": "2.13",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-06-18",
+          "match": "Meizhou Hakka vs Shanghai Port",
+          "odd": "1.96",
+          "score": "1-2",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-06-19",
+          "match": "JIPPO vs Mikkeli",
+          "odd": "2.00",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-06-20",
+          "match": "Torpedo moskva vs Shinnik Yaroslav",
+          "odd": "2.32",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-06-20",
+          "match": "Treze Fc vs Atletico-CE",
+          "odd": "2.16",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-06-21",
+          "match": "FK Auda Riga vs RFS",
+          "odd": "1.99",
+          "score": "1-3",
+          "h2h_under": "54.55%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-06-21",
+          "match": "Ham-Kam vs KFUM Oslo",
+          "odd": "2.29",
+          "score": "3-2",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-06-22",
+          "match": "Bavarian United vs Minneapolis City",
+          "odd": "2.29",
+          "score": "4-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-06-22",
+          "match": "Grobina vs FC Riga United",
+          "odd": "2.07",
+          "score": "0-6",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-06-24",
+          "match": "Landskrona BoIS vs Orgryte",
+          "odd": "2.22",
+          "score": "4-3",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-06-25",
+          "match": "Brazil vs Costa Rica",
+          "odd": "1.98",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-06-25",
+          "match": "Sichuan Jiuniu vs Zhejiang Profess",
+          "odd": "2.37",
+          "score": "3-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-06-28",
+          "match": "Eintracht Brauns vs Hallescher FC",
+          "odd": "2.41",
+          "score": "1-0",
+          "h2h_under": "87.50%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-06-28",
+          "match": "Sligo Rovers vs Shamrock Rovers",
+          "odd": "2.09",
+          "score": "2-0",
+          "h2h_under": "57.69%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-06-30",
+          "match": "Changchun Yatai vs Qingdao Hainiu",
+          "odd": "1.96",
+          "score": "5-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "46.15%",
+        "under_2.5_count": "12/26",
+        "average_odds": "2.17"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "28.57%",
+        "combo_under_2.5_count": "2/7",
+        "average_combo_odds": "4.69"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "43.94%",
+      "under_2.5_count": "116/264",
+      "average_odds": "2.15"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "26.15%",
+      "combo_under_2.5_count": "17/65",
+      "average_combo_odds": "4.61"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.06 (positive → possible profitability).",
+    "EV Combos: 0.21 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}

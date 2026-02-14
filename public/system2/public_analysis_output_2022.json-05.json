@@ -1,0 +1,246 @@
+{
+  "year": 2022,
+  "months": [
+    {
+      "month": "2022-05",
+      "matches": [
+        {
+          "date": "2022-05-01",
+          "match": "St Albans Saints vs Dandenong Thunde",
+          "odd": "2.21",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-05-02",
+          "match": "Godoy Cruz Anton vs Central Cordoba",
+          "odd": "2.00",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-05-03",
+          "match": "Halmstads vs Ostersunds FK",
+          "odd": "2.00",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-05-07",
+          "match": "SV Wehen Wiesbad vs VfR Mannheim",
+          "odd": "1.97",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-05-08",
+          "match": "Vizela vs Maritimo",
+          "odd": "1.96",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-05-10",
+          "match": "Tukums-2000 vs FK Auda Riga",
+          "odd": "2.19",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-05-11",
+          "match": "Vysocina jihlava vs Marila Pribram",
+          "odd": "2.11",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-05-12",
+          "match": "Corinthians vs Portuguesa RJ",
+          "odd": "2.05",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-05-13",
+          "match": "Stade Briochin vs Le Mans",
+          "odd": "2.05",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-05-13",
+          "match": "Fremad Amager vs Koge BK",
+          "odd": "1.96",
+          "score": "1-0",
+          "h2h_under": "83.33%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-05-14",
+          "match": "Gyirmot SE vs Ferencvaros",
+          "odd": "2.34",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-05-15",
+          "match": "Start IK vs Sogndal",
+          "odd": "2.25",
+          "score": "5-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-05-15",
+          "match": "Eastleigh vs Grimsby Town",
+          "odd": "2.20",
+          "score": "4-4",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-05-19",
+          "match": "Independiente vs La Guaira",
+          "odd": "2.24",
+          "score": "4-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-05-19",
+          "match": "Levadia U21 vs Tulevik Viljandi",
+          "odd": "2.02",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-05-20",
+          "match": "Nova Dubnica vs SKM Puchov",
+          "odd": "2.30",
+          "score": "0-0",
+          "h2h_under": "75.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-05-21",
+          "match": "Radomlje vs Domzale",
+          "odd": "2.41",
+          "score": "3-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-05-23",
+          "match": "Super Nova vs RFS",
+          "odd": "2.07",
+          "score": "0-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-05-23",
+          "match": "Ranheim IL vs Start IK",
+          "odd": "2.00",
+          "score": "2-2",
+          "h2h_under": "60.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-05-24",
+          "match": "Union La Calera vs Univ Catolica",
+          "odd": "2.04",
+          "score": "3-2",
+          "h2h_under": "61.54%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-05-25",
+          "match": "Keflavik vs UMF Njardvik",
+          "odd": "2.05",
+          "score": "1-4",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-05-25",
+          "match": "Club Sport Emele vs Independiente Pe",
+          "odd": "2.15",
+          "score": "7-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-05-26",
+          "match": "Gefle IF vs Pitea IF",
+          "odd": "2.11",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-05-26",
+          "match": "FBC Melgar vs Cuiaba",
+          "odd": "2.32",
+          "score": "3-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-05-28",
+          "match": "Nacional Montevi vs CS Cerrito",
+          "odd": "1.97",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-05-30",
+          "match": "Flora Tallinn II vs Parnu",
+          "odd": "2.25",
+          "score": "3-0",
+          "h2h_under": "71.43%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "30.77%",
+        "under_2.5_count": "8/26",
+        "average_odds": "2.12"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "0.00%",
+        "combo_under_2.5_count": "0/6",
+        "average_combo_odds": "4.49"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "37.50%",
+      "under_2.5_count": "90/240",
+      "average_odds": "2.13"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "16.67%",
+      "combo_under_2.5_count": "11/66",
+      "average_combo_odds": "4.58"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.20 (positive → possible profitability).",
+    "EV Combos: -0.24 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "year": 2022,
+  "months": [
+    {
+      "month": "2022-06",
+      "matches": [
+        {
+          "date": "2022-06-04",
+          "match": "FK Arendal vs Vard Haugesund",
+          "odd": "2.02",
+          "score": "3-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-06-04",
+          "match": "Pittsburgh River vs Detroit",
+          "odd": "2.24",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-06-05",
+          "match": "Sousa EC vs Globo",
+          "odd": "2.13",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-06-07",
+          "match": "Faroe Islands U2 vs Serbia U21",
+          "odd": "2.01",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-06-08",
+          "match": "Lake Macquarie vs Maitland",
+          "odd": "2.27",
+          "score": "1-4",
+          "h2h_under": "33.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-06-09",
+          "match": "Palmeiras vs Botafogo RJ",
+          "odd": "2.18",
+          "score": "4-0",
+          "h2h_under": "70.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-06-09",
+          "match": "Ukraine U21 vs France U21",
+          "odd": "2.10",
+          "score": "3-3",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-06-10",
+          "match": "Denmark U21 vs Scotland U21",
+          "odd": "1.98",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-06-10",
+          "match": "Turkey U21 vs Kazakhstan U21",
+          "odd": "2.18",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-06-15",
+          "match": "Colon de Santa F vs River Plate (PAR",
+          "odd": "2.21",
+          "score": "1-0",
+          "h2h_under": "60.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-06-17",
+          "match": "St. Patricks Ath vs UC Dublin",
+          "odd": "2.02",
+          "score": "2-1",
+          "h2h_under": "83.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-06-21",
+          "match": "Spartaks Jurmala vs Metta/LU Riga",
+          "odd": "2.24",
+          "score": "4-2",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-06-22",
+          "match": "FC Riga United vs FK Auda Riga",
+          "odd": "2.11",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-06-22",
+          "match": "IFK Mariehamn vs HJK Helsinki",
+          "odd": "2.07",
+          "score": "2-1",
+          "h2h_under": "64.71%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-06-23",
+          "match": "Guarani CA vs Ameliano",
+          "odd": "2.13",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-06-23",
+          "match": "Lindome GIF vs FC Trollhattan U",
+          "odd": "2.09",
+          "score": "0-1",
+          "h2h_under": "85.71%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-06-24",
+          "match": "Dalian Pro vs Henan Songshan L",
+          "odd": "1.96",
+          "score": "0-2",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-06-24",
+          "match": "UC Dublin vs Derry City",
+          "odd": "2.09",
+          "score": "0-1",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-06-25",
+          "match": "Flamengo vs America MG",
+          "odd": "2.04",
+          "score": "3-0",
+          "h2h_under": "83.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-06-28",
+          "match": "Lech Poznan vs Jagiellonia Bial",
+          "odd": "2.43",
+          "score": "2-1",
+          "h2h_under": "38.89%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-06-28",
+          "match": "JK Tallinna Kale vs Nomme JK Kalju",
+          "odd": "2.26",
+          "score": "0-3",
+          "h2h_under": "30.77%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-06-29",
+          "match": "Lillestrom vs Aalesund FK",
+          "odd": "2.01",
+          "score": "1-0",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "50.00%",
+        "under_2.5_count": "11/22",
+        "average_odds": "2.13"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "42.86%",
+        "combo_under_2.5_count": "3/7",
+        "average_combo_odds": "4.55"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "37.50%",
+      "under_2.5_count": "90/240",
+      "average_odds": "2.13"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "16.67%",
+      "combo_under_2.5_count": "11/66",
+      "average_combo_odds": "4.58"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.20 (positive → possible profitability).",
+    "EV Combos: -0.24 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}

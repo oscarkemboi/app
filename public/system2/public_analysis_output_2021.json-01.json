@@ -1,0 +1,198 @@
+{
+  "year": 2021,
+  "months": [
+    {
+      "month": "2021-01",
+      "matches": [
+        {
+          "date": "2021-01-01",
+          "match": "Manchester Unite vs Aston Villa",
+          "odd": "2.50",
+          "score": "2-1",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-01-03",
+          "match": "Nueva Chicago vs Guillermo Brown",
+          "odd": "2.02",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-01-04",
+          "match": "Central Cordoba vs Racing Club",
+          "odd": "2.19",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-01-05",
+          "match": "Troyes vs Chateauroux",
+          "odd": "1.95",
+          "score": "2-0",
+          "h2h_under": "75.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-01-06",
+          "match": "Lorient vs Monaco",
+          "odd": "2.08",
+          "score": "2-5",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-01-07",
+          "match": "Barnechea vs Nublense",
+          "odd": "1.98",
+          "score": "2-4",
+          "h2h_under": "85.71%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-01-08",
+          "match": "NAC Breda vs Roda JC",
+          "odd": "1.98",
+          "score": "2-2",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-01-11",
+          "match": "Santiago Wandere vs Cobresal",
+          "odd": "2.02",
+          "score": "1-0",
+          "h2h_under": "70.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-01-14",
+          "match": "Istra 1961 Pula vs NK Lokomotiva",
+          "odd": "2.08",
+          "score": "",
+          "h2h_under": "76.92%",
+          "status": "⚪"
+        },
+        {
+          "date": "2021-01-14",
+          "match": "Atalanta vs Cagliari",
+          "odd": "2.15",
+          "score": "3-1",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-01-16",
+          "match": "Accrington Stanl vs Gillingham",
+          "odd": "1.96",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-01-18",
+          "match": "Arsenal vs Newcastle United",
+          "odd": "2.21",
+          "score": "3-0",
+          "h2h_under": "57.14%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-01-20",
+          "match": "St. Gallen vs Vaduz",
+          "odd": "2.28",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-01-22",
+          "match": "CSA-AL vs Brasil De Pelota",
+          "odd": "2.30",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-01-27",
+          "match": "AEK vs Pas Giannina",
+          "odd": "1.97",
+          "score": "0-2",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-01-28",
+          "match": "Union La Calera vs Municipal Iquiqu",
+          "odd": "2.08",
+          "score": "1-2",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-01-28",
+          "match": "Benfica vs Belenenses",
+          "odd": "2.13",
+          "score": "3-0",
+          "h2h_under": "57.14%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-01-29",
+          "match": "Omonia Nicosia F vs Olympiakos Nicos",
+          "odd": "2.19",
+          "score": "1-1",
+          "h2h_under": "80.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-01-29",
+          "match": "Kriens vs FC Wil 1900",
+          "odd": "2.16",
+          "score": "1-2",
+          "h2h_under": "77.78%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-01-31",
+          "match": "Lorient vs Paris Saint Germ",
+          "odd": "2.21",
+          "score": "3-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "42.11%",
+        "under_2.5_count": "8/19",
+        "average_odds": "2.12"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "0.00%",
+        "combo_under_2.5_count": "0/2",
+        "average_combo_odds": "4.58"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "42.48%",
+      "under_2.5_count": "96/226",
+      "average_odds": "2.13"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "18.87%",
+      "combo_under_2.5_count": "10/53",
+      "average_combo_odds": "4.54"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.10 (positive → possible profitability).",
+    "EV Combos: -0.14 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}

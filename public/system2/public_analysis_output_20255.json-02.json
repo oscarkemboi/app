@@ -1,0 +1,34 @@
+{
+  "year": 2025,
+  "target_min_odds": 2.0,
+  "months": [
+    {
+      "month": "20255-02",
+      "matches": []
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "47.96%",
+      "under_2.5_count": "247/515",
+      "average_odds": "2.64"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "20.90%",
+      "combo_under_2.5_count": "51/244",
+      "average_combo_odds": "6.88"
+    }
+  },
+  "notable_analysis": [
+    "Single Match EV: 0.2669 (💰 POSITIVE (potentially profitable))",
+    "Daily Combo EV: 0.4388 (💰 POSITIVE (potentially profitable))",
+    "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
+    "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
+    "Total matches analyzed: 3462",
+    "Matches converted from Over2.5: 0"
+  ],
+  "conversion_info": {
+    "market_margin": 1.05,
+    "note": "Over2.5 odds converted to Under2.5 odds assuming 5% market margin"
+  }
+}

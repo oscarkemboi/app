@@ -1,0 +1,174 @@
+{
+  "year": 2023,
+  "months": [
+    {
+      "month": "2023-01",
+      "matches": [
+        {
+          "date": "2023-01-02",
+          "match": "Sheffield Wednes vs Cambridge United",
+          "odd": "2.15",
+          "score": "5-0",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-01-03",
+          "match": "Zwickau vs SG Dynamo Dresde",
+          "odd": "2.24",
+          "score": "0-3",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-01-05",
+          "match": "Trabzonspor vs Giresunspor",
+          "odd": "2.10",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-01-05",
+          "match": "Chelsea vs Manchester City",
+          "odd": "2.10",
+          "score": "0-1",
+          "h2h_under": "61.11%",
+          "status": "✅"
+        },
+        {
+          "date": "2023-01-06",
+          "match": "CF Atlante vs Alebrijes Oaxaca",
+          "odd": "1.97",
+          "score": "4-0",
+          "h2h_under": "61.54%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-01-07",
+          "match": "Ipswich Town vs Rotherham United",
+          "odd": "2.00",
+          "score": "4-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-01-10",
+          "match": "Wrexham vs Bromley",
+          "odd": "2.47",
+          "score": "2-1",
+          "h2h_under": "69.23%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-01-11",
+          "match": "Trnava vs Tescoma Zlin",
+          "odd": "2.23",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2023-01-11",
+          "match": "AEK vs Kifisias",
+          "odd": "2.10",
+          "score": "3-0",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-01-12",
+          "match": "Feyenoord vs Zwolle",
+          "odd": "2.05",
+          "score": "3-1",
+          "h2h_under": "36.36%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-01-12",
+          "match": "Real Betis vs Barcelona",
+          "odd": "2.27",
+          "score": "1-1",
+          "h2h_under": "20.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2023-01-18",
+          "match": "Globo vs ABC RN",
+          "odd": "1.95",
+          "score": "0-3",
+          "h2h_under": "80.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-01-19",
+          "match": "KAA Gent vs Charleroi",
+          "odd": "1.96",
+          "score": "0-0",
+          "h2h_under": "52.17%",
+          "status": "✅"
+        },
+        {
+          "date": "2023-01-21",
+          "match": "Annan Athletic vs Bonnyrigg Rose",
+          "odd": "2.12",
+          "score": "4-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-01-25",
+          "match": "Ferroviario CE vs Atletico-CE",
+          "odd": "2.11",
+          "score": "0-1",
+          "h2h_under": "80.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2023-01-27",
+          "match": "Arsenal U21 vs Tottenham U21",
+          "odd": "2.44",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-01-31",
+          "match": "Dover Athletic vs Worthing",
+          "odd": "2.09",
+          "score": "0-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "29.41%",
+        "under_2.5_count": "5/17",
+        "average_odds": "2.14"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "0.00%",
+        "combo_under_2.5_count": "0/3",
+        "average_combo_odds": "4.58"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "43.88%",
+      "under_2.5_count": "129/294",
+      "average_odds": "2.15"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "22.97%",
+      "combo_under_2.5_count": "17/74",
+      "average_combo_odds": "4.63"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.06 (positive → possible profitability).",
+    "EV Combos: 0.06 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}

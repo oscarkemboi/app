@@ -1,0 +1,118 @@
+{
+  "year": 2021,
+  "months": [
+    {
+      "month": "2021-08",
+      "matches": [
+        {
+          "date": "2021-08-05",
+          "match": "Grotta Seltjarna vs UMF Selfoss",
+          "odd": "2.02",
+          "score": "2-1",
+          "h2h_under": "83.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-08-05",
+          "match": "Portland Timbers vs San Jose Earthqu",
+          "odd": "2.30",
+          "score": "1-1",
+          "h2h_under": "53.85%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-08-10",
+          "match": "Deportivo Maldon vs Centro Atletico",
+          "odd": "1.98",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-08-10",
+          "match": "Exeter City vs Wycombe Wanderer",
+          "odd": "2.05",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-08-11",
+          "match": "Pittsburgh River vs Miami FC",
+          "odd": "2.01",
+          "score": "2-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-08-16",
+          "match": "Rosenborg B vs Flekkeroy",
+          "odd": "1.96",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2021-08-18",
+          "match": "Inter Miami CF vs Chicago Fire",
+          "odd": "2.07",
+          "score": "3-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-08-20",
+          "match": "Cabinteely vs Cork City",
+          "odd": "1.95",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-08-24",
+          "match": "VfR Mannheim vs SV Meppen",
+          "odd": "2.17",
+          "score": "5-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2021-08-24",
+          "match": "Huddersfield Tow vs Everton",
+          "odd": "2.12",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "40.00%",
+        "under_2.5_count": "4/10",
+        "average_odds": "2.06"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "33.33%",
+        "combo_under_2.5_count": "1/3",
+        "average_combo_odds": "4.44"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "42.48%",
+      "under_2.5_count": "96/226",
+      "average_odds": "2.13"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "18.87%",
+      "combo_under_2.5_count": "10/53",
+      "average_combo_odds": "4.54"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.10 (positive → possible profitability).",
+    "EV Combos: -0.14 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "year": 2023,
+  "months": [
+    {
+      "month": "2023-05",
+      "matches": [
+        {
+          "date": "2023-05-01",
+          "match": "SudTirol vs Genoa",
+          "odd": "2.39",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2023-05-01",
+          "match": "Ascoli vs Pisa",
+          "odd": "2.49",
+          "score": "2-1",
+          "h2h_under": "88.89%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-05-02",
+          "match": "Almeria vs Elche",
+          "odd": "2.35",
+          "score": "2-1",
+          "h2h_under": "42.86%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-05-03",
+          "match": "AC Milan vs Cremonese",
+          "odd": "2.21",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2023-05-05",
+          "match": "Fulham U21 vs Brighton U21",
+          "odd": "2.02",
+          "score": "3-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-05-07",
+          "match": "Bristol Rovers vs Bolton Wanderers",
+          "odd": "1.97",
+          "score": "2-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-05-10",
+          "match": "Shams Azar Qazvi vs Khalij Fars Mahs",
+          "odd": "2.04",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-05-11",
+          "match": "Palmeiras vs Gremio RS",
+          "odd": "2.18",
+          "score": "4-1",
+          "h2h_under": "68.75%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-05-12",
+          "match": "NK Dugopolje vs Jarun",
+          "odd": "1.98",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "⚪"
+        },
+        {
+          "date": "2023-05-12",
+          "match": "Sportist Svoge vs Maritsa Plovdiv",
+          "odd": "2.16",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2023-05-18",
+          "match": "Carlos Stein vs Molinos El Pirat",
+          "odd": "1.95",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2023-05-18",
+          "match": "Super Nova vs Jelgava",
+          "odd": "2.25",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-05-19",
+          "match": "Botev Plovdiv vs Lokomotiv Sofia",
+          "odd": "1.99",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2023-05-19",
+          "match": "Holstebro BK vs Young Boys FD",
+          "odd": "2.15",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2023-05-21",
+          "match": "Karlsruher SC vs Kaiserslautern",
+          "odd": "2.33",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2023-05-24",
+          "match": "Bjarg vs Fana",
+          "odd": "2.27",
+          "score": "2-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-05-28",
+          "match": "Eskilsminne IF vs Ljungskile",
+          "odd": "2.04",
+          "score": "5-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-05-30",
+          "match": "FC Dunav Ruse vs Strumska Slava",
+          "odd": "2.00",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2023-05-31",
+          "match": "Sutjeska Foca vs Radnik Bijeljina",
+          "odd": "1.96",
+          "score": "0-6",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "38.89%",
+        "under_2.5_count": "7/18",
+        "average_odds": "2.15"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "33.33%",
+        "combo_under_2.5_count": "1/3",
+        "average_combo_odds": "4.87"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "43.88%",
+      "under_2.5_count": "129/294",
+      "average_odds": "2.15"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "22.97%",
+      "combo_under_2.5_count": "17/74",
+      "average_combo_odds": "4.63"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.06 (positive → possible profitability).",
+    "EV Combos: 0.06 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}

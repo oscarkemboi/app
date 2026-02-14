@@ -1,0 +1,310 @@
+{
+  "year": 2024,
+  "months": [
+    {
+      "month": "2024-07",
+      "matches": [
+        {
+          "date": "2024-07-02",
+          "match": "FC Copenhagen vs Hillerod Fodbold",
+          "odd": "2.34",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-07-02",
+          "match": "SKA-Energiya Kha vs Baltika Kalining",
+          "odd": "2.27",
+          "score": "0-1",
+          "h2h_under": "91.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-07-04",
+          "match": "Bahia(BA) vs Juventude",
+          "odd": "1.98",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-07-04",
+          "match": "Maribor vs CSKA 1948",
+          "odd": "2.05",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-07-05",
+          "match": "Colorado Springs vs FC Tulsa",
+          "odd": "2.42",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-07-06",
+          "match": "Beroe Stara Zago vs Levski Krumovgra",
+          "odd": "2.02",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-07-09",
+          "match": "Merthyr Town vs Llanelli",
+          "odd": "2.21",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-07-09",
+          "match": "Ware vs Wingate Finchley",
+          "odd": "2.24",
+          "score": "0-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-07-10",
+          "match": "Argentina vs Canada",
+          "odd": "1.98",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-07-11",
+          "match": "Throttur Reykjav vs IBV Vestmannaeyj",
+          "odd": "1.96",
+          "score": "2-1",
+          "h2h_under": "45.45%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-07-11",
+          "match": "Leiknir Reykjavi vs Fjolnir",
+          "odd": "2.05",
+          "score": "0-1",
+          "h2h_under": "37.50%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-07-12",
+          "match": "Atlantis vs EPS",
+          "odd": "2.25",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-07-12",
+          "match": "Matlock Town vs Derby County",
+          "odd": "2.07",
+          "score": "0-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-07-13",
+          "match": "Amiens vs Chambly Fc",
+          "odd": "2.15",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-07-13",
+          "match": "Stevenage Boroug vs Watford",
+          "odd": "2.10",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-07-14",
+          "match": "Monterey Bay vs FC Tulsa",
+          "odd": "1.95",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-07-15",
+          "match": "Haka vs Ilves Tampere",
+          "odd": "2.40",
+          "score": "4-3",
+          "h2h_under": "57.14%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-07-16",
+          "match": "Canvey Island vs Southend United",
+          "odd": "2.30",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-07-16",
+          "match": "Southport vs Preston North En",
+          "odd": "2.05",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-07-17",
+          "match": "Differdange vs KI Klaksvik",
+          "odd": "2.09",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-07-17",
+          "match": "BVSC-Zuglo vs Ivancsa",
+          "odd": "2.28",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-07-18",
+          "match": "Connahs Quay Tow vs NK Bravo",
+          "odd": "2.21",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-07-19",
+          "match": "Universitario de vs Santa Cruz RN",
+          "odd": "2.12",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-07-19",
+          "match": "Nottingham Fores vs Sunderland",
+          "odd": "2.22",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-07-21",
+          "match": "TSC vs IMT Novi Beograd",
+          "odd": "2.21",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-07-21",
+          "match": "Asan United FC vs Ansan Greeners",
+          "odd": "1.95",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2024-07-23",
+          "match": "Bristol Rovers vs Bromley",
+          "odd": "2.31",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-07-23",
+          "match": "Chrudim vs Chlumec nad Cidl",
+          "odd": "2.45",
+          "score": "6-5",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-07-24",
+          "match": "Derby County vs Chesterfield",
+          "odd": "2.10",
+          "score": "0-4",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-07-24",
+          "match": "Edgeworth E. vs New Lambton",
+          "odd": "2.18",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-07-25",
+          "match": "Canada (w) vs New Zealand (w)",
+          "odd": "2.16",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-07-27",
+          "match": "Dunfermline Athl vs Cove Rangers",
+          "odd": "2.30",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-07-29",
+          "match": "KR Reykjavik vs KA Akureyri",
+          "odd": "2.18",
+          "score": "2-2",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2024-07-30",
+          "match": "Wycombe Wanderer vs Watford",
+          "odd": "2.05",
+          "score": "3-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "50.00%",
+        "under_2.5_count": "17/34",
+        "average_odds": "2.16"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "33.33%",
+        "combo_under_2.5_count": "4/12",
+        "average_combo_odds": "4.68"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "43.94%",
+      "under_2.5_count": "116/264",
+      "average_odds": "2.15"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "26.15%",
+      "combo_under_2.5_count": "17/65",
+      "average_combo_odds": "4.61"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.06 (positive → possible profitability).",
+    "EV Combos: 0.21 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}

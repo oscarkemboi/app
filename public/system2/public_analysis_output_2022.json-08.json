@@ -1,0 +1,198 @@
+{
+  "year": 2022,
+  "months": [
+    {
+      "month": "2022-08",
+      "matches": [
+        {
+          "date": "2022-08-01",
+          "match": "Magdeburg vs Eintracht Frankf",
+          "odd": "2.00",
+          "score": "0-4",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-08-02",
+          "match": "Spyris Kaunas vs Suduva",
+          "odd": "2.06",
+          "score": "2-2",
+          "h2h_under": "52.17%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-08-04",
+          "match": "PK-35 Vantaa vs TPS Turku",
+          "odd": "1.98",
+          "score": "2-1",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-08-09",
+          "match": "Gzira United vs Wolfsberger AC",
+          "odd": "1.95",
+          "score": "0-4",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-08-10",
+          "match": "Saarbrucken vs Dortmund II",
+          "odd": "2.04",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-08-10",
+          "match": "Ind. del Valle vs Deportivo Tachir",
+          "odd": "2.02",
+          "score": "4-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-08-12",
+          "match": "Fremad Amager vs Naestved",
+          "odd": "2.01",
+          "score": "0-0",
+          "h2h_under": "83.33%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-08-12",
+          "match": "Excelsior Virton vs RWDM 47",
+          "odd": "2.01",
+          "score": "1-1",
+          "h2h_under": "75.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-08-15",
+          "match": "MSV Duisburg vs SC Freiburg (You",
+          "odd": "1.95",
+          "score": "3-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-08-16",
+          "match": "Brightlingsea vs Canvey Island",
+          "odd": "2.38",
+          "score": "1-5",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-08-20",
+          "match": "Hartford Athleti vs Miami FC",
+          "odd": "2.10",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-08-21",
+          "match": "Gimcheon Sangmu vs Ulsan Hyundai Ho",
+          "odd": "2.44",
+          "score": "1-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-08-21",
+          "match": "Stromsgodset vs Jerv",
+          "odd": "2.00",
+          "score": "6-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-08-23",
+          "match": "Benfica vs Dynamo Kyiv",
+          "odd": "2.29",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-08-23",
+          "match": "Afturelding vs Thottur Vogar",
+          "odd": "2.07",
+          "score": "4-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-08-27",
+          "match": "Brighton Hove Al vs Leeds United",
+          "odd": "1.96",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-08-27",
+          "match": "Montrose vs Kelty Hearts",
+          "odd": "2.01",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-08-28",
+          "match": "Daegu FC vs Gimcheon Sangmu",
+          "odd": "2.02",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2022-08-30",
+          "match": "Derby County vs Grimsby Town",
+          "odd": "2.10",
+          "score": "3-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2022-08-30",
+          "match": "Morecambe vs Everton U21",
+          "odd": "2.42",
+          "score": "3-3",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "30.00%",
+        "under_2.5_count": "6/20",
+        "average_odds": "2.09"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "16.67%",
+        "combo_under_2.5_count": "1/6",
+        "average_combo_odds": "4.47"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "37.50%",
+      "under_2.5_count": "90/240",
+      "average_odds": "2.13"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "16.67%",
+      "combo_under_2.5_count": "11/66",
+      "average_combo_odds": "4.58"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.20 (positive → possible profitability).",
+    "EV Combos: -0.24 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}
