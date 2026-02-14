@@ -1,0 +1,462 @@
+{
+  "year": 2025,
+  "months": [
+    {
+      "month": "2025-06",
+      "matches": [
+        {
+          "date": "2025-06-01",
+          "match": "Olimpia Asuncion vs Recoleta",
+          "odd": "1.84",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-01",
+          "match": "Paredes vs AD Marco 09",
+          "odd": "2.00",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-02",
+          "match": "Atletico Naciona vs Deportiva Once C",
+          "odd": "1.78",
+          "score": "0-0",
+          "h2h_under": "65.52%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-02",
+          "match": "Cobresal vs Municipal Iquiqu",
+          "odd": "1.80",
+          "score": "2-1",
+          "h2h_under": "53.85%",
+          "status": "🟠"
+        },
+        {
+          "date": "2025-06-03",
+          "match": "Cuniburo vs Libertad",
+          "odd": "1.79",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-04",
+          "match": "Ali CSC vs Bahrain SC",
+          "odd": "2.00",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-04",
+          "match": "South Africa vs Mozambique",
+          "odd": "1.86",
+          "score": "0-1",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-05",
+          "match": "Malawi vs Lesotho",
+          "odd": "1.72",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-05",
+          "match": "Spain vs France",
+          "odd": "1.76",
+          "score": "5-4",
+          "h2h_under": "62.50%",
+          "status": "🟠"
+        },
+        {
+          "date": "2025-06-06",
+          "match": "FYR Macedonia vs Belgium",
+          "odd": "1.95",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-06",
+          "match": "Luxembourg vs Slovenia",
+          "odd": "1.72",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-07",
+          "match": "Gyeongnam FC vs Hwaseong FC",
+          "odd": "1.94",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-07",
+          "match": "Finland vs Netherlands",
+          "odd": "1.94",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-08",
+          "match": "Sacramento Repub vs FC Tulsa",
+          "odd": "1.75",
+          "score": "0-1",
+          "h2h_under": "83.33%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-08",
+          "match": "Gimpo FC vs Cheonan City",
+          "odd": "1.78",
+          "score": "1-0",
+          "h2h_under": "83.33%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-09",
+          "match": "Holbaek vs Bronshoj",
+          "odd": "1.88",
+          "score": "2-0",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-10",
+          "match": "Northern Ireland vs Iceland",
+          "odd": "1.75",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-10",
+          "match": "Uzbekistan vs Qatar",
+          "odd": "1.77",
+          "score": "3-0",
+          "h2h_under": "55.56%",
+          "status": "🟠"
+        },
+        {
+          "date": "2025-06-11",
+          "match": "Canada vs Ivory Coast",
+          "odd": "1.84",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-11",
+          "match": "Mexico vs Turkey",
+          "odd": "1.75",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-12",
+          "match": "Mirandes vs Racing Santander",
+          "odd": "1.83",
+          "score": "4-1",
+          "h2h_under": "60.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2025-06-12",
+          "match": "Alianza Atletico vs Comerciantes Uni",
+          "odd": "1.80",
+          "score": "3-0",
+          "h2h_under": "33.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2025-06-13",
+          "match": "Wuhan Three Town vs Qingdao Hainiu",
+          "odd": "1.97",
+          "score": "2-0",
+          "h2h_under": "80.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-13",
+          "match": "Finn Harps vs Wexford",
+          "odd": "1.94",
+          "score": "1-1",
+          "h2h_under": "68.75%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-14",
+          "match": "SC Sagamihara vs Kochi United",
+          "odd": "1.78",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-15",
+          "match": "EL Ahly vs Inter Miami CF",
+          "odd": "1.94",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-15",
+          "match": "Kataller Toyama vs Fujieda MYFC",
+          "odd": "1.73",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-16",
+          "match": "Drogheda United vs Shamrock Rovers",
+          "odd": "1.72",
+          "score": "1-2",
+          "h2h_under": "63.16%",
+          "status": "🟠"
+        },
+        {
+          "date": "2025-06-16",
+          "match": "Boca Juniors vs Benfica",
+          "odd": "1.77",
+          "score": "2-2",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2025-06-17",
+          "match": "Flamengo vs Esperance Sporti",
+          "odd": "1.95",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-17",
+          "match": "Fluminense RJ vs Borussia Dortmun",
+          "odd": "2.00",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-18",
+          "match": "Monterrey vs Inter Milan",
+          "odd": "1.96",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-18",
+          "match": "Daejeon Citizen vs Gimcheon Sangmu",
+          "odd": "1.99",
+          "score": "0-0",
+          "h2h_under": "57.14%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-19",
+          "match": "Palmeiras vs EL Ahly",
+          "odd": "1.86",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-19",
+          "match": "LDU Quito vs Barcelona SC(ECU",
+          "odd": "1.82",
+          "score": "3-1",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2025-06-20",
+          "match": "Drogheda United vs Sligo Rovers",
+          "odd": "1.80",
+          "score": "1-0",
+          "h2h_under": "54.55%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-20",
+          "match": "Waterford United vs Bohemians",
+          "odd": "1.85",
+          "score": "2-1",
+          "h2h_under": "52.38%",
+          "status": "🟠"
+        },
+        {
+          "date": "2025-06-21",
+          "match": "Yokohama Marinos vs Fagiano Okayama",
+          "odd": "1.90",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-21",
+          "match": "Incheon United vs Hwaseong FC",
+          "odd": "1.96",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-22",
+          "match": "Deportes La Sere vs Limache",
+          "odd": "1.87",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-22",
+          "match": "Suzhou Dongwu vs Shenzhen Juniors",
+          "odd": "1.96",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-23",
+          "match": "Dominican Republ vs Suriname",
+          "odd": "2.00",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-23",
+          "match": "Atletico Madrid vs Botafogo RJ",
+          "odd": "1.96",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-24",
+          "match": "Aral Nukus vs Lokomotiv Tashke",
+          "odd": "1.83",
+          "score": "2-0",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-24",
+          "match": "Spyris Kaunas vs FK Panevezys",
+          "odd": "1.85",
+          "score": "3-0",
+          "h2h_under": "59.26%",
+          "status": "🟠"
+        },
+        {
+          "date": "2025-06-25",
+          "match": "Los Angeles FC vs Flamengo",
+          "odd": "1.92",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-26",
+          "match": "Union Omaha vs Richmond Kickers",
+          "odd": "1.78",
+          "score": "3-4",
+          "h2h_under": "57.14%",
+          "status": "🟠"
+        },
+        {
+          "date": "2025-06-27",
+          "match": "Shaoxing Shangyu vs Chengdu Rongchen",
+          "odd": "1.81",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-27",
+          "match": "Spaeri vs Torpedo Kutaisi",
+          "odd": "1.73",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-28",
+          "match": "Fujieda MYFC vs Imabari FC",
+          "odd": "1.74",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-29",
+          "match": "Canada vs Guatemala",
+          "odd": "1.96",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-30",
+          "match": "Osaka vs Nara Club",
+          "odd": "1.92",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-06-30",
+          "match": "ABB vs Blooming",
+          "odd": "1.91",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "79.25%",
+        "under_2.5_count": "42/53",
+        "average_odds": "1.86"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "65.22%",
+        "combo_under_2.5_count": "15/23",
+        "average_combo_odds": "3.46"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "92.19%",
+      "under_2.5_count": "366/397",
+      "average_odds": "1.85"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "87.43%",
+      "combo_under_2.5_count": "153/175",
+      "average_combo_odds": "3.43"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: 0.71 (positive → possible profitability).",
+    "EV Combos: 2.00 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.72–2.0."
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "year": 2025,
+  "months": [
+    {
+      "month": "2025-12",
+      "matches": []
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "92.19%",
+      "under_2.5_count": "366/397",
+      "average_odds": "1.85"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "87.43%",
+      "combo_under_2.5_count": "153/175",
+      "average_combo_odds": "3.43"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: 0.71 (positive → possible profitability).",
+    "EV Combos: 2.00 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.72–2.0."
+  ]
+}

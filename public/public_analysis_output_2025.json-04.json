@@ -1,0 +1,430 @@
+{
+  "year": 2025,
+  "months": [
+    {
+      "month": "2025-04",
+      "matches": [
+        {
+          "date": "2025-04-01",
+          "match": "NK Bistrica vs FC Koper",
+          "odd": "1.85",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-01",
+          "match": "FK Graffin Vlasi vs Vyskov",
+          "odd": "1.74",
+          "score": "0-0",
+          "h2h_under": "75.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-02",
+          "match": "Qingdao Hainiu vs Dalian Zhixing",
+          "odd": "1.75",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-02",
+          "match": "Chattanooga vs Chattanooga Red",
+          "odd": "1.95",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-03",
+          "match": "Universidad de C vs Botafogo RJ",
+          "odd": "1.75",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-03",
+          "match": "Vancouver Whitec vs Pumas U.N.A.M.",
+          "odd": "1.78",
+          "score": "1-1",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-04",
+          "match": "Deportivo Tachir vs Flamengo",
+          "odd": "1.84",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-05",
+          "match": "South Shields vs Brackley Town",
+          "odd": "1.88",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-05",
+          "match": "Clube Desportivo vs Vilaverdense",
+          "odd": "1.75",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-06",
+          "match": "Umea FC vs Trelleborgs FF",
+          "odd": "1.80",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-07",
+          "match": "Goztepe vs B.B. Gaziantep",
+          "odd": "1.98",
+          "score": "1-1",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-08",
+          "match": "Keciorengucu vs S.Urfaspor",
+          "odd": "1.91",
+          "score": "4-1",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2025-04-09",
+          "match": "Stal Stalowa Wol vs GKS Tychy",
+          "odd": "1.77",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-09",
+          "match": "Renofa Yamaguchi vs Kashima Antlers",
+          "odd": "1.83",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-10",
+          "match": "Glasgow Rangers vs Athletic Bilbao",
+          "odd": "1.94",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-10",
+          "match": "Pumas U.N.A.M. vs Vancouver Whitec",
+          "odd": "1.90",
+          "score": "2-2",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2025-04-12",
+          "match": "Hiroshima Sanfre vs Fagiano Okayama",
+          "odd": "1.75",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-12",
+          "match": "Dalian Zhixing vs Tianjin Jinmen T",
+          "odd": "1.91",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-13",
+          "match": "Jubilo Iwata vs Roasso Kumamoto",
+          "odd": "1.83",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-13",
+          "match": "SC Sagamihara vs Thespa Kusatsu",
+          "odd": "1.85",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-14",
+          "match": "FK Napredak Krus vs Odzaci",
+          "odd": "1.75",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-14",
+          "match": "Umraniyespor vs Erokspor",
+          "odd": "1.83",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-15",
+          "match": "Limache vs Municipal Iquiqu",
+          "odd": "1.95",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-15",
+          "match": "Borac Banja Luka vs FK Sarajevo",
+          "odd": "1.74",
+          "score": "0-2",
+          "h2h_under": "75.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-16",
+          "match": "Newcastle United vs Crystal Palace",
+          "odd": "2.00",
+          "score": "5-0",
+          "h2h_under": "77.78%",
+          "status": "🟠"
+        },
+        {
+          "date": "2025-04-16",
+          "match": "Siauliai vs Riteriai",
+          "odd": "1.77",
+          "score": "2-2",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2025-04-17",
+          "match": "Athletic Bilbao vs Glasgow Rangers",
+          "odd": "2.00",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-17",
+          "match": "FC Tulsa vs Phoenix Rising",
+          "odd": "1.90",
+          "score": "1-1",
+          "h2h_under": "83.33%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-18",
+          "match": "Reading vs Lincoln City",
+          "odd": "1.80",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-18",
+          "match": "Alianza Huanuco vs Grau",
+          "odd": "1.80",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-19",
+          "match": "Melbourne Victor vs Auckland City",
+          "odd": "1.99",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-19",
+          "match": "Amedspor vs Yeni Corumspor",
+          "odd": "1.75",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-20",
+          "match": "Tescoma Zlin vs Banik Ostrava B",
+          "odd": "1.84",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-21",
+          "match": "Schwarz-Weiß Bre vs Floridsdorfer AC",
+          "odd": "1.88",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-21",
+          "match": "Swindon Town vs Bromley",
+          "odd": "1.99",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-24",
+          "match": "Vitoria BA vs Cerro Largo",
+          "odd": "1.83",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-24",
+          "match": "Corinthians vs Racing Club Mont",
+          "odd": "1.97",
+          "score": "1-0",
+          "h2h_under": "75.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-25",
+          "match": "Greuther Furth vs SSV Ulm 1846",
+          "odd": "1.84",
+          "score": "0-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-25",
+          "match": "Venados vs Mineros de Zacat",
+          "odd": "1.99",
+          "score": "2-0",
+          "h2h_under": "80.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-26",
+          "match": "Bristol Rovers vs Reading",
+          "odd": "1.89",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-26",
+          "match": "Estrela vs Porto",
+          "odd": "1.76",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-27",
+          "match": "Sparta Praha B vs Tescoma Zlin",
+          "odd": "1.85",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-27",
+          "match": "Karacabey Beledi vs Menemen Belediye",
+          "odd": "1.87",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-28",
+          "match": "Hapoel Tel Aviv vs Hapoel Ramat Gan",
+          "odd": "1.77",
+          "score": "1-0",
+          "h2h_under": "80.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-28",
+          "match": "Aalborg BK vs Vejle",
+          "odd": "1.88",
+          "score": "0-1",
+          "h2h_under": "71.43%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-29",
+          "match": "Roasso Kumamoto vs JEF United Ichih",
+          "odd": "1.96",
+          "score": "0-0",
+          "h2h_under": "75.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-29",
+          "match": "Kataller Toyama vs Montedio Yamagat",
+          "odd": "1.76",
+          "score": "0-0",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2025-04-30",
+          "match": "Pafos vs Apollon Limassol",
+          "odd": "1.78",
+          "score": "4-2",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2025-04-30",
+          "match": "Blackpool vs Birmingham",
+          "odd": "1.89",
+          "score": "0-2",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "89.80%",
+        "under_2.5_count": "44/49",
+        "average_odds": "1.85"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "86.36%",
+        "combo_under_2.5_count": "19/22",
+        "average_combo_odds": "3.42"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "92.19%",
+      "under_2.5_count": "366/397",
+      "average_odds": "1.85"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "87.43%",
+      "combo_under_2.5_count": "153/175",
+      "average_combo_odds": "3.43"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: 0.71 (positive → possible profitability).",
+    "EV Combos: 2.00 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.72–2.0."
+  ]
+}
