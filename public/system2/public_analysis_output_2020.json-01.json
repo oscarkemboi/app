@@ -1,0 +1,254 @@
+{
+  "year": 2020,
+  "months": [
+    {
+      "month": "2020-01",
+      "matches": [
+        {
+          "date": "2020-01-01",
+          "match": "Bolton Wanderers vs Burton Albion",
+          "odd": "1.98",
+          "score": "3-4",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-01-01",
+          "match": "Milton Keynes Do vs Bristol Rovers",
+          "odd": "2.00",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-01-02",
+          "match": "Liverpool vs Sheffield United",
+          "odd": "2.30",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-01-02",
+          "match": "Derby County vs Barnsley",
+          "odd": "1.98",
+          "score": "2-1",
+          "h2h_under": "0.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-01-05",
+          "match": "Olympiakos vs Panathinaikos",
+          "odd": "2.00",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-01-06",
+          "match": "West Brom U23 vs Reading U23",
+          "odd": "1.96",
+          "score": "4-2",
+          "h2h_under": "80.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-01-06",
+          "match": "Southampton U23 vs Everton U23",
+          "odd": "1.98",
+          "score": "1-1",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-01-07",
+          "match": "Fleetwood Town vs Accrington Stanl",
+          "odd": "2.10",
+          "score": "2-2",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-01-07",
+          "match": "Walsall vs Portsmouth",
+          "odd": "2.30",
+          "score": "1-2",
+          "h2h_under": "75.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-01-08",
+          "match": "Celta vigo b vs Real M. B",
+          "odd": "1.96",
+          "score": "0-1",
+          "h2h_under": "75.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-01-08",
+          "match": "Valencia vs Real Madrid",
+          "odd": "2.12",
+          "score": "1-3",
+          "h2h_under": "57.14%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-01-09",
+          "match": "Sweden vs Moldova",
+          "odd": "2.10",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-01-11",
+          "match": "Coventry City vs Milton Keynes Do",
+          "odd": "2.00",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-01-13",
+          "match": "Derby U23 vs Tottenham U23",
+          "odd": "1.98",
+          "score": "2-2",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-01-14",
+          "match": "Tottenham Hotspu vs Middlesbrough",
+          "odd": "2.27",
+          "score": "2-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-01-14",
+          "match": "Redditch United vs Stratford Town",
+          "odd": "2.31",
+          "score": "0-2",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-01-15",
+          "match": "Rayo Vallecano vs CD Lugo",
+          "odd": "1.98",
+          "score": "1-0",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-01-17",
+          "match": "Schalke 04 vs Borussia Monchen",
+          "odd": "2.14",
+          "score": "2-0",
+          "h2h_under": "75.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-01-19",
+          "match": "Cultural Leonesa vs Real Union Irun",
+          "odd": "1.96",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-01-23",
+          "match": "Cartagines Depor vs Grecia",
+          "odd": "1.97",
+          "score": "4-3",
+          "h2h_under": "66.67%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-01-25",
+          "match": "Lausanne Ouchy vs Aarau",
+          "odd": "2.23",
+          "score": "0-2",
+          "h2h_under": "100.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-01-27",
+          "match": "Sivasspor vs Caykur Rizespor",
+          "odd": "2.20",
+          "score": "1-1",
+          "h2h_under": "66.67%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-01-27",
+          "match": "Sporting Lisbon vs Maritimo",
+          "odd": "2.09",
+          "score": "1-0",
+          "h2h_under": "50.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-01-28",
+          "match": "Luton Town vs Derby County",
+          "odd": "2.12",
+          "score": "3-2",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-01-29",
+          "match": "America RN vs Potiguar (RN)",
+          "odd": "2.15",
+          "score": "3-1",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-01-29",
+          "match": "Palmeiras vs Oeste",
+          "odd": "2.04",
+          "score": "4-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-01-31",
+          "match": "AZ Alkmaar vs RKC Waalwijk",
+          "odd": "2.12",
+          "score": "4-0",
+          "h2h_under": "100.00%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "48.15%",
+        "under_2.5_count": "13/27",
+        "average_odds": "2.09"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "12.50%",
+        "combo_under_2.5_count": "1/8",
+        "average_combo_odds": "4.45"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "38.46%",
+      "under_2.5_count": "95/247",
+      "average_odds": "2.13"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "20.97%",
+      "combo_under_2.5_count": "13/62",
+      "average_combo_odds": "4.55"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.18 (positive → possible profitability).",
+    "EV Combos: -0.05 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}
