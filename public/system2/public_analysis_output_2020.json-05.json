@@ -1,0 +1,110 @@
+{
+  "year": 2020,
+  "months": [
+    {
+      "month": "2020-05",
+      "matches": [
+        {
+          "date": "2020-05-15",
+          "match": "FC Torpedo Zhodi vs FK Gorodeya",
+          "odd": "2.25",
+          "score": "3-1",
+          "h2h_under": "60.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-05-23",
+          "match": "SC Freiburg vs Werder Bremen",
+          "odd": "1.95",
+          "score": "0-1",
+          "h2h_under": "60.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-05-24",
+          "match": "Alajuelense vs AD San Carlos",
+          "odd": "2.05",
+          "score": "3-0",
+          "h2h_under": "53.33%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-05-27",
+          "match": "Bohemians 1905 vs Teplice",
+          "odd": "2.38",
+          "score": "4-0",
+          "h2h_under": "71.43%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-05-27",
+          "match": "Grecia vs Alajuelense",
+          "odd": "2.50",
+          "score": "3-1",
+          "h2h_under": "40.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-05-28",
+          "match": "Guadalupe vs Perez Zeledon",
+          "odd": "1.95",
+          "score": "3-1",
+          "h2h_under": "80.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-05-28",
+          "match": "Usti nad Labem vs Brno",
+          "odd": "1.98",
+          "score": "1-2",
+          "h2h_under": "25.00%",
+          "status": "🟠"
+        },
+        {
+          "date": "2020-05-29",
+          "match": "SV Darmstadt 98 vs Greuther Furth",
+          "odd": "2.05",
+          "score": "1-1",
+          "h2h_under": "60.00%",
+          "status": "✅"
+        },
+        {
+          "date": "2020-05-29",
+          "match": "FC Torpedo Zhodi vs Smolevichi STI",
+          "odd": "2.45",
+          "score": "2-1",
+          "h2h_under": "50.00%",
+          "status": "🟠"
+        }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "22.22%",
+        "under_2.5_count": "2/9",
+        "average_odds": "2.17"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "0.00%",
+        "combo_under_2.5_count": "0/3",
+        "average_combo_odds": "4.94"
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "38.46%",
+      "under_2.5_count": "95/247",
+      "average_odds": "2.13"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "20.97%",
+      "combo_under_2.5_count": "13/62",
+      "average_combo_odds": "4.55"
+    }
+  },
+  "notable_analysis": [
+    "EV Singles: -0.18 (positive → possible profitability).",
+    "EV Combos: -0.05 (positive → possible profitability).",
+    "Note: Combos are riskier but offer larger multipliers.",
+    "Strategy: focus on high H2H Under% with odds 1.95–2.50."
+  ]
+}
