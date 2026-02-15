@@ -899,6 +899,30 @@
           "h2h_under": "100.00%",
           "status": "",
           "was_converted": true
+        },
+        {
+          "date": "2026-02-16",
+          "match": "AFC Hermannstadt vs CFR Cluj",
+          "final_odds": "2.04",
+          "original_odds": "2.16",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "71.43%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-02-16",
+          "match": "NK Bravo vs NK Aluminij",
+          "final_odds": "3.09",
+          "original_odds": "1.59",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "64.71%",
+          "status": "",
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -912,8 +936,8 @@
         "average_combo_odds": "7.50"
       },
       "filtered_stats": {
-        "total_matches_in_month": 133,
-        "matches_above_threshold": 28
+        "total_matches_in_month": 143,
+        "matches_above_threshold": 30
       }
     }
   ],
@@ -934,7 +958,7 @@
     "Daily Combo EV: 0.6503 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 340",
+    "Total matches analyzed: 350",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
