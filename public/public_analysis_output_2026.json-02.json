@@ -364,6 +364,30 @@
           "h2h_under": "64.71%",
           "status": "",
           "was_converted": true
+        },
+        {
+          "date": "2026-02-17",
+          "match": "Bristol City vs Wrexham",
+          "final_odds": "2.33",
+          "original_odds": "1.91",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-02-17",
+          "match": "Blackpool vs Mansfield Town",
+          "final_odds": "2.36",
+          "original_odds": "1.89",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "75.00%",
+          "status": "",
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -377,8 +401,8 @@
         "average_combo_odds": "7.50"
       },
       "filtered_stats": {
-        "total_matches_in_month": 143,
-        "matches_above_threshold": 30
+        "total_matches_in_month": 153,
+        "matches_above_threshold": 32
       }
     }
   ],
@@ -399,7 +423,7 @@
     "Daily Combo EV: 0.6503 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 350",
+    "Total matches analyzed: 360",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
