@@ -348,9 +348,9 @@
           "original_odds": "2.16",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "0-1",
           "h2h_under": "71.43%",
-          "status": "🟠",
+          "status": "✅",
           "was_converted": true
         },
         {
@@ -360,8 +360,56 @@
           "original_odds": "1.59",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "2-1",
           "h2h_under": "64.71%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-02-17",
+          "match": "Halifax Town vs Gateshead",
+          "final_odds": "3.05",
+          "original_odds": "1.60",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "69.23%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-02-17",
+          "match": "Bradford City vs Stockport County",
+          "final_odds": "2.29",
+          "original_odds": "1.94",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "66.67%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-02-18",
+          "match": "River Plate vs Ciudad Bolivar",
+          "final_odds": "2.33",
+          "original_odds": "2.33",
+          "original_prediction": "Under2.5",
+          "final_prediction": "Under2.5",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": false
+        },
+        {
+          "date": "2026-02-18",
+          "match": "Serik Belediyesp vs Yeni Corumspo..",
+          "final_odds": "3.88",
+          "original_odds": "1.44",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
           "status": "🟠",
           "was_converted": true
         }
@@ -373,8 +421,8 @@
         "message": "No valid 2-match combos in 2026-02."
       },
       "filtered_stats": {
-        "total_matches_in_month": 141,
-        "matches_above_threshold": 30
+        "total_matches_in_month": 161,
+        "matches_above_threshold": 34
       }
     }
   ],
@@ -382,7 +430,7 @@
   "notable_analysis": [
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 387",
+    "Total matches analyzed: 407",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
