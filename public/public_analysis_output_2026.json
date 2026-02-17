@@ -947,6 +947,30 @@
           "h2h_under": "75.00%",
           "status": "",
           "was_converted": true
+        },
+        {
+          "date": "2026-02-18",
+          "match": "River Plate vs Ciudad Bolivar",
+          "final_odds": "2.33",
+          "original_odds": "2.33",
+          "original_prediction": "Under2.5",
+          "final_prediction": "Under2.5",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
+          "was_converted": false
+        },
+        {
+          "date": "2026-02-18",
+          "match": "Serik Belediyesp vs Yeni Corumspo..",
+          "final_odds": "3.88",
+          "original_odds": "1.44",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -960,8 +984,8 @@
         "average_combo_odds": "7.50"
       },
       "filtered_stats": {
-        "total_matches_in_month": 153,
-        "matches_above_threshold": 32
+        "total_matches_in_month": 163,
+        "matches_above_threshold": 34
       }
     }
   ],
@@ -982,7 +1006,7 @@
     "Daily Combo EV: 0.6503 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 360",
+    "Total matches analyzed: 370",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
