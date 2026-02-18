@@ -372,7 +372,7 @@
           "original_odds": "1.60",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "1-2",
           "h2h_under": "69.23%",
           "status": "🟠",
           "was_converted": true
@@ -384,9 +384,9 @@
           "original_odds": "1.94",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "1-0",
           "h2h_under": "66.67%",
-          "status": "🟠",
+          "status": "✅",
           "was_converted": true
         },
         {
@@ -396,9 +396,9 @@
           "original_odds": "2.33",
           "original_prediction": "Under2.5",
           "final_prediction": "Under2.5",
-          "score": "",
+          "score": "1-0",
           "h2h_under": "100.00%",
-          "status": "🟠",
+          "status": "✅",
           "was_converted": false
         },
         {
@@ -436,6 +436,30 @@
           "h2h_under": "50.00%",
           "status": "🟠",
           "was_converted": true
+        },
+        {
+          "date": "2026-02-20",
+          "match": "Athletic Bilbao vs Elche",
+          "final_odds": "2.25",
+          "original_odds": "1.97",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "75.00%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-02-20",
+          "match": "Figueirense vs Marcilio Dias SC",
+          "final_odds": "2.13",
+          "original_odds": "2.07",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "60.00%",
+          "status": "🟠",
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -445,8 +469,8 @@
         "message": "No valid 2-match combos in 2026-02."
       },
       "filtered_stats": {
-        "total_matches_in_month": 171,
-        "matches_above_threshold": 36
+        "total_matches_in_month": 181,
+        "matches_above_threshold": 38
       }
     }
   ],
@@ -454,7 +478,7 @@
   "notable_analysis": [
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 417",
+    "Total matches analyzed: 427",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
