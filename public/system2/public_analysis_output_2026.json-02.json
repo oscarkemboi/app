@@ -460,6 +460,30 @@
           "h2h_under": "60.00%",
           "status": "🟠",
           "was_converted": true
+        },
+        {
+          "date": "2026-02-21",
+          "match": "Leganes vs Cultural Leonesa",
+          "final_odds": "2.03",
+          "original_odds": "2.17",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-02-21",
+          "match": "Lierse K. vs Gent B",
+          "final_odds": "2.60",
+          "original_odds": "1.76",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -469,8 +493,8 @@
         "message": "No valid 2-match combos in 2026-02."
       },
       "filtered_stats": {
-        "total_matches_in_month": 181,
-        "matches_above_threshold": 38
+        "total_matches_in_month": 191,
+        "matches_above_threshold": 40
       }
     }
   ],
@@ -478,7 +502,7 @@
   "notable_analysis": [
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 427",
+    "Total matches analyzed: 437",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
