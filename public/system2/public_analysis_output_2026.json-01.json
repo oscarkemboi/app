@@ -694,7 +694,7 @@
   "notable_analysis": [
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 427",
+    "Total matches analyzed: 437",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
