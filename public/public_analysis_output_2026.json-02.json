@@ -424,6 +424,30 @@
           "h2h_under": "100.00%",
           "status": "",
           "was_converted": true
+        },
+        {
+          "date": "2026-02-20",
+          "match": "Floridsdorfer AC vs Schwarz-Weiß ..",
+          "final_odds": "2.50",
+          "original_odds": "1.81",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-02-20",
+          "match": "Paris 13 Atl. vs Valenciennes",
+          "final_odds": "2.11",
+          "original_odds": "2.09",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -437,8 +461,8 @@
         "average_combo_odds": "7.50"
       },
       "filtered_stats": {
-        "total_matches_in_month": 173,
-        "matches_above_threshold": 35
+        "total_matches_in_month": 183,
+        "matches_above_threshold": 37
       }
     }
   ],
@@ -459,7 +483,7 @@
     "Daily Combo EV: 0.6503 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 380",
+    "Total matches analyzed: 390",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
