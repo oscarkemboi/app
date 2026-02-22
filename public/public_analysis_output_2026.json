@@ -1055,6 +1055,30 @@
           "h2h_under": "100.00%",
           "status": "",
           "was_converted": true
+        },
+        {
+          "date": "2026-02-23",
+          "match": "Sivasspor vs Sakaryaspor",
+          "final_odds": "2.70",
+          "original_odds": "1.72",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-02-23",
+          "match": "Csikszereda vs AFC Hermannstadt",
+          "final_odds": "2.09",
+          "original_odds": "2.11",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -1068,8 +1092,8 @@
         "average_combo_odds": "7.50"
       },
       "filtered_stats": {
-        "total_matches_in_month": 203,
-        "matches_above_threshold": 41
+        "total_matches_in_month": 213,
+        "matches_above_threshold": 43
       }
     }
   ],
@@ -1090,7 +1114,7 @@
     "Daily Combo EV: 0.6503 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 410",
+    "Total matches analyzed: 420",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
