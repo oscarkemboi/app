@@ -696,7 +696,7 @@
           "match": "Swindon Town vs Crewe",
           "final_odds": "1.97",
           "original_prediction": "Under2.5",
-          "score": "",
+          "score": "1-2",
           "team_zero_perc": "11.98",
           "h2h_under_perc": "40.00",
           "h2h_zero_perc": "40.00",
@@ -714,6 +714,30 @@
           "h2h_zero_perc": "0.00",
           "composite_score": 107.95,
           "status": "🟠"
+        },
+        {
+          "date": "2026-02-23",
+          "match": "Pendikspor vs Keciorengucu",
+          "final_odds": "1.95",
+          "original_prediction": "Under2.5",
+          "score": "",
+          "team_zero_perc": "9.72",
+          "h2h_under_perc": "75.00",
+          "h2h_zero_perc": "25.00",
+          "composite_score": 109.72,
+          "status": "🟠"
+        },
+        {
+          "date": "2026-02-23",
+          "match": "Stal Mielec vs LKS Lodz",
+          "final_odds": "2.04",
+          "original_prediction": "Under2.5",
+          "score": "",
+          "team_zero_perc": "11.36",
+          "h2h_under_perc": "63.64",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 75.0,
+          "status": "🟠"
         }
       ],
       "single_stats": {
@@ -723,15 +747,15 @@
         "message": "No valid 2-match combos in 2026-02."
       },
       "filtered_stats": {
-        "total_under_matches_in_month": 35,
-        "top2_selected": 30
+        "total_under_matches_in_month": 38,
+        "top2_selected": 32
       }
     }
   ],
   "yearly_stats": {},
   "notable_analysis": [
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Under% + H2H Zero%)",
-    "Total Under2.5 matches analyzed: 68"
+    "Total Under2.5 matches analyzed: 71"
   ],
   "selection_criteria": "Top 2 per day by ranking score (Team Zero% + H2H Under% + H2H Zero%)"
 }
