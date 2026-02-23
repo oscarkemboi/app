@@ -738,6 +738,30 @@
           "h2h_zero_perc": "0.00",
           "composite_score": 75.0,
           "status": "🟠"
+        },
+        {
+          "date": "2026-02-24",
+          "match": "Queens Park vs Saint Johnstone",
+          "final_odds": "2.14",
+          "original_prediction": "Under2.5",
+          "score": "",
+          "team_zero_perc": "9.79",
+          "h2h_under_perc": "0.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 9.79,
+          "status": "🟠"
+        },
+        {
+          "date": "2026-02-24",
+          "match": "Ynyshir Albions vs Llantwit Major",
+          "final_odds": "1.95",
+          "original_prediction": "Under2.5",
+          "score": "",
+          "team_zero_perc": "23.08",
+          "h2h_under_perc": "0.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 23.08,
+          "status": "🟠"
         }
       ],
       "single_stats": {
@@ -747,15 +771,15 @@
         "message": "No valid 2-match combos in 2026-02."
       },
       "filtered_stats": {
-        "total_under_matches_in_month": 38,
-        "top2_selected": 32
+        "total_under_matches_in_month": 40,
+        "top2_selected": 34
       }
     }
   ],
   "yearly_stats": {},
   "notable_analysis": [
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Under% + H2H Zero%)",
-    "Total Under2.5 matches analyzed: 71"
+    "Total Under2.5 matches analyzed: 73"
   ],
   "selection_criteria": "Top 2 per day by ranking score (Team Zero% + H2H Under% + H2H Zero%)"
 }
