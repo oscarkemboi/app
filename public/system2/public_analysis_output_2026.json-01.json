@@ -13,7 +13,7 @@
           "team_zero_perc": "9.43",
           "h2h_under_perc": "66.67",
           "h2h_zero_perc": "44.44",
-          "composite_score": 53.87,
+          "composite_score": 9.43,
           "status": "🟠"
         },
         {
@@ -25,7 +25,19 @@
           "team_zero_perc": "4.60",
           "h2h_under_perc": "41.67",
           "h2h_zero_perc": "4.17",
-          "composite_score": 8.77,
+          "composite_score": 4.6,
+          "status": "🟠"
+        },
+        {
+          "date": "2026-01-03",
+          "match": "Hapoel Jerusalem vs Maccabi Tel A..",
+          "final_odds": "2.27",
+          "original_prediction": "Under2.5",
+          "score": "",
+          "team_zero_perc": "15.11",
+          "h2h_under_perc": "26.67",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 15.11,
           "status": "🟠"
         },
         {
@@ -37,20 +49,8 @@
           "team_zero_perc": "11.69",
           "h2h_under_perc": "58.33",
           "h2h_zero_perc": "8.33",
-          "composite_score": 20.02,
+          "composite_score": 11.69,
           "status": "✅"
-        },
-        {
-          "date": "2026-01-03",
-          "match": "Hapoel Bnei Sakh vs Hapoel Beer S..",
-          "final_odds": "2.05",
-          "original_prediction": "Under2.5",
-          "score": "",
-          "team_zero_perc": "10.78",
-          "h2h_under_perc": "55.17",
-          "h2h_zero_perc": "17.24",
-          "composite_score": 28.019999999999996,
-          "status": "🟠"
         },
         {
           "date": "2026-01-06",
@@ -90,15 +90,15 @@
         },
         {
           "date": "2026-01-09",
-          "match": "Dordrecht vs Helmond Sport",
-          "final_odds": "2.14",
+          "match": "Port Vale vs Fleetwood Town",
+          "final_odds": "2.05",
           "original_prediction": "Under2.5",
-          "score": "",
-          "team_zero_perc": "8.56",
-          "h2h_under_perc": "38.89",
-          "h2h_zero_perc": "11.11",
-          "composite_score": 19.67,
-          "status": "🟠"
+          "score": "1-0",
+          "team_zero_perc": "8.71",
+          "h2h_under_perc": "30.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 8.71,
+          "status": "✅"
         },
         {
           "date": "2026-01-10",
@@ -138,15 +138,15 @@
         },
         {
           "date": "2026-01-12",
-          "match": "Jong PSV Eindhov vs FC Oss",
-          "final_odds": "2.70",
+          "match": "Pafos vs Omonia Aradippou",
+          "final_odds": "2.16",
           "original_prediction": "Under2.5",
-          "score": "",
-          "team_zero_perc": "8.89",
-          "h2h_under_perc": "35.29",
-          "h2h_zero_perc": "5.88",
-          "composite_score": 14.77,
-          "status": "🟠"
+          "score": "2-0",
+          "team_zero_perc": "10.34",
+          "h2h_under_perc": "66.67",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 10.34,
+          "status": "✅"
         },
         {
           "date": "2026-01-12",
@@ -229,7 +229,7 @@
           "team_zero_perc": "12.45",
           "h2h_under_perc": "42.86",
           "h2h_zero_perc": "10.71",
-          "composite_score": 23.16,
+          "composite_score": 12.45,
           "status": "🟠"
         },
         {
@@ -277,7 +277,7 @@
           "team_zero_perc": "9.74",
           "h2h_under_perc": "55.00",
           "h2h_zero_perc": "10.00",
-          "composite_score": 19.740000000000002,
+          "composite_score": 9.74,
           "status": "✅"
         },
         {
@@ -306,18 +306,6 @@
         },
         {
           "date": "2026-01-27",
-          "match": "St. Pauli vs RB Leipzig",
-          "final_odds": "2.11",
-          "original_prediction": "Under2.5",
-          "score": "1-1",
-          "team_zero_perc": "10.24",
-          "h2h_under_perc": "50.00",
-          "h2h_zero_perc": "25.00",
-          "composite_score": 35.24,
-          "status": "✅"
-        },
-        {
-          "date": "2026-01-27",
           "match": "Trefelin vs Baglan Dragons",
           "final_odds": "2.27",
           "original_prediction": "Under2.5",
@@ -327,6 +315,18 @@
           "h2h_zero_perc": "0.00",
           "composite_score": 15.15,
           "status": "🟠"
+        },
+        {
+          "date": "2026-01-27",
+          "match": "St. Pauli vs RB Leipzig",
+          "final_odds": "2.11",
+          "original_prediction": "Under2.5",
+          "score": "1-1",
+          "team_zero_perc": "10.24",
+          "h2h_under_perc": "50.00",
+          "h2h_zero_perc": "25.00",
+          "composite_score": 10.24,
+          "status": "✅"
         },
         {
           "date": "2026-01-31",
@@ -355,8 +355,8 @@
   ],
   "yearly_stats": {},
   "notable_analysis": [
-    "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
+    "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero%)",
     "Total Under2.5 matches analyzed: 73"
   ],
-  "selection_criteria": "Top 2 per day by ranking score (Team Zero% + H2H Zero%)"
+  "selection_criteria": "Top 2 per day by ranking score (Team Zero%)"
 }
