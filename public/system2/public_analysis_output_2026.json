@@ -1,5 +1,10 @@
 {
-  "year": 2026,
+  "year": [
+    {
+      "Date": "year",
+      "value": 2026
+    }
+  ],
   "months": [
     {
       "month": "2026-01",
@@ -350,7 +355,8 @@
       "filtered_stats": {
         "total_under_matches_in_month": 33,
         "top2_selected": 28
-      }
+      },
+      "Date": "months"
     },
     {
       "month": "2026-02",
@@ -720,24 +726,24 @@
           "match": "Pendikspor vs Keciorengucu",
           "final_odds": "1.95",
           "original_prediction": "Under2.5",
-          "score": "",
+          "score": "0-1",
           "team_zero_perc": "9.72",
           "h2h_under_perc": "75.00",
           "h2h_zero_perc": "25.00",
           "composite_score": 34.72,
-          "status": "🟠"
+          "status": "✅"
         },
         {
           "date": "2026-02-23",
           "match": "Amedspor vs Van Buyuksehir B",
           "final_odds": "2.02",
           "original_prediction": "Under2.5",
-          "score": "",
+          "score": "1-0",
           "team_zero_perc": "12.50",
           "h2h_under_perc": "0.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 12.5,
-          "status": "🟠"
+          "status": "✅"
         },
         {
           "date": "2026-02-24",
@@ -762,6 +768,30 @@
           "h2h_zero_perc": "0.00",
           "composite_score": 23.08,
           "status": "🟠"
+        },
+        {
+          "date": "2026-02-25",
+          "match": "Boca Juniors vs Gimnasia Chivilc",
+          "final_odds": "2.28",
+          "original_prediction": "Under2.5",
+          "score": "",
+          "team_zero_perc": "13.02",
+          "h2h_under_perc": "0.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 13.02,
+          "status": "🟠"
+        },
+        {
+          "date": "2026-02-25",
+          "match": "Braintree Town vs Aldershot Town",
+          "final_odds": "2.32",
+          "original_prediction": "Under2.5",
+          "score": "",
+          "team_zero_perc": "9.56",
+          "h2h_under_perc": "44.44",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 9.56,
+          "status": "🟠"
         }
       ],
       "single_stats": {
@@ -771,15 +801,32 @@
         "message": "No valid 2-match combos in 2026-02."
       },
       "filtered_stats": {
-        "total_under_matches_in_month": 40,
-        "top2_selected": 34
-      }
+        "total_under_matches_in_month": 42,
+        "top2_selected": 36
+      },
+      "Date": "months"
     }
   ],
-  "yearly_stats": {},
-  "notable_analysis": [
-    "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
-    "Total Under2.5 matches analyzed: 73"
+  "yearly_stats": [
+    {
+      "Date": "yearly_stats",
+      "value": {}
+    }
   ],
-  "selection_criteria": "Top 2 per day by ranking score (Team Zero% + H2H Zero%)"
+  "notable_analysis": [
+    {
+      "Date": "notable_analysis",
+      "value": "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)"
+    },
+    {
+      "Date": "notable_analysis",
+      "value": "Total Under2.5 matches analyzed: 75"
+    }
+  ],
+  "selection_criteria": [
+    {
+      "Date": "selection_criteria",
+      "value": "Top 2 per day by ranking score (Team Zero% + H2H Zero%)"
+    }
+  ]
 }
