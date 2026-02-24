@@ -504,7 +504,7 @@
           "original_odds": "1.72",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "4-1",
           "h2h_under": "100.00%",
           "status": "🟠",
           "was_converted": true
@@ -516,7 +516,7 @@
           "original_odds": "2.11",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "2-1",
           "h2h_under": "100.00%",
           "status": "🟠",
           "was_converted": true
@@ -544,6 +544,30 @@
           "h2h_under": "100.00%",
           "status": "🟠",
           "was_converted": true
+        },
+        {
+          "date": "2026-02-25",
+          "match": "Millwall vs Birmingham",
+          "final_odds": "2.18",
+          "original_odds": "2.03",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-02-25",
+          "match": "Bahia(BA) vs O.Higgins",
+          "final_odds": "2.45",
+          "original_odds": "1.84",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -557,8 +581,8 @@
         "average_combo_odds": "7.50"
       },
       "filtered_stats": {
-        "total_matches_in_month": 223,
-        "matches_above_threshold": 45
+        "total_matches_in_month": 233,
+        "matches_above_threshold": 47
       }
     }
   ],
@@ -579,7 +603,7 @@
     "Daily Combo EV: 0.6503 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 430",
+    "Total matches analyzed: 440",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
