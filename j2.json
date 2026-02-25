@@ -6410,10 +6410,10 @@
       "Confidence": 0.5051732749773146,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.08,
-      "Actual Score": "",
+      "Actual Score": "5-0",
       "Year": "2021",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2021-01-15",
@@ -6560,10 +6560,10 @@
       "Confidence": 0.6207508917918948,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.38,
-      "Actual Score": "",
+      "Actual Score": "2-0",
       "Year": "2021",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 138.0
     },
     {
       "Date": "2021-01-20",
@@ -19370,10 +19370,10 @@
       "Confidence": 0.5847255144457297,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.28,
-      "Actual Score": "",
+      "Actual Score": "1-2",
       "Year": "2022",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2022-12-17",
@@ -21995,10 +21995,10 @@
       "Confidence": 0.6875973911829291,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.19,
-      "Actual Score": "",
+      "Actual Score": "4-0",
       "Year": "2023",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2023-05-14",
@@ -22010,10 +22010,10 @@
       "Confidence": 0.6716032226542092,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.13,
-      "Actual Score": "",
+      "Actual Score": "2-0",
       "Year": "2023",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 112.99999999999999
     },
     {
       "Date": "2023-05-15",
@@ -24185,10 +24185,10 @@
       "Confidence": 0.6511273168433971,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.02,
-      "Actual Score": "",
+      "Actual Score": "4-0",
       "Year": "2023",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2023-08-08",
@@ -24200,7 +24200,7 @@
       "Confidence": 0.8407223684592208,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.06,
-      "Actual Score": "0-0",
+      "Actual Score": "1-0",
       "Year": "2023",
       "Win": true,
       "Profit": 106.0
@@ -25235,10 +25235,10 @@
       "Confidence": 0.5759949685919183,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.25,
-      "Actual Score": "",
+      "Actual Score": "2-2",
       "Year": "2023",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2023-09-16",
@@ -25310,10 +25310,10 @@
       "Confidence": 0.6207555348580309,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.01,
-      "Actual Score": "",
+      "Actual Score": "4-1",
       "Year": "2023",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2023-09-18",
@@ -25355,10 +25355,10 @@
       "Confidence": 0.7042022375518504,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.1,
-      "Actual Score": "",
+      "Actual Score": "2-0",
       "Year": "2023",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 110.00000000000001
     },
     {
       "Date": "2023-09-20",
@@ -25505,10 +25505,10 @@
       "Confidence": 0.6741604488962142,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.08,
-      "Actual Score": "",
+      "Actual Score": "1-0",
       "Year": "2023",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 108.0
     },
     {
       "Date": "2023-09-25",
@@ -25700,10 +25700,10 @@
       "Confidence": 0.6340601900703658,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.27,
-      "Actual Score": "",
+      "Actual Score": "1-2",
       "Year": "2023",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2023-10-02",
@@ -26450,10 +26450,10 @@
       "Confidence": 0.5697493284574435,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.03,
-      "Actual Score": "",
+      "Actual Score": "1-1",
       "Year": "2023",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 102.99999999999999
     },
     {
       "Date": "2023-10-30",
@@ -26525,10 +26525,10 @@
       "Confidence": 0.7568534740244632,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.01,
-      "Actual Score": "",
+      "Actual Score": "0-0",
       "Year": "2023",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 100.99999999999997
     },
     {
       "Date": "2023-11-02",
@@ -33935,10 +33935,10 @@
       "Confidence": 0.7308730875820856,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.06,
-      "Actual Score": "",
+      "Actual Score": "1-2",
       "Year": "2024",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2024-08-15",
@@ -38945,10 +38945,10 @@
       "Confidence": 0.7768594510019782,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.03,
-      "Actual Score": "",
+      "Actual Score": "2-1",
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2025-03-16",
@@ -39755,10 +39755,10 @@
       "Confidence": 0.7576257880365231,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2,
-      "Actual Score": "",
+      "Actual Score": "0-0",
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 100
     },
     {
       "Date": "2025-04-22",
@@ -39845,10 +39845,10 @@
       "Confidence": 0.637655440959807,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.49,
-      "Actual Score": "",
+      "Actual Score": "0-1",
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 149.00000000000003
     },
     {
       "Date": "2025-04-26",
@@ -40115,10 +40115,10 @@
       "Confidence": 0.9232919426677741,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2,
-      "Actual Score": "",
+      "Actual Score": "4-0",
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2025-05-08",
@@ -42890,10 +42890,10 @@
       "Confidence": 0.6836532198464877,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.15,
-      "Actual Score": "",
+      "Actual Score": "0-2",
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 114.99999999999999
     },
     {
       "Date": "2025-09-19",
@@ -43115,10 +43115,10 @@
       "Confidence": 0.9065769229864288,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.04,
-      "Actual Score": "",
+      "Actual Score": "0-2",
       "Year": "2025",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 104.0
     },
     {
       "Date": "2025-09-27",
@@ -44956,11 +44956,11 @@
       "Confidence": 0.7643536649484179,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.17,
-      "Actual Score": "",
+      "Actual Score": "2-2",
       "League Rank": 1204,
       "Year": "2026",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2026-01-17",
@@ -44972,11 +44972,11 @@
       "Confidence": 0.6803832057817827,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.0,
-      "Actual Score": "",
+      "Actual Score": "0-3",
       "League Rank": 914,
       "Year": "2026",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2026-01-18",
@@ -44988,11 +44988,11 @@
       "Confidence": 0.7271219324472101,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.16,
-      "Actual Score": "",
+      "Actual Score": "2-1",
       "League Rank": 919,
       "Year": "2026",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2026-01-18",
@@ -45004,11 +45004,11 @@
       "Confidence": 0.5319021627290754,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.01,
-      "Actual Score": "",
+      "Actual Score": "0-1",
       "League Rank": 1137,
       "Year": "2026",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 100.99999999999997
     },
     {
       "Date": "2026-01-19",
@@ -45020,11 +45020,11 @@
       "Confidence": 0.6642420204594083,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.01,
-      "Actual Score": "",
+      "Actual Score": "1-1",
       "League Rank": 1000,
       "Year": "2026",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 100.99999999999997
     },
     {
       "Date": "2026-01-19",
@@ -45036,11 +45036,11 @@
       "Confidence": 0.6323556920440414,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.12,
-      "Actual Score": "",
+      "Actual Score": "2-1",
       "League Rank": 611,
       "Year": "2026",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2026-01-20",
@@ -45052,11 +45052,11 @@
       "Confidence": 0.5618710665930049,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.14,
-      "Actual Score": "",
+      "Actual Score": "1-2",
       "League Rank": 615,
       "Year": "2026",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2026-01-20",
@@ -45068,11 +45068,11 @@
       "Confidence": 0.5382311610966728,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.11,
-      "Actual Score": "",
+      "Actual Score": "4-1",
       "League Rank": 914,
       "Year": "2026",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2026-01-22",
@@ -45084,11 +45084,11 @@
       "Confidence": 0.7357997889646147,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.09,
-      "Actual Score": "",
+      "Actual Score": "1-0",
       "League Rank": 912,
       "Year": "2026",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 108.99999999999999
     },
     {
       "Date": "2026-01-22",
@@ -45100,11 +45100,11 @@
       "Confidence": 0.6450104674527372,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.04,
-      "Actual Score": "",
+      "Actual Score": "0-2",
       "League Rank": 912,
       "Year": "2026",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 104.0
     },
     {
       "Date": "2026-01-23",
@@ -45116,11 +45116,11 @@
       "Confidence": 0.6081538638849391,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.02,
-      "Actual Score": "",
+      "Actual Score": "2-1",
       "League Rank": 1122,
       "Year": "2026",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2026-01-23",
@@ -45132,11 +45132,11 @@
       "Confidence": 0.6048303887383233,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.02,
-      "Actual Score": "",
+      "Actual Score": "2-0",
       "League Rank": 913,
       "Year": "2026",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 102.0
     },
     {
       "Date": "2026-01-24",
@@ -45148,11 +45148,11 @@
       "Confidence": 0.7023041853972462,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.3,
-      "Actual Score": "",
+      "Actual Score": "0-0",
       "League Rank": 982,
       "Year": "2026",
-      "Win": null,
-      "Profit": 0
+      "Win": true,
+      "Profit": 129.99999999999997
     },
     {
       "Date": "2026-01-24",
@@ -45164,11 +45164,11 @@
       "Confidence": 0.5078717660749519,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.05,
-      "Actual Score": "",
+      "Actual Score": "2-5",
       "League Rank": 581,
       "Year": "2026",
-      "Win": null,
-      "Profit": 0
+      "Win": false,
+      "Profit": -100
     },
     {
       "Date": "2026-01-25",
@@ -45180,8 +45180,584 @@
       "Confidence": 0.5572558895989472,
       "Possible Score": "1-0 / 0-0",
       "Odds": 2.11,
-      "Actual Score": "",
+      "Actual Score": "2-1",
       "League Rank": 1002,
+      "Year": "2026",
+      "Win": false,
+      "Profit": -100
+    },
+    {
+      "Date": "2026-01-27",
+      "Team A": "Trefelin",
+      "Team B": "Baglan Dragons",
+      "League": "Wales - Cymru South",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.7662933551123652,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.27,
+      "Actual Score": "2-3",
+      "League Rank": 1404,
+      "Year": "2026",
+      "Win": false,
+      "Profit": -100
+    },
+    {
+      "Date": "2026-01-27",
+      "Team A": "St. Pauli",
+      "Team B": "RB Leipzig",
+      "League": "Germany - Bundesliga",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6876414367991454,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.11,
+      "Actual Score": "1-1",
+      "League Rank": 1187,
+      "Year": "2026",
+      "Win": true,
+      "Profit": 110.99999999999999
+    },
+    {
+      "Date": "2026-01-30",
+      "Team A": "Lens",
+      "Team B": "Le Havre",
+      "League": "France - Ligue 1",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5786939963106403,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.25,
+      "Actual Score": "1-0",
+      "League Rank": 763,
+      "Year": "2026",
+      "Win": true,
+      "Profit": 125.0
+    },
+    {
+      "Date": "2026-01-30",
+      "Team A": "RKC Waalwijk",
+      "Team B": "FC Oss",
+      "League": "Netherlands - Eerste Divisie",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5679645576167955,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.43,
+      "Actual Score": "2-0",
+      "League Rank": 1266,
+      "Year": "2026",
+      "Win": true,
+      "Profit": 143.00000000000003
+    },
+    {
+      "Date": "2026-01-31",
+      "Team A": "Limache",
+      "Team B": "Colo Colo",
+      "League": "Chile - Primera Divisi\u00f3n",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.7546155123344531,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.1,
+      "Actual Score": "3-1",
+      "League Rank": 756,
+      "Year": "2026",
+      "Win": false,
+      "Profit": -100
+    },
+    {
+      "Date": "2026-01-31",
+      "Team A": "Beitar Jerusalem",
+      "Team B": "Hapoel Haifa",
+      "League": "Israel - Ligat Ha'Al",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6258992498513736,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.4,
+      "Actual Score": "2-2",
+      "League Rank": 611,
+      "Year": "2026",
+      "Win": false,
+      "Profit": -100
+    },
+    {
+      "Date": "2026-02-01",
+      "Team A": "Cremonese",
+      "Team B": "Inter Milan",
+      "League": "Italy - Serie A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5239762269239189,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.32,
+      "Actual Score": "0-2",
+      "League Rank": 955,
+      "Year": "2026",
+      "Win": true,
+      "Profit": 131.99999999999997
+    },
+    {
+      "Date": "2026-02-02",
+      "Team A": "Casa Pia AC",
+      "Team B": "Porto",
+      "League": "Portugal - Primeira Liga",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.641108464920582,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.05,
+      "Actual Score": "2-1",
+      "League Rank": 732,
+      "Year": "2026",
+      "Win": false,
+      "Profit": -100
+    },
+    {
+      "Date": "2026-02-03",
+      "Team A": "Hornchurch",
+      "Team B": "Salisbury City",
+      "League": "England - Vanarama National League South",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6295078473838811,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.02,
+      "Actual Score": "0-0",
+      "League Rank": 1051,
+      "Year": "2026",
+      "Win": true,
+      "Profit": 102.0
+    },
+    {
+      "Date": "2026-02-03",
+      "Team A": "Sheffield United",
+      "Team B": "Oxford United",
+      "League": "England - Championship",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5921172380158624,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.1,
+      "Actual Score": "3-1",
+      "League Rank": 687,
+      "Year": "2026",
+      "Win": false,
+      "Profit": -100
+    },
+    {
+      "Date": "2026-02-04",
+      "Team A": "Manchester City",
+      "Team B": "Newcastle United",
+      "League": "England - Carabao Cup",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6612175780463507,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.43,
+      "Actual Score": "3-1",
+      "League Rank": 1028,
+      "Year": "2026",
+      "Win": false,
+      "Profit": -100
+    },
+    {
+      "Date": "2026-02-04",
+      "Team A": "Omonia Nicosia F",
+      "Team B": "AEL Limassol",
+      "League": "Cyprus - Cup",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5512559990507638,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.13,
+      "Actual Score": "1-2",
+      "League Rank": 1016,
+      "Year": "2026",
+      "Win": false,
+      "Profit": -100
+    },
+    {
+      "Date": "2026-02-07",
+      "Team A": "Crawley Town",
+      "Team B": "Crewe",
+      "League": "England - League Two",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.69171565566434,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.02,
+      "Actual Score": "0-1",
+      "League Rank": 667,
+      "Year": "2026",
+      "Win": true,
+      "Profit": 102.0
+    },
+    {
+      "Date": "2026-02-07",
+      "Team A": "FSV Mainz 05",
+      "Team B": "Augsburg",
+      "League": "Germany - Bundesliga",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.578696973725523,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.05,
+      "Actual Score": "2-0",
+      "League Rank": 1187,
+      "Year": "2026",
+      "Win": true,
+      "Profit": 104.99999999999999
+    },
+    {
+      "Date": "2026-02-08",
+      "Team A": "Flamengo",
+      "Team B": "Sampaio Correa",
+      "League": "Brazil - Campeonato Carioca",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5186967680987504,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.17,
+      "Actual Score": "7-1",
+      "League Rank": 661,
+      "Year": "2026",
+      "Win": false,
+      "Profit": -100
+    },
+    {
+      "Date": "2026-02-09",
+      "Team A": "Aris Limassol",
+      "Team B": "Anorthosis Famag",
+      "League": "Cyprus - 1 Division",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5539591316981067,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.16,
+      "Actual Score": "0-1",
+      "League Rank": 919,
+      "Year": "2026",
+      "Win": true,
+      "Profit": 116.00000000000001
+    },
+    {
+      "Date": "2026-02-13",
+      "Team A": "Al-Shabab(KSA)",
+      "Team B": "Jeddah",
+      "League": "Saudi Arabia - Professional League",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.847557495575874,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.12,
+      "Actual Score": "2-5",
+      "League Rank": 1059,
+      "Year": "2026",
+      "Win": false,
+      "Profit": -100
+    },
+    {
+      "Date": "2026-02-13",
+      "Team A": "Pisa",
+      "Team B": "AC Milan",
+      "League": "Italy - Serie A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.8307835311701743,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.0,
+      "Actual Score": "1-2",
+      "League Rank": 955,
+      "Year": "2026",
+      "Win": false,
+      "Profit": -100
+    },
+    {
+      "Date": "2026-02-14",
+      "Team A": "Como",
+      "Team B": "Fiorentina",
+      "League": "Italy - Serie A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.627349552586111,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.07,
+      "Actual Score": "1-2",
+      "League Rank": 955,
+      "Year": "2026",
+      "Win": false,
+      "Profit": -100
+    },
+    {
+      "Date": "2026-02-14",
+      "Team A": "Hapoel Kiryat Sh",
+      "Team B": "Ironi Tiberias",
+      "League": "Israel - Ligat Ha'Al",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6244040517142775,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.02,
+      "Actual Score": "2-2",
+      "League Rank": 611,
+      "Year": "2026",
+      "Win": false,
+      "Profit": -100
+    },
+    {
+      "Date": "2026-02-15",
+      "Team A": "FBC Melgar",
+      "Team B": "UCV Moquegua",
+      "League": "Peru - Primera Divisi\u00f3n",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.7370258363931431,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.1,
+      "Actual Score": "4-0",
+      "League Rank": 738,
+      "Year": "2026",
+      "Win": false,
+      "Profit": -100
+    },
+    {
+      "Date": "2026-02-16",
+      "Team A": "Fluminense RJ",
+      "Team B": "Bangu",
+      "League": "Brazil - Campeonato Carioca",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5295392086298547,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.2,
+      "Actual Score": "3-1",
+      "League Rank": 661,
+      "Year": "2026",
+      "Win": false,
+      "Profit": -100
+    },
+    {
+      "Date": "2026-02-18",
+      "Team A": "Farnborough Town",
+      "Team B": "Dagenham Redbrid",
+      "League": "England - Vanarama National League South",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.590467530338632,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.12,
+      "Actual Score": "1-0",
+      "League Rank": 1051,
+      "Year": "2026",
+      "Win": true,
+      "Profit": 112.00000000000001
+    },
+    {
+      "Date": "2026-02-18",
+      "Team A": "River Plate",
+      "Team B": "Ciudad Bolivar",
+      "League": "Argentina - Copa Argentina",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5346185392555485,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.33,
+      "Actual Score": "1-0",
+      "League Rank": 643,
+      "Year": "2026",
+      "Win": true,
+      "Profit": 133.0
+    },
+    {
+      "Date": "2026-02-19",
+      "Team A": "Sigma Olomouc",
+      "Team B": "Lausanne Sports",
+      "League": "Europe - UEFA Europa Conference League",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.7532085368369503,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.06,
+      "Actual Score": "",
+      "League Rank": 1030,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-02-20",
+      "Team A": "FSV Mainz 05",
+      "Team B": "Hamburger SV",
+      "League": "Germany - Bundesliga",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6808752607088848,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.06,
+      "Actual Score": "",
+      "League Rank": 1187,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-02-20",
+      "Team A": "VVV-Venlo",
+      "Team B": "FC Oss",
+      "League": "Netherlands - Eerste Divisie",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6045480509300736,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.33,
+      "Actual Score": "",
+      "League Rank": 1266,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-02-21",
+      "Team A": "Cwmbran Celtic",
+      "Team B": "Aberystwyth Town",
+      "League": "Wales - Cymru South",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5945791699591044,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.1,
+      "Actual Score": "",
+      "League Rank": 1404,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-02-21",
+      "Team A": "Dundee United",
+      "Team B": "Kilmarnock",
+      "League": "Scotland - Premiership",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5671627168807398,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.07,
+      "Actual Score": "",
+      "League Rank": 942,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-02-22",
+      "Team A": "Cienciano",
+      "Team B": "Alianza Atletico",
+      "League": "Peru - Primera Divisi\u00f3n",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5474709174989522,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.11,
+      "Actual Score": "",
+      "League Rank": 738,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-02-24",
+      "Team A": "Wingate Finchley",
+      "Team B": "Canvey Island",
+      "League": "England - Non League Premier - Isthmian",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5144199531972824,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.1,
+      "Actual Score": "",
+      "League Rank": 1258,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-02-25",
+      "Team A": "Braintree Town",
+      "Team B": "Aldershot Town",
+      "League": "England - Vanarama National League",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5737412919535425,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.32,
+      "Actual Score": "",
+      "League Rank": 914,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-02-26",
+      "Team A": "Crvena Zvezda",
+      "Team B": "Lille",
+      "League": "Europe - UEFA Europa League",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.9678006758378039,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.03,
+      "Actual Score": "",
+      "League Rank": 912,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-02-26",
+      "Team A": "AZ Alkmaar",
+      "Team B": "Noah",
+      "League": "Europe - UEFA Europa Conference League",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6126646336501258,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.4,
+      "Actual Score": "",
+      "League Rank": 1030,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-02-27",
+      "Team A": "Fortuna Dusseldo",
+      "Team B": "VfL Bochum",
+      "League": "Germany - 2. Bundesliga",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5422976640046904,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.07,
+      "Actual Score": "",
+      "League Rank": 1023,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-02-27",
+      "Team A": "Augsburg",
+      "Team B": "FC Cologne",
+      "League": "Germany - Bundesliga",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5417800544527911,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.17,
+      "Actual Score": "",
+      "League Rank": 1187,
       "Year": "2026",
       "Win": null,
       "Profit": 0
@@ -45266,11 +45842,11 @@
       "win_rate": 57.49999999999999
     },
     "2021-01": {
-      "wins": 21,
-      "losses": 17,
-      "total": 38,
-      "profit": 714.0,
-      "win_rate": 55.26315789473685
+      "wins": 22,
+      "losses": 18,
+      "total": 40,
+      "profit": 752.0,
+      "win_rate": 55.00000000000001
     },
     "2021-02": {
       "wins": 17,
@@ -45428,10 +46004,10 @@
     },
     "2022-12": {
       "wins": 14,
-      "losses": 9,
-      "total": 23,
-      "profit": 697.0,
-      "win_rate": 60.86956521739131
+      "losses": 10,
+      "total": 24,
+      "profit": 597.0,
+      "win_rate": 58.333333333333336
     },
     "2023-01": {
       "wins": 24,
@@ -45462,11 +46038,11 @@
       "win_rate": 64.0
     },
     "2023-05": {
-      "wins": 35,
-      "losses": 17,
-      "total": 52,
-      "profit": 2311.0,
-      "win_rate": 67.3076923076923
+      "wins": 36,
+      "losses": 18,
+      "total": 54,
+      "profit": 2324.0,
+      "win_rate": 66.66666666666666
     },
     "2023-06": {
       "wins": 41,
@@ -45484,31 +46060,31 @@
     },
     "2023-08": {
       "wins": 42,
-      "losses": 14,
-      "total": 56,
-      "profit": 3424.0,
-      "win_rate": 75.0
+      "losses": 15,
+      "total": 57,
+      "profit": 3323.9999999999995,
+      "win_rate": 73.68421052631578
     },
     "2023-09": {
-      "wins": 39,
-      "losses": 11,
-      "total": 50,
-      "profit": 3470.0,
-      "win_rate": 78.0
+      "wins": 41,
+      "losses": 13,
+      "total": 54,
+      "profit": 3488.0,
+      "win_rate": 75.92592592592592
     },
     "2023-10": {
-      "wins": 42,
-      "losses": 11,
-      "total": 53,
-      "profit": 3993.0,
-      "win_rate": 79.24528301886792
+      "wins": 43,
+      "losses": 12,
+      "total": 55,
+      "profit": 3996.0,
+      "win_rate": 78.18181818181819
     },
     "2023-11": {
-      "wins": 44,
+      "wins": 45,
       "losses": 8,
-      "total": 52,
-      "profit": 4559.0,
-      "win_rate": 84.61538461538461
+      "total": 53,
+      "profit": 4660.0,
+      "win_rate": 84.90566037735849
     },
     "2023-12": {
       "wins": 31,
@@ -45568,10 +46144,10 @@
     },
     "2024-08": {
       "wins": 48,
-      "losses": 8,
-      "total": 56,
-      "profit": 4820.0,
-      "win_rate": 85.71428571428571
+      "losses": 9,
+      "total": 57,
+      "profit": 4720.0,
+      "win_rate": 84.21052631578947
     },
     "2024-09": {
       "wins": 34,
@@ -45617,24 +46193,24 @@
     },
     "2025-03": {
       "wins": 33,
-      "losses": 9,
-      "total": 42,
-      "profit": 2921.0,
-      "win_rate": 78.57142857142857
+      "losses": 10,
+      "total": 43,
+      "profit": 2821.0,
+      "win_rate": 76.74418604651163
     },
     "2025-04": {
-      "wins": 36,
+      "wins": 38,
       "losses": 7,
-      "total": 43,
-      "profit": 3481.0,
-      "win_rate": 83.72093023255815
+      "total": 45,
+      "profit": 3730.0,
+      "win_rate": 84.44444444444444
     },
     "2025-05": {
       "wins": 37,
-      "losses": 13,
-      "total": 50,
-      "profit": 3004.0,
-      "win_rate": 74.0
+      "losses": 14,
+      "total": 51,
+      "profit": 2904.0,
+      "win_rate": 72.54901960784314
     },
     "2025-06": {
       "wins": 24,
@@ -45658,11 +46234,11 @@
       "win_rate": 89.79591836734694
     },
     "2025-09": {
-      "wins": 17,
+      "wins": 19,
       "losses": 18,
-      "total": 35,
-      "profit": 91.0,
-      "win_rate": 48.57142857142857
+      "total": 37,
+      "profit": 310.0,
+      "win_rate": 51.35135135135135
     },
     "2025-10": {
       "wins": 22,
@@ -45686,11 +46262,18 @@
       "win_rate": 45.45454545454545
     },
     "2026-01": {
-      "wins": 4,
-      "losses": 5,
-      "total": 9,
-      "profit": -78.00000000000004,
-      "win_rate": 44.44444444444444
+      "wins": 13,
+      "losses": 17,
+      "total": 30,
+      "profit": -252.00000000000009,
+      "win_rate": 43.333333333333336
+    },
+    "2026-02": {
+      "wins": 7,
+      "losses": 11,
+      "total": 18,
+      "profit": -298.0,
+      "win_rate": 38.88888888888889
     }
   },
   "yearly_stats": {
@@ -45702,46 +46285,46 @@
       "win_rate": 58.96103896103896
     },
     "2021": {
-      "wins": 277,
-      "losses": 191,
-      "total": 468,
-      "profit": 13141.0,
-      "win_rate": 59.18803418803419
+      "wins": 278,
+      "losses": 192,
+      "total": 470,
+      "profit": 13179.0,
+      "win_rate": 59.148936170212764
     },
     "2022": {
       "wins": 263,
-      "losses": 157,
-      "total": 420,
-      "profit": 14698.0,
-      "win_rate": 62.61904761904762
+      "losses": 158,
+      "total": 421,
+      "profit": 14598.0,
+      "win_rate": 62.47030878859857
     },
     "2023": {
-      "wins": 422,
-      "losses": 138,
-      "total": 560,
-      "profit": 35485.0,
-      "win_rate": 75.35714285714286
+      "wins": 427,
+      "losses": 143,
+      "total": 570,
+      "profit": 35520.0,
+      "win_rate": 74.91228070175438
     },
     "2024": {
       "wins": 460,
-      "losses": 155,
-      "total": 615,
-      "profit": 38088.0,
-      "win_rate": 74.79674796747967
+      "losses": 156,
+      "total": 616,
+      "profit": 37988.0,
+      "win_rate": 74.67532467532467
     },
     "2025": {
-      "wins": 359,
-      "losses": 128,
-      "total": 487,
-      "profit": 29253.0,
-      "win_rate": 73.71663244353182
+      "wins": 363,
+      "losses": 130,
+      "total": 493,
+      "profit": 29521.0,
+      "win_rate": 73.63083164300203
     },
     "2026": {
-      "wins": 4,
-      "losses": 5,
-      "total": 9,
-      "profit": -78.00000000000004,
-      "win_rate": 44.44444444444444
+      "wins": 20,
+      "losses": 28,
+      "total": 48,
+      "profit": -550.0000000000001,
+      "win_rate": 41.66666666666667
     }
   }
 }
