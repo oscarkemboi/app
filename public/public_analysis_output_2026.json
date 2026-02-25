@@ -1087,7 +1087,7 @@
           "original_odds": "1.91",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "4-0",
           "h2h_under": "100.00%",
           "status": "🟠",
           "was_converted": true
@@ -1099,9 +1099,9 @@
           "original_odds": "1.73",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "0-0",
           "h2h_under": "100.00%",
-          "status": "🟠",
+          "status": "✅",
           "was_converted": true
         },
         {
