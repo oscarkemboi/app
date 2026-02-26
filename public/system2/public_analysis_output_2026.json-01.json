@@ -14,36 +14,36 @@
                     "match": "Ipswich Town vs Oxford United",
                     "final_odds": "2.03",
                     "original_prediction": "Under2.5",
-                    "score": "2-1",
+                    "score": "",
                     "team_zero_perc": "9.43",
                     "h2h_under_perc": "66.67",
                     "h2h_zero_perc": "44.44",
                     "composite_score": 53.87,
-                    "status": "🟠"
+                    "status": ""
                 },
                 {
                     "date": "2026-01-02",
                     "match": "Melbourne Victor vs Perth Glory",
                     "final_odds": "2.16",
                     "original_prediction": "Under2.5",
-                    "score": "3-2",
+                    "score": "",
                     "team_zero_perc": "4.60",
                     "h2h_under_perc": "41.67",
                     "h2h_zero_perc": "4.17",
                     "composite_score": 8.77,
-                    "status": "🟠"
+                    "status": ""
                 },
                 {
                     "date": "2026-01-03",
                     "match": "Ethnikos Achnas vs AEL Limassol",
                     "final_odds": "2.02",
                     "original_prediction": "Under2.5",
-                    "score": "0-1",
+                    "score": "",
                     "team_zero_perc": "11.69",
                     "h2h_under_perc": "58.33",
                     "h2h_zero_perc": "8.33",
                     "composite_score": 20.02,
-                    "status": "✅"
+                    "status": ""
                 },
                 {
                     "date": "2026-01-03",
@@ -55,7 +55,7 @@
                     "h2h_under_perc": "55.17",
                     "h2h_zero_perc": "17.24",
                     "composite_score": 28.019999999999996,
-                    "status": "🟠"
+                    "status": ""
                 },
                 {
                     "date": "2026-01-06",
@@ -67,19 +67,19 @@
                     "h2h_under_perc": "60.00",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 7.98,
-                    "status": "🟠"
+                    "status": ""
                 },
                 {
                     "date": "2026-01-06",
                     "match": "Folkestone vs Aveley",
                     "final_odds": "2.19",
                     "original_prediction": "Under2.5",
-                    "score": "0-1",
+                    "score": "",
                     "team_zero_perc": "4.39",
                     "h2h_under_perc": "0.00",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 4.39,
-                    "status": "✅"
+                    "status": ""
                 },
                 {
                     "date": "2026-01-09",
@@ -91,7 +91,7 @@
                     "h2h_under_perc": "50.00",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 11.51,
-                    "status": "🟠"
+                    "status": ""
                 },
                 {
                     "date": "2026-01-09",
@@ -103,31 +103,31 @@
                     "h2h_under_perc": "38.89",
                     "h2h_zero_perc": "11.11",
                     "composite_score": 19.67,
-                    "status": "🟠"
+                    "status": ""
                 },
                 {
                     "date": "2026-01-10",
                     "match": "Al-Suqoor(KSA) vs Al-Fateh",
                     "final_odds": "2.25",
                     "original_prediction": "Under2.5",
-                    "score": "0-1",
+                    "score": "",
                     "team_zero_perc": "21.05",
                     "h2h_under_perc": "0.00",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 21.05,
-                    "status": "✅"
+                    "status": ""
                 },
                 {
                     "date": "2026-01-10",
                     "match": "Cruzeiro vs Pouso Alegre",
                     "final_odds": "2.20",
                     "original_prediction": "Under2.5",
-                    "score": "1-2",
+                    "score": "",
                     "team_zero_perc": "11.29",
                     "h2h_under_perc": "75.00",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 11.29,
-                    "status": "🟠"
+                    "status": ""
                 },
                 {
                     "date": "2026-01-11",
@@ -139,7 +139,7 @@
                     "h2h_under_perc": "25.00",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 14.71,
-                    "status": "🟠"
+                    "status": ""
                 },
                 {
                     "date": "2026-01-12",
@@ -151,67 +151,67 @@
                     "h2h_under_perc": "35.29",
                     "h2h_zero_perc": "5.88",
                     "composite_score": 14.77,
-                    "status": "🟠"
+                    "status": ""
                 },
                 {
                     "date": "2026-01-12",
                     "match": "Juventus vs Cremonese",
                     "final_odds": "2.25",
                     "original_prediction": "Under2.5",
-                    "score": "5-0",
+                    "score": "",
                     "team_zero_perc": "10.89",
                     "h2h_under_perc": "66.67",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 10.89,
-                    "status": "🟠"
+                    "status": ""
                 },
                 {
                     "date": "2026-01-13",
                     "match": "Barry Town AFC vs Llanelli",
                     "final_odds": "2.52",
                     "original_prediction": "Under2.5",
-                    "score": "5-1",
+                    "score": "",
                     "team_zero_perc": "8.03",
                     "h2h_under_perc": "57.14",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 8.03,
-                    "status": "🟠"
+                    "status": ""
                 },
                 {
                     "date": "2026-01-14",
                     "match": "FC Sion vs Winterthur",
                     "final_odds": "2.27",
                     "original_prediction": "Under2.5",
-                    "score": "2-0",
+                    "score": "",
                     "team_zero_perc": "4.84",
                     "h2h_under_perc": "50.00",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 4.84,
-                    "status": "✅"
+                    "status": ""
                 },
                 {
                     "date": "2026-01-16",
                     "match": "Pisa vs Atalanta",
                     "final_odds": "1.96",
                     "original_prediction": "Under2.5",
-                    "score": "1-1",
+                    "score": "",
                     "team_zero_perc": "11.86",
                     "h2h_under_perc": "100.00",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 11.86,
-                    "status": "✅"
+                    "status": ""
                 },
                 {
                     "date": "2026-01-17",
                     "match": "Kanchanaburi vs Muangthong",
                     "final_odds": "2.10",
                     "original_prediction": "Under2.5",
-                    "score": "3-0",
+                    "score": "",
                     "team_zero_perc": "16.67",
                     "h2h_under_perc": "100.00",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 16.67,
-                    "status": "🟠"
+                    "status": ""
                 },
                 {
                     "date": "2026-01-17",
@@ -223,7 +223,7 @@
                     "h2h_under_perc": "60.00",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 15.0,
-                    "status": "🟠"
+                    "status": ""
                 },
                 {
                     "date": "2026-01-19",
@@ -235,7 +235,7 @@
                     "h2h_under_perc": "42.86",
                     "h2h_zero_perc": "10.71",
                     "composite_score": 23.16,
-                    "status": "🟠"
+                    "status": ""
                 },
                 {
                     "date": "2026-01-20",
@@ -247,19 +247,19 @@
                     "h2h_under_perc": "0.00",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 12.82,
-                    "status": "🟠"
+                    "status": ""
                 },
                 {
                     "date": "2026-01-22",
                     "match": "SC Freiburg vs Maccabi Tel Aviv",
                     "final_odds": "2.44",
                     "original_prediction": "Under2.5",
-                    "score": "1-0",
+                    "score": "",
                     "team_zero_perc": "6.47",
                     "h2h_under_perc": "0.00",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 6.47,
-                    "status": "✅"
+                    "status": ""
                 },
                 {
                     "date": "2026-01-22",
@@ -271,55 +271,55 @@
                     "h2h_under_perc": "0.00",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 8.33,
-                    "status": "🟠"
+                    "status": ""
                 },
                 {
                     "date": "2026-01-23",
                     "match": "Persija Jakarta vs Madura United",
                     "final_odds": "2.52",
                     "original_prediction": "Under2.5",
-                    "score": "2-0",
+                    "score": "",
                     "team_zero_perc": "9.74",
                     "h2h_under_perc": "55.00",
                     "h2h_zero_perc": "10.00",
                     "composite_score": 19.740000000000002,
-                    "status": "✅"
+                    "status": ""
                 },
                 {
                     "date": "2026-01-25",
                     "match": "Atalanta vs Parma",
                     "final_odds": "2.17",
                     "original_prediction": "Under2.5",
-                    "score": "4-0",
+                    "score": "",
                     "team_zero_perc": "11.16",
                     "h2h_under_perc": "9.09",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 11.16,
-                    "status": "🟠"
+                    "status": ""
                 },
                 {
                     "date": "2026-01-26",
                     "match": "Al Ittihad(KSA) vs Al-Akhdoud",
                     "final_odds": "2.56",
                     "original_prediction": "Under2.5",
-                    "score": "2-1",
+                    "score": "",
                     "team_zero_perc": "8.33",
                     "h2h_under_perc": "0.00",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 8.33,
-                    "status": "🟠"
+                    "status": ""
                 },
                 {
                     "date": "2026-01-27",
                     "match": "St. Pauli vs RB Leipzig",
                     "final_odds": "2.11",
                     "original_prediction": "Under2.5",
-                    "score": "1-1",
+                    "score": "",
                     "team_zero_perc": "10.24",
                     "h2h_under_perc": "50.00",
                     "h2h_zero_perc": "25.00",
                     "composite_score": 35.24,
-                    "status": "✅"
+                    "status": ""
                 },
                 {
                     "date": "2026-01-27",
@@ -331,19 +331,19 @@
                     "h2h_under_perc": "50.00",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 15.15,
-                    "status": "🟠"
+                    "status": ""
                 },
                 {
                     "date": "2026-01-31",
                     "match": "Kanchanaburi vs Prachuap Khiri K",
                     "final_odds": "2.10",
                     "original_prediction": "Under2.5",
-                    "score": "0-0",
+                    "score": "",
                     "team_zero_perc": "14.29",
                     "h2h_under_perc": "100.00",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 14.29,
-                    "status": "✅"
+                    "status": ""
                 }
             ],
             "single_stats": {
