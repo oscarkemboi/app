@@ -45761,6 +45761,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-02-28",
+      "Team A": "Ceahlaul Piatra",
+      "Team B": "CS Voluntari",
+      "League": "Romania - Liga 2",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.7528869233611923,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.06,
+      "Actual Score": "",
+      "League Rank": 723,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-02-28",
+      "Team A": "Kelty Hearts",
+      "Team B": "Inverness",
+      "League": "Scotland - League One",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.637125458488368,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.03,
+      "Actual Score": "",
+      "League Rank": 1105,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
