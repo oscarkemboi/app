@@ -798,7 +798,7 @@
                     "match": "Persib Bandung vs Madura United",
                     "final_odds": "2.56",
                     "original_prediction": "Under2.5",
-                    "score": "",
+                    "score": "5-0",
                     "team_zero_perc": "9.55",
                     "h2h_under_perc": "38.89",
                     "h2h_zero_perc": "11.11",
@@ -810,12 +810,12 @@
                     "match": "Lech Poznan vs KuPs",
                     "final_odds": "2.61",
                     "original_prediction": "Under2.5",
-                    "score": "",
+                    "score": "1-0",
                     "team_zero_perc": "8.46",
                     "h2h_under_perc": "100.00",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 8.46,
-                    "status": "🟠"
+                    "status": "✅"
                 }
             ],
             "single_stats": {
