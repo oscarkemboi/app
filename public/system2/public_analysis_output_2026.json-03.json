@@ -1,21 +1,72 @@
 {
-  "year": 2026,
-  "target_min_odds": 2.0,
-  "months": [
-    {
-      "month": "2026-03",
-      "matches": []
-    }
-  ],
-  "yearly_stats": {},
-  "notable_analysis": [
-    "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
-    "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 357",
-    "Matches converted from Over2.5: 0"
-  ],
-  "conversion_info": {
-    "market_margin": 1.05,
-    "note": "Over2.5 odds converted to Under2.5 odds assuming 5% market margin"
-  }
+    "year": [
+        {
+            "Date": "year",
+            "value": 2026
+        }
+    ],
+    "months": [
+        {
+            "month": "2026-03",
+            "matches": [
+                {
+                    "date": "2026-03-01",
+                    "match": "Cambrian Clydach vs Trethomas Blu..",
+                    "final_odds": "2.52",
+                    "original_prediction": "Under2.5",
+                    "score": "",
+                    "team_zero_perc": "12.50",
+                    "h2h_under_perc": "66.67",
+                    "h2h_zero_perc": "33.33",
+                    "composite_score": 45.83,
+                    "status": "🟠"
+                },
+                {
+                    "date": "2026-03-01",
+                    "match": "Mantova vs Carrarese",
+                    "final_odds": "2.22",
+                    "original_prediction": "Under2.5 (converted)",
+                    "score": "",
+                    "team_zero_perc": "12.13",
+                    "h2h_under_perc": "66.67",
+                    "h2h_zero_perc": "33.33",
+                    "composite_score": 45.46,
+                    "status": "🟠"
+                }
+            ],
+            "single_stats": {
+                "message": "No matches with valid scores in 2026-03."
+            },
+            "combo_stats": {
+                "message": "No valid 2-match combos in 2026-03."
+            },
+            "filtered_stats": {
+                "total_under_matches_in_month": 10,
+                "top2_selected": 2
+            },
+            "Date": "months"
+        }
+    ],
+    "yearly_sta": [
+        {
+            "Date": "yearly_stats",
+            "value": {}
+        }
+    ],
+    "notable_an": [
+        {
+            "Date": "notable_analysis",
+            "value": "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)"
+        },
+        {
+            "Date": "notable_analysis",
+            "value": "Total Under2.5 matches analyzed: 517"
+        }
+    ],
+    "selection_": [
+        {
+            "Date": "selection_criteria",
+            "value": "Top 2 per day by H2H Under % with odds >= 2.0 (Over2.5 converted)"
+        }
+    ]
 }
