@@ -626,24 +626,24 @@
                     "match": "FC Shakhtar Done vs Veres Rivne",
                     "final_odds": "3.35",
                     "original_prediction": "Under2.5 (converted)",
-                    "score": "",
+                    "score": "1-0",
                     "team_zero_perc": "16.20",
                     "h2h_under_perc": "66.67",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 16.2,
-                    "status": "🟠"
+                    "status": "✅"
                 },
                 {
                     "date": "2026-02-28",
                     "match": "Mineros de Zacat vs Venados",
                     "final_odds": "4.50",
                     "original_prediction": "Under2.5 (converted)",
-                    "score": "",
+                    "score": "2-0",
                     "team_zero_perc": "17.14",
                     "h2h_under_perc": "66.67",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 17.14,
-                    "status": "🟠"
+                    "status": "✅"
                 },
                 {
                     "date": "2026-02-28",
@@ -684,7 +684,7 @@
         },
         {
             "Date": "notable_analysis",
-            "value": "Total Under2.5 matches analyzed: 507"
+            "value": "Total Under2.5 matches analyzed: 517"
         }
     ],
     "selection_": [
