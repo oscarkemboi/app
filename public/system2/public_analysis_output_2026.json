@@ -1338,12 +1338,12 @@
                     "match": "Valenciennes vs Caen",
                     "final_odds": "2.22",
                     "original_prediction": "Under2.5 (converted)",
-                    "score": "2-0",
+                    "score": "2-1",
                     "team_zero_perc": "12.78",
                     "h2h_under_perc": "60.00",
                     "h2h_zero_perc": "20.00",
                     "composite_score": 32.78,
-                    "status": "✅"
+                    "status": "🟠"
                 }
             ],
             "single_stats": {
@@ -1384,6 +1384,30 @@
                     "h2h_zero_perc": "33.33",
                     "composite_score": 45.46,
                     "status": "🟠"
+                },
+                {
+                    "date": "2026-03-02",
+                    "match": "Kafr Qasim vs Maccabi Herzliya",
+                    "final_odds": "2.03",
+                    "original_prediction": "Under2.5 (converted)",
+                    "score": "",
+                    "team_zero_perc": "9.77",
+                    "h2h_under_perc": "60.00",
+                    "h2h_zero_perc": "0.00",
+                    "composite_score": 9.77,
+                    "status": "🟠"
+                },
+                {
+                    "date": "2026-03-02",
+                    "match": "Real Madrid vs Getafe",
+                    "final_odds": "2.35",
+                    "original_prediction": "Under2.5 (converted)",
+                    "score": "",
+                    "team_zero_perc": "10.19",
+                    "h2h_under_perc": "72.22",
+                    "h2h_zero_perc": "11.11",
+                    "composite_score": 21.299999999999997,
+                    "status": "🟠"
                 }
             ],
             "single_stats": {
@@ -1393,8 +1417,8 @@
                 "message": "No valid 2-match combos in 2026-03."
             },
             "filtered_stats": {
-                "total_under_matches_in_month": 10,
-                "top2_selected": 2
+                "total_under_matches_in_month": 20,
+                "top2_selected": 4
             },
             "Date": "months"
         }
@@ -1412,7 +1436,7 @@
         },
         {
             "Date": "notable_analysis",
-            "value": "Total Under2.5 matches analyzed: 517"
+            "value": "Total Under2.5 matches analyzed: 527"
         }
     ],
     "selection_": [
