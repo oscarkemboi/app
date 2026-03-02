@@ -1378,12 +1378,12 @@
                     "match": "Mantova vs Carrarese",
                     "final_odds": "2.22",
                     "original_prediction": "Under2.5 (converted)",
-                    "score": "",
+                    "score": "1-1",
                     "team_zero_perc": "12.13",
                     "h2h_under_perc": "66.67",
                     "h2h_zero_perc": "33.33",
                     "composite_score": 45.46,
-                    "status": "🟠"
+                    "status": "✅"
                 },
                 {
                     "date": "2026-03-02",
@@ -1408,6 +1408,30 @@
                     "h2h_zero_perc": "11.11",
                     "composite_score": 21.299999999999997,
                     "status": "🟠"
+                },
+                {
+                    "date": "2026-03-03",
+                    "match": "Chesterfield vs Colchester Unite",
+                    "final_odds": "2.14",
+                    "original_prediction": "Under2.5 (converted)",
+                    "score": "",
+                    "team_zero_perc": "9.84",
+                    "h2h_under_perc": "57.14",
+                    "h2h_zero_perc": "14.29",
+                    "composite_score": 24.13,
+                    "status": "🟠"
+                },
+                {
+                    "date": "2026-03-03",
+                    "match": "Bromley vs Oldham Athletic",
+                    "final_odds": "2.19",
+                    "original_prediction": "Under2.5 (converted)",
+                    "score": "",
+                    "team_zero_perc": "11.92",
+                    "h2h_under_perc": "50.00",
+                    "h2h_zero_perc": "16.67",
+                    "composite_score": 28.590000000000003,
+                    "status": "🟠"
                 }
             ],
             "single_stats": {
@@ -1417,8 +1441,8 @@
                 "message": "No valid 2-match combos in 2026-03."
             },
             "filtered_stats": {
-                "total_under_matches_in_month": 20,
-                "top2_selected": 4
+                "total_under_matches_in_month": 30,
+                "top2_selected": 6
             },
             "Date": "months"
         }
@@ -1436,7 +1460,7 @@
         },
         {
             "Date": "notable_analysis",
-            "value": "Total Under2.5 matches analyzed: 527"
+            "value": "Total Under2.5 matches analyzed: 537"
         }
     ],
     "selection_": [
