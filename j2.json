@@ -45825,6 +45825,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-03-03",
+      "Team A": "Hornchurch",
+      "Team B": "Salisbury City",
+      "League": "England - Vanarama National League South",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5745293080018077,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.08,
+      "Actual Score": "",
+      "League Rank": 1051,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-03-04",
+      "Team A": "Canoneros Marina",
+      "Team B": "H\u00e9roes de Zaci",
+      "League": "Mexico - Liga Premier Serie A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5255679382660083,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.4,
+      "Actual Score": "",
+      "League Rank": 982,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
