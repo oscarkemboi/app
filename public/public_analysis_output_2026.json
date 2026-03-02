@@ -1226,9 +1226,9 @@
           "original_odds": "1.74",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "2-0",
+          "score": "2-2",
           "h2h_under": "100.00%",
-          "status": "✅",
+          "status": "🟠",
           "was_converted": true
         },
         {
@@ -1238,9 +1238,9 @@
           "original_odds": "1.81",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "0-0",
           "h2h_under": "100.00%",
-          "status": "🟠",
+          "status": "✅",
           "was_converted": true
         },
         {
@@ -1266,6 +1266,30 @@
           "h2h_under": "72.22%",
           "status": "🟠",
           "was_converted": true
+        },
+        {
+          "date": "2026-03-03",
+          "match": "Torquay United vs Farnborough Tow..",
+          "final_odds": "3.40",
+          "original_odds": "1.52",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "75.00%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-03-03",
+          "match": "Chesterfield vs Colchester Unite",
+          "final_odds": "2.14",
+          "original_odds": "2.06",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "57.14%",
+          "status": "🟠",
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -1275,8 +1299,8 @@
         "message": "No valid 2-match combos in 2026-03."
       },
       "filtered_stats": {
-        "total_matches_in_month": 20,
-        "matches_above_threshold": 4
+        "total_matches_in_month": 30,
+        "matches_above_threshold": 6
       }
     }
   ],
@@ -1297,7 +1321,7 @@
     "Daily Combo EV: 0.6503 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 490",
+    "Total matches analyzed: 500",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
