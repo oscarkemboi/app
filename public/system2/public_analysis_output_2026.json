@@ -1402,12 +1402,12 @@
                     "match": "Real Madrid vs Getafe",
                     "final_odds": "2.35",
                     "original_prediction": "Under2.5 (converted)",
-                    "score": "",
+                    "score": "0-1",
                     "team_zero_perc": "10.19",
                     "h2h_under_perc": "72.22",
                     "h2h_zero_perc": "11.11",
                     "composite_score": 21.299999999999997,
-                    "status": "🟠"
+                    "status": "✅"
                 },
                 {
                     "date": "2026-03-03",
@@ -1432,6 +1432,30 @@
                     "h2h_zero_perc": "16.67",
                     "composite_score": 28.590000000000003,
                     "status": "🟠"
+                },
+                {
+                    "date": "2026-03-04",
+                    "match": "SC Sagamihara vs Thespa Kusatsu",
+                    "final_odds": "2.11",
+                    "original_prediction": "Under2.5 (converted)",
+                    "score": "",
+                    "team_zero_perc": "10.14",
+                    "h2h_under_perc": "83.33",
+                    "h2h_zero_perc": "16.67",
+                    "composite_score": 26.810000000000002,
+                    "status": "🟠"
+                },
+                {
+                    "date": "2026-03-04",
+                    "match": "Gateshead vs Braintree Town",
+                    "final_odds": "2.34",
+                    "original_prediction": "Under2.5",
+                    "score": "",
+                    "team_zero_perc": "6.69",
+                    "h2h_under_perc": "50.00",
+                    "h2h_zero_perc": "10.00",
+                    "composite_score": 16.69,
+                    "status": "🟠"
                 }
             ],
             "single_stats": {
@@ -1441,8 +1465,8 @@
                 "message": "No valid 2-match combos in 2026-03."
             },
             "filtered_stats": {
-                "total_under_matches_in_month": 30,
-                "top2_selected": 6
+                "total_under_matches_in_month": 38,
+                "top2_selected": 8
             },
             "Date": "months"
         }
@@ -1460,7 +1484,7 @@
         },
         {
             "Date": "notable_analysis",
-            "value": "Total Under2.5 matches analyzed: 537"
+            "value": "Total Under2.5 matches analyzed: 545"
         }
     ],
     "selection_": [
