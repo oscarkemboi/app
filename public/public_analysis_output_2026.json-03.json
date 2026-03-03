@@ -36,9 +36,9 @@
           "original_odds": "2.19",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "1-0",
           "h2h_under": "69.23%",
-          "status": "🟠",
+          "status": "✅",
           "was_converted": true
         },
         {
@@ -48,9 +48,9 @@
           "original_odds": "1.90",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "0-1",
           "h2h_under": "72.22%",
-          "status": "🟠",
+          "status": "✅",
           "was_converted": true
         },
         {
@@ -76,6 +76,30 @@
           "h2h_under": "57.14%",
           "status": "🟠",
           "was_converted": true
+        },
+        {
+          "date": "2026-03-04",
+          "match": "SC Sagamihara vs Thespa Kusatsu",
+          "final_odds": "2.11",
+          "original_odds": "2.09",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "83.33%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-03-04",
+          "match": "Gateshead vs Braintree Town",
+          "final_odds": "2.34",
+          "original_odds": "2.34",
+          "original_prediction": "Under2.5",
+          "final_prediction": "Under2.5",
+          "score": "",
+          "h2h_under": "50.00%",
+          "status": "🟠",
+          "was_converted": false
         }
       ],
       "single_stats": {
@@ -85,8 +109,8 @@
         "message": "No valid 2-match combos in 2026-03."
       },
       "filtered_stats": {
-        "total_matches_in_month": 30,
-        "matches_above_threshold": 6
+        "total_matches_in_month": 40,
+        "matches_above_threshold": 8
       }
     }
   ],
@@ -107,7 +131,7 @@
     "Daily Combo EV: 0.6503 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 500",
+    "Total matches analyzed: 510",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
