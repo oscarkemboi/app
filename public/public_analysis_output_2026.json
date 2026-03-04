@@ -1286,7 +1286,7 @@
           "original_odds": "2.06",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "3-0",
           "h2h_under": "57.14%",
           "status": "🟠",
           "was_converted": true
@@ -1314,6 +1314,30 @@
           "h2h_under": "50.00%",
           "status": "🟠",
           "was_converted": false
+        },
+        {
+          "date": "2026-03-05",
+          "match": "NK Aluminij vs NK Publikum Celj",
+          "final_odds": "3.88",
+          "original_odds": "1.44",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "39.29%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-03-05",
+          "match": "Radomiak Radom vs Arka Gdynia",
+          "final_odds": "2.32",
+          "original_odds": "1.92",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "60.00%",
+          "status": "🟠",
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -1323,8 +1347,8 @@
         "message": "No valid 2-match combos in 2026-03."
       },
       "filtered_stats": {
-        "total_matches_in_month": 40,
-        "matches_above_threshold": 8
+        "total_matches_in_month": 42,
+        "matches_above_threshold": 10
       }
     }
   ],
@@ -1345,7 +1369,7 @@
     "Daily Combo EV: 0.6503 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 510",
+    "Total matches analyzed: 512",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
