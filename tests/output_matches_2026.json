@@ -11038,5 +11038,47 @@
       "H2H Zero Count": 0,
       "H2H Zero %": 0.0
     }
+  ],
+  "2026-03-05": [
+    {
+      "Number": 1,
+      "Date": "2026-03-05 16:30",
+      "League Rank": 9999,
+      "League": "Slovenia - 1. SNL Prva",
+      "Match": "NK Aluminij vs NK Publikum Celj",
+      "Pred.": "Over2.5",
+      "Odd": "1.44",
+      "Score": "",
+      "Team A Total": 302,
+      "Team A Under %": 44.37,
+      "Team B Total": 449,
+      "Team B Under %": 44.77,
+      "Team Zero %": 8.72,
+      "H2H Total": 28,
+      "H2H Under Count": 11,
+      "H2H Under %": 39.29,
+      "H2H Zero Count": 4,
+      "H2H Zero %": 14.29
+    },
+    {
+      "Number": 2,
+      "Date": "2026-03-05 19:30",
+      "League Rank": 9999,
+      "League": "Poland - Ekstraklasa",
+      "Match": "Radomiak Radom vs Arka Gdynia",
+      "Pred.": "Over2.5",
+      "Odd": "1.92",
+      "Score": "",
+      "Team A Total": 379,
+      "Team A Under %": 50.13,
+      "Team B Total": 455,
+      "Team B Under %": 49.89,
+      "Team Zero %": 7.91,
+      "H2H Total": 5,
+      "H2H Under Count": 3,
+      "H2H Under %": 60.0,
+      "H2H Zero Count": 1,
+      "H2H Zero %": 20.0
+    }
   ]
 }
