@@ -45889,6 +45889,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-03-07",
+      "Team A": "Slatina",
+      "Team B": "Ceahlaul Piatra",
+      "League": "Romania - Liga 2",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.7287451896388266,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.25,
+      "Actual Score": "",
+      "League Rank": 723,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-03-07",
+      "Team A": "Ayutthaya Utd",
+      "Team B": "Kanchanaburi",
+      "League": "Thailand - Thai League 1",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.7274166623456064,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.0,
+      "Actual Score": "",
+      "League Rank": 1137,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
