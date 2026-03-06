@@ -45921,6 +45921,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-03-08",
+      "Team A": "Gazovik Orenburg",
+      "Team B": "Zenit St. Peters",
+      "League": "Russia - Premier League",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6003717364288117,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.02,
+      "Actual Score": "",
+      "League Rank": 650,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-03-08",
+      "Team A": "Slavia TU Kosice",
+      "Team B": "Stara Lubovna",
+      "League": "Slovakia - 2. Liga",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5997959368740724,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.17,
+      "Actual Score": "",
+      "League Rank": 1073,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
