@@ -110,7 +110,7 @@
                     "match": "NK Aluminij vs NK Publikum Celj",
                     "final_odds": "3.88",
                     "original_prediction": "Under2.5 (converted)",
-                    "score": "",
+                    "score": "2-1",
                     "team_zero_perc": "8.72",
                     "h2h_under_perc": "39.29",
                     "h2h_zero_perc": "14.29",
@@ -122,7 +122,7 @@
                     "match": "Radomiak Radom vs Arka Gdynia",
                     "final_odds": "2.32",
                     "original_prediction": "Under2.5 (converted)",
-                    "score": "",
+                    "score": "3-1",
                     "team_zero_perc": "7.91",
                     "h2h_under_perc": "60.00",
                     "h2h_zero_perc": "20.00",
@@ -152,6 +152,30 @@
                     "h2h_zero_perc": "10.00",
                     "composite_score": 21.759999999999998,
                     "status": "🟠"
+                },
+                {
+                    "date": "2026-03-07",
+                    "match": "Al-Ettifaq vs Al-Shabab(KSA)",
+                    "final_odds": "2.83",
+                    "original_prediction": "Under2.5 (converted)",
+                    "score": "",
+                    "team_zero_perc": "18.75",
+                    "h2h_under_perc": "100.00",
+                    "h2h_zero_perc": "0.00",
+                    "composite_score": 18.75,
+                    "status": "🟠"
+                },
+                {
+                    "date": "2026-03-07",
+                    "match": "RSC Anderlecht I vs Patro Eisden",
+                    "final_odds": "2.04",
+                    "original_prediction": "Under2.5",
+                    "score": "",
+                    "team_zero_perc": "16.44",
+                    "h2h_under_perc": "100.00",
+                    "h2h_zero_perc": "50.00",
+                    "composite_score": 66.44,
+                    "status": "🟠"
                 }
             ],
             "single_stats": {
@@ -161,8 +185,8 @@
                 "message": "No valid 2-match combos in 2026-03."
             },
             "filtered_stats": {
-                "total_under_matches_in_month": 50,
-                "top2_selected": 12
+                "total_under_matches_in_month": 60,
+                "top2_selected": 14
             },
             "Date": "months"
         }
@@ -180,7 +204,7 @@
         },
         {
             "Date": "notable_analysis",
-            "value": "Total Under2.5 matches analyzed: 557"
+            "value": "Total Under2.5 matches analyzed: 567"
         }
     ],
     "selection_": [
