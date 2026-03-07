@@ -1486,7 +1486,7 @@
                     "match": "Bourg Peronnas vs FC Rouen",
                     "final_odds": "2.03",
                     "original_prediction": "Under2.5 (converted)",
-                    "score": "",
+                    "score": "3-1",
                     "team_zero_perc": "11.76",
                     "h2h_under_perc": "66.67",
                     "h2h_zero_perc": "0.00",
@@ -1498,7 +1498,7 @@
                     "match": "Tapatio vs Cancun",
                     "final_odds": "2.48",
                     "original_prediction": "Under2.5 (converted)",
-                    "score": "",
+                    "score": "1-2",
                     "team_zero_perc": "11.76",
                     "h2h_under_perc": "90.00",
                     "h2h_zero_perc": "10.00",
@@ -1528,6 +1528,30 @@
                     "h2h_zero_perc": "50.00",
                     "composite_score": 66.44,
                     "status": "🟠"
+                },
+                {
+                    "date": "2026-03-08",
+                    "match": "Irapuato vs Alebrijes Oaxaca",
+                    "final_odds": "2.01",
+                    "original_prediction": "Under2.5 (converted)",
+                    "score": "",
+                    "team_zero_perc": "17.86",
+                    "h2h_under_perc": "100.00",
+                    "h2h_zero_perc": "0.00",
+                    "composite_score": 17.86,
+                    "status": "🟠"
+                },
+                {
+                    "date": "2026-03-08",
+                    "match": "Maritimo vs Porto B",
+                    "final_odds": "2.58",
+                    "original_prediction": "Under2.5 (converted)",
+                    "score": "",
+                    "team_zero_perc": "13.19",
+                    "h2h_under_perc": "100.00",
+                    "h2h_zero_perc": "0.00",
+                    "composite_score": 13.19,
+                    "status": "🟠"
                 }
             ],
             "single_stats": {
@@ -1537,8 +1561,8 @@
                 "message": "No valid 2-match combos in 2026-03."
             },
             "filtered_stats": {
-                "total_under_matches_in_month": 60,
-                "top2_selected": 14
+                "total_under_matches_in_month": 70,
+                "top2_selected": 16
             },
             "Date": "months"
         }
@@ -1556,7 +1580,7 @@
         },
         {
             "Date": "notable_analysis",
-            "value": "Total Under2.5 matches analyzed: 567"
+            "value": "Total Under2.5 matches analyzed: 577"
         }
     ],
     "selection_": [
