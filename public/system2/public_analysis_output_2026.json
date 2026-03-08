@@ -1510,31 +1510,31 @@
                     "match": "Al-Ettifaq vs Al-Shabab(KSA)",
                     "final_odds": "2.83",
                     "original_prediction": "Under2.5 (converted)",
-                    "score": "",
+                    "score": "1-1",
                     "team_zero_perc": "18.75",
                     "h2h_under_perc": "100.00",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 18.75,
-                    "status": "🟠"
+                    "status": "✅"
                 },
                 {
                     "date": "2026-03-07",
                     "match": "RSC Anderlecht I vs Patro Eisden",
                     "final_odds": "2.04",
                     "original_prediction": "Under2.5",
-                    "score": "",
+                    "score": "0-0",
                     "team_zero_perc": "16.44",
                     "h2h_under_perc": "100.00",
                     "h2h_zero_perc": "50.00",
                     "composite_score": 66.44,
-                    "status": "🟠"
+                    "status": "✅"
                 },
                 {
                     "date": "2026-03-08",
                     "match": "Irapuato vs Alebrijes Oaxaca",
                     "final_odds": "2.01",
                     "original_prediction": "Under2.5 (converted)",
-                    "score": "",
+                    "score": "6-2",
                     "team_zero_perc": "17.86",
                     "h2h_under_perc": "100.00",
                     "h2h_zero_perc": "0.00",
@@ -1552,6 +1552,30 @@
                     "h2h_zero_perc": "0.00",
                     "composite_score": 13.19,
                     "status": "🟠"
+                },
+                {
+                    "date": "2026-03-09",
+                    "match": "CFR Cluj vs Dinamo Bucuresti",
+                    "final_odds": "2.06",
+                    "original_prediction": "Under2.5 (converted)",
+                    "score": "",
+                    "team_zero_perc": "10.00",
+                    "h2h_under_perc": "57.14",
+                    "h2h_zero_perc": "9.52",
+                    "composite_score": 19.52,
+                    "status": "🟠"
+                },
+                {
+                    "date": "2026-03-09",
+                    "match": "Millonarios vs Cucuta",
+                    "final_odds": "2.25",
+                    "original_prediction": "Under2.5 (converted)",
+                    "score": "",
+                    "team_zero_perc": "11.66",
+                    "h2h_under_perc": "83.33",
+                    "h2h_zero_perc": "0.00",
+                    "composite_score": 11.66,
+                    "status": "🟠"
                 }
             ],
             "single_stats": {
@@ -1561,8 +1585,8 @@
                 "message": "No valid 2-match combos in 2026-03."
             },
             "filtered_stats": {
-                "total_under_matches_in_month": 70,
-                "top2_selected": 16
+                "total_under_matches_in_month": 80,
+                "top2_selected": 18
             },
             "Date": "months"
         }
@@ -1580,7 +1604,7 @@
         },
         {
             "Date": "notable_analysis",
-            "value": "Total Under2.5 matches analyzed: 577"
+            "value": "Total Under2.5 matches analyzed: 587"
         }
     ],
     "selection_": [
