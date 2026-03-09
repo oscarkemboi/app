@@ -45953,6 +45953,22 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-03-10",
+      "Team A": "Sheffield Wednes",
+      "Team B": "Watford",
+      "League": "England - Championship",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5138773836198389,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.01,
+      "Actual Score": "",
+      "League Rank": 687,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
