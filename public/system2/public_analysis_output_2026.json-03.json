@@ -206,24 +206,24 @@
                     "match": "CFR Cluj vs Dinamo Bucuresti",
                     "final_odds": "2.06",
                     "original_prediction": "Under2.5 (converted)",
-                    "score": "",
+                    "score": "2-0",
                     "team_zero_perc": "10.00",
                     "h2h_under_perc": "57.14",
                     "h2h_zero_perc": "9.52",
                     "composite_score": 19.52,
-                    "status": "🟠"
+                    "status": "✅"
                 },
                 {
                     "date": "2026-03-09",
                     "match": "Millonarios vs Cucuta",
                     "final_odds": "2.25",
                     "original_prediction": "Under2.5 (converted)",
-                    "score": "",
+                    "score": "2-0",
                     "team_zero_perc": "11.66",
                     "h2h_under_perc": "83.33",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 11.66,
-                    "status": "🟠"
+                    "status": "✅"
                 },
                 {
                     "date": "2026-03-10",
@@ -248,6 +248,30 @@
                     "h2h_zero_perc": "10.00",
                     "composite_score": 20.11,
                     "status": "🟠"
+                },
+                {
+                    "date": "2026-03-11",
+                    "match": "Istanbulspor vs Amedspor",
+                    "final_odds": "3.17",
+                    "original_prediction": "Under2.5 (converted)",
+                    "score": "",
+                    "team_zero_perc": "14.52",
+                    "h2h_under_perc": "100.00",
+                    "h2h_zero_perc": "33.33",
+                    "composite_score": 47.849999999999994,
+                    "status": "🟠"
+                },
+                {
+                    "date": "2026-03-11",
+                    "match": "Gent B vs Lommel SK",
+                    "final_odds": "2.86",
+                    "original_prediction": "Under2.5 (converted)",
+                    "score": "",
+                    "team_zero_perc": "14.29",
+                    "h2h_under_perc": "100.00",
+                    "h2h_zero_perc": "0.00",
+                    "composite_score": 14.29,
+                    "status": "🟠"
                 }
             ],
             "single_stats": {
@@ -257,8 +281,8 @@
                 "message": "No valid 2-match combos in 2026-03."
             },
             "filtered_stats": {
-                "total_under_matches_in_month": 90,
-                "top2_selected": 20
+                "total_under_matches_in_month": 100,
+                "top2_selected": 22
             },
             "Date": "months"
         }
@@ -276,7 +300,7 @@
         },
         {
             "Date": "notable_analysis",
-            "value": "Total Under2.5 matches analyzed: 597"
+            "value": "Total Under2.5 matches analyzed: 607"
         }
     ],
     "selection_": [
