@@ -204,7 +204,7 @@
           "original_odds": "1.74",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "2-2",
           "h2h_under": "66.67%",
           "status": "🟠",
           "was_converted": true
@@ -216,9 +216,9 @@
           "original_odds": "1.97",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "2-0",
           "h2h_under": "83.33%",
-          "status": "🟠",
+          "status": "✅",
           "was_converted": true
         },
         {
@@ -244,6 +244,30 @@
           "h2h_under": "100.00%",
           "status": "🟠",
           "was_converted": true
+        },
+        {
+          "date": "2026-03-11",
+          "match": "Umraniyespor vs Erzurumspor",
+          "final_odds": "2.22",
+          "original_odds": "1.99",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-03-11",
+          "match": "AFC Wimbledon vs Blackpool",
+          "final_odds": "2.25",
+          "original_odds": "1.97",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -253,8 +277,8 @@
         "message": "No valid 2-match combos in 2026-03."
       },
       "filtered_stats": {
-        "total_matches_in_month": 92,
-        "matches_above_threshold": 20
+        "total_matches_in_month": 102,
+        "matches_above_threshold": 22
       }
     }
   ],
@@ -275,7 +299,7 @@
     "Daily Combo EV: 0.6503 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 562",
+    "Total matches analyzed: 572",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
