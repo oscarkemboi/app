@@ -45985,6 +45985,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-03-13",
+      "Team A": "Al-Riyadh",
+      "Team B": "Al Ittihad(KSA)",
+      "League": "Saudi Arabia - Professional League",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.652528491865433,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.27,
+      "Actual Score": "",
+      "League Rank": 1059,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-03-13",
+      "Team A": "Al-Qadasiya",
+      "Team B": "Jeddah",
+      "League": "Saudi Arabia - Professional League",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6372846335363529,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.02,
+      "Actual Score": "",
+      "League Rank": 1059,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
