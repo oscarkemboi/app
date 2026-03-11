@@ -242,7 +242,7 @@
                     "match": "Fleetwood Town vs Cheltenham Town",
                     "final_odds": "2.35",
                     "original_prediction": "Under2.5 (converted)",
-                    "score": "",
+                    "score": "2-2",
                     "team_zero_perc": "10.11",
                     "h2h_under_perc": "80.00",
                     "h2h_zero_perc": "10.00",
@@ -272,6 +272,30 @@
                     "h2h_zero_perc": "0.00",
                     "composite_score": 14.29,
                     "status": "🟠"
+                },
+                {
+                    "date": "2026-03-12",
+                    "match": "Lech Poznan vs FC Shakhtar Done",
+                    "final_odds": "2.00",
+                    "original_prediction": "Under2.5",
+                    "score": "",
+                    "team_zero_perc": "8.39",
+                    "h2h_under_perc": "100.00",
+                    "h2h_zero_perc": "0.00",
+                    "composite_score": 8.39,
+                    "status": "🟠"
+                },
+                {
+                    "date": "2026-03-12",
+                    "match": "Crystal Palace vs AEK Larnaca",
+                    "final_odds": "2.80",
+                    "original_prediction": "Under2.5 (converted)",
+                    "score": "",
+                    "team_zero_perc": "10.65",
+                    "h2h_under_perc": "100.00",
+                    "h2h_zero_perc": "0.00",
+                    "composite_score": 10.65,
+                    "status": "🟠"
                 }
             ],
             "single_stats": {
@@ -281,8 +305,8 @@
                 "message": "No valid 2-match combos in 2026-03."
             },
             "filtered_stats": {
-                "total_under_matches_in_month": 100,
-                "top2_selected": 22
+                "total_under_matches_in_month": 110,
+                "top2_selected": 24
             },
             "Date": "months"
         }
@@ -300,7 +324,7 @@
         },
         {
             "Date": "notable_analysis",
-            "value": "Total Under2.5 matches analyzed: 607"
+            "value": "Total Under2.5 matches analyzed: 617"
         }
     ],
     "selection_": [
