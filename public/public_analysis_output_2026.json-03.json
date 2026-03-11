@@ -228,7 +228,7 @@
           "original_odds": "1.68",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "3-0",
           "h2h_under": "100.00%",
           "status": "🟠",
           "was_converted": true
@@ -240,9 +240,9 @@
           "original_odds": "1.48",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "1-0",
           "h2h_under": "100.00%",
-          "status": "🟠",
+          "status": "✅",
           "was_converted": true
         },
         {
@@ -268,6 +268,30 @@
           "h2h_under": "100.00%",
           "status": "🟠",
           "was_converted": true
+        },
+        {
+          "date": "2026-03-12",
+          "match": "Erokspor vs Bandirmaspor",
+          "final_odds": "2.77",
+          "original_odds": "1.69",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-03-12",
+          "match": "Lech Poznan vs FC Shakhtar Done",
+          "final_odds": "2.00",
+          "original_odds": "2.00",
+          "original_prediction": "Under2.5",
+          "final_prediction": "Under2.5",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": false
         }
       ],
       "single_stats": {
@@ -277,8 +301,8 @@
         "message": "No valid 2-match combos in 2026-03."
       },
       "filtered_stats": {
-        "total_matches_in_month": 102,
-        "matches_above_threshold": 22
+        "total_matches_in_month": 112,
+        "matches_above_threshold": 24
       }
     }
   ],
@@ -299,7 +323,7 @@
     "Daily Combo EV: 0.6503 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 572",
+    "Total matches analyzed: 582",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
