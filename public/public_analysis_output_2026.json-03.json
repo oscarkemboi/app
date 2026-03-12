@@ -252,7 +252,7 @@
           "original_odds": "1.99",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "3-1",
           "h2h_under": "100.00%",
           "status": "🟠",
           "was_converted": true
@@ -264,7 +264,7 @@
           "original_odds": "1.97",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "4-1",
           "h2h_under": "100.00%",
           "status": "🟠",
           "was_converted": true
@@ -292,6 +292,30 @@
           "h2h_under": "100.00%",
           "status": "🟠",
           "was_converted": false
+        },
+        {
+          "date": "2026-03-13",
+          "match": "Termalica B-B. vs Motor Lublin",
+          "final_odds": "2.21",
+          "original_odds": "2.21",
+          "original_prediction": "Under2.5",
+          "final_prediction": "Under2.5",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": false
+        },
+        {
+          "date": "2026-03-13",
+          "match": "Sporting CP B vs GD Chaves",
+          "final_odds": "2.25",
+          "original_odds": "1.97",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -301,8 +325,8 @@
         "message": "No valid 2-match combos in 2026-03."
       },
       "filtered_stats": {
-        "total_matches_in_month": 112,
-        "matches_above_threshold": 24
+        "total_matches_in_month": 122,
+        "matches_above_threshold": 26
       }
     }
   ],
@@ -323,7 +347,7 @@
     "Daily Combo EV: 0.6503 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 582",
+    "Total matches analyzed: 592",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
