@@ -38,7 +38,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "40.00%",
-          "status": "🟠",
+          "status": "",
           "was_converted": true
         },
         {
@@ -50,7 +50,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "33.33%",
-          "status": "🟠",
+          "status": "",
           "was_converted": true
         },
         {
@@ -110,7 +110,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "65.38%",
-          "status": "🟠",
+          "status": "",
           "was_converted": true
         },
         {
@@ -122,7 +122,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "60.00%",
-          "status": "🟠",
+          "status": "",
           "was_converted": true
         },
         {
@@ -254,7 +254,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
+          "status": "",
           "was_converted": true
         },
         {
@@ -302,7 +302,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
+          "status": "",
           "was_converted": true
         },
         {
@@ -422,7 +422,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
+          "status": "",
           "was_converted": true
         },
         {
@@ -470,7 +470,7 @@
           "final_prediction": "Under2.5",
           "score": "",
           "h2h_under": "50.00%",
-          "status": "🟠",
+          "status": "",
           "was_converted": false
         },
         {
@@ -482,7 +482,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "58.82%",
-          "status": "🟠",
+          "status": "",
           "was_converted": true
         },
         {
@@ -506,7 +506,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
+          "status": "",
           "was_converted": true
         },
         {
@@ -579,7 +579,7 @@
     "Daily Combo EV: 0.6503 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 582",
+    "Total matches analyzed: 592",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
