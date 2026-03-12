@@ -46017,6 +46017,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-03-14",
+      "Team A": "Middlesbrough",
+      "Team B": "Bristol City",
+      "League": "England - Championship",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6203435140871021,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.25,
+      "Actual Score": "",
+      "League Rank": 687,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-03-14",
+      "Team A": "Arsenal",
+      "Team B": "Everton",
+      "League": "England - Premier League",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5143257287613242,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.0,
+      "Actual Score": "",
+      "League Rank": 1022,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
