@@ -46049,6 +46049,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-03-15",
+      "Team A": "Kalamata AO",
+      "Team B": "Olympiacos Pirae",
+      "League": "Greece - Super League 2",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.7017656590417511,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.33,
+      "Actual Score": "",
+      "League Rank": 472,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-03-15",
+      "Team A": "Coriano",
+      "Team B": "Sasso Marconi Zo",
+      "League": "Italy - Serie D - Gruppo D",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.656233683566686,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.04,
+      "Actual Score": "",
+      "League Rank": 729,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
