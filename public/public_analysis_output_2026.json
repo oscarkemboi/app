@@ -1514,7 +1514,7 @@
           "original_odds": "2.21",
           "original_prediction": "Under2.5",
           "final_prediction": "Under2.5",
-          "score": "",
+          "score": "1-2",
           "h2h_under": "100.00%",
           "status": "🟠",
           "was_converted": false
@@ -1526,9 +1526,9 @@
           "original_odds": "1.97",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "0-1",
           "h2h_under": "100.00%",
-          "status": "🟠",
+          "status": "✅",
           "was_converted": true
         },
         {
@@ -1554,6 +1554,30 @@
           "h2h_under": "100.00%",
           "status": "🟠",
           "was_converted": true
+        },
+        {
+          "date": "2026-03-15",
+          "match": "Marko vs Panionios",
+          "final_odds": "2.03",
+          "original_odds": "2.17",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-03-15",
+          "match": "NovaRomentin vs Sanremese",
+          "final_odds": "2.60",
+          "original_odds": "1.76",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -1563,8 +1587,8 @@
         "message": "No valid 2-match combos in 2026-03."
       },
       "filtered_stats": {
-        "total_matches_in_month": 132,
-        "matches_above_threshold": 28
+        "total_matches_in_month": 142,
+        "matches_above_threshold": 30
       }
     }
   ],
@@ -1585,7 +1609,7 @@
     "Daily Combo EV: 0.6503 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 602",
+    "Total matches analyzed: 612",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
