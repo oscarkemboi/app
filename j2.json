@@ -46081,6 +46081,22 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-03-16",
+      "Team A": "Club America",
+      "Team B": "Mazatlan FC",
+      "League": "Mexico - Liga MX",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5749898758328855,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.11,
+      "Actual Score": "",
+      "League Rank": 1066,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
