@@ -1654,7 +1654,7 @@
                     "match": "Wisla Krakow vs Miedz Legnica",
                     "final_odds": "3.02",
                     "original_prediction": "Under2.5 (converted)",
-                    "score": "",
+                    "score": "3-2",
                     "team_zero_perc": "12.63",
                     "h2h_under_perc": "62.50",
                     "h2h_zero_perc": "0.00",
@@ -1666,12 +1666,12 @@
                     "match": "Sligo Rovers vs Shamrock Rovers",
                     "final_odds": "2.32",
                     "original_prediction": "Under2.5 (converted)",
-                    "score": "",
+                    "score": "0-2",
                     "team_zero_perc": "10.94",
                     "h2h_under_perc": "53.12",
                     "h2h_zero_perc": "12.50",
                     "composite_score": 23.439999999999998,
-                    "status": "🟠"
+                    "status": "✅"
                 },
                 {
                     "date": "2026-03-14",
@@ -1696,6 +1696,30 @@
                     "h2h_zero_perc": "16.67",
                     "composite_score": 29.92,
                     "status": "🟠"
+                },
+                {
+                    "date": "2026-03-15",
+                    "match": "Kanchanaburi vs Sukhothai",
+                    "final_odds": "2.60",
+                    "original_prediction": "Under2.5 (converted)",
+                    "score": "",
+                    "team_zero_perc": "20.00",
+                    "h2h_under_perc": "100.00",
+                    "h2h_zero_perc": "0.00",
+                    "composite_score": 20.0,
+                    "status": "🟠"
+                },
+                {
+                    "date": "2026-03-15",
+                    "match": "Fafe vs AD Marco 09",
+                    "final_odds": "2.14",
+                    "original_prediction": "Under2.5 (converted)",
+                    "score": "",
+                    "team_zero_perc": "26.67",
+                    "h2h_under_perc": "100.00",
+                    "h2h_zero_perc": "50.00",
+                    "composite_score": 76.67,
+                    "status": "🟠"
                 }
             ],
             "single_stats": {
@@ -1705,8 +1729,8 @@
                 "message": "No valid 2-match combos in 2026-03."
             },
             "filtered_stats": {
-                "total_under_matches_in_month": 130,
-                "top2_selected": 28
+                "total_under_matches_in_month": 140,
+                "top2_selected": 30
             },
             "Date": "months"
         }
@@ -1724,7 +1748,7 @@
         },
         {
             "Date": "notable_analysis",
-            "value": "Total Under2.5 matches analyzed: 637"
+            "value": "Total Under2.5 matches analyzed: 647"
         }
     ],
     "selection_": [
