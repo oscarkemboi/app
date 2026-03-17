@@ -326,47 +326,95 @@
                     "match": "Vozdovac vs Zemun",
                     "final_odds": "2.07",
                     "original_prediction": "Under2.5 (converted)",
-                    "score": "",
+                    "score": "1-0",
                     "team_zero_perc": "13.37",
                     "h2h_under_perc": "11.11",
                     "h2h_zero_perc": "11.11",
                     "composite_score": 24.479999999999997,
-                    "status": "🟠"
+                    "status": "✅"
                 },
                 {
                     "date": "2026-03-14",
                     "match": "Columbus Crew vs Nashville SC",
                     "final_odds": "3.50",
                     "original_prediction": "Under2.5 (converted)",
-                    "score": "",
+                    "score": "0-1",
                     "team_zero_perc": "13.25",
                     "h2h_under_perc": "58.33",
                     "h2h_zero_perc": "16.67",
                     "composite_score": 29.92,
-                    "status": "🟠"
+                    "status": "✅"
                 },
                 {
                     "date": "2026-03-15",
                     "match": "Kanchanaburi vs Sukhothai",
                     "final_odds": "2.60",
                     "original_prediction": "Under2.5 (converted)",
-                    "score": "",
+                    "score": "1-0",
                     "team_zero_perc": "20.00",
                     "h2h_under_perc": "100.00",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 20.0,
-                    "status": "🟠"
+                    "status": "✅"
                 },
                 {
                     "date": "2026-03-15",
                     "match": "Fafe vs AD Marco 09",
                     "final_odds": "2.14",
                     "original_prediction": "Under2.5 (converted)",
-                    "score": "",
+                    "score": "1-1",
                     "team_zero_perc": "26.67",
                     "h2h_under_perc": "100.00",
                     "h2h_zero_perc": "50.00",
                     "composite_score": 76.67,
+                    "status": "✅"
+                },
+                {
+                    "date": "2026-03-17",
+                    "match": "Petrojet vs Pyramids",
+                    "final_odds": "2.05",
+                    "original_prediction": "Under2.5 (converted)",
+                    "score": "",
+                    "team_zero_perc": "15.19",
+                    "h2h_under_perc": "80.00",
+                    "h2h_zero_perc": "0.00",
+                    "composite_score": 15.19,
+                    "status": "🟠"
+                },
+                {
+                    "date": "2026-03-17",
+                    "match": "Petrojet vs Pyramids",
+                    "final_odds": "2.05",
+                    "original_prediction": "Under2.5 (converted)",
+                    "score": "",
+                    "team_zero_perc": "15.19",
+                    "h2h_under_perc": "80.00",
+                    "h2h_zero_perc": "0.00",
+                    "composite_score": 15.19,
+                    "status": "🟠"
+                },
+                {
+                    "date": "2026-03-18",
+                    "match": "Pogradeci vs Iliria Kruja",
+                    "final_odds": "2.00",
+                    "original_prediction": "Under2.5",
+                    "score": "",
+                    "team_zero_perc": "20.00",
+                    "h2h_under_perc": "75.00",
+                    "h2h_zero_perc": "75.00",
+                    "composite_score": 95.0,
+                    "status": "🟠"
+                },
+                {
+                    "date": "2026-03-18",
+                    "match": "Agua Santa vs Votuporanguense",
+                    "final_odds": "2.10",
+                    "original_prediction": "Under2.5 (converted)",
+                    "score": "",
+                    "team_zero_perc": "18.52",
+                    "h2h_under_perc": "100.00",
+                    "h2h_zero_perc": "0.00",
+                    "composite_score": 18.52,
                     "status": "🟠"
                 }
             ],
@@ -377,8 +425,8 @@
                 "message": "No valid 2-match combos in 2026-03."
             },
             "filtered_stats": {
-                "total_under_matches_in_month": 140,
-                "top2_selected": 30
+                "total_under_matches_in_month": 170,
+                "top2_selected": 34
             },
             "Date": "months"
         }
@@ -396,7 +444,7 @@
         },
         {
             "Date": "notable_analysis",
-            "value": "Total Under2.5 matches analyzed: 647"
+            "value": "Total Under2.5 matches analyzed: 677"
         }
     ],
     "selection_": [
