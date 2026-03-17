@@ -1538,7 +1538,7 @@
           "original_odds": "1.75",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "3-0",
           "h2h_under": "100.00%",
           "status": "🟠",
           "was_converted": true
@@ -1550,7 +1550,7 @@
           "original_odds": "2.05",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "3-2",
           "h2h_under": "100.00%",
           "status": "🟠",
           "was_converted": true
@@ -1562,7 +1562,7 @@
           "original_odds": "2.17",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "2-1",
           "h2h_under": "100.00%",
           "status": "🟠",
           "was_converted": true
@@ -1572,6 +1572,54 @@
           "match": "NovaRomentin vs Sanremese",
           "final_odds": "2.60",
           "original_odds": "1.76",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "2-3",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-03-17",
+          "match": "Telford United vs Macclesfield To..",
+          "final_odds": "3.13",
+          "original_odds": "1.58",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-03-17",
+          "match": "Spartans vs Forfar Athletic",
+          "final_odds": "2.28",
+          "original_odds": "1.95",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "81.82%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-03-18",
+          "match": "Eyupspor vs Trabzonspor",
+          "final_odds": "2.72",
+          "original_odds": "1.71",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-03-18",
+          "match": "Liverpool vs Galatasaray",
+          "final_odds": "5.46",
+          "original_odds": "1.30",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
           "score": "",
@@ -1587,8 +1635,8 @@
         "message": "No valid 2-match combos in 2026-03."
       },
       "filtered_stats": {
-        "total_matches_in_month": 142,
-        "matches_above_threshold": 30
+        "total_matches_in_month": 162,
+        "matches_above_threshold": 34
       }
     }
   ],
@@ -1609,7 +1657,7 @@
     "Daily Combo EV: 0.6503 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 612",
+    "Total matches analyzed: 632",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
