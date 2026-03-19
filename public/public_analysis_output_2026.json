@@ -1598,9 +1598,9 @@
           "original_odds": "1.95",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "1-0",
           "h2h_under": "81.82%",
-          "status": "🟠",
+          "status": "✅",
           "was_converted": true
         },
         {
@@ -1610,9 +1610,9 @@
           "original_odds": "1.71",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "0-1",
           "h2h_under": "100.00%",
-          "status": "🟠",
+          "status": "✅",
           "was_converted": true
         },
         {
@@ -1622,6 +1622,54 @@
           "original_odds": "1.30",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
+          "score": "4-0",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-03-19",
+          "match": "Club America vs Philadelphia Uni",
+          "final_odds": "2.92",
+          "original_odds": "1.64",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "1-1",
+          "h2h_under": "100.00%",
+          "status": "✅",
+          "was_converted": true
+        },
+        {
+          "date": "2026-03-19",
+          "match": "Lyon vs Celta Vigo",
+          "final_odds": "2.05",
+          "original_odds": "2.15",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-03-20",
+          "match": "Aubagne vs Sochaux",
+          "final_odds": "2.08",
+          "original_odds": "2.12",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-03-20",
+          "match": "Patro Eisden vs Beerschot Wilrij",
+          "final_odds": "2.21",
+          "original_odds": "2.00",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "100.00%",
           "status": "🟠",
@@ -1629,22 +1677,24 @@
         }
       ],
       "single_stats": {
-        "message": "No matches with valid scores in 2026-03."
+        "under_2.5_percentage": "100.00%",
+        "under_2.5_count": "1/1",
+        "average_odds": "2.92"
       },
       "combo_stats": {
         "message": "No valid 2-match combos in 2026-03."
       },
       "filtered_stats": {
-        "total_matches_in_month": 162,
-        "matches_above_threshold": 34
+        "total_matches_in_month": 182,
+        "matches_above_threshold": 38
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "48.08%",
-      "under_2.5_count": "25/52",
-      "average_odds": "2.56"
+      "under_2.5_percentage": "49.06%",
+      "under_2.5_count": "26/53",
+      "average_odds": "2.57"
     },
     "combo_stats": {
       "combo_under_2.5_percentage": "23.81%",
@@ -1653,11 +1703,11 @@
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.2315 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: 0.2599 (💰 POSITIVE (potentially profitable))",
     "Daily Combo EV: 0.6503 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 632",
+    "Total matches analyzed: 652",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
