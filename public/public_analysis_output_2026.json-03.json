@@ -432,9 +432,9 @@
           "original_odds": "2.15",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "0-2",
           "h2h_under": "100.00%",
-          "status": "🟠",
+          "status": "✅",
           "was_converted": true
         },
         {
@@ -460,6 +460,30 @@
           "h2h_under": "100.00%",
           "status": "🟠",
           "was_converted": true
+        },
+        {
+          "date": "2026-03-21",
+          "match": "Atalanta U23 vs Casertana",
+          "final_odds": "2.32",
+          "original_odds": "1.92",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-03-21",
+          "match": "Real Union Irun vs CA River Ebro",
+          "final_odds": "2.24",
+          "original_odds": "1.98",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -471,8 +495,8 @@
         "message": "No valid 2-match combos in 2026-03."
       },
       "filtered_stats": {
-        "total_matches_in_month": 182,
-        "matches_above_threshold": 38
+        "total_matches_in_month": 192,
+        "matches_above_threshold": 40
       }
     }
   ],
@@ -493,7 +517,7 @@
     "Daily Combo EV: 0.6503 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 652",
+    "Total matches analyzed: 662",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
