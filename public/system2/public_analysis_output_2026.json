@@ -1774,7 +1774,7 @@
                     "match": "Real Betis vs Panathinaikos",
                     "final_odds": "2.38",
                     "original_prediction": "Under2.5 (converted)",
-                    "score": "",
+                    "score": "4-0",
                     "team_zero_perc": "10.59",
                     "h2h_under_perc": "100.00",
                     "h2h_zero_perc": "0.00",
@@ -1786,7 +1786,7 @@
                     "match": "Real Betis vs Panathinaikos",
                     "final_odds": "2.38",
                     "original_prediction": "Under2.5 (converted)",
-                    "score": "",
+                    "score": "4-0",
                     "team_zero_perc": "10.59",
                     "h2h_under_perc": "100.00",
                     "h2h_zero_perc": "0.00",
@@ -1816,6 +1816,30 @@
                     "h2h_zero_perc": "0.00",
                     "composite_score": 13.83,
                     "status": "🟠"
+                },
+                {
+                    "date": "2026-03-21",
+                    "match": "Union Brescia vs Ospitaletto",
+                    "final_odds": "2.26",
+                    "original_prediction": "Under2.5 (converted)",
+                    "score": "",
+                    "team_zero_perc": "18.18",
+                    "h2h_under_perc": "100.00",
+                    "h2h_zero_perc": "100.00",
+                    "composite_score": 118.18,
+                    "status": "🟠"
+                },
+                {
+                    "date": "2026-03-21",
+                    "match": "Real Union Irun vs CA River Ebro",
+                    "final_odds": "2.24",
+                    "original_prediction": "Under2.5 (converted)",
+                    "score": "",
+                    "team_zero_perc": "16.43",
+                    "h2h_under_perc": "100.00",
+                    "h2h_zero_perc": "50.00",
+                    "composite_score": 66.43,
+                    "status": "🟠"
                 }
             ],
             "single_stats": {
@@ -1825,8 +1849,8 @@
                 "message": "No valid 2-match combos in 2026-03."
             },
             "filtered_stats": {
-                "total_under_matches_in_month": 200,
-                "top2_selected": 38
+                "total_under_matches_in_month": 210,
+                "top2_selected": 40
             },
             "Date": "months"
         }
@@ -1844,7 +1868,7 @@
         },
         {
             "Date": "notable_analysis",
-            "value": "Total Under2.5 matches analyzed: 707"
+            "value": "Total Under2.5 matches analyzed: 717"
         }
     ],
     "selection_": [
