@@ -46257,6 +46257,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-03-22",
+      "Team A": "Rosenborg",
+      "Team B": "Valerenga",
+      "League": "Norway - Eliteserien",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6204927133247475,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.4,
+      "Actual Score": "",
+      "League Rank": 1192,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-03-22",
+      "Team A": "FC Utrecht",
+      "Team B": "Go Ahead Eagles",
+      "League": "Netherlands - Eredivisie",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.604169180926807,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.27,
+      "Actual Score": "",
+      "League Rank": 1204,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
