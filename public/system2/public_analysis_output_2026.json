@@ -1798,7 +1798,7 @@
                     "match": "Aubagne vs Sochaux",
                     "final_odds": "2.08",
                     "original_prediction": "Under2.5 (converted)",
-                    "score": "",
+                    "score": "1-4",
                     "team_zero_perc": "12.06",
                     "h2h_under_perc": "100.00",
                     "h2h_zero_perc": "0.00",
@@ -1810,7 +1810,7 @@
                     "match": "Amiens vs Le Mans",
                     "final_odds": "2.22",
                     "original_prediction": "Under2.5 (converted)",
-                    "score": "",
+                    "score": "3-4",
                     "team_zero_perc": "13.83",
                     "h2h_under_perc": "100.00",
                     "h2h_zero_perc": "0.00",
@@ -1822,23 +1822,47 @@
                     "match": "Union Brescia vs Ospitaletto",
                     "final_odds": "2.26",
                     "original_prediction": "Under2.5 (converted)",
-                    "score": "",
+                    "score": "0-0",
                     "team_zero_perc": "18.18",
                     "h2h_under_perc": "100.00",
                     "h2h_zero_perc": "100.00",
                     "composite_score": 118.18,
-                    "status": "🟠"
+                    "status": "✅"
                 },
                 {
                     "date": "2026-03-21",
                     "match": "Real Union Irun vs CA River Ebro",
                     "final_odds": "2.24",
                     "original_prediction": "Under2.5 (converted)",
-                    "score": "",
+                    "score": "4-0",
                     "team_zero_perc": "16.43",
                     "h2h_under_perc": "100.00",
                     "h2h_zero_perc": "50.00",
                     "composite_score": 66.43,
+                    "status": "🟠"
+                },
+                {
+                    "date": "2026-03-23",
+                    "match": "Real Cartagena vs Union Magdalena",
+                    "final_odds": "2.19",
+                    "original_prediction": "Under2.5 (converted)",
+                    "score": "",
+                    "team_zero_perc": "8.13",
+                    "h2h_under_perc": "73.33",
+                    "h2h_zero_perc": "13.33",
+                    "composite_score": 21.46,
+                    "status": "🟠"
+                },
+                {
+                    "date": "2026-03-23",
+                    "match": "Jaguares de Cord vs Aguilas D.",
+                    "final_odds": "2.02",
+                    "original_prediction": "Under2.5 (converted)",
+                    "score": "",
+                    "team_zero_perc": "13.92",
+                    "h2h_under_perc": "73.68",
+                    "h2h_zero_perc": "5.26",
+                    "composite_score": 19.18,
                     "status": "🟠"
                 }
             ],
@@ -1849,8 +1873,8 @@
                 "message": "No valid 2-match combos in 2026-03."
             },
             "filtered_stats": {
-                "total_under_matches_in_month": 210,
-                "top2_selected": 40
+                "total_under_matches_in_month": 237,
+                "top2_selected": 42
             },
             "Date": "months"
         }
@@ -1868,7 +1892,7 @@
         },
         {
             "Date": "notable_analysis",
-            "value": "Total Under2.5 matches analyzed: 717"
+            "value": "Total Under2.5 matches analyzed: 744"
         }
     ],
     "selection_": [
