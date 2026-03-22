@@ -1658,7 +1658,7 @@
           "original_odds": "2.12",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "1-4",
           "h2h_under": "100.00%",
           "status": "🟠",
           "was_converted": true
@@ -1670,7 +1670,7 @@
           "original_odds": "2.00",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "0-4",
           "h2h_under": "100.00%",
           "status": "🟠",
           "was_converted": true
@@ -1682,9 +1682,9 @@
           "original_odds": "1.92",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "0-2",
           "h2h_under": "100.00%",
-          "status": "🟠",
+          "status": "✅",
           "was_converted": true
         },
         {
@@ -1694,8 +1694,32 @@
           "original_odds": "1.98",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "4-0",
           "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-03-23",
+          "match": "Real Cartagena vs Union Magdalena",
+          "final_odds": "2.19",
+          "original_odds": "2.02",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "73.33%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-03-23",
+          "match": "Jaguares de Cord vs Aguilas D.",
+          "final_odds": "2.02",
+          "original_odds": "2.19",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "73.68%",
           "status": "🟠",
           "was_converted": true
         }
@@ -1709,8 +1733,8 @@
         "message": "No valid 2-match combos in 2026-03."
       },
       "filtered_stats": {
-        "total_matches_in_month": 192,
-        "matches_above_threshold": 40
+        "total_matches_in_month": 212,
+        "matches_above_threshold": 42
       }
     }
   ],
@@ -1731,7 +1755,7 @@
     "Daily Combo EV: 0.6503 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 662",
+    "Total matches analyzed: 682",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
