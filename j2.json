@@ -46289,6 +46289,22 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-03-23",
+      "Team A": "Rodina Moscow",
+      "Team B": "FK Chayka",
+      "League": "Russia - First League",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5971363111951915,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.02,
+      "Actual Score": "",
+      "League Rank": 342,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
