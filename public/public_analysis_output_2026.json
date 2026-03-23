@@ -1706,7 +1706,7 @@
           "original_odds": "2.02",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "2-1",
           "h2h_under": "73.33%",
           "status": "🟠",
           "was_converted": true
@@ -1722,6 +1722,30 @@
           "h2h_under": "73.68%",
           "status": "🟠",
           "was_converted": true
+        },
+        {
+          "date": "2026-03-24",
+          "match": "Isparta 32 Spor vs Soma Spor",
+          "final_odds": "3.40",
+          "original_odds": "1.52",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-03-24",
+          "match": "AFC Fylde vs Marine",
+          "final_odds": "3.95",
+          "original_odds": "1.43",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -1733,8 +1757,8 @@
         "message": "No valid 2-match combos in 2026-03."
       },
       "filtered_stats": {
-        "total_matches_in_month": 212,
-        "matches_above_threshold": 42
+        "total_matches_in_month": 222,
+        "matches_above_threshold": 44
       }
     }
   ],
@@ -1755,7 +1779,7 @@
     "Daily Combo EV: 0.6503 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 682",
+    "Total matches analyzed: 692",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
