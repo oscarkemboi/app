@@ -494,7 +494,7 @@
                     "match": "Real Cartagena vs Union Magdalena",
                     "final_odds": "2.19",
                     "original_prediction": "Under2.5 (converted)",
-                    "score": "",
+                    "score": "2-1",
                     "team_zero_perc": "8.13",
                     "h2h_under_perc": "73.33",
                     "h2h_zero_perc": "13.33",
@@ -512,6 +512,30 @@
                     "h2h_zero_perc": "5.26",
                     "composite_score": 19.18,
                     "status": "🟠"
+                },
+                {
+                    "date": "2026-03-24",
+                    "match": "Isparta 32 Spor vs Soma Spor",
+                    "final_odds": "3.40",
+                    "original_prediction": "Under2.5 (converted)",
+                    "score": "",
+                    "team_zero_perc": "14.55",
+                    "h2h_under_perc": "100.00",
+                    "h2h_zero_perc": "0.00",
+                    "composite_score": 14.55,
+                    "status": "🟠"
+                },
+                {
+                    "date": "2026-03-24",
+                    "match": "AFC Fylde vs Marine",
+                    "final_odds": "3.95",
+                    "original_prediction": "Under2.5 (converted)",
+                    "score": "",
+                    "team_zero_perc": "9.09",
+                    "h2h_under_perc": "100.00",
+                    "h2h_zero_perc": "0.00",
+                    "composite_score": 9.09,
+                    "status": "🟠"
                 }
             ],
             "single_stats": {
@@ -521,8 +545,8 @@
                 "message": "No valid 2-match combos in 2026-03."
             },
             "filtered_stats": {
-                "total_under_matches_in_month": 237,
-                "top2_selected": 42
+                "total_under_matches_in_month": 247,
+                "top2_selected": 44
             },
             "Date": "months"
         }
@@ -540,7 +564,7 @@
         },
         {
             "Date": "notable_analysis",
-            "value": "Total Under2.5 matches analyzed: 744"
+            "value": "Total Under2.5 matches analyzed: 754"
         }
     ],
     "selection_": [
