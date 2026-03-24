@@ -1858,12 +1858,12 @@
                     "match": "Jaguares de Cord vs Aguilas D.",
                     "final_odds": "2.02",
                     "original_prediction": "Under2.5 (converted)",
-                    "score": "",
+                    "score": "1-1",
                     "team_zero_perc": "13.92",
                     "h2h_under_perc": "73.68",
                     "h2h_zero_perc": "5.26",
                     "composite_score": 19.18,
-                    "status": "🟠"
+                    "status": "✅"
                 },
                 {
                     "date": "2026-03-24",
@@ -1888,6 +1888,30 @@
                     "h2h_zero_perc": "0.00",
                     "composite_score": 9.09,
                     "status": "🟠"
+                },
+                {
+                    "date": "2026-03-25",
+                    "match": "Southend United vs Woking",
+                    "final_odds": "2.62",
+                    "original_prediction": "Under2.5 (converted)",
+                    "score": "",
+                    "team_zero_perc": "6.17",
+                    "h2h_under_perc": "66.67",
+                    "h2h_zero_perc": "22.22",
+                    "composite_score": 28.39,
+                    "status": "🟠"
+                },
+                {
+                    "date": "2026-03-25",
+                    "match": "Guarani CA vs 2 de Mayo PJC",
+                    "final_odds": "2.04",
+                    "original_prediction": "Under2.5 (converted)",
+                    "score": "",
+                    "team_zero_perc": "12.24",
+                    "h2h_under_perc": "62.50",
+                    "h2h_zero_perc": "12.50",
+                    "composite_score": 24.740000000000002,
+                    "status": "🟠"
                 }
             ],
             "single_stats": {
@@ -1897,8 +1921,8 @@
                 "message": "No valid 2-match combos in 2026-03."
             },
             "filtered_stats": {
-                "total_under_matches_in_month": 247,
-                "top2_selected": 44
+                "total_under_matches_in_month": 257,
+                "top2_selected": 46
             },
             "Date": "months"
         }
@@ -1916,7 +1940,7 @@
         },
         {
             "Date": "notable_analysis",
-            "value": "Total Under2.5 matches analyzed: 754"
+            "value": "Total Under2.5 matches analyzed: 764"
         }
     ],
     "selection_": [
