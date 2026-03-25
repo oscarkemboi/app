@@ -518,7 +518,7 @@
                     "match": "Isparta 32 Spor vs Soma Spor",
                     "final_odds": "3.40",
                     "original_prediction": "Under2.5 (converted)",
-                    "score": "",
+                    "score": "2-1",
                     "team_zero_perc": "14.55",
                     "h2h_under_perc": "100.00",
                     "h2h_zero_perc": "0.00",
@@ -560,6 +560,30 @@
                     "h2h_zero_perc": "12.50",
                     "composite_score": 24.740000000000002,
                     "status": "🟠"
+                },
+                {
+                    "date": "2026-03-26",
+                    "match": "Turkey vs Romania",
+                    "final_odds": "2.65",
+                    "original_prediction": "Under2.5 (converted)",
+                    "score": "",
+                    "team_zero_perc": "11.27",
+                    "h2h_under_perc": "100.00",
+                    "h2h_zero_perc": "0.00",
+                    "composite_score": 11.27,
+                    "status": "🟠"
+                },
+                {
+                    "date": "2026-03-26",
+                    "match": "Italy vs Northern Ireland",
+                    "final_odds": "2.39",
+                    "original_prediction": "Under2.5 (converted)",
+                    "score": "",
+                    "team_zero_perc": "9.09",
+                    "h2h_under_perc": "100.00",
+                    "h2h_zero_perc": "50.00",
+                    "composite_score": 59.09,
+                    "status": "🟠"
                 }
             ],
             "single_stats": {
@@ -569,8 +593,8 @@
                 "message": "No valid 2-match combos in 2026-03."
             },
             "filtered_stats": {
-                "total_under_matches_in_month": 257,
-                "top2_selected": 46
+                "total_under_matches_in_month": 267,
+                "top2_selected": 48
             },
             "Date": "months"
         }
@@ -588,7 +612,7 @@
         },
         {
             "Date": "notable_analysis",
-            "value": "Total Under2.5 matches analyzed: 764"
+            "value": "Total Under2.5 matches analyzed: 774"
         }
     ],
     "selection_": [
