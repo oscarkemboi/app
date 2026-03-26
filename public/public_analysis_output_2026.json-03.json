@@ -540,9 +540,9 @@
           "original_odds": "1.75",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "1-1",
           "h2h_under": "66.67%",
-          "status": "🟠",
+          "status": "✅",
           "was_converted": true
         },
         {
@@ -552,9 +552,9 @@
           "original_odds": "2.16",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "1-1",
           "h2h_under": "62.50%",
-          "status": "🟠",
+          "status": "✅",
           "was_converted": true
         },
         {
@@ -580,6 +580,30 @@
           "h2h_under": "100.00%",
           "status": "🟠",
           "was_converted": true
+        },
+        {
+          "date": "2026-03-27",
+          "match": "FC Rouen vs Caen",
+          "final_odds": "2.06",
+          "original_odds": "2.14",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-03-27",
+          "match": "Netherlands vs Norway",
+          "final_odds": "2.72",
+          "original_odds": "1.71",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -591,8 +615,8 @@
         "message": "No valid 2-match combos in 2026-03."
       },
       "filtered_stats": {
-        "total_matches_in_month": 242,
-        "matches_above_threshold": 48
+        "total_matches_in_month": 252,
+        "matches_above_threshold": 50
       }
     }
   ],
@@ -613,7 +637,7 @@
     "Daily Combo EV: 0.6503 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 712",
+    "Total matches analyzed: 722",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
