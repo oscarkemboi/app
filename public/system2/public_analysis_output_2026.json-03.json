@@ -542,24 +542,24 @@
                     "match": "Southend United vs Woking",
                     "final_odds": "2.62",
                     "original_prediction": "Under2.5 (converted)",
-                    "score": "",
+                    "score": "1-1",
                     "team_zero_perc": "6.17",
                     "h2h_under_perc": "66.67",
                     "h2h_zero_perc": "22.22",
                     "composite_score": 28.39,
-                    "status": "🟠"
+                    "status": "✅"
                 },
                 {
                     "date": "2026-03-25",
                     "match": "Guarani CA vs 2 de Mayo PJC",
                     "final_odds": "2.04",
                     "original_prediction": "Under2.5 (converted)",
-                    "score": "",
+                    "score": "1-1",
                     "team_zero_perc": "12.24",
                     "h2h_under_perc": "62.50",
                     "h2h_zero_perc": "12.50",
                     "composite_score": 24.740000000000002,
-                    "status": "🟠"
+                    "status": "✅"
                 },
                 {
                     "date": "2026-03-26",
@@ -584,6 +584,30 @@
                     "h2h_zero_perc": "50.00",
                     "composite_score": 59.09,
                     "status": "🟠"
+                },
+                {
+                    "date": "2026-03-27",
+                    "match": "Valenciennes vs Aubagne",
+                    "final_odds": "2.19",
+                    "original_prediction": "Under2.5 (converted)",
+                    "score": "",
+                    "team_zero_perc": "12.64",
+                    "h2h_under_perc": "66.67",
+                    "h2h_zero_perc": "0.00",
+                    "composite_score": 12.64,
+                    "status": "🟠"
+                },
+                {
+                    "date": "2026-03-27",
+                    "match": "FC Rouen vs Caen",
+                    "final_odds": "2.06",
+                    "original_prediction": "Under2.5 (converted)",
+                    "score": "",
+                    "team_zero_perc": "12.12",
+                    "h2h_under_perc": "100.00",
+                    "h2h_zero_perc": "0.00",
+                    "composite_score": 12.12,
+                    "status": "🟠"
                 }
             ],
             "single_stats": {
@@ -593,8 +617,8 @@
                 "message": "No valid 2-match combos in 2026-03."
             },
             "filtered_stats": {
-                "total_under_matches_in_month": 267,
-                "top2_selected": 48
+                "total_under_matches_in_month": 277,
+                "top2_selected": 50
             },
             "Date": "months"
         }
@@ -612,7 +636,7 @@
         },
         {
             "Date": "notable_analysis",
-            "value": "Total Under2.5 matches analyzed: 774"
+            "value": "Total Under2.5 matches analyzed: 784"
         }
     ],
     "selection_": [
