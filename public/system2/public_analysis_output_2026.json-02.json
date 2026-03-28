@@ -19,7 +19,8 @@
                     "h2h_under_perc": "75.00",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 16.2,
-                    "status": "✅"
+                    "status": "✅",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-01",
@@ -31,7 +32,8 @@
                     "h2h_under_perc": "100.00",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 20.0,
-                    "status": "✅"
+                    "status": "✅",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-02",
@@ -43,7 +45,8 @@
                     "h2h_under_perc": "100.00",
                     "h2h_zero_perc": "100.00",
                     "composite_score": 110.32,
-                    "status": "✅"
+                    "status": "✅",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-02",
@@ -55,7 +58,8 @@
                     "h2h_under_perc": "100.00",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 7.69,
-                    "status": "✅"
+                    "status": "✅",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-03",
@@ -80,7 +84,8 @@
                     "h2h_under_perc": "66.67",
                     "h2h_zero_perc": "11.11",
                     "composite_score": 23.88,
-                    "status": "✅"
+                    "status": "✅",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-04",
@@ -92,7 +97,8 @@
                     "h2h_under_perc": "62.50",
                     "h2h_zero_perc": "12.50",
                     "composite_score": 24.04,
-                    "status": "✅"
+                    "status": "✅",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-04",
@@ -104,7 +110,8 @@
                     "h2h_under_perc": "60.00",
                     "h2h_zero_perc": "20.00",
                     "composite_score": 34.9,
-                    "status": "🟠"
+                    "status": "🟠",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-05",
@@ -116,7 +123,8 @@
                     "h2h_under_perc": "50.00",
                     "h2h_zero_perc": "16.67",
                     "composite_score": 33.11,
-                    "status": "✅"
+                    "status": "✅",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-05",
@@ -128,7 +136,8 @@
                     "h2h_under_perc": "62.50",
                     "h2h_zero_perc": "25.00",
                     "composite_score": 39.71,
-                    "status": "✅"
+                    "status": "✅",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-06",
@@ -140,7 +149,8 @@
                     "h2h_under_perc": "100.00",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 12.24,
-                    "status": "✅"
+                    "status": "✅",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-06",
@@ -152,7 +162,8 @@
                     "h2h_under_perc": "100.00",
                     "h2h_zero_perc": "33.33",
                     "composite_score": 44.58,
-                    "status": "✅"
+                    "status": "✅",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-07",
@@ -164,7 +175,8 @@
                     "h2h_under_perc": "66.67",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 15.25,
-                    "status": "✅"
+                    "status": "✅",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-07",
@@ -188,7 +200,8 @@
                     "h2h_under_perc": "100.00",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 14.88,
-                    "status": "🟠"
+                    "status": "🟠",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-08",
@@ -212,7 +225,8 @@
                     "h2h_under_perc": "87.50",
                     "h2h_zero_perc": "25.00",
                     "composite_score": 38.11,
-                    "status": "✅"
+                    "status": "✅",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-09",
@@ -224,7 +238,8 @@
                     "h2h_under_perc": "66.67",
                     "h2h_zero_perc": "33.33",
                     "composite_score": 45.19,
-                    "status": "✅"
+                    "status": "✅",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-10",
@@ -236,7 +251,8 @@
                     "h2h_under_perc": "33.33",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 6.38,
-                    "status": "✅"
+                    "status": "✅",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-10",
@@ -248,7 +264,8 @@
                     "h2h_under_perc": "47.83",
                     "h2h_zero_perc": "13.04",
                     "composite_score": 20.14,
-                    "status": "✅"
+                    "status": "✅",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-11",
@@ -260,7 +277,8 @@
                     "h2h_under_perc": "54.55",
                     "h2h_zero_perc": "9.09",
                     "composite_score": 13.55,
-                    "status": "🟠"
+                    "status": "🟠",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-11",
@@ -272,7 +290,8 @@
                     "h2h_under_perc": "50.00",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 10.0,
-                    "status": "🟠"
+                    "status": "🟠",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-13",
@@ -296,7 +315,8 @@
                     "h2h_under_perc": "57.14",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 12.5,
-                    "status": "🟠"
+                    "status": "🟠",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-14",
@@ -308,7 +328,8 @@
                     "h2h_under_perc": "75.00",
                     "h2h_zero_perc": "25.00",
                     "composite_score": 40.85,
-                    "status": "🟠"
+                    "status": "🟠",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-14",
@@ -320,7 +341,8 @@
                     "h2h_under_perc": "100.00",
                     "h2h_zero_perc": "100.00",
                     "composite_score": 115.09,
-                    "status": "🟠"
+                    "status": "🟠",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-15",
@@ -332,7 +354,8 @@
                     "h2h_under_perc": "66.67",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 15.25,
-                    "status": "✅"
+                    "status": "✅",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-15",
@@ -344,7 +367,8 @@
                     "h2h_under_perc": "71.43",
                     "h2h_zero_perc": "28.57",
                     "composite_score": 41.65,
-                    "status": "✅"
+                    "status": "✅",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-16",
@@ -356,7 +380,8 @@
                     "h2h_under_perc": "71.43",
                     "h2h_zero_perc": "7.14",
                     "composite_score": 17.32,
-                    "status": "✅"
+                    "status": "✅",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-16",
@@ -368,7 +393,8 @@
                     "h2h_under_perc": "64.71",
                     "h2h_zero_perc": "11.76",
                     "composite_score": 24.439999999999998,
-                    "status": "🟠"
+                    "status": "🟠",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-17",
@@ -380,7 +406,8 @@
                     "h2h_under_perc": "75.00",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 9.73,
-                    "status": "✅"
+                    "status": "✅",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-17",
@@ -392,7 +419,8 @@
                     "h2h_under_perc": "66.67",
                     "h2h_zero_perc": "16.67",
                     "composite_score": 30.11,
-                    "status": "✅"
+                    "status": "✅",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-18",
@@ -429,7 +457,8 @@
                     "h2h_under_perc": "50.00",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 15.0,
-                    "status": "✅"
+                    "status": "✅",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-19",
@@ -441,7 +470,8 @@
                     "h2h_under_perc": "100.00",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 16.67,
-                    "status": "🟠"
+                    "status": "🟠",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-20",
@@ -453,7 +483,8 @@
                     "h2h_under_perc": "75.00",
                     "h2h_zero_perc": "25.00",
                     "composite_score": 40.64,
-                    "status": "🟠"
+                    "status": "🟠",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-20",
@@ -465,7 +496,8 @@
                     "h2h_under_perc": "60.00",
                     "h2h_zero_perc": "20.00",
                     "composite_score": 46.68,
-                    "status": "✅"
+                    "status": "✅",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-21",
@@ -477,7 +509,8 @@
                     "h2h_under_perc": "100.00",
                     "h2h_zero_perc": "50.00",
                     "composite_score": 73.92,
-                    "status": "✅"
+                    "status": "✅",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-21",
@@ -489,7 +522,8 @@
                     "h2h_under_perc": "100.00",
                     "h2h_zero_perc": "100.00",
                     "composite_score": 112.7,
-                    "status": "🟠"
+                    "status": "🟠",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-22",
@@ -501,7 +535,8 @@
                     "h2h_under_perc": "100.00",
                     "h2h_zero_perc": "33.33",
                     "composite_score": 44.44,
-                    "status": "✅"
+                    "status": "✅",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-22",
@@ -526,7 +561,8 @@
                     "h2h_under_perc": "100.00",
                     "h2h_zero_perc": "100.00",
                     "composite_score": 111.69,
-                    "status": "🟠"
+                    "status": "🟠",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-23",
@@ -538,7 +574,8 @@
                     "h2h_under_perc": "100.00",
                     "h2h_zero_perc": "100.00",
                     "composite_score": 109.4,
-                    "status": "✅"
+                    "status": "✅",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-24",
@@ -550,7 +587,8 @@
                     "h2h_under_perc": "100.00",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 9.86,
-                    "status": "🟠"
+                    "status": "🟠",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-24",
@@ -562,7 +600,8 @@
                     "h2h_under_perc": "61.11",
                     "h2h_zero_perc": "11.11",
                     "composite_score": 20.41,
-                    "status": "✅"
+                    "status": "✅",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-25",
@@ -574,7 +613,8 @@
                     "h2h_under_perc": "50.00",
                     "h2h_zero_perc": "25.00",
                     "composite_score": 37.24,
-                    "status": "🟠"
+                    "status": "🟠",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-25",
@@ -586,7 +626,8 @@
                     "h2h_under_perc": "50.00",
                     "h2h_zero_perc": "11.11",
                     "composite_score": 22.65,
-                    "status": "✅"
+                    "status": "✅",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-26",
@@ -598,7 +639,8 @@
                     "h2h_under_perc": "100.00",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 9.41,
-                    "status": "🟠"
+                    "status": "🟠",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-26",
@@ -623,7 +665,8 @@
                     "h2h_under_perc": "55.56",
                     "h2h_zero_perc": "16.67",
                     "composite_score": 28.300000000000004,
-                    "status": "🟠"
+                    "status": "🟠",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-27",
@@ -635,7 +678,8 @@
                     "h2h_under_perc": "66.67",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 16.2,
-                    "status": "✅"
+                    "status": "✅",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-28",
@@ -647,7 +691,8 @@
                     "h2h_under_perc": "66.67",
                     "h2h_zero_perc": "0.00",
                     "composite_score": 17.14,
-                    "status": "✅"
+                    "status": "✅",
+                    "score_source": "bettingclosed"
                 },
                 {
                     "date": "2026-02-28",
@@ -659,7 +704,8 @@
                     "h2h_under_perc": "60.00",
                     "h2h_zero_perc": "20.00",
                     "composite_score": 32.78,
-                    "status": "🟠"
+                    "status": "🟠",
+                    "score_source": "bettingclosed"
                 }
             ],
             "single_stats": {
@@ -688,7 +734,7 @@
         },
         {
             "Date": "notable_analysis",
-            "value": "Total Under2.5 matches analyzed: 784"
+            "value": "Total Under2.5 matches analyzed: 804"
         }
     ],
     "selection_": [
