@@ -1880,6 +1880,69 @@
         "total_matches_in_month": 282,
         "matches_above_threshold": 54
       }
+    },
+    {
+      "month": "2026-04",
+      "matches": [
+        {
+          "date": "2026-04-01",
+          "match": "Horsholm-Usserod vs Bronshoj",
+          "final_odds": "4.50",
+          "original_odds": "1.37",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-04-01",
+          "match": "HIK Hellerup vs Ishoj IF",
+          "final_odds": "2.62",
+          "original_odds": "1.75",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "80.00%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-04-02",
+          "match": "Brabrand vs Elite 3000 Helsi",
+          "final_odds": "2.48",
+          "original_odds": "1.82",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-04-02",
+          "match": "Wigan Athletic vs Leyton Orient",
+          "final_odds": "2.10",
+          "original_odds": "2.10",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
+          "was_converted": true
+        }
+      ],
+      "single_stats": {
+        "message": "No matches with valid scores in 2026-04."
+      },
+      "combo_stats": {
+        "message": "No valid 2-match combos in 2026-04."
+      },
+      "filtered_stats": {
+        "total_matches_in_month": 20,
+        "matches_above_threshold": 4
+      }
     }
   ],
   "yearly_stats": {
@@ -1899,7 +1962,7 @@
     "Daily Combo EV: 0.6503 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 752",
+    "Total matches analyzed: 772",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
