@@ -12,11 +12,10 @@
           "original_odds": "1.74",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "2-2",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-01",
@@ -25,11 +24,10 @@
           "original_odds": "1.81",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "0-0",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-02",
@@ -38,11 +36,10 @@
           "original_odds": "2.19",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "1-0",
+          "score": "",
           "h2h_under": "69.23%",
-          "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-02",
@@ -51,11 +48,10 @@
           "original_odds": "1.90",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "0-1",
+          "score": "",
           "h2h_under": "72.22%",
-          "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-03",
@@ -64,11 +60,10 @@
           "original_odds": "1.52",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "2-2",
+          "score": "",
           "h2h_under": "75.00%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-03",
@@ -77,11 +72,10 @@
           "original_odds": "2.06",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "3-0",
+          "score": "",
           "h2h_under": "57.14%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-04",
@@ -90,11 +84,10 @@
           "original_odds": "2.09",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "5-0",
+          "score": "",
           "h2h_under": "83.33%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-04",
@@ -103,11 +96,10 @@
           "original_odds": "2.34",
           "original_prediction": "Under2.5",
           "final_prediction": "Under2.5",
-          "score": "1-0",
+          "score": "",
           "h2h_under": "50.00%",
-          "status": "✅",
-          "was_converted": false,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": false
         },
         {
           "date": "2026-03-05",
@@ -116,11 +108,10 @@
           "original_odds": "1.44",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "2-1",
+          "score": "",
           "h2h_under": "39.29%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-05",
@@ -129,11 +120,10 @@
           "original_odds": "1.92",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "3-1",
+          "score": "",
           "h2h_under": "60.00%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-06",
@@ -142,11 +132,10 @@
           "original_odds": "1.66",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "2-1",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-06",
@@ -155,11 +144,10 @@
           "original_odds": "1.63",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "3-1",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-07",
@@ -168,11 +156,10 @@
           "original_odds": "2.10",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "1-0",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-07",
@@ -181,11 +168,10 @@
           "original_odds": "2.08",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "1-0",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-08",
@@ -194,11 +180,10 @@
           "original_odds": "1.79",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "2-0",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-08",
@@ -207,11 +192,10 @@
           "original_odds": "1.77",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "2-1",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-09",
@@ -220,11 +204,10 @@
           "original_odds": "1.74",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "2-2",
+          "score": "",
           "h2h_under": "66.67%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-09",
@@ -233,11 +216,10 @@
           "original_odds": "1.97",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "2-0",
+          "score": "",
           "h2h_under": "83.33%",
-          "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-10",
@@ -246,11 +228,10 @@
           "original_odds": "1.68",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "3-0",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-10",
@@ -259,11 +240,10 @@
           "original_odds": "1.48",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "1-0",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-11",
@@ -272,11 +252,10 @@
           "original_odds": "1.99",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "3-1",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-11",
@@ -285,11 +264,10 @@
           "original_odds": "1.97",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "4-1",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-12",
@@ -298,11 +276,10 @@
           "original_odds": "1.69",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "1-1",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-12",
@@ -311,11 +288,10 @@
           "original_odds": "2.00",
           "original_prediction": "Under2.5",
           "final_prediction": "Under2.5",
-          "score": "1-3",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": false,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": false
         },
         {
           "date": "2026-03-13",
@@ -324,11 +300,10 @@
           "original_odds": "2.21",
           "original_prediction": "Under2.5",
           "final_prediction": "Under2.5",
-          "score": "1-2",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": false,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": false
         },
         {
           "date": "2026-03-13",
@@ -337,11 +312,10 @@
           "original_odds": "1.97",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "0-1",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-14",
@@ -350,11 +324,10 @@
           "original_odds": "1.75",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "3-0",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-14",
@@ -363,11 +336,10 @@
           "original_odds": "2.05",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "3-2",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-15",
@@ -376,11 +348,10 @@
           "original_odds": "2.17",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "2-1",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-15",
@@ -389,11 +360,10 @@
           "original_odds": "1.76",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "2-3",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-17",
@@ -402,11 +372,10 @@
           "original_odds": "1.58",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "3-0",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-17",
@@ -415,11 +384,10 @@
           "original_odds": "1.95",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "1-0",
+          "score": "",
           "h2h_under": "81.82%",
-          "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-18",
@@ -428,11 +396,10 @@
           "original_odds": "1.71",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "0-1",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-18",
@@ -441,11 +408,10 @@
           "original_odds": "1.30",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "4-0",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-19",
@@ -466,11 +432,10 @@
           "original_odds": "2.15",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "0-2",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-20",
@@ -479,11 +444,10 @@
           "original_odds": "2.12",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "1-4",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-20",
@@ -492,11 +456,10 @@
           "original_odds": "2.00",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "0-4",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-21",
@@ -505,11 +468,10 @@
           "original_odds": "1.92",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "0-2",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-21",
@@ -518,11 +480,10 @@
           "original_odds": "1.98",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "4-0",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-23",
@@ -531,11 +492,10 @@
           "original_odds": "2.02",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "2-1",
+          "score": "",
           "h2h_under": "73.33%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-23",
@@ -544,11 +504,10 @@
           "original_odds": "2.19",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "1-1",
+          "score": "",
           "h2h_under": "73.68%",
-          "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-24",
@@ -557,11 +516,10 @@
           "original_odds": "1.52",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "2-1",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-24",
@@ -572,7 +530,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
+          "status": "",
           "was_converted": true
         },
         {
@@ -582,11 +540,10 @@
           "original_odds": "1.75",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "1-1",
+          "score": "",
           "h2h_under": "66.67%",
-          "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-25",
@@ -595,11 +552,10 @@
           "original_odds": "2.16",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "1-1",
+          "score": "",
           "h2h_under": "62.50%",
-          "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-26",
@@ -608,11 +564,10 @@
           "original_odds": "1.74",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "1-0",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-26",
@@ -621,11 +576,10 @@
           "original_odds": "1.87",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "2-0",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-27",
@@ -634,11 +588,10 @@
           "original_odds": "2.14",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "1-1",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-27",
@@ -647,11 +600,10 @@
           "original_odds": "1.71",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "2-1",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-28",
@@ -660,11 +612,10 @@
           "original_odds": "1.60",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "1-2",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-28",
@@ -673,11 +624,10 @@
           "original_odds": "2.15",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "1-0",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-03-30",
@@ -686,11 +636,10 @@
           "original_odds": "2.08",
           "original_prediction": "Under2.5",
           "final_prediction": "Under2.5",
-          "score": "1-1",
+          "score": "",
           "h2h_under": "50.00%",
-          "status": "✅",
-          "was_converted": false,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": false
         },
         {
           "date": "2026-03-30",
@@ -699,11 +648,10 @@
           "original_odds": "2.09",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "2-1",
+          "score": "",
           "h2h_under": "44.83%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         }
       ],
       "single_stats": {
