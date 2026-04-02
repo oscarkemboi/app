@@ -9,24 +9,24 @@
           "match": "Ancona vs Teramo",
           "final_odds": "2.01",
           "original_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "0-1",
           "team_zero_perc": "14.21",
           "h2h_under_perc": "70.00",
           "h2h_zero_perc": "10.00",
           "composite_score": 24.21,
-          "status": ""
+          "status": "✅"
         },
         {
           "date": "2026-04-02",
           "match": "Ancona vs Teramo",
           "final_odds": "2.01",
           "original_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "0-1",
           "team_zero_perc": "14.21",
           "h2h_under_perc": "70.00",
           "h2h_zero_perc": "10.00",
           "composite_score": 24.21,
-          "status": ""
+          "status": "✅"
         },
         {
           "date": "2026-04-03",
@@ -38,7 +38,7 @@
           "h2h_under_perc": "80.00",
           "h2h_zero_perc": "20.00",
           "composite_score": 32.0,
-          "status": ""
+          "status": "🟠"
         },
         {
           "date": "2026-04-03",
@@ -50,7 +50,7 @@
           "h2h_under_perc": "66.67",
           "h2h_zero_perc": "11.11",
           "composite_score": 24.1,
-          "status": ""
+          "status": "🟠"
         }
       ],
       "single_stats": {
