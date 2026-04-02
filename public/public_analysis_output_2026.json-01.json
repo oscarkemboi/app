@@ -415,18 +415,6 @@
         },
         {
           "date": "2026-01-24",
-          "match": "Cambridge United vs Tranmere Rove..",
-          "final_odds": "2.09",
-          "original_odds": "2.11",
-          "original_prediction": "Over2.5",
-          "final_prediction": "Under2.5 (converted)",
-          "score": "",
-          "h2h_under": "100.00%",
-          "status": "",
-          "was_converted": true
-        },
-        {
-          "date": "2026-01-24",
           "match": "Bromley vs Swindon Town",
           "final_odds": "2.39",
           "original_odds": "1.87",
@@ -435,6 +423,18 @@
           "score": "2-1",
           "h2h_under": "100.00%",
           "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-01-24",
+          "match": "Cambridge United vs Tranmere Rove..",
+          "final_odds": "2.09",
+          "original_odds": "2.11",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
           "was_converted": true
         },
         {
@@ -564,19 +564,19 @@
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "49.06%",
-      "under_2.5_count": "26/53",
-      "average_odds": "2.57"
+      "under_2.5_percentage": "49.09%",
+      "under_2.5_count": "27/55",
+      "average_odds": "2.56"
     },
     "combo_stats": {
-      "combo_under_2.5_percentage": "23.81%",
-      "combo_under_2.5_count": "5/21",
-      "average_combo_odds": "6.93"
+      "combo_under_2.5_percentage": "27.27%",
+      "combo_under_2.5_count": "6/22",
+      "average_combo_odds": "6.91"
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.2599 (💰 POSITIVE (potentially profitable))",
-    "Daily Combo EV: 0.6503 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: 0.2588 (💰 POSITIVE (potentially profitable))",
+    "Daily Combo EV: 0.8854 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
     "Total matches analyzed: 782",
