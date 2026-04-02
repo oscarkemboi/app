@@ -2013,12 +2013,75 @@
         "total_under_matches_in_month": 297,
         "top2_selected": 54
       }
+    },
+    {
+      "month": "2026-04",
+      "matches": [
+        {
+          "date": "2026-04-02",
+          "match": "Ancona vs Teramo",
+          "final_odds": "2.01",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "14.21",
+          "h2h_under_perc": "70.00",
+          "h2h_zero_perc": "10.00",
+          "composite_score": 24.21,
+          "status": ""
+        },
+        {
+          "date": "2026-04-02",
+          "match": "Ancona vs Teramo",
+          "final_odds": "2.01",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "14.21",
+          "h2h_under_perc": "70.00",
+          "h2h_zero_perc": "10.00",
+          "composite_score": 24.21,
+          "status": ""
+        },
+        {
+          "date": "2026-04-03",
+          "match": "Cambrian Clydach vs Baglan Dragon..",
+          "final_odds": "5.84",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "12.00",
+          "h2h_under_perc": "80.00",
+          "h2h_zero_perc": "20.00",
+          "composite_score": 32.0,
+          "status": ""
+        },
+        {
+          "date": "2026-04-03",
+          "match": "Cienciano vs ADT Tarma",
+          "final_odds": "2.01",
+          "original_prediction": "Under2.5",
+          "score": "",
+          "team_zero_perc": "12.99",
+          "h2h_under_perc": "66.67",
+          "h2h_zero_perc": "11.11",
+          "composite_score": 24.1,
+          "status": ""
+        }
+      ],
+      "single_stats": {
+        "message": "No matches with valid scores in 2026-04."
+      },
+      "combo_stats": {
+        "message": "No valid 2-match combos in 2026-04."
+      },
+      "filtered_stats": {
+        "total_under_matches_in_month": 30,
+        "top2_selected": 4
+      }
     }
   ],
   "yearly_stats": {},
   "notable_analysis": [
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
-    "Total Under2.5 matches analyzed: 804"
+    "Total Under2.5 matches analyzed: 834"
   ],
   "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0 (Over2.5 converted)"
 }
