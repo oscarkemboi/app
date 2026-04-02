@@ -12,11 +12,10 @@
           "original_odds": "1.37",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "3-0",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-04-01",
@@ -25,11 +24,10 @@
           "original_odds": "1.75",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "2-1",
+          "score": "",
           "h2h_under": "80.00%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-04-02",
@@ -38,11 +36,10 @@
           "original_odds": "1.82",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "4-1",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-04-02",
@@ -53,7 +50,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
+          "status": "",
           "was_converted": true
         },
         {
@@ -65,7 +62,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
+          "status": "",
           "was_converted": true
         },
         {
@@ -77,7 +74,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
+          "status": "",
           "was_converted": true
         }
       ],
