@@ -689,8 +689,21 @@
       }
     }
   ],
-  "yearly_stats": {},
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "33.33%",
+      "under_2.5_count": "1/3",
+      "average_odds": "2.46"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "0.00%",
+      "combo_under_2.5_count": "0/1",
+      "average_combo_odds": "5.44"
+    }
+  },
   "notable_analysis": [
+    "Single Match EV: -0.1794 (📉 NEGATIVE)",
+    "Daily Combo EV: -1.0000 (📉 NEGATIVE)",
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
     "Total Under2.5 matches analyzed: 834"
   ],
