@@ -1,10 +1,5 @@
 {
-  "year": [
-    {
-      "Date": "year",
-      "value": 2026
-    }
-  ],
+  "year": 2026,
   "months": [
     {
       "month": "2026-03",
@@ -14,26 +9,24 @@
           "match": "Cambrian Clydach vs Trethomas Blu..",
           "final_odds": "2.52",
           "original_prediction": "Under2.5",
-          "score": "4-2",
+          "score": "",
           "team_zero_perc": "12.50",
           "h2h_under_perc": "66.67",
           "h2h_zero_perc": "33.33",
           "composite_score": 45.83,
-          "status": "🟠",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-01",
           "match": "Mantova vs Carrarese",
           "final_odds": "2.22",
           "original_prediction": "Under2.5 (converted)",
-          "score": "1-1",
+          "score": "",
           "team_zero_perc": "12.13",
           "h2h_under_perc": "66.67",
           "h2h_zero_perc": "33.33",
           "composite_score": 45.46,
-          "status": "✅",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-02",
@@ -45,527 +38,487 @@
           "h2h_under_perc": "60.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 9.77,
-          "status": "🟠"
+          "status": ""
         },
         {
           "date": "2026-03-02",
           "match": "Real Madrid vs Getafe",
           "final_odds": "2.35",
           "original_prediction": "Under2.5 (converted)",
-          "score": "0-1",
+          "score": "",
           "team_zero_perc": "10.19",
           "h2h_under_perc": "72.22",
           "h2h_zero_perc": "11.11",
           "composite_score": 21.299999999999997,
-          "status": "✅",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-03",
           "match": "Chesterfield vs Colchester Unite",
           "final_odds": "2.14",
           "original_prediction": "Under2.5 (converted)",
-          "score": "3-0",
+          "score": "",
           "team_zero_perc": "9.84",
           "h2h_under_perc": "57.14",
           "h2h_zero_perc": "14.29",
           "composite_score": 24.13,
-          "status": "🟠",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-03",
           "match": "Bromley vs Oldham Athletic",
           "final_odds": "2.19",
           "original_prediction": "Under2.5 (converted)",
-          "score": "0-0",
+          "score": "",
           "team_zero_perc": "11.92",
           "h2h_under_perc": "50.00",
           "h2h_zero_perc": "16.67",
           "composite_score": 28.590000000000003,
-          "status": "✅",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-04",
           "match": "SC Sagamihara vs Thespa Kusatsu",
           "final_odds": "2.11",
           "original_prediction": "Under2.5 (converted)",
-          "score": "5-0",
+          "score": "",
           "team_zero_perc": "10.14",
           "h2h_under_perc": "83.33",
           "h2h_zero_perc": "16.67",
           "composite_score": 26.810000000000002,
-          "status": "🟠",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-04",
           "match": "Gateshead vs Braintree Town",
           "final_odds": "2.34",
           "original_prediction": "Under2.5",
-          "score": "1-0",
+          "score": "",
           "team_zero_perc": "6.69",
           "h2h_under_perc": "50.00",
           "h2h_zero_perc": "10.00",
           "composite_score": 16.69,
-          "status": "✅",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-05",
           "match": "NK Aluminij vs NK Publikum Celj",
           "final_odds": "3.88",
           "original_prediction": "Under2.5 (converted)",
-          "score": "2-1",
+          "score": "",
           "team_zero_perc": "8.72",
           "h2h_under_perc": "39.29",
           "h2h_zero_perc": "14.29",
           "composite_score": 23.009999999999998,
-          "status": "🟠",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-05",
           "match": "Radomiak Radom vs Arka Gdynia",
           "final_odds": "2.32",
           "original_prediction": "Under2.5 (converted)",
-          "score": "3-1",
+          "score": "",
           "team_zero_perc": "7.91",
           "h2h_under_perc": "60.00",
           "h2h_zero_perc": "20.00",
           "composite_score": 27.91,
-          "status": "🟠",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-06",
           "match": "Bourg Peronnas vs FC Rouen",
           "final_odds": "2.03",
           "original_prediction": "Under2.5 (converted)",
-          "score": "3-1",
+          "score": "",
           "team_zero_perc": "11.76",
           "h2h_under_perc": "66.67",
           "h2h_zero_perc": "0.00",
           "composite_score": 11.76,
-          "status": "🟠",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-06",
           "match": "Tapatio vs Cancun",
           "final_odds": "2.48",
           "original_prediction": "Under2.5 (converted)",
-          "score": "1-2",
+          "score": "",
           "team_zero_perc": "11.76",
           "h2h_under_perc": "90.00",
           "h2h_zero_perc": "10.00",
           "composite_score": 21.759999999999998,
-          "status": "🟠",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-07",
           "match": "Al-Ettifaq vs Al-Shabab(KSA)",
           "final_odds": "2.83",
           "original_prediction": "Under2.5 (converted)",
-          "score": "1-1",
+          "score": "",
           "team_zero_perc": "18.75",
           "h2h_under_perc": "100.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 18.75,
-          "status": "✅",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-07",
           "match": "RSC Anderlecht I vs Patro Eisden",
           "final_odds": "2.04",
           "original_prediction": "Under2.5",
-          "score": "0-0",
+          "score": "",
           "team_zero_perc": "16.44",
           "h2h_under_perc": "100.00",
           "h2h_zero_perc": "50.00",
           "composite_score": 66.44,
-          "status": "✅",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-08",
           "match": "Irapuato vs Alebrijes Oaxaca",
           "final_odds": "2.01",
           "original_prediction": "Under2.5 (converted)",
-          "score": "6-2",
+          "score": "",
           "team_zero_perc": "17.86",
           "h2h_under_perc": "100.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 17.86,
-          "status": "🟠",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-08",
           "match": "Maritimo vs Porto B",
           "final_odds": "2.58",
           "original_prediction": "Under2.5 (converted)",
-          "score": "2-1",
+          "score": "",
           "team_zero_perc": "13.19",
           "h2h_under_perc": "100.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 13.19,
-          "status": "🟠",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-09",
           "match": "CFR Cluj vs Dinamo Bucuresti",
           "final_odds": "2.06",
           "original_prediction": "Under2.5 (converted)",
-          "score": "2-0",
+          "score": "",
           "team_zero_perc": "10.00",
           "h2h_under_perc": "57.14",
           "h2h_zero_perc": "9.52",
           "composite_score": 19.52,
-          "status": "✅",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-09",
           "match": "Millonarios vs Cucuta",
           "final_odds": "2.25",
           "original_prediction": "Under2.5 (converted)",
-          "score": "2-0",
+          "score": "",
           "team_zero_perc": "11.66",
           "h2h_under_perc": "83.33",
           "h2h_zero_perc": "0.00",
           "composite_score": 11.66,
-          "status": "✅",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-10",
           "match": "Floridsdorfer AC vs Schwarz-Weiß ..",
           "final_odds": "2.38",
           "original_prediction": "Under2.5 (converted)",
-          "score": "2-0",
+          "score": "",
           "team_zero_perc": "9.76",
           "h2h_under_perc": "80.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 9.76,
-          "status": "✅",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-10",
           "match": "Fleetwood Town vs Cheltenham Town",
           "final_odds": "2.35",
           "original_prediction": "Under2.5 (converted)",
-          "score": "2-2",
+          "score": "",
           "team_zero_perc": "10.11",
           "h2h_under_perc": "80.00",
           "h2h_zero_perc": "10.00",
           "composite_score": 20.11,
-          "status": "🟠",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-11",
           "match": "Istanbulspor vs Amedspor",
           "final_odds": "3.17",
           "original_prediction": "Under2.5 (converted)",
-          "score": "0-4",
+          "score": "",
           "team_zero_perc": "14.52",
           "h2h_under_perc": "100.00",
           "h2h_zero_perc": "33.33",
           "composite_score": 47.849999999999994,
-          "status": "🟠",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-11",
           "match": "Gent B vs Lommel SK",
           "final_odds": "2.86",
           "original_prediction": "Under2.5 (converted)",
-          "score": "2-2",
+          "score": "",
           "team_zero_perc": "14.29",
           "h2h_under_perc": "100.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 14.29,
-          "status": "🟠",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-12",
           "match": "Lech Poznan vs FC Shakhtar Done",
           "final_odds": "2.00",
           "original_prediction": "Under2.5",
-          "score": "1-3",
+          "score": "",
           "team_zero_perc": "8.39",
           "h2h_under_perc": "100.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 8.39,
-          "status": "🟠",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-12",
           "match": "Crystal Palace vs AEK Larnaca",
           "final_odds": "2.80",
           "original_prediction": "Under2.5 (converted)",
-          "score": "0-0",
+          "score": "",
           "team_zero_perc": "10.65",
           "h2h_under_perc": "100.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 10.65,
-          "status": "✅",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-13",
           "match": "Wisla Krakow vs Miedz Legnica",
           "final_odds": "3.02",
           "original_prediction": "Under2.5 (converted)",
-          "score": "3-2",
+          "score": "",
           "team_zero_perc": "12.63",
           "h2h_under_perc": "62.50",
           "h2h_zero_perc": "0.00",
           "composite_score": 12.63,
-          "status": "🟠",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-13",
           "match": "Sligo Rovers vs Shamrock Rovers",
           "final_odds": "2.32",
           "original_prediction": "Under2.5 (converted)",
-          "score": "0-2",
+          "score": "",
           "team_zero_perc": "10.94",
           "h2h_under_perc": "53.12",
           "h2h_zero_perc": "12.50",
           "composite_score": 23.439999999999998,
-          "status": "✅",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-14",
           "match": "Vozdovac vs Zemun",
           "final_odds": "2.07",
           "original_prediction": "Under2.5 (converted)",
-          "score": "1-0",
+          "score": "",
           "team_zero_perc": "13.37",
           "h2h_under_perc": "11.11",
           "h2h_zero_perc": "11.11",
           "composite_score": 24.479999999999997,
-          "status": "✅",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-14",
           "match": "Columbus Crew vs Nashville SC",
           "final_odds": "3.50",
           "original_prediction": "Under2.5 (converted)",
-          "score": "0-1",
+          "score": "",
           "team_zero_perc": "13.25",
           "h2h_under_perc": "58.33",
           "h2h_zero_perc": "16.67",
           "composite_score": 29.92,
-          "status": "✅",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-15",
           "match": "Kanchanaburi vs Sukhothai",
           "final_odds": "2.60",
           "original_prediction": "Under2.5 (converted)",
-          "score": "1-0",
+          "score": "",
           "team_zero_perc": "20.00",
           "h2h_under_perc": "100.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 20.0,
-          "status": "✅",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-15",
           "match": "Fafe vs AD Marco 09",
           "final_odds": "2.14",
           "original_prediction": "Under2.5 (converted)",
-          "score": "1-1",
+          "score": "",
           "team_zero_perc": "26.67",
           "h2h_under_perc": "100.00",
           "h2h_zero_perc": "50.00",
           "composite_score": 76.67,
-          "status": "✅",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-17",
           "match": "Petrojet vs Pyramids",
           "final_odds": "2.05",
           "original_prediction": "Under2.5 (converted)",
-          "score": "0-2",
+          "score": "",
           "team_zero_perc": "15.19",
           "h2h_under_perc": "80.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 15.19,
-          "status": "✅",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-17",
           "match": "Petrojet vs Pyramids",
           "final_odds": "2.05",
           "original_prediction": "Under2.5 (converted)",
-          "score": "0-2",
+          "score": "",
           "team_zero_perc": "15.19",
           "h2h_under_perc": "80.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 15.19,
-          "status": "✅",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-18",
           "match": "Pogradeci vs Iliria Kruja",
           "final_odds": "2.00",
           "original_prediction": "Under2.5",
-          "score": "3-0",
+          "score": "",
           "team_zero_perc": "20.00",
           "h2h_under_perc": "75.00",
           "h2h_zero_perc": "75.00",
           "composite_score": 95.0,
-          "status": "🟠",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-18",
           "match": "Agua Santa vs Votuporanguense",
           "final_odds": "2.10",
           "original_prediction": "Under2.5 (converted)",
-          "score": "0-0",
+          "score": "",
           "team_zero_perc": "18.52",
           "h2h_under_perc": "100.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 18.52,
-          "status": "✅",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-19",
           "match": "Real Betis vs Panathinaikos",
           "final_odds": "2.38",
           "original_prediction": "Under2.5 (converted)",
-          "score": "4-0",
+          "score": "",
           "team_zero_perc": "10.59",
           "h2h_under_perc": "100.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 10.59,
-          "status": "🟠",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-19",
           "match": "Real Betis vs Panathinaikos",
           "final_odds": "2.38",
           "original_prediction": "Under2.5 (converted)",
-          "score": "4-0",
+          "score": "",
           "team_zero_perc": "10.59",
           "h2h_under_perc": "100.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 10.59,
-          "status": "🟠",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-20",
           "match": "Aubagne vs Sochaux",
           "final_odds": "2.08",
           "original_prediction": "Under2.5 (converted)",
-          "score": "1-4",
+          "score": "",
           "team_zero_perc": "12.06",
           "h2h_under_perc": "100.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 12.06,
-          "status": "🟠",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-20",
           "match": "Amiens vs Le Mans",
           "final_odds": "2.22",
           "original_prediction": "Under2.5 (converted)",
-          "score": "3-4",
+          "score": "",
           "team_zero_perc": "13.83",
           "h2h_under_perc": "100.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 13.83,
-          "status": "🟠",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-21",
           "match": "Union Brescia vs Ospitaletto",
           "final_odds": "2.26",
           "original_prediction": "Under2.5 (converted)",
-          "score": "0-0",
+          "score": "",
           "team_zero_perc": "18.18",
           "h2h_under_perc": "100.00",
           "h2h_zero_perc": "100.00",
           "composite_score": 118.18,
-          "status": "✅",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-21",
           "match": "Real Union Irun vs CA River Ebro",
           "final_odds": "2.24",
           "original_prediction": "Under2.5 (converted)",
-          "score": "4-0",
+          "score": "",
           "team_zero_perc": "16.43",
           "h2h_under_perc": "100.00",
           "h2h_zero_perc": "50.00",
           "composite_score": 66.43,
-          "status": "🟠",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-23",
           "match": "Real Cartagena vs Union Magdalena",
           "final_odds": "2.19",
           "original_prediction": "Under2.5 (converted)",
-          "score": "2-1",
+          "score": "",
           "team_zero_perc": "8.13",
           "h2h_under_perc": "73.33",
           "h2h_zero_perc": "13.33",
           "composite_score": 21.46,
-          "status": "🟠",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-23",
           "match": "Jaguares de Cord vs Aguilas D.",
           "final_odds": "2.02",
           "original_prediction": "Under2.5 (converted)",
-          "score": "1-1",
+          "score": "",
           "team_zero_perc": "13.92",
           "h2h_under_perc": "73.68",
           "h2h_zero_perc": "5.26",
           "composite_score": 19.18,
-          "status": "✅",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-24",
           "match": "Isparta 32 Spor vs Soma Spor",
           "final_odds": "3.40",
           "original_prediction": "Under2.5 (converted)",
-          "score": "2-1",
+          "score": "",
           "team_zero_perc": "14.55",
           "h2h_under_perc": "100.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 14.55,
-          "status": "🟠",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-24",
@@ -577,133 +530,127 @@
           "h2h_under_perc": "100.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 9.09,
-          "status": "🟠"
+          "status": ""
         },
         {
           "date": "2026-03-25",
           "match": "Southend United vs Woking",
           "final_odds": "2.62",
           "original_prediction": "Under2.5 (converted)",
-          "score": "1-1",
+          "score": "",
           "team_zero_perc": "6.17",
           "h2h_under_perc": "66.67",
           "h2h_zero_perc": "22.22",
           "composite_score": 28.39,
-          "status": "✅",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-25",
           "match": "Guarani CA vs 2 de Mayo PJC",
           "final_odds": "2.04",
           "original_prediction": "Under2.5 (converted)",
-          "score": "1-1",
+          "score": "",
           "team_zero_perc": "12.24",
           "h2h_under_perc": "62.50",
           "h2h_zero_perc": "12.50",
           "composite_score": 24.740000000000002,
-          "status": "✅",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-26",
           "match": "Turkey vs Romania",
           "final_odds": "2.65",
           "original_prediction": "Under2.5 (converted)",
-          "score": "1-0",
+          "score": "",
           "team_zero_perc": "11.27",
           "h2h_under_perc": "100.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 11.27,
-          "status": "✅",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-26",
           "match": "Italy vs Northern Ireland",
           "final_odds": "2.39",
           "original_prediction": "Under2.5 (converted)",
-          "score": "2-0",
+          "score": "",
           "team_zero_perc": "9.09",
           "h2h_under_perc": "100.00",
           "h2h_zero_perc": "50.00",
           "composite_score": 59.09,
-          "status": "✅",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-27",
           "match": "Valenciennes vs Aubagne",
           "final_odds": "2.19",
           "original_prediction": "Under2.5 (converted)",
-          "score": "0-0",
+          "score": "",
           "team_zero_perc": "12.64",
           "h2h_under_perc": "66.67",
           "h2h_zero_perc": "0.00",
           "composite_score": 12.64,
-          "status": "✅",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-27",
           "match": "FC Rouen vs Caen",
           "final_odds": "2.06",
           "original_prediction": "Under2.5 (converted)",
-          "score": "1-1",
+          "score": "",
           "team_zero_perc": "12.12",
           "h2h_under_perc": "100.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 12.12,
-          "status": "✅",
-          "score_source": "bettingclosed"
+          "status": ""
         },
         {
           "date": "2026-03-28",
           "match": "Crewe vs Oldham Athletic",
           "final_odds": "2.30",
           "original_prediction": "Under2.5 (converted)",
-          "score": "2-1",
+          "score": "",
           "team_zero_perc": "12.17",
           "h2h_under_perc": "100.00",
           "h2h_zero_perc": "100.00",
           "composite_score": 112.17,
-          "status": "🟠"
+          "status": ""
         },
         {
           "date": "2026-03-28",
           "match": "Malaga vs Leganes",
           "final_odds": "2.18",
           "original_prediction": "Under2.5 (converted)",
-          "score": "0-0",
+          "score": "",
           "team_zero_perc": "14.88",
           "h2h_under_perc": "77.78",
           "h2h_zero_perc": "0.00",
           "composite_score": 14.88,
-          "status": "✅"
+          "status": ""
         },
         {
           "date": "2026-03-29",
           "match": "Real Zaragoza B vs CD Tudelano",
           "final_odds": "2.18",
           "original_prediction": "Under2.5 (converted)",
-          "score": "3-1",
+          "score": "",
           "team_zero_perc": "15.08",
           "h2h_under_perc": "66.67",
           "h2h_zero_perc": "33.33",
           "composite_score": 48.41,
-          "status": "🟠"
+          "status": ""
         },
         {
           "date": "2026-03-29",
           "match": "La Equidad vs Atletico Junior",
           "final_odds": "2.21",
           "original_prediction": "Under2.5 (converted)",
-          "score": "0-1",
+          "score": "",
           "team_zero_perc": "18.93",
           "h2h_under_perc": "80.77",
           "h2h_zero_perc": "23.08",
           "composite_score": 42.01,
-          "status": "✅"
+          "status": ""
         }
       ],
       "single_stats": {
@@ -715,30 +662,13 @@
       "filtered_stats": {
         "total_under_matches_in_month": 297,
         "top2_selected": 54
-      },
-      "Date": "months"
+      }
     }
   ],
-  "yearly_sta": [
-    {
-      "Date": "yearly_stats",
-      "value": {}
-    }
+  "yearly_stats": {},
+  "notable_analysis": [
+    "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
+    "Total Under2.5 matches analyzed: 804"
   ],
-  "notable_an": [
-    {
-      "Date": "notable_analysis",
-      "value": "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)"
-    },
-    {
-      "Date": "notable_analysis",
-      "value": "Total Under2.5 matches analyzed: 804"
-    }
-  ],
-  "selection_": [
-    {
-      "Date": "selection_criteria",
-      "value": "Top 2 per day by H2H Under % with odds >= 2.0 (Over2.5 converted)"
-    }
-  ]
+  "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0 (Over2.5 converted)"
 }
