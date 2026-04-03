@@ -46513,6 +46513,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-04-05",
+      "Team A": "Al-Riyadh",
+      "Team B": "Al-Shabab(KSA)",
+      "League": "Saudi Arabia - Professional League",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.832432462554475,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.04,
+      "Actual Score": "",
+      "League Rank": 1059,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-04-05",
+      "Team A": "Al-Riyadh",
+      "Team B": "Al-Shabab(KSA)",
+      "League": "Saudi Arabia - Professional League",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.832432462554475,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.04,
+      "Actual Score": "",
+      "League Rank": 1059,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
