@@ -27,8 +27,7 @@
           "score": "3-0",
           "h2h_under": "100.00%",
           "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "was_converted": true
         },
         {
           "date": "2026-04-02",
@@ -40,8 +39,7 @@
           "score": "4-1",
           "h2h_under": "100.00%",
           "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "was_converted": true
         },
         {
           "date": "2026-04-02",
@@ -53,8 +51,7 @@
           "score": "0-0",
           "h2h_under": "100.00%",
           "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "was_converted": true
         },
         {
           "date": "2026-04-03",
@@ -82,12 +79,14 @@
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "0.00%",
-        "under_2.5_count": "0/1",
-        "average_odds": "2.67"
+        "under_2.5_percentage": "25.00%",
+        "under_2.5_count": "1/4",
+        "average_odds": "2.94"
       },
       "combo_stats": {
-        "message": "No valid 2-match combos in 2026-04."
+        "combo_under_2.5_percentage": "0.00%",
+        "combo_under_2.5_count": "0/2",
+        "average_combo_odds": "8.61"
       },
       "filtered_stats": {
         "total_matches_in_month": 40,
@@ -97,19 +96,19 @@
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "49.09%",
-      "under_2.5_count": "27/55",
-      "average_odds": "2.56"
+      "under_2.5_percentage": "47.01%",
+      "under_2.5_count": "63/134",
+      "average_odds": "2.63"
     },
     "combo_stats": {
-      "combo_under_2.5_percentage": "27.27%",
-      "combo_under_2.5_count": "6/22",
-      "average_combo_odds": "6.91"
+      "combo_under_2.5_percentage": "21.05%",
+      "combo_under_2.5_count": "12/57",
+      "average_combo_odds": "7.00"
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.2588 (💰 POSITIVE (potentially profitable))",
-    "Daily Combo EV: 0.8854 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: 0.2345 (💰 POSITIVE (potentially profitable))",
+    "Daily Combo EV: 0.4743 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
     "Total matches analyzed: 792",
