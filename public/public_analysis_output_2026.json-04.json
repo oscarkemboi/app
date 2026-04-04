@@ -60,10 +60,11 @@
           "original_odds": "1.72",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "1-0",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true
+          "status": "✅",
+          "was_converted": true,
+          "score_source": "bettingclosed"
         },
         {
           "date": "2026-04-03",
@@ -72,10 +73,11 @@
           "original_odds": "2.16",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "1-0",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true
+          "status": "✅",
+          "was_converted": true,
+          "score_source": "bettingclosed"
         }
       ],
       "single_stats": {
@@ -89,7 +91,7 @@
         "average_combo_odds": "8.61"
       },
       "filtered_stats": {
-        "total_matches_in_month": 40,
+        "total_matches_in_month": 50,
         "matches_above_threshold": 6
       }
     }
@@ -111,7 +113,7 @@
     "Daily Combo EV: 0.4743 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 792",
+    "Total matches analyzed: 802",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
