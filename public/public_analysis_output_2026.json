@@ -1957,6 +1957,30 @@
           "h2h_under": "100.00%",
           "status": "✅",
           "was_converted": true
+        },
+        {
+          "date": "2026-04-06",
+          "match": "Cesena vs SudTirol",
+          "final_odds": "2.10",
+          "original_odds": "2.10",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-04-06",
+          "match": "Ishoj IF vs Skive IK",
+          "final_odds": "2.18",
+          "original_odds": "2.03",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -1970,8 +1994,8 @@
         "average_combo_odds": "7.58"
       },
       "filtered_stats": {
-        "total_matches_in_month": 50,
-        "matches_above_threshold": 6
+        "total_matches_in_month": 60,
+        "matches_above_threshold": 8
       }
     }
   ],
@@ -1992,7 +2016,7 @@
     "Daily Combo EV: 0.5638 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 802",
+    "Total matches analyzed: 812",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
