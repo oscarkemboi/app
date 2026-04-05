@@ -46545,6 +46545,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-04-06",
+      "Team A": "Alajuelense",
+      "Team B": "Guadalupe",
+      "League": "Costa Rica -  Primera Division",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.7347114351579622,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.16,
+      "Actual Score": "",
+      "League Rank": 633,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-04-06",
+      "Team A": "Alajuelense",
+      "Team B": "Guadalupe",
+      "League": "Costa Rica -  Primera Division",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.7347114351579622,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.16,
+      "Actual Score": "",
+      "League Rank": 633,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
