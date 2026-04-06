@@ -26,7 +26,7 @@
           "h2h_under_perc": "75.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 8.56,
-          "status": "🟠"
+          "status": "✅"
         },
         {
           "date": "2026-01-02",
@@ -206,7 +206,7 @@
           "h2h_under_perc": "65.38",
           "h2h_zero_perc": "3.85",
           "composite_score": 12.35,
-          "status": "🟠"
+          "status": "✅"
         },
         {
           "date": "2026-01-09",
@@ -2034,7 +2034,7 @@
           "match": "River Plate vs Belgrano",
           "final_odds": "2.00",
           "original_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "3-0",
           "team_zero_perc": "0.00",
           "h2h_under_perc": "0.00",
           "h2h_zero_perc": "0.00",
