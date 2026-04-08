@@ -26,7 +26,7 @@
           "h2h_under_perc": "75.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 8.56,
-          "status": "✅"
+          "status": "🟠"
         },
         {
           "date": "2026-01-02",
@@ -206,7 +206,7 @@
           "h2h_under_perc": "65.38",
           "h2h_zero_perc": "3.85",
           "composite_score": 12.35,
-          "status": "✅"
+          "status": "🟠"
         },
         {
           "date": "2026-01-09",
@@ -2025,33 +2025,6 @@
         "total_under_matches_in_month": 297,
         "top2_selected": 54
       }
-    },
-    {
-      "month": "2026-04",
-      "matches": [
-        {
-          "date": "2026-04-05",
-          "match": "River Plate vs Belgrano",
-          "final_odds": "2.00",
-          "original_prediction": "Under2.5 (converted)",
-          "score": "3-0",
-          "team_zero_perc": "0.00",
-          "h2h_under_perc": "0.00",
-          "h2h_zero_perc": "0.00",
-          "composite_score": 0.0,
-          "status": "🟠"
-        }
-      ],
-      "single_stats": {
-        "message": "No matches with valid scores in 2026-04."
-      },
-      "combo_stats": {
-        "message": "No valid 2-match combos in 2026-04."
-      },
-      "filtered_stats": {
-        "total_under_matches_in_month": 20,
-        "top2_selected": 1
-      }
     }
   ],
   "yearly_stats": {
@@ -2070,7 +2043,7 @@
     "Single Match EV: 0.3218 (💰 POSITIVE (potentially profitable))",
     "Daily Combo EV: 0.6529 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
-    "Total Under2.5 matches analyzed: 824"
+    "Total Under2.5 matches analyzed: 804"
   ],
   "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0 (Over2.5 converted)"
 }
