@@ -100,42 +100,66 @@
           "h2h_under": "100.00%",
           "status": "✅",
           "was_converted": true
+        },
+        {
+          "date": "2026-04-08",
+          "match": "Spokane Velocity vs Alta",
+          "final_odds": "2.02",
+          "original_odds": "2.02",
+          "original_prediction": "Under2.5",
+          "final_prediction": "Under2.5",
+          "score": "3-1",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": false
+        },
+        {
+          "date": "2026-04-08",
+          "match": "Real Calepina vs Milan II",
+          "final_odds": "2.10",
+          "original_odds": "2.10",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "1-0",
+          "h2h_under": "100.00%",
+          "status": "✅",
+          "was_converted": true
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "62.50%",
-        "under_2.5_count": "5/8",
-        "average_odds": "2.60"
+        "under_2.5_percentage": "60.00%",
+        "under_2.5_count": "6/10",
+        "average_odds": "2.49"
       },
       "combo_stats": {
-        "combo_under_2.5_percentage": "50.00%",
-        "combo_under_2.5_count": "2/4",
-        "average_combo_odds": "6.82"
+        "combo_under_2.5_percentage": "40.00%",
+        "combo_under_2.5_count": "2/5",
+        "average_combo_odds": "6.31"
       },
       "filtered_stats": {
-        "total_matches_in_month": 60,
-        "matches_above_threshold": 8
+        "total_matches_in_month": 70,
+        "matches_above_threshold": 10
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "48.55%",
-      "under_2.5_count": "67/138",
+      "under_2.5_percentage": "48.57%",
+      "under_2.5_count": "68/140",
       "average_odds": "2.61"
     },
     "combo_stats": {
-      "combo_under_2.5_percentage": "23.73%",
-      "combo_under_2.5_count": "14/59",
-      "average_combo_odds": "6.94"
+      "combo_under_2.5_percentage": "23.33%",
+      "combo_under_2.5_count": "14/60",
+      "average_combo_odds": "6.89"
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.2696 (💰 POSITIVE (potentially profitable))",
-    "Daily Combo EV: 0.6459 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: 0.2663 (💰 POSITIVE (potentially profitable))",
+    "Daily Combo EV: 0.6080 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 812",
+    "Total matches analyzed: 822",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
