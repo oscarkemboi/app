@@ -54,14 +54,14 @@
         },
         {
           "date": "2026-01-03",
-          "match": "Al-Feiha vs Al Kholood",
-          "final_odds": "2.05",
+          "match": "Castellon vs SD Huesca",
+          "final_odds": "2.24",
           "original_prediction": "Under2.5 (converted)",
-          "score": "0-5",
-          "team_zero_perc": "16.67",
+          "score": "4-1",
+          "team_zero_perc": "10.70",
           "h2h_under_perc": "100.00",
           "h2h_zero_perc": "0.00",
-          "composite_score": 16.67,
+          "composite_score": 10.7,
           "status": "🟠"
         },
         {
@@ -222,15 +222,15 @@
         },
         {
           "date": "2026-01-10",
-          "match": "Persebaya vs Malut United",
-          "final_odds": "2.38",
+          "match": "Frosinone vs Catanzaro",
+          "final_odds": "2.48",
           "original_prediction": "Under2.5 (converted)",
-          "score": "2-1",
-          "team_zero_perc": "12.00",
+          "score": "2-0",
+          "team_zero_perc": "11.17",
           "h2h_under_perc": "100.00",
           "h2h_zero_perc": "50.00",
-          "composite_score": 62.0,
-          "status": "🟠"
+          "composite_score": 61.17,
+          "status": "✅"
         },
         {
           "date": "2026-01-10",
@@ -366,15 +366,15 @@
         },
         {
           "date": "2026-01-17",
-          "match": "Real Zaragoza vs Real Sociedad B",
-          "final_odds": "2.06",
+          "match": "Stenhousemuir vs Greenock Morton",
+          "final_odds": "2.25",
           "original_prediction": "Under2.5 (converted)",
-          "score": "1-1",
-          "team_zero_perc": "13.53",
+          "score": "4-0",
+          "team_zero_perc": "12.02",
           "h2h_under_perc": "66.67",
           "h2h_zero_perc": "0.00",
-          "composite_score": 13.53,
-          "status": "✅"
+          "composite_score": 12.02,
+          "status": "🟠"
         },
         {
           "date": "2026-01-18",
@@ -522,15 +522,15 @@
         },
         {
           "date": "2026-01-24",
-          "match": "Persijap Jepara vs PSM Makassar",
-          "final_odds": "2.29",
+          "match": "Rot-Weiss Essen vs Havelse",
+          "final_odds": "4.03",
           "original_prediction": "Under2.5 (converted)",
-          "score": "2-0",
-          "team_zero_perc": "15.38",
+          "score": "4-1",
+          "team_zero_perc": "12.82",
           "h2h_under_perc": "100.00",
           "h2h_zero_perc": "0.00",
-          "composite_score": 15.38,
-          "status": "✅"
+          "composite_score": 12.82,
+          "status": "🟠"
         },
         {
           "date": "2026-01-24",
@@ -582,14 +582,14 @@
         },
         {
           "date": "2026-01-26",
-          "match": "AD Ceuta vs Cultural Leonesa",
-          "final_odds": "2.11",
+          "match": "Al-Hazem vs Damac",
+          "final_odds": "2.14",
           "original_prediction": "Under2.5 (converted)",
-          "score": "3-1",
-          "team_zero_perc": "13.04",
+          "score": "2-1",
+          "team_zero_perc": "11.11",
           "h2h_under_perc": "100.00",
           "h2h_zero_perc": "0.00",
-          "composite_score": 13.04,
+          "composite_score": 11.11,
           "status": "🟠"
         },
         {
@@ -630,6 +630,18 @@
         },
         {
           "date": "2026-01-30",
+          "match": "CFR Cluj vs Metaloglobus",
+          "final_odds": "2.98",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "4-2",
+          "team_zero_perc": "10.12",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 10.12,
+          "status": "🟠"
+        },
+        {
+          "date": "2026-01-30",
           "match": "Al Kholood vs Al-Nassr",
           "final_odds": "6.56",
           "original_prediction": "Under2.5 (converted)",
@@ -641,16 +653,16 @@
           "status": "🟠"
         },
         {
-          "date": "2026-01-30",
-          "match": "Dijon vs Stade Briochin",
-          "final_odds": "2.35",
+          "date": "2026-01-31",
+          "match": "Malut United vs Bhayangkara Solo",
+          "final_odds": "2.67",
           "original_prediction": "Under2.5 (converted)",
-          "score": "0-0",
-          "team_zero_perc": "17.39",
+          "score": "1-2",
+          "team_zero_perc": "12.50",
           "h2h_under_perc": "100.00",
-          "h2h_zero_perc": "100.00",
-          "composite_score": 117.39,
-          "status": "✅"
+          "h2h_zero_perc": "0.00",
+          "composite_score": 12.5,
+          "status": "🟠"
         },
         {
           "date": "2026-01-31",
@@ -663,29 +675,17 @@
           "h2h_zero_perc": "0.00",
           "composite_score": 14.29,
           "status": "✅"
-        },
-        {
-          "date": "2026-01-31",
-          "match": "Deportivo Tachir vs Academia Anzo..",
-          "final_odds": "2.01",
-          "original_prediction": "Under2.5 (converted)",
-          "score": "1 - 1",
-          "team_zero_perc": "14.29",
-          "h2h_under_perc": "100.00",
-          "h2h_zero_perc": "50.00",
-          "composite_score": 64.28999999999999,
-          "status": "✅"
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "46.43%",
-        "under_2.5_count": "26/56",
-        "average_odds": "2.56"
+        "under_2.5_percentage": "41.07%",
+        "under_2.5_count": "23/56",
+        "average_odds": "2.62"
       },
       "combo_stats": {
         "combo_under_2.5_percentage": "14.81%",
         "combo_under_2.5_count": "4/27",
-        "average_combo_odds": "6.60"
+        "average_combo_odds": "7.01"
       },
       "filtered_stats": {
         "total_under_matches_in_month": 246,
@@ -695,21 +695,22 @@
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "52.44%",
-      "under_2.5_count": "86/164",
-      "average_odds": "2.52"
+      "under_2.5_percentage": "48.17%",
+      "under_2.5_count": "79/164",
+      "average_odds": "2.58"
     },
     "combo_stats": {
-      "combo_under_2.5_percentage": "25.93%",
-      "combo_under_2.5_count": "21/81",
-      "average_combo_odds": "6.38"
+      "combo_under_2.5_percentage": "23.46%",
+      "combo_under_2.5_count": "19/81",
+      "average_combo_odds": "6.72"
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.3218 (💰 POSITIVE (potentially profitable))",
-    "Daily Combo EV: 0.6529 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: 0.2448 (💰 POSITIVE (potentially profitable))",
+    "Daily Combo EV: 0.5764 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
-    "Total Under2.5 matches analyzed: 834"
+    "Total Under2.5 matches analyzed: 834",
+    "Adaptive fallback days used (strict<2.0): 2"
   ],
-  "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0 (Over2.5 converted)"
+  "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fill from odds >= 1.50 when fewer than 2"
 }
