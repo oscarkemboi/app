@@ -18,26 +18,26 @@
         },
         {
           "date": "2026-03-01",
-          "match": "Mantova vs Carrarese",
-          "final_odds": "2.22",
+          "match": "MSV Duisburg vs Havelse",
+          "final_odds": "3.50",
           "original_prediction": "Under2.5 (converted)",
           "score": "1-1",
-          "team_zero_perc": "12.13",
+          "team_zero_perc": "11.90",
           "h2h_under_perc": "66.67",
-          "h2h_zero_perc": "33.33",
-          "composite_score": 45.46,
+          "h2h_zero_perc": "0.00",
+          "composite_score": 11.9,
           "status": "✅"
         },
         {
           "date": "2026-03-02",
-          "match": "Amiens vs Troyes",
-          "final_odds": "2.29",
+          "match": "San Diego 1904 vs St. Louis City",
+          "final_odds": "3.68",
           "original_prediction": "Under2.5 (converted)",
-          "score": "0-2",
-          "team_zero_perc": "13.90",
+          "score": "2-0",
+          "team_zero_perc": "10.71",
           "h2h_under_perc": "50.00",
-          "h2h_zero_perc": "10.00",
-          "composite_score": 23.9,
+          "h2h_zero_perc": "50.00",
+          "composite_score": 60.71,
           "status": "✅"
         },
         {
@@ -174,18 +174,6 @@
         },
         {
           "date": "2026-03-08",
-          "match": "Irapuato vs Alebrijes Oaxaca",
-          "final_odds": "2.01",
-          "original_prediction": "Under2.5 (converted)",
-          "score": "6-2",
-          "team_zero_perc": "17.86",
-          "h2h_under_perc": "100.00",
-          "h2h_zero_perc": "0.00",
-          "composite_score": 17.86,
-          "status": "🟠"
-        },
-        {
-          "date": "2026-03-08",
           "match": "Maritimo vs Porto B",
           "final_odds": "2.58",
           "original_prediction": "Under2.5 (converted)",
@@ -194,6 +182,18 @@
           "h2h_under_perc": "100.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 13.19,
+          "status": "🟠"
+        },
+        {
+          "date": "2026-03-08",
+          "match": "Bodrumspor vs Erokspor",
+          "final_odds": "2.16",
+          "original_prediction": "Under2.5",
+          "score": "3-4",
+          "team_zero_perc": "13.16",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 13.16,
           "status": "🟠"
         },
         {
@@ -354,15 +354,15 @@
         },
         {
           "date": "2026-03-15",
-          "match": "Fafe vs AD Marco 09",
-          "final_odds": "2.14",
+          "match": "NovaRomentin vs Sanremese",
+          "final_odds": "2.60",
           "original_prediction": "Under2.5 (converted)",
-          "score": "1-1",
-          "team_zero_perc": "26.67",
+          "score": "2-3",
+          "team_zero_perc": "15.38",
           "h2h_under_perc": "100.00",
-          "h2h_zero_perc": "50.00",
-          "composite_score": 76.67,
-          "status": "✅"
+          "h2h_zero_perc": "66.67",
+          "composite_score": 82.05,
+          "status": "🟠"
         },
         {
           "date": "2026-03-17",
@@ -654,14 +654,14 @@
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "53.70%",
-        "under_2.5_count": "29/54",
-        "average_odds": "2.38"
+        "under_2.5_percentage": "51.85%",
+        "under_2.5_count": "28/54",
+        "average_odds": "2.44"
       },
       "combo_stats": {
-        "combo_under_2.5_percentage": "29.63%",
-        "combo_under_2.5_count": "8/27",
-        "average_combo_odds": "5.64"
+        "combo_under_2.5_percentage": "25.93%",
+        "combo_under_2.5_count": "7/27",
+        "average_combo_odds": "5.94"
       },
       "filtered_stats": {
         "total_under_matches_in_month": 297,
@@ -671,21 +671,22 @@
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "52.44%",
-      "under_2.5_count": "86/164",
-      "average_odds": "2.52"
+      "under_2.5_percentage": "48.17%",
+      "under_2.5_count": "79/164",
+      "average_odds": "2.58"
     },
     "combo_stats": {
-      "combo_under_2.5_percentage": "25.93%",
-      "combo_under_2.5_count": "21/81",
-      "average_combo_odds": "6.38"
+      "combo_under_2.5_percentage": "23.46%",
+      "combo_under_2.5_count": "19/81",
+      "average_combo_odds": "6.72"
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.3218 (💰 POSITIVE (potentially profitable))",
-    "Daily Combo EV: 0.6529 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: 0.2448 (💰 POSITIVE (potentially profitable))",
+    "Daily Combo EV: 0.5764 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
-    "Total Under2.5 matches analyzed: 834"
+    "Total Under2.5 matches analyzed: 834",
+    "Adaptive fallback days used (strict<2.0): 2"
   ],
-  "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0 (Over2.5 converted)"
+  "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fill from odds >= 1.50 when fewer than 2"
 }
