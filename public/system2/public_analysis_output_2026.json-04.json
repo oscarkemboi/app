@@ -5,9 +5,21 @@
       "month": "2026-04",
       "matches": [
         {
-          "date": "2026-04-09",
-          "match": "Kahraba Ismailia vs Al Ittihad",
-          "final_odds": "1.90",
+          "date": "2026-04-05",
+          "match": "River Plate vs Belgrano",
+          "final_odds": "2.00",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "0.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        },
+        {
+          "date": "2026-04-06",
+          "match": "Bashinformsvyaz- vs Torpedo moskv..",
+          "final_odds": "1.94",
           "original_prediction": "Under2.5 (converted)",
           "score": "",
           "team_zero_perc": "0.00",
@@ -25,14 +37,27 @@
       },
       "filtered_stats": {
         "total_under_matches_in_month": 20,
-        "top2_selected": 1
+        "top2_selected": 2
       }
     }
   ],
-  "yearly_stats": {},
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "48.17%",
+      "under_2.5_count": "79/164",
+      "average_odds": "2.58"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "23.46%",
+      "combo_under_2.5_count": "19/81",
+      "average_combo_odds": "6.72"
+    }
+  },
   "notable_analysis": [
+    "Single Match EV: 0.2448 (💰 POSITIVE (potentially profitable))",
+    "Daily Combo EV: 0.5764 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
-    "Total Under2.5 matches analyzed: 20",
+    "Total Under2.5 matches analyzed: 824",
     "Adaptive fallback days used (strict<2.0): 1"
   ],
   "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fills nearest below-threshold odds when fewer than 2; hard floor >= 1.85"
