@@ -2031,15 +2031,27 @@
       "matches": [
         {
           "date": "2026-04-08",
-          "match": "Ferrocarril Midl vs Club Atletico..",
-          "final_odds": "1.42",
+          "match": "Atletico Atlanta vs Nueva Chicago",
+          "final_odds": "1.36",
           "original_prediction": "Under2.5",
-          "score": "",
+          "score": "1-2",
           "team_zero_perc": "0.00",
           "h2h_under_perc": "0.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 0.0,
-          "status": ""
+          "status": "🟠"
+        },
+        {
+          "date": "2026-04-08",
+          "match": "Dutch Lions vs Real Banjul",
+          "final_odds": "1.36",
+          "original_prediction": "Under2.5",
+          "score": "2-2",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "0.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": "🟠"
         },
         {
           "date": "2026-04-09",
@@ -2091,35 +2103,39 @@
         }
       ],
       "single_stats": {
-        "message": "No matches with valid scores in 2026-04."
+        "under_2.5_percentage": "0.00%",
+        "under_2.5_count": "0/2",
+        "average_odds": "1.36"
       },
       "combo_stats": {
-        "message": "No valid 2-match combos in 2026-04."
+        "combo_under_2.5_percentage": "0.00%",
+        "combo_under_2.5_count": "0/1",
+        "average_combo_odds": "1.85"
       },
       "filtered_stats": {
         "total_under_matches_in_month": 30,
-        "top2_selected": 5
+        "top2_selected": 6
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "48.17%",
-      "under_2.5_count": "79/164",
-      "average_odds": "2.58"
+      "under_2.5_percentage": "47.59%",
+      "under_2.5_count": "79/166",
+      "average_odds": "2.57"
     },
     "combo_stats": {
-      "combo_under_2.5_percentage": "23.46%",
-      "combo_under_2.5_count": "19/81",
-      "average_combo_odds": "6.72"
+      "combo_under_2.5_percentage": "23.17%",
+      "combo_under_2.5_count": "19/82",
+      "average_combo_odds": "6.66"
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.2448 (💰 POSITIVE (potentially profitable))",
-    "Daily Combo EV: 0.5764 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: 0.2227 (💰 POSITIVE (potentially profitable))",
+    "Daily Combo EV: 0.5434 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
     "Total Under2.5 matches analyzed: 834",
     "Adaptive fallback days used (strict<2.0): 3"
   ],
-  "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fill from odds >= 1.40 when fewer than 2"
+  "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fills nearest below-threshold odds when fewer than 2"
 }
