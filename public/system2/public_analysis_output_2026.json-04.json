@@ -3,33 +3,86 @@
   "months": [
     {
       "month": "2026-04",
-      "matches": [],
-      "single_stats": {},
-      "combo_stats": {},
+      "matches": [
+        {
+          "date": "2026-04-09",
+          "match": "XV de Piracicaba vs Ituano(SP)",
+          "final_odds": "1.80",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        },
+        {
+          "date": "2026-04-09",
+          "match": "Kahraba Ismailia vs Al Ittihad",
+          "final_odds": "1.90",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        },
+        {
+          "date": "2026-04-10",
+          "match": "KAMAZ Naberezhny vs Neftekhimik N..",
+          "final_odds": "1.79",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "78.57",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        },
+        {
+          "date": "2026-04-10",
+          "match": "Arsenal de Saran vs Argentino de ..",
+          "final_odds": "1.73",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "0.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        }
+      ],
+      "single_stats": {
+        "message": "No matches with valid scores in 2026-04."
+      },
+      "combo_stats": {
+        "message": "No valid 2-match combos in 2026-04."
+      },
       "filtered_stats": {
         "total_under_matches_in_month": 30,
-        "top2_selected": 0
-      },
-      "message": "No Under2.5 matches in 2026-04."
+        "top2_selected": 4
+      }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "52.44%",
-      "under_2.5_count": "86/164",
-      "average_odds": "2.52"
+      "under_2.5_percentage": "48.17%",
+      "under_2.5_count": "79/164",
+      "average_odds": "2.58"
     },
     "combo_stats": {
-      "combo_under_2.5_percentage": "25.93%",
-      "combo_under_2.5_count": "21/81",
-      "average_combo_odds": "6.38"
+      "combo_under_2.5_percentage": "23.46%",
+      "combo_under_2.5_count": "19/81",
+      "average_combo_odds": "6.72"
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.3218 (💰 POSITIVE (potentially profitable))",
-    "Daily Combo EV: 0.6529 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: 0.2448 (💰 POSITIVE (potentially profitable))",
+    "Daily Combo EV: 0.5764 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
-    "Total Under2.5 matches analyzed: 834"
+    "Total Under2.5 matches analyzed: 834",
+    "Adaptive fallback days used (strict<2.0): 2"
   ],
-  "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0 (Over2.5 converted)"
+  "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fill from odds >= 1.50 when fewer than 2"
 }
