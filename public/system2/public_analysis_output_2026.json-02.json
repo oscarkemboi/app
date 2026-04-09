@@ -102,14 +102,14 @@
         },
         {
           "date": "2026-02-05",
-          "match": "CS Universitatea vs Otelul Galati",
-          "final_odds": "2.08",
+          "match": "Xelaju MC vs Monterrey",
+          "final_odds": "2.52",
           "original_prediction": "Under2.5 (converted)",
-          "score": "1-0",
-          "team_zero_perc": "16.44",
+          "score": "1-1",
+          "team_zero_perc": "11.43",
           "h2h_under_perc": "50.00",
-          "h2h_zero_perc": "16.67",
-          "composite_score": 33.11,
+          "h2h_zero_perc": "0.00",
+          "composite_score": 11.43,
           "status": "✅"
         },
         {
@@ -126,18 +126,6 @@
         },
         {
           "date": "2026-02-06",
-          "match": "Stade Briochin vs Sochaux",
-          "final_odds": "2.11",
-          "original_prediction": "Under2.5 (converted)",
-          "score": "1-1",
-          "team_zero_perc": "12.24",
-          "h2h_under_perc": "100.00",
-          "h2h_zero_perc": "0.00",
-          "composite_score": 12.24,
-          "status": "✅"
-        },
-        {
-          "date": "2026-02-06",
           "match": "Concarneau vs Aubagne",
           "final_odds": "2.14",
           "original_prediction": "Under2.5 (converted)",
@@ -146,6 +134,18 @@
           "h2h_under_perc": "100.00",
           "h2h_zero_perc": "33.33",
           "composite_score": 44.58,
+          "status": "✅"
+        },
+        {
+          "date": "2026-02-06",
+          "match": "Stade Briochin vs Sochaux",
+          "final_odds": "2.11",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "1-1",
+          "team_zero_perc": "12.24",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 12.24,
           "status": "✅"
         },
         {
@@ -366,6 +366,18 @@
         },
         {
           "date": "2026-02-17",
+          "match": "Leyton Orient vs Plymouth Argyle",
+          "final_odds": "2.54",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "1-3",
+          "team_zero_perc": "9.77",
+          "h2h_under_perc": "66.67",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 9.77,
+          "status": "🟠"
+        },
+        {
+          "date": "2026-02-17",
           "match": "Blackpool vs Mansfield Town",
           "final_odds": "2.36",
           "original_prediction": "Under2.5 (converted)",
@@ -374,18 +386,6 @@
           "h2h_under_perc": "75.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 9.73,
-          "status": "✅"
-        },
-        {
-          "date": "2026-02-17",
-          "match": "Achuapa vs Guastatoya",
-          "final_odds": "2.14",
-          "original_prediction": "Under2.5 (converted)",
-          "score": "1-0",
-          "team_zero_perc": "13.44",
-          "h2h_under_perc": "66.67",
-          "h2h_zero_perc": "16.67",
-          "composite_score": 30.11,
           "status": "✅"
         },
         {
@@ -438,6 +438,18 @@
         },
         {
           "date": "2026-02-20",
+          "match": "VfB Stuttgart (Y vs VfR Mannheim",
+          "final_odds": "2.86",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "3-1",
+          "team_zero_perc": "13.13",
+          "h2h_under_perc": "60.00",
+          "h2h_zero_perc": "20.00",
+          "composite_score": 33.129999999999995,
+          "status": "🟠"
+        },
+        {
+          "date": "2026-02-20",
           "match": "Athletic Bilbao vs Elche",
           "final_odds": "2.25",
           "original_prediction": "Under2.5 (converted)",
@@ -449,28 +461,16 @@
           "status": "🟠"
         },
         {
-          "date": "2026-02-20",
-          "match": "Figueirense vs Marcilio Dias SC",
-          "final_odds": "2.13",
-          "original_prediction": "Under2.5 (converted)",
-          "score": "0-1",
-          "team_zero_perc": "26.68",
-          "h2h_under_perc": "60.00",
-          "h2h_zero_perc": "20.00",
-          "composite_score": 46.68,
-          "status": "✅"
-        },
-        {
           "date": "2026-02-21",
-          "match": "Leganes vs Cultural Leonesa",
-          "final_odds": "2.03",
+          "match": "Wrexham vs Ipswich Town",
+          "final_odds": "2.24",
           "original_prediction": "Under2.5 (converted)",
-          "score": "1-1",
-          "team_zero_perc": "23.92",
+          "score": "5-3",
+          "team_zero_perc": "15.16",
           "h2h_under_perc": "100.00",
           "h2h_zero_perc": "50.00",
-          "composite_score": 73.92,
-          "status": "✅"
+          "composite_score": 65.16,
+          "status": "🟠"
         },
         {
           "date": "2026-02-21",
@@ -486,26 +486,26 @@
         },
         {
           "date": "2026-02-22",
-          "match": "SKU Amstetten vs WSC Wels",
-          "final_odds": "2.39",
+          "match": "Musspor vs Aksaray Bld.",
+          "final_odds": "2.70",
           "original_prediction": "Under2.5 (converted)",
           "score": "1-1",
-          "team_zero_perc": "11.11",
+          "team_zero_perc": "10.00",
           "h2h_under_perc": "100.00",
-          "h2h_zero_perc": "33.33",
-          "composite_score": 44.44,
+          "h2h_zero_perc": "0.00",
+          "composite_score": 10.0,
           "status": "✅"
         },
         {
           "date": "2026-02-22",
-          "match": "Batman Petrolspo vs Beyoglu Yeni ..",
-          "final_odds": "2.36",
+          "match": "Erzurumspor vs Serik Belediyesp",
+          "final_odds": "3.88",
           "original_prediction": "Under2.5 (converted)",
-          "score": "4-1",
-          "team_zero_perc": "6.00",
+          "score": "4-0",
+          "team_zero_perc": "9.09",
           "h2h_under_perc": "100.00",
-          "h2h_zero_perc": "100.00",
-          "composite_score": 106.0,
+          "h2h_zero_perc": "0.00",
+          "composite_score": 9.09,
           "status": "🟠"
         },
         {
@@ -654,14 +654,14 @@
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "57.41%",
-        "under_2.5_count": "31/54",
-        "average_odds": "2.63"
+        "under_2.5_percentage": "51.85%",
+        "under_2.5_count": "28/54",
+        "average_odds": "2.69"
       },
       "combo_stats": {
-        "combo_under_2.5_percentage": "33.33%",
-        "combo_under_2.5_count": "9/27",
-        "average_combo_odds": "6.89"
+        "combo_under_2.5_percentage": "29.63%",
+        "combo_under_2.5_count": "8/27",
+        "average_combo_odds": "7.21"
       },
       "filtered_stats": {
         "total_under_matches_in_month": 261,
@@ -671,21 +671,22 @@
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "52.44%",
-      "under_2.5_count": "86/164",
-      "average_odds": "2.52"
+      "under_2.5_percentage": "48.17%",
+      "under_2.5_count": "79/164",
+      "average_odds": "2.58"
     },
     "combo_stats": {
-      "combo_under_2.5_percentage": "25.93%",
-      "combo_under_2.5_count": "21/81",
-      "average_combo_odds": "6.38"
+      "combo_under_2.5_percentage": "23.46%",
+      "combo_under_2.5_count": "19/81",
+      "average_combo_odds": "6.72"
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.3218 (💰 POSITIVE (potentially profitable))",
-    "Daily Combo EV: 0.6529 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: 0.2448 (💰 POSITIVE (potentially profitable))",
+    "Daily Combo EV: 0.5764 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
-    "Total Under2.5 matches analyzed: 834"
+    "Total Under2.5 matches analyzed: 834",
+    "Adaptive fallback days used (strict<2.0): 2"
   ],
-  "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0 (Over2.5 converted)"
+  "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fill from odds >= 1.50 when fewer than 2"
 }
