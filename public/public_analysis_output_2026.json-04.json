@@ -124,6 +124,32 @@
           "h2h_under": "100.00%",
           "status": "✅",
           "was_converted": true
+        },
+        {
+          "date": "2026-04-09",
+          "match": "Tigres UANL vs Seattle Sounders",
+          "final_odds": "2.21",
+          "original_odds": "2.00",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "2-0",
+          "h2h_under": "33.33%",
+          "status": "✅",
+          "was_converted": true,
+          "score_source": "bettingclosed"
+        },
+        {
+          "date": "2026-04-09",
+          "match": "FK Makedonija vs Aresimi",
+          "final_odds": "2.38",
+          "original_odds": "1.88",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "0-1",
+          "h2h_under": "50.00%",
+          "status": "✅",
+          "was_converted": true,
+          "score_source": "bettingclosed"
         }
       ],
       "single_stats": {
@@ -137,8 +163,8 @@
         "average_combo_odds": "6.31"
       },
       "filtered_stats": {
-        "total_matches_in_month": 70,
-        "matches_above_threshold": 10
+        "total_matches_in_month": 80,
+        "matches_above_threshold": 12
       }
     }
   ],
@@ -159,7 +185,7 @@
     "Daily Combo EV: 0.6080 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 822",
+    "Total matches analyzed: 832",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
