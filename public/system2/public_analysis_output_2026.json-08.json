@@ -1,79 +1,92 @@
 {
-    "year": 2026,
-    "months": [
+  "year": 2026,
+  "months": [
+    {
+      "month": "2026-08",
+      "matches": [
         {
-            "month": "2026-08",
-            "matches": [
-                {
-                    "date": "2026-08-27",
-                    "match": "Kaizer Chiefs vs Mamelodi Sundown",
-                    "final_odds": "1.57",
-                    "original_prediction": "Under2.5",
-                    "score": "0-0",
-                    "team_zero_perc": "0.00",
-                    "h2h_under_perc": "100.00",
-                    "h2h_zero_perc": "0.00",
-                    "composite_score": 0.0,
-                    "status": "✅"
-                },
-                {
-                    "date": "2026-08-27",
-                    "match": "Atletico Mineiro vs Cruzeiro",
-                    "final_odds": "1.64",
-                    "original_prediction": "Under2.5",
-                    "score": "1-1",
-                    "team_zero_perc": "0.00",
-                    "h2h_under_perc": "100.00",
-                    "h2h_zero_perc": "0.00",
-                    "composite_score": 0.0,
-                    "status": "✅"
-                },
-                {
-                    "date": "2026-08-28",
-                    "match": "PAOK vs Rijeka",
-                    "final_odds": "1.66",
-                    "original_prediction": "Under2.5",
-                    "score": "5-0",
-                    "team_zero_perc": "0.00",
-                    "h2h_under_perc": "100.00",
-                    "h2h_zero_perc": "0.00",
-                    "composite_score": 0.0,
-                    "status": "🟠"
-                }
-            ],
-            "single_stats": {
-                "under_2.5_percentage": "66.67%",
-                "under_2.5_count": "2/3",
-                "average_odds": "1.62"
-            },
-            "combo_stats": {
-                "combo_under_2.5_percentage": "100.00%",
-                "combo_under_2.5_count": "1/1",
-                "average_combo_odds": "2.57"
-            },
-            "filtered_stats": {
-                "total_under_matches_in_month": 7,
-                "top2_selected": 3
-            }
-        }
-    ],
-    "yearly_stats": {
-        "single_stats": {
-            "under_2.5_percentage": "66.67%",
-            "under_2.5_count": "2/3",
-            "average_odds": "1.62"
+          "date": "2026-08-27",
+          "match": "FC Riga United vs Sparta Praha",
+          "final_odds": "3.05",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "1-0",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": "✅"
         },
-        "combo_stats": {
-            "combo_under_2.5_percentage": "100.00%",
-            "combo_under_2.5_count": "1/1",
-            "average_combo_odds": "2.57"
+        {
+          "date": "2026-08-27",
+          "match": "FC Copenhagen vs Basel",
+          "final_odds": "2.52",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "2-0",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": "✅"
+        },
+        {
+          "date": "2026-08-28",
+          "match": "Besiktas vs Lausanne Sports",
+          "final_odds": "3.02",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "0-1",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": "✅"
+        },
+        {
+          "date": "2026-08-28",
+          "match": "Rayo Vallecano vs Neman Grodno",
+          "final_odds": "3.61",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "4-0",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": "🟠"
         }
+      ],
+      "single_stats": {
+        "under_2.5_percentage": "75.00%",
+        "under_2.5_count": "3/4",
+        "average_odds": "3.05"
+      },
+      "combo_stats": {
+        "combo_under_2.5_percentage": "50.00%",
+        "combo_under_2.5_count": "1/2",
+        "average_combo_odds": "9.30"
+      },
+      "filtered_stats": {
+        "total_under_matches_in_month": 20,
+        "top2_selected": 4
+      }
+    }
+  ],
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "83.33%",
+      "under_2.5_count": "5/6",
+      "average_odds": "2.80"
     },
-    "notable_analysis": [
-        "Single Match EV: 0.0822 (💰 POSITIVE (potentially profitable))",
-        "Daily Combo EV: 1.5748 (💰 POSITIVE (potentially profitable))",
-        "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero%)",
-        "Total Under2.5 matches analyzed: 7"
-    ],
-    "selection_criteria": "Top 2 per day by ranking score (Team Zero%)"
+    "combo_stats": {
+      "combo_under_2.5_percentage": "66.67%",
+      "combo_under_2.5_count": "2/3",
+      "average_combo_odds": "7.97"
+    }
+  },
+  "notable_analysis": [
+    "Single Match EV: 1.3351 (💰 POSITIVE (potentially profitable))",
+    "Daily Combo EV: 4.3134 (💰 POSITIVE (potentially profitable))",
+    "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
+    "Total Under2.5 matches analyzed: 26",
+    "Adaptive fallback days used (strict<2.0): 0"
+  ],
+  "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fills nearest below-threshold odds when fewer than 2; hard floor >= 1.85"
 }
