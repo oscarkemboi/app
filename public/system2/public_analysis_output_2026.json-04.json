@@ -5,64 +5,60 @@
       "month": "2026-04",
       "matches": [
         {
-          "date": "2026-04-12",
-          "match": "Palestino vs Limache",
-          "final_odds": "2.30",
+          "date": "2026-04-05",
+          "match": "River Plate vs Belgrano",
+          "final_odds": "2.00",
           "original_prediction": "Under2.5 (converted)",
-          "score": "1-0",
+          "score": "",
           "team_zero_perc": "0.00",
-          "h2h_under_perc": "75.00",
+          "h2h_under_perc": "0.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 0.0,
-          "status": "✅"
+          "status": ""
         },
         {
-          "date": "2026-04-12",
-          "match": "Municipal Iquiqu vs Puerto Montt",
-          "final_odds": "2.30",
+          "date": "2026-04-06",
+          "match": "Bashinformsvyaz- vs Torpedo moskv..",
+          "final_odds": "1.94",
           "original_prediction": "Under2.5 (converted)",
-          "score": "0-0",
+          "score": "",
           "team_zero_perc": "0.00",
-          "h2h_under_perc": "66.67",
+          "h2h_under_perc": "100.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 0.0,
-          "status": "✅"
+          "status": ""
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "100.00%",
-        "under_2.5_count": "2/2",
-        "average_odds": "2.30"
+        "message": "No matches with valid scores in 2026-04."
       },
       "combo_stats": {
-        "combo_under_2.5_percentage": "100.00%",
-        "combo_under_2.5_count": "1/1",
-        "average_combo_odds": "5.30"
+        "message": "No valid 2-match combos in 2026-04."
       },
       "filtered_stats": {
-        "total_under_matches_in_month": 6,
+        "total_under_matches_in_month": 20,
         "top2_selected": 2
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "83.33%",
-      "under_2.5_count": "5/6",
-      "average_odds": "2.80"
+      "under_2.5_percentage": "48.17%",
+      "under_2.5_count": "79/164",
+      "average_odds": "2.58"
     },
     "combo_stats": {
-      "combo_under_2.5_percentage": "66.67%",
-      "combo_under_2.5_count": "2/3",
-      "average_combo_odds": "7.97"
+      "combo_under_2.5_percentage": "23.46%",
+      "combo_under_2.5_count": "19/81",
+      "average_combo_odds": "6.72"
     }
   },
   "notable_analysis": [
-    "Single Match EV: 1.3351 (💰 POSITIVE (potentially profitable))",
-    "Daily Combo EV: 4.3134 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: 0.2448 (💰 POSITIVE (potentially profitable))",
+    "Daily Combo EV: 0.5764 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
-    "Total Under2.5 matches analyzed: 26",
-    "Adaptive fallback days used (strict<2.0): 0"
+    "Total Under2.5 matches analyzed: 824",
+    "Adaptive fallback days used (strict<2.0): 1"
   ],
   "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fills nearest below-threshold odds when fewer than 2; hard floor >= 1.85"
 }
