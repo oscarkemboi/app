@@ -2053,6 +2053,30 @@
           "h2h_under": "100.00%",
           "status": "",
           "was_converted": true
+        },
+        {
+          "date": "2026-04-14",
+          "match": "Tomayapo vs Real Potosi",
+          "final_odds": "3.05",
+          "original_odds": "1.60",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-04-14",
+          "match": "AFC Totton vs Bath City",
+          "final_odds": "2.72",
+          "original_odds": "1.71",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "",
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -2066,8 +2090,8 @@
         "average_combo_odds": "6.13"
       },
       "filtered_stats": {
-        "total_matches_in_month": 89,
-        "matches_above_threshold": 14
+        "total_matches_in_month": 99,
+        "matches_above_threshold": 16
       }
     }
   ],
@@ -2088,7 +2112,7 @@
     "Daily Combo EV: 0.6880 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 841",
+    "Total matches analyzed: 851",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
