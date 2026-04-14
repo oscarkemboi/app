@@ -46625,6 +46625,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-04-15",
+      "Team A": "Vasco da Gama",
+      "Team B": "Audax Italiano",
+      "League": "America - Copa Sudamericana",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.7957953035006399,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.19,
+      "Actual Score": "",
+      "League Rank": 486,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-04-15",
+      "Team A": "Santos",
+      "Team B": "Recoleta",
+      "League": "America - Copa Sudamericana",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.73226327157605,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.42,
+      "Actual Score": "",
+      "League Rank": 486,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
