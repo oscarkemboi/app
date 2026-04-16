@@ -193,16 +193,66 @@
           "original_odds": "1.71",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "2-1",
           "h2h_under": "100.00%",
           "status": "🟠",
-          "was_converted": true
+          "was_converted": true,
+          "score_source": "bettingclosed"
         },
         {
           "date": "2026-04-15",
           "match": "Banik Ostrava B vs Opava",
           "final_odds": "2.35",
           "original_odds": "1.90",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "2-0",
+          "h2h_under": "100.00%",
+          "status": "✅",
+          "was_converted": true,
+          "score_source": "bettingclosed"
+        },
+        {
+          "date": "2026-04-16",
+          "match": "CSD Municipal vs Club Comunicacio",
+          "final_odds": "2.24",
+          "original_odds": "1.98",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "1-0",
+          "h2h_under": "71.43%",
+          "status": "✅",
+          "was_converted": true
+        },
+        {
+          "date": "2026-04-16",
+          "match": "Strasbourg vs FSV Mainz 05",
+          "final_odds": "2.29",
+          "original_odds": "1.94",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-04-17",
+          "match": "Yunnan Yukun vs Tianjin Jinmen T",
+          "final_odds": "2.25",
+          "original_odds": "2.25",
+          "original_prediction": "Under2.5",
+          "final_prediction": "Under2.5",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": false
+        },
+        {
+          "date": "2026-04-17",
+          "match": "Villefranche vs Paris 13 Atl.",
+          "final_odds": "2.08",
+          "original_odds": "2.12",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
           "score": "",
@@ -212,9 +262,9 @@
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "66.67%",
-        "under_2.5_count": "10/15",
-        "average_odds": "2.70"
+        "under_2.5_percentage": "68.75%",
+        "under_2.5_count": "11/16",
+        "average_odds": "2.67"
       },
       "combo_stats": {
         "combo_under_2.5_percentage": "42.86%",
@@ -222,16 +272,16 @@
         "average_combo_odds": "7.48"
       },
       "filtered_stats": {
-        "total_matches_in_month": 109,
-        "matches_above_threshold": 17
+        "total_matches_in_month": 129,
+        "matches_above_threshold": 21
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "49.66%",
-      "under_2.5_count": "72/145",
-      "average_odds": "2.63"
+      "under_2.5_percentage": "50.00%",
+      "under_2.5_count": "73/146",
+      "average_odds": "2.62"
     },
     "combo_stats": {
       "combo_under_2.5_percentage": "24.19%",
@@ -240,11 +290,11 @@
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.3036 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: 0.3113 (💰 POSITIVE (potentially profitable))",
     "Daily Combo EV: 0.6948 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 861",
+    "Total matches analyzed: 881",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
