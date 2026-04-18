@@ -24,10 +24,11 @@
           "original_odds": "2.07",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "1-1",
           "h2h_under": "100.00%",
-          "status": "",
-          "was_converted": true
+          "status": "✅",
+          "was_converted": true,
+          "score_source": "bettingclosed"
         },
         {
           "date": "2026-02-02",
@@ -84,10 +85,11 @@
           "original_odds": "1.88",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "3-2",
           "h2h_under": "100.00%",
-          "status": "",
-          "was_converted": true
+          "status": "🟠",
+          "was_converted": true,
+          "score_source": "bettingclosed"
         },
         {
           "date": "2026-02-04",
@@ -132,10 +134,11 @@
           "original_odds": "2.17",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "1-3",
           "h2h_under": "100.00%",
-          "status": "",
-          "was_converted": true
+          "status": "🟠",
+          "was_converted": true,
+          "score_source": "bettingclosed"
         },
         {
           "date": "2026-02-06",
@@ -290,7 +293,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "100.00%",
-          "status": "",
+          "status": "🟠",
           "was_converted": true
         },
         {
@@ -302,7 +305,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "100.00%",
-          "status": "",
+          "status": "🟠",
           "was_converted": true
         },
         {
@@ -408,10 +411,11 @@
           "original_odds": "1.44",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "2-3",
           "h2h_under": "100.00%",
-          "status": "",
-          "was_converted": true
+          "status": "🟠",
+          "was_converted": true,
+          "score_source": "bettingclosed"
         },
         {
           "date": "2026-02-19",
@@ -434,7 +438,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "100.00%",
-          "status": "",
+          "status": "🟠",
           "was_converted": true
         },
         {
@@ -468,10 +472,11 @@
           "original_odds": "1.98",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "4-2",
           "h2h_under": "100.00%",
-          "status": "",
-          "was_converted": true
+          "status": "🟠",
+          "was_converted": true,
+          "score_source": "bettingclosed"
         },
         {
           "date": "2026-02-22",
@@ -661,21 +666,21 @@
   "yearly_stats": {
     "single_stats": {
       "under_2.5_percentage": "50.00%",
-      "under_2.5_count": "73/146",
+      "under_2.5_count": "74/148",
       "average_odds": "2.62"
     },
     "combo_stats": {
-      "combo_under_2.5_percentage": "24.19%",
-      "combo_under_2.5_count": "15/62",
-      "average_combo_odds": "7.01"
+      "combo_under_2.5_percentage": "23.81%",
+      "combo_under_2.5_count": "15/63",
+      "average_combo_odds": "7.03"
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.3113 (💰 POSITIVE (potentially profitable))",
-    "Daily Combo EV: 0.6948 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: 0.3107 (💰 POSITIVE (potentially profitable))",
+    "Daily Combo EV: 0.6729 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 881",
+    "Total matches analyzed: 901",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
