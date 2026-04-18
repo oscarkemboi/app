@@ -72,10 +72,11 @@
           "original_odds": "1.52",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "2-2",
           "h2h_under": "75.00%",
-          "status": "",
-          "was_converted": true
+          "status": "🟠",
+          "was_converted": true,
+          "score_source": "bettingclosed"
         },
         {
           "date": "2026-03-04",
@@ -384,10 +385,11 @@
           "original_odds": "1.58",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "3-0",
           "h2h_under": "100.00%",
-          "status": "",
-          "was_converted": true
+          "status": "🟠",
+          "was_converted": true,
+          "score_source": "bettingclosed"
         },
         {
           "date": "2026-03-18",
@@ -530,7 +532,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "100.00%",
-          "status": "",
+          "status": "🟠",
           "was_converted": true
         },
         {
@@ -648,10 +650,11 @@
           "original_odds": "2.09",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "2-1",
           "h2h_under": "44.83%",
-          "status": "",
-          "was_converted": true
+          "status": "🟠",
+          "was_converted": true,
+          "score_source": "bettingclosed"
         }
       ],
       "single_stats": {
@@ -673,21 +676,21 @@
   "yearly_stats": {
     "single_stats": {
       "under_2.5_percentage": "50.00%",
-      "under_2.5_count": "73/146",
+      "under_2.5_count": "74/148",
       "average_odds": "2.62"
     },
     "combo_stats": {
-      "combo_under_2.5_percentage": "24.19%",
-      "combo_under_2.5_count": "15/62",
-      "average_combo_odds": "7.01"
+      "combo_under_2.5_percentage": "23.81%",
+      "combo_under_2.5_count": "15/63",
+      "average_combo_odds": "7.03"
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.3113 (💰 POSITIVE (potentially profitable))",
-    "Daily Combo EV: 0.6948 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: 0.3107 (💰 POSITIVE (potentially profitable))",
+    "Daily Combo EV: 0.6729 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 881",
+    "Total matches analyzed: 901",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
