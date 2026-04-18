@@ -6,15 +6,27 @@
       "matches": [
         {
           "date": "2026-04-05",
+          "match": "Rosario Central vs Atletico Tucum..",
+          "final_odds": "1.56",
+          "original_prediction": "Under2.5",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "50.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": "🟠"
+        },
+        {
+          "date": "2026-04-05",
           "match": "River Plate vs Belgrano",
           "final_odds": "2.00",
           "original_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "3-0",
           "team_zero_perc": "0.00",
           "h2h_under_perc": "0.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 0.0,
-          "status": ""
+          "status": "🟠"
         },
         {
           "date": "2026-04-06",
@@ -26,7 +38,67 @@
           "h2h_under_perc": "100.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 0.0,
-          "status": ""
+          "status": "🟠"
+        },
+        {
+          "date": "2026-04-06",
+          "match": "Ypiranga FC vs Figueirense",
+          "final_odds": "1.83",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "1-1",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "80.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": "✅"
+        },
+        {
+          "date": "2026-04-14",
+          "match": "Velez Sarsfield vs Central Cordob..",
+          "final_odds": "1.63",
+          "original_prediction": "Under2.5",
+          "score": "1-0",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "60.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": "✅"
+        },
+        {
+          "date": "2026-04-14",
+          "match": "San Martin San J vs Atletico Atla..",
+          "final_odds": "1.36",
+          "original_prediction": "Under2.5",
+          "score": "1-2",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "50.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": "🟠"
+        },
+        {
+          "date": "2026-04-15",
+          "match": "Polokwane vs Mamelodi Sundown",
+          "final_odds": "1.41",
+          "original_prediction": "Under2.5",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "71.43",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": "🟠"
+        },
+        {
+          "date": "2026-04-15",
+          "match": "Magesi vs Kaizer Chiefs",
+          "final_odds": "1.40",
+          "original_prediction": "Under2.5",
+          "score": "1-4",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "50.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": "🟠"
         },
         {
           "date": "2026-04-16",
@@ -57,7 +129,7 @@
           "match": "Yenisey Krasnoya vs Chelyabinsk",
           "final_odds": "1.93",
           "original_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "3-0",
           "team_zero_perc": "0.00",
           "h2h_under_perc": "100.00",
           "h2h_zero_perc": "0.00",
@@ -75,42 +147,90 @@
           "h2h_zero_perc": "0.00",
           "composite_score": 0.0,
           "status": "🟠"
+        },
+        {
+          "date": "2026-04-18",
+          "match": "Gimnasia La Plat vs Estudiantes R..",
+          "final_odds": "1.50",
+          "original_prediction": "Under2.5",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "0.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": "🟠"
+        },
+        {
+          "date": "2026-04-18",
+          "match": "Quilmes vs Nueva Chicago",
+          "final_odds": "1.36",
+          "original_prediction": "Under2.5",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "50.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": "🟠"
+        },
+        {
+          "date": "2026-04-19",
+          "match": "Argentinos junio vs Atletico Tucu..",
+          "final_odds": "1.94",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "36.36",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": "🟠"
+        },
+        {
+          "date": "2026-04-19",
+          "match": "River Plate vs Boca Juniors",
+          "final_odds": "1.75",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "82.61",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": "🟠"
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "100.00%",
-        "under_2.5_count": "2/2",
-        "average_odds": "2.10"
+        "under_2.5_percentage": "75.00%",
+        "under_2.5_count": "3/4",
+        "average_odds": "1.80"
       },
       "combo_stats": {
-        "combo_under_2.5_percentage": "100.00%",
-        "combo_under_2.5_count": "1/1",
-        "average_combo_odds": "4.42"
+        "combo_under_2.5_percentage": "50.00%",
+        "combo_under_2.5_count": "1/2",
+        "average_combo_odds": "3.32"
       },
       "filtered_stats": {
-        "total_under_matches_in_month": 60,
-        "top2_selected": 6
+        "total_under_matches_in_month": 80,
+        "top2_selected": 16
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "48.80%",
-      "under_2.5_count": "81/166",
-      "average_odds": "2.58"
+      "under_2.5_percentage": "48.81%",
+      "under_2.5_count": "82/168",
+      "average_odds": "2.57"
     },
     "combo_stats": {
-      "combo_under_2.5_percentage": "24.39%",
-      "combo_under_2.5_count": "20/82",
-      "average_combo_odds": "6.69"
+      "combo_under_2.5_percentage": "24.10%",
+      "combo_under_2.5_count": "20/83",
+      "average_combo_odds": "6.64"
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.2581 (💰 POSITIVE (potentially profitable))",
-    "Daily Combo EV: 0.6323 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: 0.2522 (💰 POSITIVE (potentially profitable))",
+    "Daily Combo EV: 0.5996 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
-    "Total Under2.5 matches analyzed: 864",
-    "Adaptive fallback days used (strict<2.0): 2"
+    "Total Under2.5 matches analyzed: 884",
+    "Adaptive fallback days used (strict<2.0): 7"
   ],
-  "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fills nearest below-threshold odds when fewer than 2; hard floor >= 1.85"
+  "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fills nearest below-threshold odds when fewer than 2; hard floor >= 1.35"
 }
