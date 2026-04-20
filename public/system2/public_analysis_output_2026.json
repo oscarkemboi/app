@@ -26,7 +26,7 @@
           "h2h_under_perc": "75.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 8.56,
-          "status": "🟠"
+          "status": "✅"
         },
         {
           "date": "2026-01-02",
@@ -206,7 +206,7 @@
           "h2h_under_perc": "65.38",
           "h2h_zero_perc": "3.85",
           "composite_score": 12.35,
-          "status": "🟠"
+          "status": "✅"
         },
         {
           "date": "2026-01-09",
@@ -2039,7 +2039,7 @@
           "h2h_under_perc": "50.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 0.0,
-          "status": "🟠"
+          "status": ""
         },
         {
           "date": "2026-04-05",
@@ -2063,7 +2063,7 @@
           "h2h_under_perc": "100.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 0.0,
-          "status": "🟠"
+          "status": ""
         },
         {
           "date": "2026-04-06",
@@ -2111,7 +2111,7 @@
           "h2h_under_perc": "71.43",
           "h2h_zero_perc": "0.00",
           "composite_score": 0.0,
-          "status": "🟠"
+          "status": ""
         },
         {
           "date": "2026-04-15",
@@ -2171,7 +2171,7 @@
           "h2h_under_perc": "100.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 0.0,
-          "status": "🟠"
+          "status": ""
         },
         {
           "date": "2026-04-18",
@@ -2183,7 +2183,7 @@
           "h2h_under_perc": "0.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 0.0,
-          "status": "🟠"
+          "status": ""
         },
         {
           "date": "2026-04-18",
@@ -2195,7 +2195,7 @@
           "h2h_under_perc": "50.00",
           "h2h_zero_perc": "0.00",
           "composite_score": 0.0,
-          "status": "🟠"
+          "status": ""
         },
         {
           "date": "2026-04-19",
@@ -2207,7 +2207,7 @@
           "h2h_under_perc": "36.36",
           "h2h_zero_perc": "0.00",
           "composite_score": 0.0,
-          "status": "🟠"
+          "status": ""
         },
         {
           "date": "2026-04-19",
@@ -2219,13 +2219,37 @@
           "h2h_under_perc": "82.61",
           "h2h_zero_perc": "0.00",
           "composite_score": 0.0,
-          "status": "🟠"
+          "status": ""
+        },
+        {
+          "date": "2026-04-20",
+          "match": "Banfield vs Independiente Ri",
+          "final_odds": "1.84",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "50.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        },
+        {
+          "date": "2026-04-20",
+          "match": "Deportiva Once C vs La Equidad",
+          "final_odds": "2.28",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "62.50",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "75.00%",
-        "under_2.5_count": "3/4",
-        "average_odds": "1.80"
+        "under_2.5_percentage": "50.00%",
+        "under_2.5_count": "4/8",
+        "average_odds": "1.79"
       },
       "combo_stats": {
         "combo_under_2.5_percentage": "50.00%",
@@ -2233,16 +2257,16 @@
         "average_combo_odds": "3.32"
       },
       "filtered_stats": {
-        "total_under_matches_in_month": 80,
-        "top2_selected": 16
+        "total_under_matches_in_month": 90,
+        "top2_selected": 18
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "48.81%",
-      "under_2.5_count": "82/168",
-      "average_odds": "2.57"
+      "under_2.5_percentage": "48.26%",
+      "under_2.5_count": "83/172",
+      "average_odds": "2.55"
     },
     "combo_stats": {
       "combo_under_2.5_percentage": "24.10%",
@@ -2251,11 +2275,11 @@
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.2522 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: 0.2292 (💰 POSITIVE (potentially profitable))",
     "Daily Combo EV: 0.5996 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
-    "Total Under2.5 matches analyzed: 884",
-    "Adaptive fallback days used (strict<2.0): 7"
+    "Total Under2.5 matches analyzed: 894",
+    "Adaptive fallback days used (strict<2.0): 8"
   ],
   "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fills nearest below-threshold odds when fewer than 2; hard floor >= 1.35"
 }
