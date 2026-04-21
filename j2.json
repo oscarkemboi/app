@@ -46737,6 +46737,86 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-04-21",
+      "Team A": "Polokwane U23",
+      "Team B": "Mamelodi Sundown",
+      "League": "South Africa - Diski Challenge",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6165218517296002,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.4,
+      "Actual Score": "0-0",
+      "League Rank": 1160,
+      "Year": "2026",
+      "Win": true,
+      "Profit": 140.0
+    },
+    {
+      "Date": "2026-04-21",
+      "Team A": "Leuven",
+      "Team B": "Westerlo",
+      "League": "Belgium - Jupiler League",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5383075598808522,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.2,
+      "Actual Score": "",
+      "League Rank": 1061,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-04-22",
+      "Team A": "Queretaro FC",
+      "Team B": "Cruz Azul",
+      "League": "Mexico - Liga MX",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.709594299965812,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.01,
+      "Actual Score": "",
+      "League Rank": 1066,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-04-22",
+      "Team A": "Trnava",
+      "Team B": "Dunajska Streda",
+      "League": "Slovakia - Fortuna Liga",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6146870401420064,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.0,
+      "Actual Score": "",
+      "League Rank": 951,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-04-23",
+      "Team A": "VfB Stuttgart",
+      "Team B": "SC Freiburg",
+      "League": "Germany - DFB Pokal Cup",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5050741202684244,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.33,
+      "Actual Score": "",
+      "League Rank": 1250,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
@@ -47257,6 +47337,13 @@
       "total": 35,
       "profit": 100.00000000000003,
       "win_rate": 48.57142857142857
+    },
+    "2026-04": {
+      "wins": 1,
+      "losses": 0,
+      "total": 1,
+      "profit": 140.0,
+      "win_rate": 100.0
     }
   },
   "yearly_stats": {
@@ -47303,11 +47390,11 @@
       "win_rate": 73.63083164300203
     },
     "2026": {
-      "wins": 46,
+      "wins": 47,
       "losses": 51,
-      "total": 97,
-      "profit": 45.999999999999915,
-      "win_rate": 47.42268041237113
+      "total": 98,
+      "profit": 185.99999999999991,
+      "win_rate": 47.95918367346938
     }
   }
 }
