@@ -2244,42 +2244,90 @@
           "h2h_zero_perc": "0.00",
           "composite_score": 0.0,
           "status": ""
+        },
+        {
+          "date": "2026-04-21",
+          "match": "Atletico Atlanta vs Chacarita jun..",
+          "final_odds": "1.36",
+          "original_prediction": "Under2.5",
+          "score": "1-0",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "80.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": "✅"
+        },
+        {
+          "date": "2026-04-21",
+          "match": "Atletico Naciona vs Atletico Buca..",
+          "final_odds": "1.75",
+          "original_prediction": "Under2.5",
+          "score": "2-0",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "56.52",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": "✅"
+        },
+        {
+          "date": "2026-04-22",
+          "match": "Volga Ulyanovsk vs FK Chayka",
+          "final_odds": "2.26",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        },
+        {
+          "date": "2026-04-22",
+          "match": "Ural Sverdlovsk vs Torpedo moskva",
+          "final_odds": "2.05",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "85.71",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "50.00%",
-        "under_2.5_count": "4/8",
-        "average_odds": "1.79"
+        "under_2.5_percentage": "60.00%",
+        "under_2.5_count": "6/10",
+        "average_odds": "1.75"
       },
       "combo_stats": {
-        "combo_under_2.5_percentage": "50.00%",
-        "combo_under_2.5_count": "1/2",
-        "average_combo_odds": "3.32"
+        "combo_under_2.5_percentage": "66.67%",
+        "combo_under_2.5_count": "2/3",
+        "average_combo_odds": "3.01"
       },
       "filtered_stats": {
-        "total_under_matches_in_month": 90,
-        "top2_selected": 18
+        "total_under_matches_in_month": 109,
+        "top2_selected": 22
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "48.26%",
-      "under_2.5_count": "83/172",
-      "average_odds": "2.55"
+      "under_2.5_percentage": "48.85%",
+      "under_2.5_count": "85/174",
+      "average_odds": "2.54"
     },
     "combo_stats": {
-      "combo_under_2.5_percentage": "24.10%",
-      "combo_under_2.5_count": "20/83",
-      "average_combo_odds": "6.64"
+      "combo_under_2.5_percentage": "25.00%",
+      "combo_under_2.5_count": "21/84",
+      "average_combo_odds": "6.59"
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.2292 (💰 POSITIVE (potentially profitable))",
-    "Daily Combo EV: 0.5996 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: 0.2388 (💰 POSITIVE (potentially profitable))",
+    "Daily Combo EV: 0.6469 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
-    "Total Under2.5 matches analyzed: 894",
-    "Adaptive fallback days used (strict<2.0): 8"
+    "Total Under2.5 matches analyzed: 913",
+    "Adaptive fallback days used (strict<2.0): 9"
   ],
   "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fills nearest below-threshold odds when fewer than 2; hard floor >= 1.35"
 }
