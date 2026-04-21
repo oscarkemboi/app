@@ -268,8 +268,7 @@
           "score": "0-3",
           "h2h_under": "100.00%",
           "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "was_converted": true
         },
         {
           "date": "2026-04-18",
@@ -281,8 +280,7 @@
           "score": "3-3",
           "h2h_under": "100.00%",
           "status": "🟠",
-          "was_converted": false,
-          "score_source": "bettingclosed"
+          "was_converted": false
         },
         {
           "date": "2026-04-19",
@@ -294,8 +292,7 @@
           "score": "0-0",
           "h2h_under": "100.00%",
           "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "was_converted": true
         },
         {
           "date": "2026-04-19",
@@ -307,8 +304,7 @@
           "score": "1-4",
           "h2h_under": "100.00%",
           "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "was_converted": true
         },
         {
           "date": "2026-04-20",
@@ -317,16 +313,66 @@
           "original_odds": "2.08",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "1-0",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true
+          "status": "✅",
+          "was_converted": true,
+          "score_source": "bettingclosed"
         },
         {
           "date": "2026-04-20",
           "match": "Penarol vs Juventud",
           "final_odds": "2.32",
           "original_odds": "1.92",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "2-2",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true,
+          "score_source": "bettingclosed"
+        },
+        {
+          "date": "2026-04-21",
+          "match": "Rotherham United vs Luton Town",
+          "final_odds": "2.17",
+          "original_odds": "2.17",
+          "original_prediction": "Under2.5",
+          "final_prediction": "Under2.5",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": false
+        },
+        {
+          "date": "2026-04-21",
+          "match": "Universitario de vs ABB",
+          "final_odds": "3.81",
+          "original_odds": "1.45",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-04-22",
+          "match": "PSIM Yogyakarta vs Persija Jakart..",
+          "final_odds": "2.43",
+          "original_odds": "1.85",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-04-22",
+          "match": "Volga Ulyanovsk vs FK Chayka",
+          "final_odds": "2.26",
+          "original_odds": "1.96",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
           "score": "",
@@ -336,39 +382,39 @@
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "57.14%",
-        "under_2.5_count": "12/21",
+        "under_2.5_percentage": "52.00%",
+        "under_2.5_count": "13/25",
         "average_odds": "2.59"
       },
       "combo_stats": {
-        "combo_under_2.5_percentage": "30.00%",
-        "combo_under_2.5_count": "3/10",
-        "average_combo_odds": "7.05"
+        "combo_under_2.5_percentage": "25.00%",
+        "combo_under_2.5_count": "3/12",
+        "average_combo_odds": "6.98"
       },
       "filtered_stats": {
-        "total_matches_in_month": 159,
-        "matches_above_threshold": 27
+        "total_matches_in_month": 178,
+        "matches_above_threshold": 31
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "49.01%",
-      "under_2.5_count": "74/151",
+      "under_2.5_percentage": "48.39%",
+      "under_2.5_count": "75/155",
       "average_odds": "2.61"
     },
     "combo_stats": {
-      "combo_under_2.5_percentage": "23.08%",
-      "combo_under_2.5_count": "15/65",
-      "average_combo_odds": "6.96"
+      "combo_under_2.5_percentage": "22.39%",
+      "combo_under_2.5_count": "15/67",
+      "average_combo_odds": "6.95"
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.2806 (💰 POSITIVE (potentially profitable))",
-    "Daily Combo EV: 0.6063 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: 0.2637 (💰 POSITIVE (potentially profitable))",
+    "Daily Combo EV: 0.5562 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 911",
+    "Total matches analyzed: 930",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
