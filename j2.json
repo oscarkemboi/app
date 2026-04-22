@@ -46817,6 +46817,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-04-24",
+      "Team A": "Persib Bandung",
+      "Team B": "Arema FC",
+      "League": "Indonesia - Liga Primer",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6044891120957809,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.28,
+      "Actual Score": "",
+      "League Rank": 1003,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-04-24",
+      "Team A": "Zaglebie Lubin",
+      "Team B": "Termalica B-B.",
+      "League": "Poland - Ekstraklasa",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5224610901812635,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.01,
+      "Actual Score": "",
+      "League Rank": 715,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
