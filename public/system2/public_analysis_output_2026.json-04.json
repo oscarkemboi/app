@@ -267,6 +267,30 @@
           "h2h_zero_perc": "0.00",
           "composite_score": 0.0,
           "status": ""
+        },
+        {
+          "date": "2026-04-23",
+          "match": "Bragantino vs Mirassol",
+          "final_odds": "2.02",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "63.64",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        },
+        {
+          "date": "2026-04-23",
+          "match": "Zamalek vs Pyramids",
+          "final_odds": "1.97",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "70.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
         }
       ],
       "single_stats": {
@@ -280,8 +304,8 @@
         "average_combo_odds": "3.01"
       },
       "filtered_stats": {
-        "total_under_matches_in_month": 109,
-        "top2_selected": 22
+        "total_under_matches_in_month": 119,
+        "top2_selected": 24
       }
     }
   ],
@@ -301,8 +325,8 @@
     "Single Match EV: 0.2388 (💰 POSITIVE (potentially profitable))",
     "Daily Combo EV: 0.6469 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
-    "Total Under2.5 matches analyzed: 913",
-    "Adaptive fallback days used (strict<2.0): 9"
+    "Total Under2.5 matches analyzed: 923",
+    "Adaptive fallback days used (strict<2.0): 10"
   ],
   "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fills nearest below-threshold odds when fewer than 2; hard floor >= 1.35"
 }
