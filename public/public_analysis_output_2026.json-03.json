@@ -675,22 +675,22 @@
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "48.39%",
-      "under_2.5_count": "75/155",
+      "under_2.5_percentage": "48.41%",
+      "under_2.5_count": "76/157",
       "average_odds": "2.61"
     },
     "combo_stats": {
-      "combo_under_2.5_percentage": "22.39%",
-      "combo_under_2.5_count": "15/67",
-      "average_combo_odds": "6.95"
+      "combo_under_2.5_percentage": "22.06%",
+      "combo_under_2.5_count": "15/68",
+      "average_combo_odds": "6.92"
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.2637 (💰 POSITIVE (potentially profitable))",
-    "Daily Combo EV: 0.5562 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: 0.2618 (💰 POSITIVE (potentially profitable))",
+    "Daily Combo EV: 0.5267 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 930",
+    "Total matches analyzed: 940",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
