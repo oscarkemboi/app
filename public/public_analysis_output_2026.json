@@ -2256,8 +2256,7 @@
           "score": "2-1",
           "h2h_under": "100.00%",
           "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "was_converted": true
         },
         {
           "date": "2026-04-23",
@@ -2269,8 +2268,7 @@
           "score": "0-2",
           "h2h_under": "100.00%",
           "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "was_converted": true
         },
         {
           "date": "2026-04-23",
@@ -2279,10 +2277,11 @@
           "original_odds": "1.68",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "1-2",
           "h2h_under": "100.00%",
           "status": "🟠",
-          "was_converted": true
+          "was_converted": true,
+          "score_source": "bettingclosed"
         },
         {
           "date": "2026-04-24",
@@ -2307,12 +2306,36 @@
           "h2h_under": "100.00%",
           "status": "🟠",
           "was_converted": true
+        },
+        {
+          "date": "2026-04-25",
+          "match": "Scunthorpe Unite vs Eastleigh",
+          "final_odds": "3.45",
+          "original_odds": "1.51",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-04-25",
+          "match": "TSV 1860 Munchen vs SSV Ulm 1846",
+          "final_odds": "2.27",
+          "original_odds": "2.27",
+          "original_prediction": "Under2.5",
+          "final_prediction": "Under2.5",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": false
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "51.72%",
-        "under_2.5_count": "15/29",
-        "average_odds": "2.59"
+        "under_2.5_percentage": "51.61%",
+        "under_2.5_count": "16/31",
+        "average_odds": "2.63"
       },
       "combo_stats": {
         "combo_under_2.5_percentage": "21.43%",
@@ -2320,16 +2343,16 @@
         "average_combo_odds": "6.93"
       },
       "filtered_stats": {
-        "total_matches_in_month": 198,
-        "matches_above_threshold": 35
+        "total_matches_in_month": 208,
+        "matches_above_threshold": 37
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "48.43%",
-      "under_2.5_count": "77/159",
-      "average_odds": "2.61"
+      "under_2.5_percentage": "48.45%",
+      "under_2.5_count": "78/161",
+      "average_odds": "2.62"
     },
     "combo_stats": {
       "combo_under_2.5_percentage": "21.74%",
@@ -2338,11 +2361,11 @@
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.2646 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: 0.2689 (💰 POSITIVE (potentially profitable))",
     "Daily Combo EV: 0.5088 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 950",
+    "Total matches analyzed: 960",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
