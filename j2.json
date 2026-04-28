@@ -46913,6 +46913,86 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-04-27",
+      "Team A": "Konyaspor",
+      "Team B": "Trabzonspor",
+      "League": "Turkey - Super Lig",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5574351557989363,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.13,
+      "Actual Score": "",
+      "League Rank": 1000,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-04-28",
+      "Team A": "Inter San Carlos",
+      "Team B": "Pitbulls Santa B",
+      "League": "Costa Rica - Liga de Ascenso",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6628494864488406,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.02,
+      "Actual Score": "2-0",
+      "League Rank": 1113,
+      "Year": "2026",
+      "Win": true,
+      "Profit": 102.0
+    },
+    {
+      "Date": "2026-04-28",
+      "Team A": "FHK Liepajas Met",
+      "Team B": "Grobina",
+      "League": "Latvia - Virsliga",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6301567330277513,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.06,
+      "Actual Score": "",
+      "League Rank": 1018,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-04-29",
+      "Team A": "Al-Nassr",
+      "Team B": "Jeddah",
+      "League": "Saudi Arabia - Professional League",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5973800990198215,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.35,
+      "Actual Score": "",
+      "League Rank": 1059,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-04-29",
+      "Team A": "San Jose Earthqu",
+      "Team B": "Minnesota United",
+      "League": "United States - Open Cup",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5873533134263795,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.31,
+      "Actual Score": "",
+      "League Rank": 1107,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
@@ -47435,10 +47515,10 @@
       "win_rate": 48.57142857142857
     },
     "2026-04": {
-      "wins": 1,
+      "wins": 2,
       "losses": 0,
-      "total": 1,
-      "profit": 140.0,
+      "total": 2,
+      "profit": 242.0,
       "win_rate": 100.0
     }
   },
@@ -47486,11 +47566,11 @@
       "win_rate": 73.63083164300203
     },
     "2026": {
-      "wins": 47,
+      "wins": 48,
       "losses": 51,
-      "total": 98,
-      "profit": 185.99999999999991,
-      "win_rate": 47.95918367346938
+      "total": 99,
+      "profit": 287.9999999999999,
+      "win_rate": 48.484848484848484
     }
   }
 }
