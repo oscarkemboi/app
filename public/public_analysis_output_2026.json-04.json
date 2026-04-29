@@ -156,11 +156,10 @@
           "original_odds": "1.35",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "2-2",
+          "score": "0-0",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "✅",
+          "was_converted": true
         },
         {
           "date": "2026-04-13",
@@ -361,11 +360,10 @@
           "original_odds": "1.85",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "1-1",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-04-22",
@@ -437,8 +435,7 @@
           "score": "0-1",
           "h2h_under": "100.00%",
           "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "was_converted": true
         },
         {
           "date": "2026-04-25",
@@ -450,8 +447,7 @@
           "score": "3-2",
           "h2h_under": "100.00%",
           "status": "🟠",
-          "was_converted": false,
-          "score_source": "bettingclosed"
+          "was_converted": false
         },
         {
           "date": "2026-04-26",
@@ -463,8 +459,7 @@
           "score": "1-2",
           "h2h_under": "100.00%",
           "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "was_converted": true
         },
         {
           "date": "2026-04-27",
@@ -476,8 +471,7 @@
           "score": "2-1",
           "h2h_under": "87.50%",
           "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "was_converted": true
         },
         {
           "date": "2026-04-28",
@@ -486,10 +480,11 @@
           "original_odds": "1.42",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "1-1",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true
+          "status": "✅",
+          "was_converted": true,
+          "score_source": "bettingclosed"
         },
         {
           "date": "2026-04-28",
@@ -498,10 +493,11 @@
           "original_odds": "1.25",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "1-0",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true
+          "status": "✅",
+          "was_converted": true,
+          "score_source": "bettingclosed"
         },
         {
           "date": "2026-04-29",
@@ -526,42 +522,66 @@
           "h2h_under": "100.00%",
           "status": "🟠",
           "was_converted": false
+        },
+        {
+          "date": "2026-04-30",
+          "match": "Houston Dynamo vs Louisville City",
+          "final_odds": "2.86",
+          "original_odds": "1.66",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-04-30",
+          "match": "Al-Akhdoud vs Al-Ettifaq",
+          "final_odds": "2.22",
+          "original_odds": "2.22",
+          "original_prediction": "Under2.5",
+          "final_prediction": "Under2.5",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": false
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "52.94%",
-        "under_2.5_count": "18/34",
-        "average_odds": "2.61"
+        "under_2.5_percentage": "50.00%",
+        "under_2.5_count": "19/38",
+        "average_odds": "2.60"
       },
       "combo_stats": {
-        "combo_under_2.5_percentage": "25.00%",
-        "combo_under_2.5_count": "4/16",
-        "average_combo_odds": "7.09"
+        "combo_under_2.5_percentage": "23.53%",
+        "combo_under_2.5_count": "4/17",
+        "average_combo_odds": "7.13"
       },
       "filtered_stats": {
-        "total_matches_in_month": 248,
-        "matches_above_threshold": 43
+        "total_matches_in_month": 258,
+        "matches_above_threshold": 45
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "48.78%",
-      "under_2.5_count": "80/164",
+      "under_2.5_percentage": "48.21%",
+      "under_2.5_count": "81/168",
       "average_odds": "2.61"
     },
     "combo_stats": {
-      "combo_under_2.5_percentage": "22.54%",
-      "combo_under_2.5_count": "16/71",
-      "average_combo_odds": "6.98"
+      "combo_under_2.5_percentage": "22.22%",
+      "combo_under_2.5_count": "16/72",
+      "average_combo_odds": "6.99"
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.2754 (💰 POSITIVE (potentially profitable))",
-    "Daily Combo EV: 0.5722 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: 0.2593 (💰 POSITIVE (potentially profitable))",
+    "Daily Combo EV: 0.5530 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 1000",
+    "Total matches analyzed: 1010",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
