@@ -4,27 +4,62 @@
   "months": [
     {
       "month": "2026-05",
-      "matches": []
+      "matches": [
+        {
+          "date": "2026-05-01",
+          "match": "Mantova vs Monza",
+          "final_odds": "2.29",
+          "original_odds": "1.94",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-05-01",
+          "match": "Csikszereda vs FCSB",
+          "final_odds": "2.95",
+          "original_odds": "1.63",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
+        }
+      ],
+      "single_stats": {
+        "message": "No matches with valid scores in 2026-05."
+      },
+      "combo_stats": {
+        "message": "No valid 2-match combos in 2026-05."
+      },
+      "filtered_stats": {
+        "total_matches_in_month": 10,
+        "matches_above_threshold": 2
+      }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "48.08%",
-      "under_2.5_count": "25/52",
-      "average_odds": "2.56"
+      "under_2.5_percentage": "48.82%",
+      "under_2.5_count": "83/170",
+      "average_odds": "2.64"
     },
     "combo_stats": {
-      "combo_under_2.5_percentage": "23.81%",
-      "combo_under_2.5_count": "5/21",
-      "average_combo_odds": "6.93"
+      "combo_under_2.5_percentage": "23.29%",
+      "combo_under_2.5_count": "17/73",
+      "average_combo_odds": "7.25"
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.2315 (💰 POSITIVE (potentially profitable))",
-    "Daily Combo EV: 0.6503 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: 0.2906 (💰 POSITIVE (potentially profitable))",
+    "Daily Combo EV: 0.6895 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 330",
+    "Total matches analyzed: 1020",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
