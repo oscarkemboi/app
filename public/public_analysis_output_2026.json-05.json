@@ -37,15 +37,15 @@
         "message": "No valid 2-match combos in 2026-05."
       },
       "filtered_stats": {
-        "total_matches_in_month": 10,
+        "total_matches_in_month": 20,
         "matches_above_threshold": 2
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "48.82%",
-      "under_2.5_count": "83/170",
+      "under_2.5_percentage": "48.84%",
+      "under_2.5_count": "84/172",
       "average_odds": "2.64"
     },
     "combo_stats": {
@@ -55,11 +55,11 @@
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.2906 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: 0.2901 (💰 POSITIVE (potentially profitable))",
     "Daily Combo EV: 0.6895 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 1020",
+    "Total matches analyzed: 1030",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
