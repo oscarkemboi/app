@@ -3,14 +3,42 @@
   "months": [
     {
       "month": "2026-05",
-      "matches": [],
-      "single_stats": {},
-      "combo_stats": {},
-      "filtered_stats": {
-        "total_under_matches_in_month": 20,
-        "top2_selected": 0
+      "matches": [
+        {
+          "date": "2026-05-03",
+          "match": "Velez Sarsfield vs Newells Old Bo..",
+          "final_odds": "1.99",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "71.43",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        },
+        {
+          "date": "2026-05-03",
+          "match": "River Plate vs Atletico Tucuman",
+          "final_odds": "1.86",
+          "original_prediction": "Under2.5",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "57.14",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        }
+      ],
+      "single_stats": {
+        "message": "No matches with valid scores in 2026-05."
       },
-      "message": "No Under2.5 matches in 2026-05."
+      "combo_stats": {
+        "message": "No valid 2-match combos in 2026-05."
+      },
+      "filtered_stats": {
+        "total_under_matches_in_month": 30,
+        "top2_selected": 2
+      }
     }
   ],
   "yearly_stats": {
@@ -29,8 +57,8 @@
     "Single Match EV: 0.2396 (💰 POSITIVE (potentially profitable))",
     "Daily Combo EV: 0.6323 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
-    "Total Under2.5 matches analyzed: 1013",
-    "Adaptive fallback days used (strict<2.0): 6"
+    "Total Under2.5 matches analyzed: 1023",
+    "Adaptive fallback days used (strict<2.0): 7"
   ],
   "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fills nearest below-threshold odds when fewer than 2; hard floor >= 1.85"
 }
