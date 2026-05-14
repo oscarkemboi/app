@@ -695,9 +695,9 @@
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "48.85%",
-      "under_2.5_count": "85/174",
-      "average_odds": "2.54"
+      "under_2.5_percentage": "49.14%",
+      "under_2.5_count": "86/175",
+      "average_odds": "2.53"
     },
     "combo_stats": {
       "combo_under_2.5_percentage": "24.71%",
@@ -706,11 +706,11 @@
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.2392 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: 0.2450 (💰 POSITIVE (potentially profitable))",
     "Daily Combo EV: 0.6165 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
-    "Total Under2.5 matches analyzed: 1053",
-    "Adaptive fallback days used (strict<2.0): 21"
+    "Total Under2.5 matches analyzed: 1073",
+    "Adaptive fallback days used (strict<2.0): 22"
   ],
   "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fills nearest below-threshold odds when fewer than 2; hard floor >= 1.35"
 }
