@@ -2495,8 +2495,7 @@
           "score": "4-2",
           "h2h_under": "100.00%",
           "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "was_converted": true
         },
         {
           "date": "2026-05-04",
@@ -2508,8 +2507,7 @@
           "score": "1-1",
           "h2h_under": "100.00%",
           "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "was_converted": true
         },
         {
           "date": "2026-05-10",
@@ -2518,10 +2516,11 @@
           "original_odds": "1.90",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "2-2",
           "h2h_under": "100.00%",
           "status": "🟠",
-          "was_converted": true
+          "was_converted": true,
+          "score_source": "bettingclosed"
         },
         {
           "date": "2026-05-10",
@@ -2530,10 +2529,11 @@
           "original_odds": "2.07",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "2-0",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true
+          "status": "✅",
+          "was_converted": true,
+          "score_source": "bettingclosed"
         },
         {
           "date": "2026-05-11",
@@ -2542,10 +2542,11 @@
           "original_odds": "1.73",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "1-4",
           "h2h_under": "100.00%",
           "status": "🟠",
-          "was_converted": true
+          "was_converted": true,
+          "score_source": "bettingclosed"
         },
         {
           "date": "2026-05-11",
@@ -2554,46 +2555,95 @@
           "original_odds": "1.87",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
+          "score": "0-0",
+          "h2h_under": "100.00%",
+          "status": "✅",
+          "was_converted": true,
+          "score_source": "bettingclosed"
+        },
+        {
+          "date": "2026-05-14",
+          "match": "Al-Fateh vs Al Najma(KSA)",
+          "final_odds": "2.83",
+          "original_odds": "2.83",
+          "original_prediction": "Under2.5",
+          "final_prediction": "Under2.5",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": false
+        },
+        {
+          "date": "2026-05-14",
+          "match": "Al Wehda(KSA) vs Al-Jabalain",
+          "final_odds": "3.21",
+          "original_odds": "1.56",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "100.00%",
           "status": "🟠",
           "was_converted": true
+        },
+        {
+          "date": "2026-05-15",
+          "match": "Semen Padang vs Persebaya",
+          "final_odds": "2.04",
+          "original_odds": "2.04",
+          "original_prediction": "Under2.5",
+          "final_prediction": "Under2.5",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": false
+        },
+        {
+          "date": "2026-05-15",
+          "match": "Olimpia Asuncion vs Recoleta",
+          "final_odds": "2.00",
+          "original_odds": "2.00",
+          "original_prediction": "Under2.5",
+          "final_prediction": "Under2.5",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": false
         }
       ],
       "single_stats": {
         "under_2.5_percentage": "50.00%",
-        "under_2.5_count": "1/2",
-        "average_odds": "2.62"
+        "under_2.5_count": "2/4",
+        "average_odds": "2.35"
       },
       "combo_stats": {
         "combo_under_2.5_percentage": "0.00%",
-        "combo_under_2.5_count": "0/1",
-        "average_combo_odds": "6.75"
+        "combo_under_2.5_count": "0/2",
+        "average_combo_odds": "5.54"
       },
       "filtered_stats": {
-        "total_matches_in_month": 59,
-        "matches_above_threshold": 8
+        "total_matches_in_month": 79,
+        "matches_above_threshold": 12
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "48.57%",
-      "under_2.5_count": "85/175",
-      "average_odds": "2.64"
+      "under_2.5_percentage": "48.59%",
+      "under_2.5_count": "86/177",
+      "average_odds": "2.63"
     },
     "combo_stats": {
-      "combo_under_2.5_percentage": "22.67%",
-      "combo_under_2.5_count": "17/75",
-      "average_combo_odds": "7.24"
+      "combo_under_2.5_percentage": "22.37%",
+      "combo_under_2.5_count": "17/76",
+      "average_combo_odds": "7.20"
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.2818 (💰 POSITIVE (potentially profitable))",
-    "Daily Combo EV: 0.6402 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: 0.2791 (💰 POSITIVE (potentially profitable))",
+    "Daily Combo EV: 0.6100 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 1069",
+    "Total matches analyzed: 1089",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
