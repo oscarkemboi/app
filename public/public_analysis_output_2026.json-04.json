@@ -156,11 +156,10 @@
           "original_odds": "1.35",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "2-2",
+          "score": "0-0",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "✅",
+          "was_converted": true
         },
         {
           "date": "2026-04-13",
@@ -361,11 +360,10 @@
           "original_odds": "1.85",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "1-1",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-04-22",
@@ -506,11 +504,10 @@
           "original_odds": "1.91",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "2-3",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-04-29",
@@ -567,8 +564,8 @@
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "48.59%",
-      "under_2.5_count": "86/177",
+      "under_2.5_percentage": "48.60%",
+      "under_2.5_count": "87/179",
       "average_odds": "2.63"
     },
     "combo_stats": {
@@ -578,11 +575,11 @@
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.2791 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: 0.2783 (💰 POSITIVE (potentially profitable))",
     "Daily Combo EV: 0.6100 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 1089",
+    "Total matches analyzed: 1109",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
