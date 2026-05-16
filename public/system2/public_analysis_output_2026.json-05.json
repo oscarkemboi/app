@@ -5,42 +5,6 @@
       "month": "2026-05",
       "matches": [
         {
-          "date": "2026-05-01",
-          "match": "KAMAZ Naberezhny vs Spartak Kostr..",
-          "final_odds": "1.78",
-          "original_prediction": "Under2.5 (converted)",
-          "score": "",
-          "team_zero_perc": "0.00",
-          "h2h_under_perc": "100.00",
-          "h2h_zero_perc": "0.00",
-          "composite_score": 0.0,
-          "status": ""
-        },
-        {
-          "date": "2026-05-02",
-          "match": "Central Cordoba vs Boca Juniors",
-          "final_odds": "1.44",
-          "original_prediction": "Under2.5",
-          "score": "",
-          "team_zero_perc": "0.00",
-          "h2h_under_perc": "30.00",
-          "h2h_zero_perc": "0.00",
-          "composite_score": 0.0,
-          "status": ""
-        },
-        {
-          "date": "2026-05-02",
-          "match": "San Lorenzo vs Independiente",
-          "final_odds": "1.68",
-          "original_prediction": "Under2.5 (converted)",
-          "score": "",
-          "team_zero_perc": "0.00",
-          "h2h_under_perc": "69.23",
-          "h2h_zero_perc": "0.00",
-          "composite_score": 0.0,
-          "status": ""
-        },
-        {
           "date": "2026-05-03",
           "match": "Velez Sarsfield vs Newells Old Bo..",
           "final_odds": "1.99",
@@ -87,18 +51,6 @@
           "h2h_zero_perc": "0.00",
           "composite_score": 0.0,
           "status": ""
-        },
-        {
-          "date": "2026-05-10",
-          "match": "Argentinos junio vs Lanus",
-          "final_odds": "1.43",
-          "original_prediction": "Under2.5",
-          "score": "2-0",
-          "team_zero_perc": "0.00",
-          "h2h_under_perc": "71.43",
-          "h2h_zero_perc": "0.00",
-          "composite_score": 0.0,
-          "status": "✅"
         },
         {
           "date": "2026-05-10",
@@ -174,39 +126,37 @@
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "66.67%",
-        "under_2.5_count": "2/3",
-        "average_odds": "1.78"
+        "under_2.5_percentage": "50.00%",
+        "under_2.5_count": "1/2",
+        "average_odds": "1.95"
       },
       "combo_stats": {
-        "combo_under_2.5_percentage": "0.00%",
-        "combo_under_2.5_count": "0/1",
-        "average_combo_odds": "2.79"
+        "message": "No valid 2-match combos in 2026-05."
       },
       "filtered_stats": {
-        "total_under_matches_in_month": 80,
-        "top2_selected": 14
+        "total_under_matches_in_month": 100,
+        "top2_selected": 10
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "49.14%",
-      "under_2.5_count": "86/175",
-      "average_odds": "2.53"
+      "under_2.5_percentage": "48.24%",
+      "under_2.5_count": "82/170",
+      "average_odds": "2.56"
     },
     "combo_stats": {
-      "combo_under_2.5_percentage": "24.71%",
-      "combo_under_2.5_count": "21/85",
-      "average_combo_odds": "6.54"
+      "combo_under_2.5_percentage": "24.39%",
+      "combo_under_2.5_count": "20/82",
+      "average_combo_odds": "6.69"
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.2450 (💰 POSITIVE (potentially profitable))",
-    "Daily Combo EV: 0.6165 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: 0.2366 (💰 POSITIVE (potentially profitable))",
+    "Daily Combo EV: 0.6323 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
-    "Total Under2.5 matches analyzed: 1073",
-    "Adaptive fallback days used (strict<2.0): 22"
+    "Total Under2.5 matches analyzed: 1093",
+    "Adaptive fallback days used (strict<2.0): 10"
   ],
-  "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fills nearest below-threshold odds when fewer than 2; hard floor >= 1.35"
+  "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fills nearest below-threshold odds when fewer than 2; hard floor >= 1.85"
 }
