@@ -47281,6 +47281,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-05-17",
+      "Team A": "Pisa",
+      "Team B": "Napoli",
+      "League": "Italy - Serie A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.722809239452247,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.08,
+      "Actual Score": "",
+      "League Rank": 955,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-05-17",
+      "Team A": "Real Zaragoza",
+      "Team B": "Sporting Gijon",
+      "League": "Spain - Liga Adelante",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6734723508411975,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.04,
+      "Actual Score": "",
+      "League Rank": 456,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
