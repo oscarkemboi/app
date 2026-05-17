@@ -161,8 +161,7 @@
           "score": "0-2",
           "h2h_under": "100.00%",
           "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "was_converted": true
         },
         {
           "date": "2026-05-17",
@@ -214,9 +213,9 @@
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "50.00%",
-        "under_2.5_count": "5/10",
-        "average_odds": "2.43"
+        "under_2.5_percentage": "54.55%",
+        "under_2.5_count": "6/11",
+        "average_odds": "2.59"
       },
       "combo_stats": {
         "combo_under_2.5_percentage": "25.00%",
@@ -231,9 +230,9 @@
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "48.63%",
-      "under_2.5_count": "89/183",
-      "average_odds": "2.63"
+      "under_2.5_percentage": "48.91%",
+      "under_2.5_count": "90/184",
+      "average_odds": "2.64"
     },
     "combo_stats": {
       "combo_under_2.5_percentage": "23.08%",
@@ -242,7 +241,7 @@
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.2779 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: 0.2895 (💰 POSITIVE (potentially profitable))",
     "Daily Combo EV: 0.6574 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
