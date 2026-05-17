@@ -111,8 +111,7 @@
           "score": "2-0",
           "h2h_under": "100.00%",
           "status": "✅",
-          "was_converted": false,
-          "score_source": "bettingclosed"
+          "was_converted": false
         },
         {
           "date": "2026-05-14",
@@ -124,8 +123,7 @@
           "score": "0-1",
           "h2h_under": "100.00%",
           "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "was_converted": true
         },
         {
           "date": "2026-05-15",
@@ -137,8 +135,7 @@
           "score": "0-7",
           "h2h_under": "100.00%",
           "status": "🟠",
-          "was_converted": false,
-          "score_source": "bettingclosed"
+          "was_converted": false
         },
         {
           "date": "2026-05-15",
@@ -150,8 +147,7 @@
           "score": "3-2",
           "h2h_under": "100.00%",
           "status": "🟠",
-          "was_converted": false,
-          "score_source": "bettingclosed"
+          "was_converted": false
         },
         {
           "date": "2026-05-16",
@@ -160,10 +156,11 @@
           "original_odds": "1.40",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "0-2",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true
+          "status": "✅",
+          "was_converted": true,
+          "score_source": "bettingclosed"
         },
         {
           "date": "2026-05-17",
@@ -188,42 +185,66 @@
           "h2h_under": "100.00%",
           "status": "🟠",
           "was_converted": true
+        },
+        {
+          "date": "2026-05-18",
+          "match": "Leganes vs SD Huesca",
+          "final_odds": "2.32",
+          "original_odds": "1.92",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "66.67%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-05-18",
+          "match": "Club Deportes Sa vs Temuco",
+          "final_odds": "2.46",
+          "original_odds": "1.83",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "75.00%",
+          "status": "🟠",
+          "was_converted": true
         }
       ],
       "single_stats": {
         "under_2.5_percentage": "50.00%",
-        "under_2.5_count": "3/6",
-        "average_odds": "2.37"
+        "under_2.5_count": "5/10",
+        "average_odds": "2.43"
       },
       "combo_stats": {
-        "combo_under_2.5_percentage": "0.00%",
-        "combo_under_2.5_count": "0/2",
-        "average_combo_odds": "5.54"
+        "combo_under_2.5_percentage": "25.00%",
+        "combo_under_2.5_count": "1/4",
+        "average_combo_odds": "6.06"
       },
       "filtered_stats": {
-        "total_matches_in_month": 99,
-        "matches_above_threshold": 15
+        "total_matches_in_month": 109,
+        "matches_above_threshold": 17
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "48.60%",
-      "under_2.5_count": "87/179",
+      "under_2.5_percentage": "48.63%",
+      "under_2.5_count": "89/183",
       "average_odds": "2.63"
     },
     "combo_stats": {
-      "combo_under_2.5_percentage": "22.37%",
-      "combo_under_2.5_count": "17/76",
-      "average_combo_odds": "7.20"
+      "combo_under_2.5_percentage": "23.08%",
+      "combo_under_2.5_count": "18/78",
+      "average_combo_odds": "7.18"
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.2783 (💰 POSITIVE (potentially profitable))",
-    "Daily Combo EV: 0.6100 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: 0.2779 (💰 POSITIVE (potentially profitable))",
+    "Daily Combo EV: 0.6574 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 1109",
+    "Total matches analyzed: 1119",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
