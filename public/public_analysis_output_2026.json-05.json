@@ -60,11 +60,10 @@
           "original_odds": "1.90",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "2-2",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-05-10",
@@ -97,11 +96,10 @@
           "original_odds": "1.87",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "0-0",
+          "score": "",
           "h2h_under": "100.00%",
-          "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-05-14",
@@ -170,7 +168,7 @@
           "original_odds": "1.32",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "6-1",
           "h2h_under": "100.00%",
           "status": "🟠",
           "was_converted": true
@@ -182,7 +180,7 @@
           "original_odds": "1.33",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "3-0",
           "h2h_under": "100.00%",
           "status": "🟠",
           "was_converted": true
@@ -213,14 +211,14 @@
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "54.55%",
-        "under_2.5_count": "6/11",
-        "average_odds": "2.59"
+        "under_2.5_percentage": "46.15%",
+        "under_2.5_count": "6/13",
+        "average_odds": "2.97"
       },
       "combo_stats": {
-        "combo_under_2.5_percentage": "25.00%",
-        "combo_under_2.5_count": "1/4",
-        "average_combo_odds": "6.06"
+        "combo_under_2.5_percentage": "20.00%",
+        "combo_under_2.5_count": "1/5",
+        "average_combo_odds": "9.97"
       },
       "filtered_stats": {
         "total_matches_in_month": 109,
@@ -230,19 +228,19 @@
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "48.91%",
-      "under_2.5_count": "90/184",
-      "average_odds": "2.64"
+      "under_2.5_percentage": "48.39%",
+      "under_2.5_count": "90/186",
+      "average_odds": "2.66"
     },
     "combo_stats": {
-      "combo_under_2.5_percentage": "23.08%",
-      "combo_under_2.5_count": "18/78",
-      "average_combo_odds": "7.18"
+      "combo_under_2.5_percentage": "22.78%",
+      "combo_under_2.5_count": "18/79",
+      "average_combo_odds": "7.42"
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.2895 (💰 POSITIVE (potentially profitable))",
-    "Daily Combo EV: 0.6574 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: 0.2882 (💰 POSITIVE (potentially profitable))",
+    "Daily Combo EV: 0.6895 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
     "Total matches analyzed: 1119",
