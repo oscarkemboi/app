@@ -26,7 +26,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "0-0",
           "h2h_under": "100.00%",
-          "status": "✅",
+          "status": "🟠",
           "was_converted": true
         },
         {
@@ -74,7 +74,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "75.00%",
-          "status": "",
+          "status": "🟠",
           "was_converted": true
         },
         {
@@ -384,10 +384,11 @@
           "original_odds": "1.58",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "3-0",
           "h2h_under": "100.00%",
-          "status": "",
-          "was_converted": true
+          "status": "🟠",
+          "was_converted": true,
+          "score_source": "statarea"
         },
         {
           "date": "2026-03-18",
@@ -422,7 +423,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "0-0",
           "h2h_under": "70.00%",
-          "status": "✅",
+          "status": "🟠",
           "was_converted": true
         },
         {
@@ -530,7 +531,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "100.00%",
-          "status": "",
+          "status": "🟠",
           "was_converted": true
         },
         {
@@ -650,7 +651,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "44.83%",
-          "status": "",
+          "status": "🟠",
           "was_converted": true
         }
       ],
