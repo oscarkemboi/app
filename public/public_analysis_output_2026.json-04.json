@@ -156,11 +156,10 @@
           "original_odds": "1.35",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "2-2",
+          "score": "0-0",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "statarea"
+          "status": "✅",
+          "was_converted": true
         },
         {
           "date": "2026-04-13",
@@ -291,7 +290,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "0-0",
           "h2h_under": "100.00%",
-          "status": "🟠",
+          "status": "✅",
           "was_converted": true
         },
         {
@@ -363,7 +362,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
+          "status": "",
           "was_converted": true
         },
         {
@@ -507,7 +506,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
+          "status": "",
           "was_converted": true
         },
         {
@@ -565,8 +564,8 @@
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "48.39%",
-      "under_2.5_count": "90/186",
+      "under_2.5_percentage": "48.66%",
+      "under_2.5_count": "91/187",
       "average_odds": "2.66"
     },
     "combo_stats": {
@@ -576,7 +575,7 @@
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.2882 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: 0.2946 (💰 POSITIVE (potentially profitable))",
     "Daily Combo EV: 0.6895 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
