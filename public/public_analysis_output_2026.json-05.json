@@ -62,7 +62,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "100.00%",
-          "status": "",
+          "status": "🟠",
           "was_converted": true
         },
         {
@@ -98,7 +98,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "100.00%",
-          "status": "",
+          "status": "🟠",
           "was_converted": true
         },
         {
@@ -206,7 +206,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "75.00%",
-          "status": "",
+          "status": "🟠",
           "was_converted": true
         }
       ],
