@@ -6,244 +6,42 @@
       "month": "2026-05",
       "matches": [
         {
-          "date": "2026-05-01",
-          "match": "Mantova vs Monza",
-          "final_odds": "2.29",
-          "original_odds": "1.94",
-          "original_prediction": "Over2.5",
-          "final_prediction": "Under2.5 (converted)",
-          "score": "3-2",
-          "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true
-        },
-        {
-          "date": "2026-05-01",
-          "match": "Csikszereda vs FCSB",
-          "final_odds": "2.95",
-          "original_odds": "1.63",
-          "original_prediction": "Over2.5",
-          "final_prediction": "Under2.5 (converted)",
-          "score": "1-0",
-          "h2h_under": "100.00%",
-          "status": "✅",
-          "was_converted": true
-        },
-        {
           "date": "2026-05-04",
-          "match": "Al-Feiha vs Al-Riyadh",
-          "final_odds": "2.14",
-          "original_odds": "2.06",
-          "original_prediction": "Over2.5",
-          "final_prediction": "Under2.5 (converted)",
-          "score": "4-2",
-          "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true
-        },
-        {
-          "date": "2026-05-04",
-          "match": "Vila Nova vs Athletic Club",
-          "final_odds": "2.02",
-          "original_odds": "2.19",
-          "original_prediction": "Over2.5",
-          "final_prediction": "Under2.5 (converted)",
-          "score": "1-1",
-          "h2h_under": "100.00%",
-          "status": "✅",
-          "was_converted": true
-        },
-        {
-          "date": "2026-05-10",
-          "match": "Banga Gargzdai vs TransINVEST Vil..",
-          "final_odds": "2.35",
-          "original_odds": "1.90",
-          "original_prediction": "Over2.5",
-          "final_prediction": "Under2.5 (converted)",
-          "score": "",
-          "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true
-        },
-        {
-          "date": "2026-05-10",
-          "match": "Ali CSC vs Al-Budaiya",
-          "final_odds": "2.13",
-          "original_odds": "2.07",
-          "original_prediction": "Over2.5",
-          "final_prediction": "Under2.5 (converted)",
-          "score": "2-0",
-          "h2h_under": "100.00%",
-          "status": "✅",
-          "was_converted": true
-        },
-        {
-          "date": "2026-05-11",
-          "match": "Los Angeles FC vs Houston Dynamo",
-          "final_odds": "2.67",
-          "original_odds": "1.73",
-          "original_prediction": "Over2.5",
-          "final_prediction": "Under2.5 (converted)",
-          "score": "1-4",
-          "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true
-        },
-        {
-          "date": "2026-05-11",
-          "match": "Yantra Gabrovo vs Vihren Sandansk..",
-          "final_odds": "2.39",
-          "original_odds": "1.87",
-          "original_prediction": "Over2.5",
-          "final_prediction": "Under2.5 (converted)",
-          "score": "",
-          "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true
-        },
-        {
-          "date": "2026-05-14",
-          "match": "Al-Fateh vs Al Najma(KSA)",
-          "final_odds": "2.83",
-          "original_odds": "2.83",
-          "original_prediction": "Under2.5",
-          "final_prediction": "Under2.5",
-          "score": "2-0",
-          "h2h_under": "100.00%",
-          "status": "✅",
-          "was_converted": false
-        },
-        {
-          "date": "2026-05-14",
-          "match": "Al Wehda(KSA) vs Al-Jabalain",
-          "final_odds": "3.21",
-          "original_odds": "1.56",
-          "original_prediction": "Over2.5",
-          "final_prediction": "Under2.5 (converted)",
-          "score": "0-1",
-          "h2h_under": "100.00%",
-          "status": "✅",
-          "was_converted": true
-        },
-        {
-          "date": "2026-05-15",
-          "match": "Semen Padang vs Persebaya",
-          "final_odds": "2.04",
-          "original_odds": "2.04",
-          "original_prediction": "Under2.5",
-          "final_prediction": "Under2.5",
-          "score": "0-7",
-          "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": false
-        },
-        {
-          "date": "2026-05-15",
-          "match": "Olimpia Asuncion vs Recoleta",
-          "final_odds": "2.00",
-          "original_odds": "2.00",
-          "original_prediction": "Under2.5",
-          "final_prediction": "Under2.5",
-          "score": "3-2",
-          "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": false
-        },
-        {
-          "date": "2026-05-16",
-          "match": "FC Heidenheim vs FSV Mainz 05",
-          "final_odds": "4.20",
-          "original_odds": "1.40",
-          "original_prediction": "Over2.5",
-          "final_prediction": "Under2.5 (converted)",
-          "score": "0-2",
-          "h2h_under": "100.00%",
-          "status": "✅",
-          "was_converted": true
-        },
-        {
-          "date": "2026-05-17",
-          "match": "Arminia Bielefel vs Hertha Berlin",
-          "final_odds": "5.13",
-          "original_odds": "1.32",
-          "original_prediction": "Over2.5",
-          "final_prediction": "Under2.5 (converted)",
-          "score": "6-1",
-          "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true
-        },
-        {
-          "date": "2026-05-17",
-          "match": "SV Elversberg vs Preussen Munster",
-          "final_odds": "4.99",
-          "original_odds": "1.33",
-          "original_prediction": "Over2.5",
-          "final_prediction": "Under2.5 (converted)",
-          "score": "3-0",
-          "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true
-        },
-        {
-          "date": "2026-05-18",
-          "match": "Leganes vs SD Huesca",
-          "final_odds": "2.32",
-          "original_odds": "1.92",
-          "original_prediction": "Over2.5",
-          "final_prediction": "Under2.5 (converted)",
-          "score": "0-0",
-          "h2h_under": "66.67%",
-          "status": "✅",
-          "was_converted": true
-        },
-        {
-          "date": "2026-05-18",
-          "match": "Club Deportes Sa vs Temuco",
+          "match": "PSM Makassar vs Bhayangkara Solo",
           "final_odds": "2.46",
           "original_odds": "1.83",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
           "score": "",
-          "h2h_under": "75.00%",
-          "status": "🟠",
+          "h2h_under": "85.71%",
+          "status": "",
           "was_converted": true
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "50.00%",
-        "under_2.5_count": "7/14",
-        "average_odds": "2.92"
+        "message": "No matches with valid scores in 2026-05."
       },
       "combo_stats": {
-        "combo_under_2.5_percentage": "20.00%",
-        "combo_under_2.5_count": "1/5",
-        "average_combo_odds": "9.97"
+        "message": "No valid 2-match combos in 2026-05."
       },
       "filtered_stats": {
-        "total_matches_in_month": 109,
-        "matches_above_threshold": 17
+        "total_matches_in_month": 11,
+        "matches_above_threshold": 1
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "48.66%",
-      "under_2.5_count": "91/187",
-      "average_odds": "2.66"
-    },
-    "combo_stats": {
-      "combo_under_2.5_percentage": "22.78%",
-      "combo_under_2.5_count": "18/79",
-      "average_combo_odds": "7.42"
+      "under_2.5_percentage": "12.50%",
+      "under_2.5_count": "1/8",
+      "average_odds": "2.65"
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.2946 (💰 POSITIVE (potentially profitable))",
-    "Daily Combo EV: 0.6895 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: -0.6691 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 1119",
+    "Total matches analyzed: 117",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
