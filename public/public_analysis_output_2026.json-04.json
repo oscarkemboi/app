@@ -12,10 +12,11 @@
           "original_odds": "1.67",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "1-1",
           "h2h_under": "63.64%",
-          "status": "",
-          "was_converted": true
+          "status": "✅",
+          "was_converted": true,
+          "score_source": "statarea"
         },
         {
           "date": "2026-04-03",
@@ -26,7 +27,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "100.00%",
-          "status": "",
+          "status": "🟠",
           "was_converted": true
         },
         {
@@ -38,7 +39,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "25.00%",
-          "status": "",
+          "status": "🟠",
           "was_converted": true
         },
         {
@@ -48,10 +49,11 @@
           "original_odds": "1.75",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "4-3",
           "h2h_under": "80.00%",
-          "status": "",
-          "was_converted": true
+          "status": "🟠",
+          "was_converted": true,
+          "score_source": "statarea"
         },
         {
           "date": "2026-04-23",
@@ -60,10 +62,11 @@
           "original_odds": "1.87",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "0-0",
           "h2h_under": "66.67%",
-          "status": "",
-          "was_converted": true
+          "status": "✅",
+          "was_converted": true,
+          "score_source": "statarea"
         },
         {
           "date": "2026-04-24",
@@ -74,7 +77,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "100.00%",
-          "status": "",
+          "status": "🟠",
           "was_converted": true
         }
       ],
