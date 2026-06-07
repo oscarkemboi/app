@@ -15,8 +15,7 @@
           "score": "1-1",
           "h2h_under": "63.64%",
           "status": "✅",
-          "was_converted": true,
-          "score_source": "statarea"
+          "was_converted": true
         },
         {
           "date": "2026-04-03",
@@ -27,7 +26,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
+          "status": "",
           "was_converted": true
         },
         {
@@ -39,7 +38,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "25.00%",
-          "status": "🟠",
+          "status": "",
           "was_converted": true
         },
         {
@@ -49,11 +48,10 @@
           "original_odds": "1.75",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "4-3",
+          "score": "",
           "h2h_under": "80.00%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "statarea"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-04-23",
@@ -65,8 +63,7 @@
           "score": "0-0",
           "h2h_under": "66.67%",
           "status": "✅",
-          "was_converted": true,
-          "score_source": "statarea"
+          "was_converted": true
         },
         {
           "date": "2026-04-24",
@@ -77,12 +74,14 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
+          "status": "",
           "was_converted": true
         }
       ],
       "single_stats": {
-        "message": "No matches with valid scores in 2026-04."
+        "under_2.5_percentage": "100.00%",
+        "under_2.5_count": "2/2",
+        "average_odds": "2.61"
       },
       "combo_stats": {
         "message": "No valid 2-match combos in 2026-04."
@@ -95,13 +94,13 @@
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "12.50%",
-      "under_2.5_count": "1/8",
-      "average_odds": "2.65"
+      "under_2.5_percentage": "28.12%",
+      "under_2.5_count": "9/32",
+      "average_odds": "2.58"
     }
   },
   "notable_analysis": [
-    "Single Match EV: -0.6691 (📉 NEGATIVE)",
+    "Single Match EV: -0.2749 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
     "Total matches analyzed: 117",
