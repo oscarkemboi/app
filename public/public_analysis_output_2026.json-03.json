@@ -14,7 +14,7 @@
           "final_prediction": "Under2.5",
           "score": "",
           "h2h_under": "0.00%",
-          "status": "🟠",
+          "status": "",
           "was_converted": false
         },
         {
@@ -38,7 +38,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "71.43%",
-          "status": "🟠",
+          "status": "",
           "was_converted": true
         },
         {
@@ -50,7 +50,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
+          "status": "",
           "was_converted": true
         },
         {
@@ -75,8 +75,7 @@
           "score": "2-2",
           "h2h_under": "80.00%",
           "status": "🟠",
-          "was_converted": true,
-          "score_source": "statarea"
+          "was_converted": true
         },
         {
           "date": "2026-03-12",
@@ -88,8 +87,7 @@
           "score": "2-0",
           "h2h_under": "72.22%",
           "status": "✅",
-          "was_converted": true,
-          "score_source": "statarea"
+          "was_converted": true
         },
         {
           "date": "2026-03-13",
@@ -101,8 +99,7 @@
           "score": "1-2",
           "h2h_under": "88.89%",
           "status": "🟠",
-          "was_converted": true,
-          "score_source": "statarea"
+          "was_converted": true
         },
         {
           "date": "2026-03-14",
@@ -126,8 +123,7 @@
           "score": "4-0",
           "h2h_under": "80.00%",
           "status": "🟠",
-          "was_converted": true,
-          "score_source": "statarea"
+          "was_converted": true
         },
         {
           "date": "2026-03-21",
@@ -138,7 +134,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "100.00%",
-          "status": "🟠",
+          "status": "",
           "was_converted": true
         },
         {
@@ -151,8 +147,7 @@
           "score": "2-1",
           "h2h_under": "58.33%",
           "status": "🟠",
-          "was_converted": true,
-          "score_source": "statarea"
+          "was_converted": true
         },
         {
           "date": "2026-03-25",
@@ -164,8 +159,7 @@
           "score": "2-2",
           "h2h_under": "50.00%",
           "status": "🟠",
-          "was_converted": true,
-          "score_source": "statarea"
+          "was_converted": true
         },
         {
           "date": "2026-03-27",
@@ -176,7 +170,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "55.56%",
-          "status": "🟠",
+          "status": "",
           "was_converted": true
         },
         {
@@ -189,14 +183,13 @@
           "score": "3-0",
           "h2h_under": "75.00%",
           "status": "🟠",
-          "was_converted": true,
-          "score_source": "statarea"
+          "was_converted": true
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "0.00%",
-        "under_2.5_count": "0/3",
-        "average_odds": "3.05"
+        "under_2.5_percentage": "10.00%",
+        "under_2.5_count": "1/10",
+        "average_odds": "2.60"
       },
       "combo_stats": {
         "message": "No valid 2-match combos in 2026-03."
@@ -209,13 +202,13 @@
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "12.50%",
-      "under_2.5_count": "1/8",
-      "average_odds": "2.65"
+      "under_2.5_percentage": "28.12%",
+      "under_2.5_count": "9/32",
+      "average_odds": "2.58"
     }
   },
   "notable_analysis": [
-    "Single Match EV: -0.6691 (📉 NEGATIVE)",
+    "Single Match EV: -0.2749 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
     "Total matches analyzed: 117",
