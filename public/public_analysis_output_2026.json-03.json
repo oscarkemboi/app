@@ -14,7 +14,7 @@
           "final_prediction": "Under2.5",
           "score": "",
           "h2h_under": "0.00%",
-          "status": "",
+          "status": "🟠",
           "was_converted": false
         },
         {
@@ -38,7 +38,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "71.43%",
-          "status": "",
+          "status": "🟠",
           "was_converted": true
         },
         {
@@ -50,7 +50,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "100.00%",
-          "status": "",
+          "status": "🟠",
           "was_converted": true
         },
         {
@@ -134,7 +134,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "100.00%",
-          "status": "",
+          "status": "🟠",
           "was_converted": true
         },
         {
@@ -170,7 +170,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "55.56%",
-          "status": "",
+          "status": "🟠",
           "was_converted": true
         },
         {
