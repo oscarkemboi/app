@@ -27,198 +27,40 @@
           "h2h_zero_perc": "0.00",
           "composite_score": 0.0,
           "status": ""
-        },
-        {
-          "date": "2026-04-16",
-          "match": "River Plate vs Carabobo FC",
-          "final_odds": "2.00",
-          "original_prediction": "Under2.5",
-          "score": "1-0",
-          "team_zero_perc": "0.00",
-          "h2h_under_perc": "0.00",
-          "h2h_zero_perc": "0.00",
-          "composite_score": 0.0,
-          "status": "✅"
-        },
-        {
-          "date": "2026-04-16",
-          "match": "Millonarios vs Boston River",
-          "final_odds": "2.21",
-          "original_prediction": "Under2.5",
-          "score": "1-0",
-          "team_zero_perc": "0.00",
-          "h2h_under_perc": "0.00",
-          "h2h_zero_perc": "0.00",
-          "composite_score": 0.0,
-          "status": "✅"
-        },
-        {
-          "date": "2026-04-17",
-          "match": "Yenisey Krasnoya vs Chelyabinsk",
-          "final_odds": "1.93",
-          "original_prediction": "Under2.5 (converted)",
-          "score": "3-0",
-          "team_zero_perc": "0.00",
-          "h2h_under_perc": "100.00",
-          "h2h_zero_perc": "0.00",
-          "composite_score": 0.0,
-          "status": "🟠"
-        },
-        {
-          "date": "2026-04-17",
-          "match": "Torpedo moskva vs KAMAZ Naberezhn..",
-          "final_odds": "1.85",
-          "original_prediction": "Under2.5 (converted)",
-          "score": "",
-          "team_zero_perc": "0.00",
-          "h2h_under_perc": "100.00",
-          "h2h_zero_perc": "0.00",
-          "composite_score": 0.0,
-          "status": ""
-        },
-        {
-          "date": "2026-04-19",
-          "match": "Argentinos junio vs Atletico Tucu..",
-          "final_odds": "1.94",
-          "original_prediction": "Under2.5 (converted)",
-          "score": "",
-          "team_zero_perc": "0.00",
-          "h2h_under_perc": "36.36",
-          "h2h_zero_perc": "0.00",
-          "composite_score": 0.0,
-          "status": ""
-        },
-        {
-          "date": "2026-04-20",
-          "match": "Deportiva Once C vs La Equidad",
-          "final_odds": "2.28",
-          "original_prediction": "Under2.5 (converted)",
-          "score": "",
-          "team_zero_perc": "0.00",
-          "h2h_under_perc": "62.50",
-          "h2h_zero_perc": "0.00",
-          "composite_score": 0.0,
-          "status": ""
-        },
-        {
-          "date": "2026-04-21",
-          "match": "Botafogo RJ vs Chapecoense SC",
-          "final_odds": "1.90",
-          "original_prediction": "Under2.5",
-          "score": "",
-          "team_zero_perc": "0.00",
-          "h2h_under_perc": "85.71",
-          "h2h_zero_perc": "0.00",
-          "composite_score": 0.0,
-          "status": ""
-        },
-        {
-          "date": "2026-04-21",
-          "match": "Sao Paulo vs Juventude",
-          "final_odds": "1.90",
-          "original_prediction": "Under2.5",
-          "score": "",
-          "team_zero_perc": "0.00",
-          "h2h_under_perc": "50.00",
-          "h2h_zero_perc": "0.00",
-          "composite_score": 0.0,
-          "status": ""
-        },
-        {
-          "date": "2026-04-22",
-          "match": "Volga Ulyanovsk vs FK Chayka",
-          "final_odds": "2.26",
-          "original_prediction": "Under2.5 (converted)",
-          "score": "",
-          "team_zero_perc": "0.00",
-          "h2h_under_perc": "100.00",
-          "h2h_zero_perc": "0.00",
-          "composite_score": 0.0,
-          "status": ""
-        },
-        {
-          "date": "2026-04-22",
-          "match": "Ural Sverdlovsk vs Torpedo moskva",
-          "final_odds": "2.05",
-          "original_prediction": "Under2.5 (converted)",
-          "score": "",
-          "team_zero_perc": "0.00",
-          "h2h_under_perc": "85.71",
-          "h2h_zero_perc": "0.00",
-          "composite_score": 0.0,
-          "status": ""
-        },
-        {
-          "date": "2026-04-23",
-          "match": "Bragantino vs Mirassol",
-          "final_odds": "2.02",
-          "original_prediction": "Under2.5 (converted)",
-          "score": "",
-          "team_zero_perc": "0.00",
-          "h2h_under_perc": "63.64",
-          "h2h_zero_perc": "0.00",
-          "composite_score": 0.0,
-          "status": ""
-        },
-        {
-          "date": "2026-04-23",
-          "match": "Zamalek vs Pyramids",
-          "final_odds": "1.97",
-          "original_prediction": "Under2.5 (converted)",
-          "score": "",
-          "team_zero_perc": "0.00",
-          "h2h_under_perc": "70.00",
-          "h2h_zero_perc": "0.00",
-          "composite_score": 0.0,
-          "status": ""
-        },
-        {
-          "date": "2026-04-26",
-          "match": "Atletico Tucuman vs Banfield",
-          "final_odds": "1.88",
-          "original_prediction": "Under2.5 (converted)",
-          "score": "",
-          "team_zero_perc": "0.00",
-          "h2h_under_perc": "66.67",
-          "h2h_zero_perc": "0.00",
-          "composite_score": 0.0,
-          "status": ""
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "50.00%",
-        "under_2.5_count": "2/4",
-        "average_odds": "2.03"
+        "under_2.5_percentage": "0.00%",
+        "under_2.5_count": "0/1",
+        "average_odds": "2.00"
       },
       "combo_stats": {
-        "combo_under_2.5_percentage": "100.00%",
-        "combo_under_2.5_count": "1/1",
-        "average_combo_odds": "4.42"
+        "message": "No valid 2-match combos in 2026-04."
       },
       "filtered_stats": {
-        "total_under_matches_in_month": 189,
-        "top2_selected": 15
+        "total_under_matches_in_month": 40,
+        "top2_selected": 2
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "48.24%",
-      "under_2.5_count": "82/170",
-      "average_odds": "2.56"
+      "under_2.5_percentage": "47.88%",
+      "under_2.5_count": "79/165",
+      "average_odds": "2.58"
     },
     "combo_stats": {
-      "combo_under_2.5_percentage": "24.39%",
-      "combo_under_2.5_count": "20/82",
-      "average_combo_odds": "6.69"
+      "combo_under_2.5_percentage": "23.46%",
+      "combo_under_2.5_count": "19/81",
+      "average_combo_odds": "6.72"
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.2366 (💰 POSITIVE (potentially profitable))",
-    "Daily Combo EV: 0.6323 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: 0.2355 (💰 POSITIVE (potentially profitable))",
+    "Daily Combo EV: 0.5764 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
-    "Total Under2.5 matches analyzed: 1103",
-    "Adaptive fallback days used (strict<2.0): 10"
+    "Total Under2.5 matches analyzed: 844",
+    "Adaptive fallback days used (strict<2.0): 1"
   ],
   "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fills nearest below-threshold odds when fewer than 2; hard floor >= 1.85"
 }
