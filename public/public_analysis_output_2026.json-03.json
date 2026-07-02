@@ -14,7 +14,7 @@
           "final_prediction": "Under2.5",
           "score": "",
           "h2h_under": "0.00%",
-          "status": "",
+          "status": "🟠",
           "was_converted": false
         },
         {
@@ -36,10 +36,11 @@
           "original_odds": "1.95",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "1-0",
           "h2h_under": "71.43%",
-          "status": "",
-          "was_converted": true
+          "status": "✅",
+          "was_converted": true,
+          "score_source": "bettingclosed"
         },
         {
           "date": "2026-03-08",
@@ -48,10 +49,11 @@
           "original_odds": "1.75",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "1-4",
           "h2h_under": "100.00%",
-          "status": "",
-          "was_converted": true
+          "status": "🟠",
+          "was_converted": true,
+          "score_source": "bettingclosed"
         },
         {
           "date": "2026-03-09",
@@ -132,10 +134,11 @@
           "original_odds": "1.97",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "1-2",
           "h2h_under": "100.00%",
-          "status": "",
-          "was_converted": true
+          "status": "🟠",
+          "was_converted": true,
+          "score_source": "bettingclosed"
         },
         {
           "date": "2026-03-23",
@@ -168,10 +171,11 @@
           "original_odds": "2.17",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "3-0",
           "h2h_under": "55.56%",
-          "status": "",
-          "was_converted": true
+          "status": "🟠",
+          "was_converted": true,
+          "score_source": "bettingclosed"
         },
         {
           "date": "2026-03-28",
