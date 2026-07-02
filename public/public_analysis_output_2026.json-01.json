@@ -24,10 +24,11 @@
           "original_odds": "2.01",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "2-2",
           "h2h_under": "0.00%",
-          "status": "",
-          "was_converted": true
+          "status": "🟠",
+          "was_converted": true,
+          "score_source": "bettingclosed"
         },
         {
           "date": "2026-01-09",
@@ -36,10 +37,11 @@
           "original_odds": "2.19",
           "original_prediction": "Under2.5",
           "final_prediction": "Under2.5",
-          "score": "",
+          "score": "1-1",
           "h2h_under": "50.00%",
-          "status": "",
-          "was_converted": false
+          "status": "✅",
+          "was_converted": false,
+          "score_source": "bettingclosed"
         },
         {
           "date": "2026-01-10",
@@ -62,7 +64,7 @@
           "final_prediction": "Under2.5",
           "score": "",
           "h2h_under": "35.29%",
-          "status": "",
+          "status": "🟠",
           "was_converted": false
         },
         {
@@ -74,7 +76,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "20.00%",
-          "status": "",
+          "status": "🟠",
           "was_converted": true
         },
         {
@@ -122,7 +124,7 @@
           "final_prediction": "Under2.5",
           "score": "",
           "h2h_under": "75.00%",
-          "status": "",
+          "status": "🟠",
           "was_converted": false
         },
         {
@@ -156,10 +158,11 @@
           "original_odds": "1.81",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "3-0",
           "h2h_under": "100.00%",
-          "status": "",
-          "was_converted": true
+          "status": "🟠",
+          "was_converted": true,
+          "score_source": "bettingclosed"
         },
         {
           "date": "2026-01-26",
@@ -204,10 +207,11 @@
           "original_odds": "2.10",
           "original_prediction": "Under2.5",
           "final_prediction": "Under2.5",
-          "score": "",
+          "score": "0-0",
           "h2h_under": "100.00%",
-          "status": "",
-          "was_converted": false
+          "status": "✅",
+          "was_converted": false,
+          "score_source": "bettingclosed"
         }
       ],
       "single_stats": {
