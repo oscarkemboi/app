@@ -27,8 +27,7 @@
           "score": "1-2",
           "h2h_under": "100.00%",
           "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "was_converted": true
         },
         {
           "date": "2026-04-09",
@@ -40,8 +39,7 @@
           "score": "1-1",
           "h2h_under": "25.00%",
           "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "was_converted": true
         },
         {
           "date": "2026-04-21",
@@ -50,11 +48,10 @@
           "original_odds": "1.75",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "4-3",
+          "score": "",
           "h2h_under": "80.00%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-04-23",
@@ -78,14 +75,13 @@
           "score": "2-3",
           "h2h_under": "100.00%",
           "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "was_converted": true
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "100.00%",
-        "under_2.5_count": "2/2",
-        "average_odds": "2.61"
+        "under_2.5_percentage": "60.00%",
+        "under_2.5_count": "3/5",
+        "average_odds": "2.45"
       },
       "combo_stats": {
         "message": "No valid 2-match combos in 2026-04."
@@ -98,13 +94,13 @@
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "28.12%",
-      "under_2.5_count": "9/32",
-      "average_odds": "2.58"
+      "under_2.5_percentage": "26.67%",
+      "under_2.5_count": "12/45",
+      "average_odds": "2.51"
     }
   },
   "notable_analysis": [
-    "Single Match EV: -0.2749 (📉 NEGATIVE)",
+    "Single Match EV: -0.3316 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
     "Total matches analyzed: 117",
