@@ -2031,18 +2031,6 @@
       "matches": [
         {
           "date": "2026-04-05",
-          "match": "Rosario Central vs Atletico Tucum..",
-          "final_odds": "1.56",
-          "original_prediction": "Under2.5",
-          "score": "",
-          "team_zero_perc": "0.00",
-          "h2h_under_perc": "50.00",
-          "h2h_zero_perc": "0.00",
-          "composite_score": 0.0,
-          "status": ""
-        },
-        {
-          "date": "2026-04-05",
           "match": "River Plate vs Belgrano",
           "final_odds": "2.00",
           "original_prediction": "Under2.5 (converted)",
@@ -2064,66 +2052,6 @@
           "h2h_zero_perc": "0.00",
           "composite_score": 0.0,
           "status": ""
-        },
-        {
-          "date": "2026-04-06",
-          "match": "Ypiranga FC vs Figueirense",
-          "final_odds": "1.83",
-          "original_prediction": "Under2.5 (converted)",
-          "score": "",
-          "team_zero_perc": "0.00",
-          "h2h_under_perc": "80.00",
-          "h2h_zero_perc": "0.00",
-          "composite_score": 0.0,
-          "status": ""
-        },
-        {
-          "date": "2026-04-13",
-          "match": "Fakel Voronezh vs Rodina Moscow",
-          "final_odds": "1.83",
-          "original_prediction": "Under2.5 (converted)",
-          "score": "",
-          "team_zero_perc": "0.00",
-          "h2h_under_perc": "100.00",
-          "h2h_zero_perc": "0.00",
-          "composite_score": 0.0,
-          "status": ""
-        },
-        {
-          "date": "2026-04-13",
-          "match": "KS Elbasani vs Partizani Tirana",
-          "final_odds": "1.51",
-          "original_prediction": "Under2.5",
-          "score": "",
-          "team_zero_perc": "0.00",
-          "h2h_under_perc": "75.00",
-          "h2h_zero_perc": "0.00",
-          "composite_score": 0.0,
-          "status": ""
-        },
-        {
-          "date": "2026-04-14",
-          "match": "Velez Sarsfield vs Central Cordob..",
-          "final_odds": "1.55",
-          "original_prediction": "Under2.5",
-          "score": "",
-          "team_zero_perc": "0.00",
-          "h2h_under_perc": "60.00",
-          "h2h_zero_perc": "0.00",
-          "composite_score": 0.0,
-          "status": ""
-        },
-        {
-          "date": "2026-04-14",
-          "match": "Kahraba Ismailia vs Ismaily",
-          "final_odds": "1.44",
-          "original_prediction": "Under2.5",
-          "score": "",
-          "team_zero_perc": "0.00",
-          "h2h_under_perc": "0.00",
-          "h2h_zero_perc": "0.00",
-          "composite_score": 0.0,
-          "status": ""
         }
       ],
       "single_stats": {
@@ -2136,7 +2064,7 @@
       },
       "filtered_stats": {
         "total_under_matches_in_month": 40,
-        "top2_selected": 8
+        "top2_selected": 2
       }
     }
   ],
@@ -2157,7 +2085,7 @@
     "Daily Combo EV: 0.5764 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
     "Total Under2.5 matches analyzed: 844",
-    "Adaptive fallback days used (strict<2.0): 4"
+    "Adaptive fallback days used (strict<2.0): 1"
   ],
-  "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fills nearest below-threshold odds when fewer than 2; hard floor >= 1.35"
+  "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fills nearest below-threshold odds when fewer than 2; hard floor >= 1.85"
 }
