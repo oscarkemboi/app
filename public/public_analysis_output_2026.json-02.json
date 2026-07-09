@@ -48,11 +48,10 @@
           "original_odds": "1.74",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "1-2",
+          "score": "",
           "h2h_under": "0.00%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-02-11",
@@ -133,11 +132,10 @@
           "original_odds": "2.00",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "3-0",
+          "score": "",
           "h2h_under": "70.00%",
-          "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": true
         },
         {
           "date": "2026-02-24",
