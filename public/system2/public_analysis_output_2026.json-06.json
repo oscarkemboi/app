@@ -53,6 +53,18 @@
           "status": ""
         },
         {
+          "date": "2026-06-28",
+          "match": "Ypiranga FC vs Confianca SE",
+          "final_odds": "1.49",
+          "original_prediction": "Under2.5",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        },
+        {
           "date": "2026-06-29",
           "match": "Akranes vs Fram Reykjavik",
           "final_odds": "5.84",
@@ -85,7 +97,7 @@
       },
       "filtered_stats": {
         "total_under_matches_in_month": 40,
-        "top2_selected": 6
+        "top2_selected": 7
       }
     }
   ],
@@ -106,7 +118,7 @@
     "Daily Combo EV: 0.5764 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
     "Total Under2.5 matches analyzed: 964",
-    "Adaptive fallback days used (strict<2.0): 3"
+    "Adaptive fallback days used (strict<2.0): 10"
   ],
-  "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fills nearest below-threshold odds when fewer than 2; hard floor >= 1.85"
+  "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fills nearest below-threshold odds when fewer than 2; hard floor >= 1.35"
 }
