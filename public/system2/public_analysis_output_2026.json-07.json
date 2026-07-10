@@ -29,6 +29,30 @@
           "status": ""
         },
         {
+          "date": "2026-07-05",
+          "match": "Sacachispas vs Juventud Unida",
+          "final_odds": "1.78",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        },
+        {
+          "date": "2026-07-05",
+          "match": "Guangxi Hengchen vs Dalian Huayi",
+          "final_odds": "1.75",
+          "original_prediction": "Under2.5",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        },
+        {
           "date": "2026-07-06",
           "match": "Anapolis FC vs Botafogo PB",
           "final_odds": "2.35",
@@ -77,6 +101,18 @@
           "status": ""
         },
         {
+          "date": "2026-07-08",
+          "match": "Ponte Preta vs Criciuma EC",
+          "final_odds": "1.69",
+          "original_prediction": "Under2.5",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "63.64",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        },
+        {
           "date": "2026-07-09",
           "match": "Sacramento Repub vs Rhode Island",
           "final_odds": "2.02",
@@ -92,6 +128,18 @@
           "date": "2026-07-09",
           "match": "France vs Morocco",
           "final_odds": "1.85",
+          "original_prediction": "Under2.5",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        },
+        {
+          "date": "2026-07-10",
+          "match": "Juventude vs Vila Nova",
+          "final_odds": "1.53",
           "original_prediction": "Under2.5",
           "score": "",
           "team_zero_perc": "0.00",
@@ -133,7 +181,7 @@
       },
       "filtered_stats": {
         "total_under_matches_in_month": 80,
-        "top2_selected": 10
+        "top2_selected": 14
       }
     }
   ],
@@ -154,7 +202,7 @@
     "Daily Combo EV: 0.5764 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
     "Total Under2.5 matches analyzed: 964",
-    "Adaptive fallback days used (strict<2.0): 3"
+    "Adaptive fallback days used (strict<2.0): 10"
   ],
-  "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fills nearest below-threshold odds when fewer than 2; hard floor >= 1.85"
+  "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fills nearest below-threshold odds when fewer than 2; hard floor >= 1.35"
 }
