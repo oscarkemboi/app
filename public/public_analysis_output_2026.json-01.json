@@ -36,11 +36,10 @@
           "original_odds": "2.19",
           "original_prediction": "Under2.5",
           "final_prediction": "Under2.5",
-          "score": "1-1",
+          "score": "",
           "h2h_under": "50.00%",
-          "status": "✅",
-          "was_converted": false,
-          "score_source": "bettingclosed"
+          "status": "",
+          "was_converted": false
         },
         {
           "date": "2026-01-10",
@@ -63,7 +62,7 @@
           "final_prediction": "Under2.5",
           "score": "",
           "h2h_under": "35.29%",
-          "status": "🟠",
+          "status": "",
           "was_converted": false
         },
         {
@@ -75,7 +74,7 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "20.00%",
-          "status": "🟠",
+          "status": "",
           "was_converted": true
         },
         {
@@ -123,7 +122,7 @@
           "final_prediction": "Under2.5",
           "score": "",
           "h2h_under": "75.00%",
-          "status": "🟠",
+          "status": "",
           "was_converted": false
         },
         {
@@ -236,7 +235,7 @@
     "Single Match EV: -0.1961 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 142",
+    "Total matches analyzed: 143",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
