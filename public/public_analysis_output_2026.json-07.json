@@ -28,6 +28,18 @@
           "h2h_under": "50.00%",
           "status": "🟠",
           "was_converted": true
+        },
+        {
+          "date": "2026-07-14",
+          "match": "Kopavogur vs IR Reykjavik",
+          "final_odds": "5.29",
+          "original_odds": "1.31",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "66.67%",
+          "status": "🟠",
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -39,8 +51,8 @@
         "message": "No valid 2-match combos in 2026-07."
       },
       "filtered_stats": {
-        "total_matches_in_month": 13,
-        "matches_above_threshold": 2
+        "total_matches_in_month": 14,
+        "matches_above_threshold": 3
       }
     }
   ],
@@ -55,7 +67,7 @@
     "Single Match EV: -0.1961 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 142",
+    "Total matches analyzed: 143",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
