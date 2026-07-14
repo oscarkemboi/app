@@ -40,6 +40,18 @@
           "h2h_under": "66.67%",
           "status": "🟠",
           "was_converted": true
+        },
+        {
+          "date": "2026-07-15",
+          "match": "Malisheva vs Vllaznia Shkoder",
+          "final_odds": "2.52",
+          "original_odds": "1.80",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "0.00%",
+          "status": "🟠",
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -51,8 +63,8 @@
         "message": "No valid 2-match combos in 2026-07."
       },
       "filtered_stats": {
-        "total_matches_in_month": 14,
-        "matches_above_threshold": 3
+        "total_matches_in_month": 15,
+        "matches_above_threshold": 4
       }
     }
   ],
@@ -67,7 +79,7 @@
     "Single Match EV: -0.1961 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 143",
+    "Total matches analyzed: 144",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
