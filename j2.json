@@ -47521,6 +47521,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-07-16",
+      "Team A": "KF Ballkani",
+      "Team B": "Connahs Quay Tow",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5848176124791079,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.25,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-07-16",
+      "Team A": "Aucas",
+      "Team B": "Ind. del Valle",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Over2.5",
+      "Confidence": 0.5627802266164129,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.0,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
