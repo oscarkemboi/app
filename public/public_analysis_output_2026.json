@@ -849,8 +849,7 @@
           "score": "5-1",
           "h2h_under": "66.67%",
           "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "was_converted": true
         },
         {
           "date": "2026-07-15",
@@ -859,38 +858,51 @@
           "original_odds": "1.80",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "5-0",
           "h2h_under": "0.00%",
           "status": "🟠",
-          "was_converted": true
+          "was_converted": true,
+          "score_source": "bettingclosed"
+        },
+        {
+          "date": "2026-07-17",
+          "match": "Henan Songshan L vs Qingdao Haini..",
+          "final_odds": "2.20",
+          "original_odds": "2.20",
+          "original_prediction": "Under2.5",
+          "final_prediction": "Under2.5",
+          "score": "",
+          "h2h_under": "85.71%",
+          "status": "🟠",
+          "was_converted": false
         }
       ],
       "single_stats": {
         "under_2.5_percentage": "0.00%",
-        "under_2.5_count": "0/2",
-        "average_odds": "2.94"
+        "under_2.5_count": "0/3",
+        "average_odds": "3.73"
       },
       "combo_stats": {
         "message": "No valid 2-match combos in 2026-07."
       },
       "filtered_stats": {
-        "total_matches_in_month": 16,
-        "matches_above_threshold": 4
+        "total_matches_in_month": 17,
+        "matches_above_threshold": 5
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "32.08%",
-      "under_2.5_count": "17/53",
-      "average_odds": "2.51"
+      "under_2.5_percentage": "31.48%",
+      "under_2.5_count": "17/54",
+      "average_odds": "2.56"
     }
   },
   "notable_analysis": [
-    "Single Match EV: -0.1961 (📉 NEGATIVE)",
+    "Single Match EV: -0.1947 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 145",
+    "Total matches analyzed: 146",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
