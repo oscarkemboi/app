@@ -47585,6 +47585,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-07-18",
+      "Team A": "Hume City",
+      "Team B": "Oakleigh Cannons",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.831092311776055,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.2,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-07-18",
+      "Team A": "Luverdense",
+      "Team B": "ABC RN",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Over2.5",
+      "Confidence": 0.7832430691106294,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.5,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
