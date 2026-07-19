@@ -60,10 +60,11 @@
           "original_odds": "2.20",
           "original_prediction": "Under2.5",
           "final_prediction": "Under2.5",
-          "score": "",
+          "score": "5-1",
           "h2h_under": "85.71%",
           "status": "🟠",
-          "was_converted": false
+          "was_converted": false,
+          "score_source": "bettingclosed"
         }
       ],
       "single_stats": {
