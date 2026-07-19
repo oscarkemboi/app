@@ -47649,6 +47649,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-07-20",
+      "Team A": "IFK Mariehamn",
+      "Team B": "Lahti",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6481495291709626,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.08,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-07-20",
+      "Team A": "Kalmar",
+      "Team B": "Malmo FF",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6434931615189141,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.21,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
