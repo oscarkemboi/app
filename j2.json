@@ -47681,6 +47681,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-07-21",
+      "Team A": "Ararat-Armenia",
+      "Team B": "Shamrock Rovers",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Over2.5",
+      "Confidence": 0.8092980549710262,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.03,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-07-21",
+      "Team A": "FC Saburtalo Tbi",
+      "Team B": "Slovan Bratislav",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.7928804293396231,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.11,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
