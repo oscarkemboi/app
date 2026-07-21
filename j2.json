@@ -47713,6 +47713,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-07-22",
+      "Team A": "Ceara",
+      "Team B": "CRB AL",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Over2.5",
+      "Confidence": 0.6661434101924508,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.1,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-07-22",
+      "Team A": "Egnatia Rrogozhi",
+      "Team B": "NK Publikum Celj",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Over2.5",
+      "Confidence": 0.5509957230057876,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.05,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
