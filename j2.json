@@ -47745,6 +47745,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-07-23",
+      "Team A": "FCSB",
+      "Team B": "FK Auda Riga",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.8516799275009042,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.24,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-07-23",
+      "Team A": "Borac Banja Luka",
+      "Team B": "Petrocub",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.8383040200560132,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.24,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
