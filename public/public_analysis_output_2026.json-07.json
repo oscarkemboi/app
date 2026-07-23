@@ -75,8 +75,7 @@
           "score": "0-2",
           "h2h_under": "33.33%",
           "status": "✅",
-          "was_converted": false,
-          "score_source": "bettingclosed"
+          "was_converted": false
         },
         {
           "date": "2026-07-22",
@@ -85,10 +84,11 @@
           "original_odds": "2.10",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "0-1",
           "h2h_under": "66.67%",
-          "status": "🟠",
-          "was_converted": true
+          "status": "✅",
+          "was_converted": true,
+          "score_source": "bettingclosed"
         },
         {
           "date": "2026-07-23",
@@ -104,31 +104,31 @@
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "0.00%",
-        "under_2.5_count": "0/4",
-        "average_odds": "3.42"
+        "under_2.5_percentage": "20.00%",
+        "under_2.5_count": "1/5",
+        "average_odds": "3.19"
       },
       "combo_stats": {
         "message": "No valid 2-match combos in 2026-07."
       },
       "filtered_stats": {
-        "total_matches_in_month": 23,
+        "total_matches_in_month": 24,
         "matches_above_threshold": 8
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "30.91%",
-      "under_2.5_count": "17/55",
-      "average_odds": "2.56"
+      "under_2.5_percentage": "32.14%",
+      "under_2.5_count": "18/56",
+      "average_odds": "2.55"
     }
   },
   "notable_analysis": [
-    "Single Match EV: -0.2096 (📉 NEGATIVE)",
+    "Single Match EV: -0.1798 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 152",
+    "Total matches analyzed: 153",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
