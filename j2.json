@@ -47809,6 +47809,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-07-25",
+      "Team A": "Iguatu",
+      "Team B": "Nacional (AM)",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Over2.5",
+      "Confidence": 0.8115714845443132,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.5,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-07-25",
+      "Team A": "APIA Leichhardt",
+      "Team B": "UNSW",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.7949917554858394,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.5,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
