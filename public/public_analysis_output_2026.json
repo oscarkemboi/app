@@ -897,8 +897,7 @@
           "score": "0-1",
           "h2h_under": "66.67%",
           "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "was_converted": true
         },
         {
           "date": "2026-07-23",
@@ -907,38 +906,51 @@
           "original_odds": "1.95",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "0-0",
           "h2h_under": "66.67%",
+          "status": "✅",
+          "was_converted": true,
+          "score_source": "bettingclosed"
+        },
+        {
+          "date": "2026-07-25",
+          "match": "Shenyang Urban F vs Qingdao West ..",
+          "final_odds": "2.83",
+          "original_odds": "1.67",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
           "status": "🟠",
           "was_converted": true
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "20.00%",
-        "under_2.5_count": "1/5",
-        "average_odds": "3.19"
+        "under_2.5_percentage": "33.33%",
+        "under_2.5_count": "2/6",
+        "average_odds": "3.01"
       },
       "combo_stats": {
         "message": "No valid 2-match combos in 2026-07."
       },
       "filtered_stats": {
-        "total_matches_in_month": 24,
-        "matches_above_threshold": 8
+        "total_matches_in_month": 25,
+        "matches_above_threshold": 9
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "32.14%",
-      "under_2.5_count": "18/56",
-      "average_odds": "2.55"
+      "under_2.5_percentage": "33.33%",
+      "under_2.5_count": "19/57",
+      "average_odds": "2.54"
     }
   },
   "notable_analysis": [
-    "Single Match EV: -0.1798 (📉 NEGATIVE)",
+    "Single Match EV: -0.1521 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 153",
+    "Total matches analyzed: 154",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
