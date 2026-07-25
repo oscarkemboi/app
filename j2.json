@@ -47841,6 +47841,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-07-26",
+      "Team A": "Dukla Banska Bys",
+      "Team B": "Slovan Bratislav",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.9571924239058992,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.38,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-07-26",
+      "Team A": "Lokomotiv Moscow",
+      "Team B": "Akhmat Grozny (R",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.8909551416529715,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.1,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
