@@ -60,10 +60,11 @@
           "original_odds": "2.20",
           "original_prediction": "Under2.5",
           "final_prediction": "Under2.5",
-          "score": "",
+          "score": "5-1",
           "h2h_under": "85.71%",
-          "status": "",
-          "was_converted": false
+          "status": "🟠",
+          "was_converted": false,
+          "score_source": "bettingclosed"
         },
         {
           "date": "2026-07-21",
@@ -108,10 +109,11 @@
           "original_odds": "1.67",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "0-1",
           "h2h_under": "100.00%",
-          "status": "",
-          "was_converted": true
+          "status": "✅",
+          "was_converted": true,
+          "score_source": "bettingclosed"
         },
         {
           "date": "2026-07-29",
@@ -123,14 +125,13 @@
           "score": "1-1",
           "h2h_under": "47.37%",
           "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "was_converted": true
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "42.86%",
-        "under_2.5_count": "3/7",
-        "average_odds": "2.90"
+        "under_2.5_percentage": "50.00%",
+        "under_2.5_count": "4/8",
+        "average_odds": "2.83"
       },
       "combo_stats": {
         "message": "No valid 2-match combos in 2026-07."
@@ -143,13 +144,13 @@
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "34.48%",
-      "under_2.5_count": "20/58",
+      "under_2.5_percentage": "35.59%",
+      "under_2.5_count": "21/59",
       "average_odds": "2.54"
     }
   },
   "notable_analysis": [
-    "Single Match EV: -0.1244 (📉 NEGATIVE)",
+    "Single Match EV: -0.0976 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
     "Total matches analyzed: 160",
