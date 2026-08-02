@@ -127,6 +127,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-08-03",
+      "Team A": "Wexford",
+      "Team B": "Bray Wanderers",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.8072734928095433,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.03,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-08-03",
+      "Team A": "Orebro",
+      "Team B": "IFK Varnamo",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.697185217282406,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.01,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {},
