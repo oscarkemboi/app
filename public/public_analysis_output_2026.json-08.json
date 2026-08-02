@@ -4,14 +4,30 @@
   "months": [
     {
       "month": "2026-08",
-      "matches": [],
-      "single_stats": {},
-      "combo_stats": {},
-      "filtered_stats": {
-        "total_matches_in_month": 2,
-        "matches_above_threshold": 0
+      "matches": [
+        {
+          "date": "2026-08-03",
+          "match": "Independiente Sa vs Deportiva Onc..",
+          "final_odds": "2.16",
+          "original_odds": "2.04",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "64.71%",
+          "status": "🟠",
+          "was_converted": true
+        }
+      ],
+      "single_stats": {
+        "message": "No matches with valid scores in 2026-08."
       },
-      "message": "No matches in 2026-08 with odds >= 2.0."
+      "combo_stats": {
+        "message": "No valid 2-match combos in 2026-08."
+      },
+      "filtered_stats": {
+        "total_matches_in_month": 3,
+        "matches_above_threshold": 1
+      }
     }
   ],
   "yearly_stats": {
@@ -25,7 +41,7 @@
     "Single Match EV: -0.0976 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 162",
+    "Total matches analyzed: 163",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
