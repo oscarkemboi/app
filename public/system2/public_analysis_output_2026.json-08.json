@@ -99,37 +99,89 @@
           "h2h_zero_perc": "0.00",
           "composite_score": 0.0,
           "status": ""
+        },
+        {
+          "date": "2026-08-06",
+          "match": "Deportiva Once C vs America de Ca..",
+          "final_odds": "2.12",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "0-1",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "68.75",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": "✅"
+        },
+        {
+          "date": "2026-08-06",
+          "match": "Independiente Sa vs Union Magdale..",
+          "final_odds": "2.26",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "2-0",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "66.67",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": "✅"
+        },
+        {
+          "date": "2026-08-07",
+          "match": "Bayern Munchen vs Aston Villa",
+          "final_odds": "3.68",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        },
+        {
+          "date": "2026-08-07",
+          "match": "Cruz Azul vs Philadelphia Uni",
+          "final_odds": "3.17",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
         }
       ],
       "single_stats": {
-        "message": "No matches with valid scores in 2026-08."
+        "under_2.5_percentage": "100.00%",
+        "under_2.5_count": "2/2",
+        "average_odds": "2.19"
       },
       "combo_stats": {
-        "message": "No valid 2-match combos in 2026-08."
+        "combo_under_2.5_percentage": "100.00%",
+        "combo_under_2.5_count": "1/1",
+        "average_combo_odds": "4.80"
       },
       "filtered_stats": {
-        "total_under_matches_in_month": 40,
-        "top2_selected": 8
+        "total_under_matches_in_month": 60,
+        "top2_selected": 12
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "48.19%",
-      "under_2.5_count": "80/166",
+      "under_2.5_percentage": "48.81%",
+      "under_2.5_count": "82/168",
       "average_odds": "2.58"
     },
     "combo_stats": {
-      "combo_under_2.5_percentage": "23.46%",
-      "combo_under_2.5_count": "19/81",
-      "average_combo_odds": "6.72"
+      "combo_under_2.5_percentage": "24.39%",
+      "combo_under_2.5_count": "20/82",
+      "average_combo_odds": "6.70"
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.2443 (💰 POSITIVE (potentially profitable))",
-    "Daily Combo EV: 0.5764 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: 0.2580 (💰 POSITIVE (potentially profitable))",
+    "Daily Combo EV: 0.6334 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
-    "Total Under2.5 matches analyzed: 1204",
+    "Total Under2.5 matches analyzed: 1224",
     "Adaptive fallback days used (strict<2.0): 4"
   ],
   "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fills nearest below-threshold odds when fewer than 2; hard floor >= 1.85"
