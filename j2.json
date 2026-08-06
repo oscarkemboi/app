@@ -159,8 +159,88 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-08-06",
+      "Team A": "Deportiva Once C",
+      "Team B": "America de Cali",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Over2.5",
+      "Confidence": 0.876568675718547,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.08,
+      "Actual Score": "0-1",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": true,
+      "Profit": 108.0
+    },
+    {
+      "Date": "2026-08-06",
+      "Team A": "Cibao",
+      "Team B": "Cavalier",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Over2.5",
+      "Confidence": 0.8192002198780499,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.04,
+      "Actual Score": "0-0",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": true,
+      "Profit": 104.0
+    },
+    {
+      "Date": "2026-08-07",
+      "Team A": "Suwon Samsung Bl",
+      "Team B": "Gimhae City",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6829997979392197,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.12,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-08-07",
+      "Team A": "Operario MS",
+      "Team B": "Sao Bernardo",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Over2.5",
+      "Confidence": 0.6637672869166903,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.15,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
-  "monthly_stats": {},
-  "yearly_stats": {}
+  "monthly_stats": {
+    "2026-08": {
+      "wins": 2,
+      "losses": 0,
+      "total": 2,
+      "profit": 212.0,
+      "win_rate": 100.0
+    }
+  },
+  "yearly_stats": {
+    "2026": {
+      "wins": 2,
+      "losses": 0,
+      "total": 2,
+      "profit": 212.0,
+      "win_rate": 100.0
+    }
+  }
 }
