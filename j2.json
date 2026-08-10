@@ -319,6 +319,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-08-11",
+      "Team A": "Avai FC SC",
+      "Team B": "CRB AL",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Over2.5",
+      "Confidence": 0.7722552507480429,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.06,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-08-11",
+      "Team A": "Adelaide Raiders",
+      "Team B": "Macarthur Rams",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5298500261901935,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.21,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
