@@ -219,6 +219,30 @@
           "h2h_zero_perc": "0.00",
           "composite_score": 0.0,
           "status": ""
+        },
+        {
+          "date": "2026-08-11",
+          "match": "CSKA 1948 vs Panathinaikos",
+          "final_odds": "2.32",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        },
+        {
+          "date": "2026-08-11",
+          "match": "Avai FC SC vs CRB AL",
+          "final_odds": "2.14",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "66.67",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
         }
       ],
       "single_stats": {
@@ -232,8 +256,8 @@
         "average_combo_odds": "4.80"
       },
       "filtered_stats": {
-        "total_under_matches_in_month": 90,
-        "top2_selected": 18
+        "total_under_matches_in_month": 100,
+        "top2_selected": 20
       }
     }
   ],
@@ -253,7 +277,7 @@
     "Single Match EV: 0.2580 (💰 POSITIVE (potentially profitable))",
     "Daily Combo EV: 0.6334 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
-    "Total Under2.5 matches analyzed: 1254",
+    "Total Under2.5 matches analyzed: 1264",
     "Adaptive fallback days used (strict<2.0): 4"
   ],
   "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fills nearest below-threshold odds when fewer than 2; hard floor >= 1.85"
