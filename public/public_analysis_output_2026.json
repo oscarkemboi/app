@@ -963,6 +963,18 @@
           "h2h_under": "64.71%",
           "status": "",
           "was_converted": true
+        },
+        {
+          "date": "2026-08-11",
+          "match": "Dartford vs Brentwood Town",
+          "final_odds": "2.95",
+          "original_odds": "1.63",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "50.00%",
+          "status": "🟠",
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -972,8 +984,8 @@
         "message": "No valid 2-match combos in 2026-08."
       },
       "filtered_stats": {
-        "total_matches_in_month": 9,
-        "matches_above_threshold": 1
+        "total_matches_in_month": 10,
+        "matches_above_threshold": 2
       }
     }
   ],
@@ -988,7 +1000,7 @@
     "Single Match EV: -0.0976 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 169",
+    "Total matches analyzed: 170",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
