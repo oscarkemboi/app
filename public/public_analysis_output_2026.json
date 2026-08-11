@@ -984,7 +984,7 @@
         "message": "No valid 2-match combos in 2026-08."
       },
       "filtered_stats": {
-        "total_matches_in_month": 10,
+        "total_matches_in_month": 11,
         "matches_above_threshold": 2
       }
     }
@@ -1000,7 +1000,7 @@
     "Single Match EV: -0.0976 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 170",
+    "Total matches analyzed: 171",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
