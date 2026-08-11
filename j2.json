@@ -351,6 +351,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-08-12",
+      "Team A": "GKS Katowice",
+      "Team B": "Hapoel Tel Aviv",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Over2.5",
+      "Confidence": 0.526907789909568,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.13,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-08-12",
+      "Team A": "Minnesota United",
+      "Team B": "CF Atlante",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5090613070586453,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.16,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
