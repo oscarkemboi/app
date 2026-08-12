@@ -24,10 +24,23 @@
           "original_odds": "1.63",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "1-0",
           "h2h_under": "50.00%",
+          "status": "✅",
+          "was_converted": true,
+          "score_source": "bettingclosed"
+        },
+        {
+          "date": "2026-08-13",
+          "match": "Grindavik vs Throttur Reykjav",
+          "final_odds": "2.88",
+          "original_odds": "2.88",
+          "original_prediction": "Under2.5",
+          "final_prediction": "Under2.5",
+          "score": "",
+          "h2h_under": "25.00%",
           "status": "🟠",
-          "was_converted": true
+          "was_converted": false
         }
       ],
       "single_stats": {
@@ -37,8 +50,8 @@
         "message": "No valid 2-match combos in 2026-08."
       },
       "filtered_stats": {
-        "total_matches_in_month": 11,
-        "matches_above_threshold": 2
+        "total_matches_in_month": 12,
+        "matches_above_threshold": 3
       }
     }
   ],
@@ -53,7 +66,7 @@
     "Single Match EV: -0.0976 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 171",
+    "Total matches analyzed: 172",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
