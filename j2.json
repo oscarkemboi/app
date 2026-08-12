@@ -383,6 +383,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-08-13",
+      "Team A": "Cruzeiro",
+      "Team B": "Flamengo",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Over2.5",
+      "Confidence": 0.8094874614910936,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.1,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-08-13",
+      "Team A": "Austria Wien",
+      "Team B": "Beitar Jerusalem",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.7717095187025569,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.15,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
