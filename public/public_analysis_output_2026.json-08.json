@@ -27,8 +27,7 @@
           "score": "1-0",
           "h2h_under": "50.00%",
           "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "was_converted": true
         },
         {
           "date": "2026-08-13",
@@ -41,32 +40,46 @@
           "h2h_under": "25.00%",
           "status": "🟠",
           "was_converted": false
+        },
+        {
+          "date": "2026-08-14",
+          "match": "Arsenal Dzyarzhy vs Slavia Mozyr",
+          "final_odds": "2.39",
+          "original_odds": "1.87",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "71.43%",
+          "status": "🟠",
+          "was_converted": true
         }
       ],
       "single_stats": {
-        "message": "No matches with valid scores in 2026-08."
+        "under_2.5_percentage": "100.00%",
+        "under_2.5_count": "1/1",
+        "average_odds": "2.95"
       },
       "combo_stats": {
         "message": "No valid 2-match combos in 2026-08."
       },
       "filtered_stats": {
-        "total_matches_in_month": 12,
-        "matches_above_threshold": 3
+        "total_matches_in_month": 13,
+        "matches_above_threshold": 4
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "35.59%",
-      "under_2.5_count": "21/59",
+      "under_2.5_percentage": "36.67%",
+      "under_2.5_count": "22/60",
       "average_odds": "2.54"
     }
   },
   "notable_analysis": [
-    "Single Match EV: -0.0976 (📉 NEGATIVE)",
+    "Single Match EV: -0.0678 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 172",
+    "Total matches analyzed: 173",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
