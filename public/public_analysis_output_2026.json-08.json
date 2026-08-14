@@ -36,10 +36,11 @@
           "original_odds": "2.88",
           "original_prediction": "Under2.5",
           "final_prediction": "Under2.5",
-          "score": "",
+          "score": "2-1",
           "h2h_under": "25.00%",
           "status": "🟠",
-          "was_converted": false
+          "was_converted": false,
+          "score_source": "bettingclosed"
         },
         {
           "date": "2026-08-14",
@@ -63,7 +64,7 @@
         "message": "No valid 2-match combos in 2026-08."
       },
       "filtered_stats": {
-        "total_matches_in_month": 13,
+        "total_matches_in_month": 14,
         "matches_above_threshold": 4
       }
     }
@@ -79,7 +80,7 @@
     "Single Match EV: -0.0678 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 173",
+    "Total matches analyzed: 174",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
