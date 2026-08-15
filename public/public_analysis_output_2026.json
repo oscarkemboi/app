@@ -986,8 +986,7 @@
           "score": "2-1",
           "h2h_under": "25.00%",
           "status": "🟠",
-          "was_converted": false,
-          "score_source": "bettingclosed"
+          "was_converted": false
         },
         {
           "date": "2026-08-14",
@@ -996,38 +995,51 @@
           "original_odds": "1.87",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "1-3",
           "h2h_under": "71.43%",
+          "status": "🟠",
+          "was_converted": true,
+          "score_source": "bettingclosed"
+        },
+        {
+          "date": "2026-08-16",
+          "match": "Cobresal vs D. Concepcion",
+          "final_odds": "2.58",
+          "original_odds": "1.77",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
           "status": "🟠",
           "was_converted": true
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "100.00%",
-        "under_2.5_count": "1/1",
-        "average_odds": "2.95"
+        "under_2.5_percentage": "50.00%",
+        "under_2.5_count": "1/2",
+        "average_odds": "2.92"
       },
       "combo_stats": {
         "message": "No valid 2-match combos in 2026-08."
       },
       "filtered_stats": {
-        "total_matches_in_month": 14,
-        "matches_above_threshold": 4
+        "total_matches_in_month": 15,
+        "matches_above_threshold": 5
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "36.67%",
-      "under_2.5_count": "22/60",
-      "average_odds": "2.54"
+      "under_2.5_percentage": "36.07%",
+      "under_2.5_count": "22/61",
+      "average_odds": "2.55"
     }
   },
   "notable_analysis": [
-    "Single Match EV: -0.0678 (📉 NEGATIVE)",
+    "Single Match EV: -0.0811 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 174",
+    "Total matches analyzed: 175",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
