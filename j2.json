@@ -511,6 +511,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-08-17",
+      "Team A": "Santos Laguna",
+      "Team B": "Chivas Guadalaja",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.8827131771726583,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.28,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-08-17",
+      "Team A": "Spartak Varna",
+      "Team B": "Septemvri Sofia",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Over2.5",
+      "Confidence": 0.7440015064964751,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.11,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
