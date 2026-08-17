@@ -60,13 +60,27 @@
           "original_odds": "1.77",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "0-2",
           "h2h_under": "100.00%",
-          "status": "🟠",
-          "was_converted": true
+          "status": "✅",
+          "was_converted": true,
+          "score_source": "bettingclosed"
         },
         {
           "date": "2026-08-17",
+          "match": "Santos Laguna vs Chivas Guadalaja",
+          "final_odds": "2.28",
+          "original_odds": "2.28",
+          "original_prediction": "Under2.5",
+          "final_prediction": "Under2.5",
+          "score": "0-1",
+          "h2h_under": "68.75%",
+          "status": "✅",
+          "was_converted": false,
+          "score_source": "bettingclosed"
+        },
+        {
+          "date": "2026-08-18",
           "match": "Santos Laguna vs Chivas Guadalaja",
           "final_odds": "2.28",
           "original_odds": "2.28",
@@ -87,8 +101,8 @@
         "message": "No valid 2-match combos in 2026-08."
       },
       "filtered_stats": {
-        "total_matches_in_month": 16,
-        "matches_above_threshold": 6
+        "total_matches_in_month": 17,
+        "matches_above_threshold": 7
       }
     }
   ],
@@ -103,7 +117,7 @@
     "Single Match EV: -0.0968 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 176",
+    "Total matches analyzed: 177",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
