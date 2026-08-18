@@ -543,23 +543,71 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-08-18",
+      "Team A": "Macara",
+      "Team B": "Universidad Cato",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Over2.5",
+      "Confidence": 0.8665902712831994,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.13,
+      "Actual Score": "1-1",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": true,
+      "Profit": 112.99999999999999
+    },
+    {
+      "Date": "2026-08-18",
+      "Team A": "Brackley Town",
+      "Team B": "Kings Lynn",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6095885749472613,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.12,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-08-19",
+      "Team A": "Sao Paulo",
+      "Team B": "Bolivar",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.5726504451941272,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.08,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
     "2026-08": {
-      "wins": 2,
+      "wins": 3,
       "losses": 0,
-      "total": 2,
-      "profit": 212.0,
+      "total": 3,
+      "profit": 325.0,
       "win_rate": 100.0
     }
   },
   "yearly_stats": {
     "2026": {
-      "wins": 2,
+      "wins": 3,
       "losses": 0,
-      "total": 2,
-      "profit": 212.0,
+      "total": 3,
+      "profit": 325.0,
       "win_rate": 100.0
     }
   }
