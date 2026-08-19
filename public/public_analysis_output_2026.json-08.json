@@ -100,6 +100,18 @@
           "h2h_under": "50.00%",
           "status": "🟠",
           "was_converted": true
+        },
+        {
+          "date": "2026-08-20",
+          "match": "FC Rouen vs Quevilly Rouen",
+          "final_odds": "2.11",
+          "original_odds": "2.09",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "60.00%",
+          "status": "🟠",
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -111,8 +123,8 @@
         "message": "No valid 2-match combos in 2026-08."
       },
       "filtered_stats": {
-        "total_matches_in_month": 18,
-        "matches_above_threshold": 8
+        "total_matches_in_month": 19,
+        "matches_above_threshold": 9
       }
     }
   ],
@@ -127,7 +139,7 @@
     "Single Match EV: -0.0468 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 178",
+    "Total matches analyzed: 179",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
