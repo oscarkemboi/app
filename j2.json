@@ -655,6 +655,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-08-22",
+      "Team A": "Rhode Island",
+      "Team B": "Monterey Bay",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.9511010783316824,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.17,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-08-22",
+      "Team A": "Patronato Parana",
+      "Team B": "Gimnasia Jujuy",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Over2.5",
+      "Confidence": 0.898014959140549,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.21,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
