@@ -687,6 +687,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-08-23",
+      "Team A": "Alta",
+      "Team B": "Naples United",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.9189497626798465,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.01,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-08-23",
+      "Team A": "Miedz Legnica",
+      "Team B": "Arka Gdynia",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.8709740243824581,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.09,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
