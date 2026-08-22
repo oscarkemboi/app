@@ -1033,7 +1033,7 @@
           "final_prediction": "Under2.5",
           "score": "",
           "h2h_under": "68.75%",
-          "status": "🟠",
+          "status": "",
           "was_converted": false
         },
         {
@@ -1058,8 +1058,7 @@
           "score": "3-0",
           "h2h_under": "60.00%",
           "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "was_converted": true
         },
         {
           "date": "2026-08-21",
@@ -1068,38 +1067,39 @@
           "original_odds": "1.37",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "3-0",
           "h2h_under": "100.00%",
           "status": "🟠",
-          "was_converted": true
+          "was_converted": true,
+          "score_source": "bettingclosed"
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "60.00%",
-        "under_2.5_count": "3/5",
-        "average_odds": "2.62"
+        "under_2.5_percentage": "50.00%",
+        "under_2.5_count": "3/6",
+        "average_odds": "2.53"
       },
       "combo_stats": {
         "message": "No valid 2-match combos in 2026-08."
       },
       "filtered_stats": {
-        "total_matches_in_month": 21,
+        "total_matches_in_month": 22,
         "matches_above_threshold": 10
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "37.50%",
-      "under_2.5_count": "24/64",
+      "under_2.5_percentage": "36.92%",
+      "under_2.5_count": "24/65",
       "average_odds": "2.54"
     }
   },
   "notable_analysis": [
-    "Single Match EV: -0.0468 (📉 NEGATIVE)",
+    "Single Match EV: -0.0639 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 181",
+    "Total matches analyzed: 182",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
