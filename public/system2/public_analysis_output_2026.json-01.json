@@ -709,7 +709,7 @@
     "Single Match EV: 0.2580 (💰 POSITIVE (potentially profitable))",
     "Daily Combo EV: 0.6334 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
-    "Total Under2.5 matches analyzed: 1374",
+    "Total Under2.5 matches analyzed: 1384",
     "Adaptive fallback days used (strict<2.0): 4"
   ],
   "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fills nearest below-threshold odds when fewer than 2; hard floor >= 1.85"
