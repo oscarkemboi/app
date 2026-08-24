@@ -719,6 +719,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-08-24",
+      "Team A": "Athletic Club",
+      "Team B": "Novorizontino",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Over2.5",
+      "Confidence": 0.9339367294569698,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.45,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-08-24",
+      "Team A": "Lokomotiv Plovdi",
+      "Team B": "Arda",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Over2.5",
+      "Confidence": 0.8216620447816206,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.3,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
