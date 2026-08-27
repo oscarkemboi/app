@@ -815,6 +815,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-08-28",
+      "Team A": "La Equidad",
+      "Team B": "Deportivo Pasto",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Over2.5",
+      "Confidence": 0.8229155375383722,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.2,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-08-28",
+      "Team A": "Athlone Town",
+      "Team B": "Bray Wanderers",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.8229155375383722,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.11,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
