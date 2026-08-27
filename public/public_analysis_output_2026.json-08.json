@@ -132,8 +132,21 @@
           "original_odds": "1.75",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "2-0",
           "h2h_under": "50.00%",
+          "status": "✅",
+          "was_converted": true,
+          "score_source": "bettingclosed"
+        },
+        {
+          "date": "2026-08-28",
+          "match": "Wrexham vs Birmingham",
+          "final_odds": "2.21",
+          "original_odds": "2.00",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "75.00%",
           "status": "🟠",
           "was_converted": true
         }
@@ -147,8 +160,8 @@
         "message": "No valid 2-match combos in 2026-08."
       },
       "filtered_stats": {
-        "total_matches_in_month": 26,
-        "matches_above_threshold": 11
+        "total_matches_in_month": 27,
+        "matches_above_threshold": 12
       }
     }
   ],
@@ -163,7 +176,7 @@
     "Single Match EV: -0.0673 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 186",
+    "Total matches analyzed: 187",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
