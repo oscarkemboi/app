@@ -847,6 +847,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-08-29",
+      "Team A": "SER Caxias",
+      "Team B": "Inter de Limeira",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Over2.5",
+      "Confidence": 0.9330680681199981,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.45,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-08-29",
+      "Team A": "Kolding FC",
+      "Team B": "AB Copenhagen",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.8500472091753491,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.3,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
