@@ -627,6 +627,30 @@
           "h2h_zero_perc": "0.00",
           "composite_score": 0.0,
           "status": ""
+        },
+        {
+          "date": "2026-08-29",
+          "match": "Polonia Warszawa vs Lechia Gdansk",
+          "final_odds": "3.56",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        },
+        {
+          "date": "2026-08-29",
+          "match": "Limache vs Everton CD",
+          "final_odds": "2.92",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
         }
       ],
       "single_stats": {
@@ -640,8 +664,8 @@
         "average_combo_odds": "4.80"
       },
       "filtered_stats": {
-        "total_under_matches_in_month": 260,
-        "top2_selected": 52
+        "total_under_matches_in_month": 270,
+        "top2_selected": 54
       }
     }
   ],
@@ -661,7 +685,7 @@
     "Single Match EV: 0.2580 (💰 POSITIVE (potentially profitable))",
     "Daily Combo EV: 0.6334 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
-    "Total Under2.5 matches analyzed: 1424",
+    "Total Under2.5 matches analyzed: 1434",
     "Adaptive fallback days used (strict<2.0): 4"
   ],
   "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fills nearest below-threshold odds when fewer than 2; hard floor >= 1.85"
