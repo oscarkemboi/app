@@ -1082,8 +1082,7 @@
           "score": "2-0",
           "h2h_under": "50.00%",
           "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "was_converted": true
         },
         {
           "date": "2026-08-28",
@@ -1096,34 +1095,46 @@
           "h2h_under": "75.00%",
           "status": "🟠",
           "was_converted": true
+        },
+        {
+          "date": "2026-08-29",
+          "match": "Polonia Warszawa vs Lechia Gdansk",
+          "final_odds": "3.56",
+          "original_odds": "1.49",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "42.86%",
-        "under_2.5_count": "3/7",
-        "average_odds": "2.81"
+        "under_2.5_percentage": "50.00%",
+        "under_2.5_count": "4/8",
+        "average_odds": "2.79"
       },
       "combo_stats": {
         "message": "No valid 2-match combos in 2026-08."
       },
       "filtered_stats": {
-        "total_matches_in_month": 27,
-        "matches_above_threshold": 12
+        "total_matches_in_month": 28,
+        "matches_above_threshold": 13
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "36.36%",
-      "under_2.5_count": "24/66",
-      "average_odds": "2.56"
+      "under_2.5_percentage": "37.31%",
+      "under_2.5_count": "25/67",
+      "average_odds": "2.57"
     }
   },
   "notable_analysis": [
-    "Single Match EV: -0.0673 (📉 NEGATIVE)",
+    "Single Match EV: -0.0426 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 187",
+    "Total matches analyzed: 188",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
