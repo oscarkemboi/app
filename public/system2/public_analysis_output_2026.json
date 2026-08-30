@@ -3421,6 +3421,54 @@
           "h2h_zero_perc": "0.00",
           "composite_score": 0.0,
           "status": ""
+        },
+        {
+          "date": "2026-08-30",
+          "match": "Arka Gdynia vs Polonia Bytom",
+          "final_odds": "2.83",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        },
+        {
+          "date": "2026-08-30",
+          "match": "Hapoel Kfar Shal vs Kiryat Yam SC",
+          "final_odds": "2.52",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        },
+        {
+          "date": "2026-08-31",
+          "match": "Braintree Town vs Farnborough Tow..",
+          "final_odds": "2.77",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        },
+        {
+          "date": "2026-08-31",
+          "match": "Carlisle United vs Scunthorpe Uni..",
+          "final_odds": "2.98",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "83.33",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
         }
       ],
       "single_stats": {
@@ -3434,8 +3482,8 @@
         "average_combo_odds": "4.80"
       },
       "filtered_stats": {
-        "total_under_matches_in_month": 270,
-        "top2_selected": 54
+        "total_under_matches_in_month": 290,
+        "top2_selected": 58
       }
     }
   ],
@@ -3455,7 +3503,7 @@
     "Single Match EV: 0.2580 (💰 POSITIVE (potentially profitable))",
     "Daily Combo EV: 0.6334 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
-    "Total Under2.5 matches analyzed: 1434",
+    "Total Under2.5 matches analyzed: 1454",
     "Adaptive fallback days used (strict<2.0): 4"
   ],
   "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fills nearest below-threshold odds when fewer than 2; hard floor >= 1.85"
