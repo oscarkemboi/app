@@ -144,10 +144,11 @@
           "original_odds": "2.00",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "1-2",
           "h2h_under": "75.00%",
           "status": "🟠",
-          "was_converted": true
+          "was_converted": true,
+          "score_source": "bettingclosed"
         },
         {
           "date": "2026-08-29",
@@ -156,10 +157,23 @@
           "original_odds": "1.49",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "2-4",
           "h2h_under": "100.00%",
           "status": "🟠",
-          "was_converted": true
+          "was_converted": true,
+          "score_source": "bettingclosed"
+        },
+        {
+          "date": "2026-08-31",
+          "match": "GAIS Goteborg vs Brommapojkarna",
+          "final_odds": "2.14",
+          "original_odds": "2.14",
+          "original_prediction": "Under2.5",
+          "final_prediction": "Under2.5",
+          "score": "",
+          "h2h_under": "71.43%",
+          "status": "🟠",
+          "was_converted": false
         }
       ],
       "single_stats": {
@@ -171,8 +185,8 @@
         "message": "No valid 2-match combos in 2026-08."
       },
       "filtered_stats": {
-        "total_matches_in_month": 28,
-        "matches_above_threshold": 13
+        "total_matches_in_month": 30,
+        "matches_above_threshold": 14
       }
     }
   ],
@@ -187,7 +201,7 @@
     "Single Match EV: -0.0426 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 188",
+    "Total matches analyzed: 190",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
