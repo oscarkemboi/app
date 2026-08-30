@@ -879,23 +879,87 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-08-30",
+      "Team A": "Rockdale Ilinden",
+      "Team B": "UNSW",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.8962722842006898,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.49,
+      "Actual Score": "2-0",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": true,
+      "Profit": 149.00000000000003
+    },
+    {
+      "Date": "2026-08-30",
+      "Team A": "Santos Laguna",
+      "Team B": "Tigres UANL",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.8932603979431089,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.06,
+      "Actual Score": "0-0",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": true,
+      "Profit": 106.0
+    },
+    {
+      "Date": "2026-08-31",
+      "Team A": "Eastleigh",
+      "Team B": "Aldershot Town",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.7648831308446972,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.14,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-08-31",
+      "Team A": "GAIS Goteborg",
+      "Team B": "Brommapojkarna",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6728115762370193,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.14,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
     "2026-08": {
-      "wins": 3,
+      "wins": 5,
       "losses": 0,
-      "total": 3,
-      "profit": 325.0,
+      "total": 5,
+      "profit": 580.0,
       "win_rate": 100.0
     }
   },
   "yearly_stats": {
     "2026": {
-      "wins": 3,
+      "wins": 5,
       "losses": 0,
-      "total": 3,
-      "profit": 325.0,
+      "total": 5,
+      "profit": 580.0,
       "win_rate": 100.0
     }
   }
