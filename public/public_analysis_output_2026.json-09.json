@@ -4,27 +4,44 @@
   "months": [
     {
       "month": "2026-09",
-      "matches": []
+      "matches": [
+        {
+          "date": "2026-09-01",
+          "match": "Halifax Town vs Hartlepool Unite",
+          "final_odds": "2.54",
+          "original_odds": "1.79",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "70.00%",
+          "status": "🟠",
+          "was_converted": true
+        }
+      ],
+      "single_stats": {
+        "message": "No matches with valid scores in 2026-09."
+      },
+      "combo_stats": {
+        "message": "No valid 2-match combos in 2026-09."
+      },
+      "filtered_stats": {
+        "total_matches_in_month": 1,
+        "matches_above_threshold": 1
+      }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "48.08%",
-      "under_2.5_count": "25/52",
-      "average_odds": "2.56"
-    },
-    "combo_stats": {
-      "combo_under_2.5_percentage": "23.81%",
-      "combo_under_2.5_count": "5/21",
-      "average_combo_odds": "6.93"
+      "under_2.5_percentage": "36.23%",
+      "under_2.5_count": "25/69",
+      "average_odds": "2.57"
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.2315 (💰 POSITIVE (potentially profitable))",
-    "Daily Combo EV: 0.6503 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: -0.0671 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 330",
+    "Total matches analyzed: 191",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
