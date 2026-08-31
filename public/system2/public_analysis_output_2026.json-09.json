@@ -1,21 +1,64 @@
 {
   "year": 2026,
-  "target_min_odds": 2.0,
   "months": [
     {
       "month": "2026-09",
-      "matches": []
+      "matches": [
+        {
+          "date": "2026-09-01",
+          "match": "Lincoln City vs Blackburn Rovers",
+          "final_odds": "2.36",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        },
+        {
+          "date": "2026-09-01",
+          "match": "Bristol Rovers vs Colchester Unit..",
+          "final_odds": "2.45",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "80.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        }
+      ],
+      "single_stats": {
+        "message": "No matches with valid scores in 2026-09."
+      },
+      "combo_stats": {
+        "message": "No valid 2-match combos in 2026-09."
+      },
+      "filtered_stats": {
+        "total_under_matches_in_month": 10,
+        "top2_selected": 2
+      }
     }
   ],
-  "yearly_stats": {},
+  "yearly_stats": {
+    "single_stats": {
+      "under_2.5_percentage": "48.81%",
+      "under_2.5_count": "82/168",
+      "average_odds": "2.58"
+    },
+    "combo_stats": {
+      "combo_under_2.5_percentage": "24.39%",
+      "combo_under_2.5_count": "20/82",
+      "average_combo_odds": "6.70"
+    }
+  },
   "notable_analysis": [
-    "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
-    "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 357",
-    "Matches converted from Over2.5: 0"
+    "Single Match EV: 0.2580 (💰 POSITIVE (potentially profitable))",
+    "Daily Combo EV: 0.6334 (💰 POSITIVE (potentially profitable))",
+    "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
+    "Total Under2.5 matches analyzed: 1464",
+    "Adaptive fallback days used (strict<2.0): 4"
   ],
-  "conversion_info": {
-    "market_margin": 1.05,
-    "note": "Over2.5 odds converted to Under2.5 odds assuming 5% market margin"
-  }
+  "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fills nearest below-threshold odds when fewer than 2; hard floor >= 1.85"
 }
