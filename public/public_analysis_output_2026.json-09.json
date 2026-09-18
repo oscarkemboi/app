@@ -14,8 +14,32 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "70.00%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-09-18",
+          "match": "Groningen vs Zwolle",
+          "final_odds": "4.20",
+          "original_odds": "1.40",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "84.62%",
           "status": "🟠",
           "was_converted": true
+        },
+        {
+          "date": "2026-09-19",
+          "match": "Newcastle United vs Hull City",
+          "final_odds": "2.30",
+          "original_odds": "2.30",
+          "original_prediction": "Under2.5",
+          "final_prediction": "Under2.5",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": false
         }
       ],
       "single_stats": {
@@ -25,8 +49,8 @@
         "message": "No valid 2-match combos in 2026-09."
       },
       "filtered_stats": {
-        "total_matches_in_month": 1,
-        "matches_above_threshold": 1
+        "total_matches_in_month": 3,
+        "matches_above_threshold": 3
       }
     }
   ],
@@ -41,7 +65,7 @@
     "Single Match EV: -0.0671 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 191",
+    "Total matches analyzed: 193",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
