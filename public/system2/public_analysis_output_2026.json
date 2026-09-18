@@ -3512,6 +3512,54 @@
           "h2h_zero_perc": "0.00",
           "composite_score": 0.0,
           "status": ""
+        },
+        {
+          "date": "2026-09-18",
+          "match": "MFK Karvina vs Kromeriz",
+          "final_odds": "4.99",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        },
+        {
+          "date": "2026-09-18",
+          "match": "Burnley U21 vs Derby County U21",
+          "final_odds": "4.20",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        },
+        {
+          "date": "2026-09-19",
+          "match": "Charleston Batte vs Monterey Bay",
+          "final_odds": "3.50",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        },
+        {
+          "date": "2026-09-19",
+          "match": "United Nordic vs Landskrona BoIS",
+          "final_odds": "2.89",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
         }
       ],
       "single_stats": {
@@ -3521,8 +3569,8 @@
         "message": "No valid 2-match combos in 2026-09."
       },
       "filtered_stats": {
-        "total_under_matches_in_month": 10,
-        "top2_selected": 2
+        "total_under_matches_in_month": 30,
+        "top2_selected": 6
       }
     }
   ],
@@ -3542,7 +3590,7 @@
     "Single Match EV: 0.2580 (💰 POSITIVE (potentially profitable))",
     "Daily Combo EV: 0.6334 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
-    "Total Under2.5 matches analyzed: 1464",
+    "Total Under2.5 matches analyzed: 1484",
     "Adaptive fallback days used (strict<2.0): 4"
   ],
   "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fills nearest below-threshold odds when fewer than 2; hard floor >= 1.85"
