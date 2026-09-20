@@ -1023,6 +1023,70 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-09-20",
+      "Team A": "GIF Sundsvall",
+      "Team B": "Ljungskile",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.9342600833492443,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.11,
+      "Actual Score": "0-2",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": true,
+      "Profit": 110.99999999999999
+    },
+    {
+      "Date": "2026-09-20",
+      "Team A": "Tamaraceite",
+      "Team B": "Recreativo Huelv",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Over2.5",
+      "Confidence": 0.8836204122194968,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.2,
+      "Actual Score": "1-0",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": true,
+      "Profit": 120.00000000000001
+    },
+    {
+      "Date": "2026-09-21",
+      "Team A": "Criciuma EC",
+      "Team B": "Operario MS",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Over2.5",
+      "Confidence": 0.7936797513607656,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.23,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-09-21",
+      "Team A": "Koge BK",
+      "Team B": "Hobro",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.6295771436537184,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.09,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
@@ -1032,14 +1096,21 @@
       "total": 5,
       "profit": 580.0,
       "win_rate": 100.0
+    },
+    "2026-09": {
+      "wins": 2,
+      "losses": 0,
+      "total": 2,
+      "profit": 231.0,
+      "win_rate": 100.0
     }
   },
   "yearly_stats": {
     "2026": {
-      "wins": 5,
+      "wins": 7,
       "losses": 0,
-      "total": 5,
-      "profit": 580.0,
+      "total": 7,
+      "profit": 811.0,
       "win_rate": 100.0
     }
   }
