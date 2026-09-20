@@ -3560,6 +3560,30 @@
           "h2h_zero_perc": "0.00",
           "composite_score": 0.0,
           "status": ""
+        },
+        {
+          "date": "2026-09-20",
+          "match": "Pirin Blagoevgra vs Fratria",
+          "final_odds": "2.67",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        },
+        {
+          "date": "2026-09-21",
+          "match": "Koge BK vs Hobro",
+          "final_odds": "2.09",
+          "original_prediction": "Under2.5",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "57.89",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
         }
       ],
       "single_stats": {
@@ -3569,8 +3593,8 @@
         "message": "No valid 2-match combos in 2026-09."
       },
       "filtered_stats": {
-        "total_under_matches_in_month": 30,
-        "top2_selected": 6
+        "total_under_matches_in_month": 50,
+        "top2_selected": 8
       }
     }
   ],
@@ -3590,7 +3614,7 @@
     "Single Match EV: 0.2580 (💰 POSITIVE (potentially profitable))",
     "Daily Combo EV: 0.6334 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
-    "Total Under2.5 matches analyzed: 1484",
+    "Total Under2.5 matches analyzed: 1504",
     "Adaptive fallback days used (strict<2.0): 4"
   ],
   "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fills nearest below-threshold odds when fewer than 2; hard floor >= 1.85"
