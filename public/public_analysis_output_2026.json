@@ -1172,6 +1172,18 @@
           "h2h_under": "100.00%",
           "status": "🟠",
           "was_converted": false
+        },
+        {
+          "date": "2026-09-30",
+          "match": "FK Rudar Pljevlj vs FK Berane",
+          "final_odds": "2.28",
+          "original_odds": "1.95",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "60.00%",
+          "status": "🟠",
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -1183,8 +1195,35 @@
         "message": "No valid 2-match combos in 2026-09."
       },
       "filtered_stats": {
-        "total_matches_in_month": 7,
-        "matches_above_threshold": 3
+        "total_matches_in_month": 8,
+        "matches_above_threshold": 4
+      }
+    },
+    {
+      "month": "2026-10",
+      "matches": [
+        {
+          "date": "2026-10-01",
+          "match": "Alianza FC vs Platense",
+          "final_odds": "2.32",
+          "original_odds": "1.92",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "73.33%",
+          "status": "🟠",
+          "was_converted": true
+        }
+      ],
+      "single_stats": {
+        "message": "No matches with valid scores in 2026-10."
+      },
+      "combo_stats": {
+        "message": "No valid 2-match combos in 2026-10."
+      },
+      "filtered_stats": {
+        "total_matches_in_month": 1,
+        "matches_above_threshold": 1
       }
     }
   ],
@@ -1199,7 +1238,7 @@
     "Single Match EV: -0.0786 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 197",
+    "Total matches analyzed: 199",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
