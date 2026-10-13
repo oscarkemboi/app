@@ -12,36 +12,87 @@
           "original_odds": "1.92",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "2-1",
           "h2h_under": "73.33%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-10-09",
+          "match": "Cork City vs Finn Harps",
+          "final_odds": "7.54",
+          "original_odds": "1.22",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "76.92%",
+          "status": "",
+          "was_converted": true
+        },
+        {
+          "date": "2026-10-10",
+          "match": "Chatham Town vs Brentwood Town",
+          "final_odds": "3.35",
+          "original_odds": "1.53",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "3-0",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true,
+          "score_source": "bettingclosed"
+        },
+        {
+          "date": "2026-10-13",
+          "match": "Shabab Sahel vs Al-Safa",
+          "final_odds": "2.04",
+          "original_odds": "2.16",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "80.00%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-10-14",
+          "match": "SC Verl vs Jahn Regensburg",
+          "final_odds": "4.99",
+          "original_odds": "1.33",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "66.67%",
           "status": "🟠",
           "was_converted": true
         }
       ],
       "single_stats": {
-        "message": "No matches with valid scores in 2026-10."
+        "under_2.5_percentage": "0.00%",
+        "under_2.5_count": "0/1",
+        "average_odds": "2.32"
       },
       "combo_stats": {
         "message": "No valid 2-match combos in 2026-10."
       },
       "filtered_stats": {
-        "total_matches_in_month": 1,
-        "matches_above_threshold": 1
+        "total_matches_in_month": 5,
+        "matches_above_threshold": 5
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "35.62%",
-      "under_2.5_count": "26/73",
-      "average_odds": "2.59"
+      "under_2.5_percentage": "34.67%",
+      "under_2.5_count": "26/75",
+      "average_odds": "2.58"
     }
   },
   "notable_analysis": [
-    "Single Match EV: -0.0786 (📉 NEGATIVE)",
+    "Single Match EV: -0.1059 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 199",
+    "Total matches analyzed: 203",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
