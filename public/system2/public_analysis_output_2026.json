@@ -3793,6 +3793,30 @@
           "h2h_zero_perc": "0.00",
           "composite_score": 0.0,
           "status": ""
+        },
+        {
+          "date": "2026-10-15",
+          "match": "Panathinaikos vs Borac Banja Luka",
+          "final_odds": "3.68",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        },
+        {
+          "date": "2026-10-15",
+          "match": "Lyon vs Crystal Palace",
+          "final_odds": "2.77",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
         }
       ],
       "single_stats": {
@@ -3804,8 +3828,8 @@
         "message": "No valid 2-match combos in 2026-10."
       },
       "filtered_stats": {
-        "total_under_matches_in_month": 50,
-        "top2_selected": 10
+        "total_under_matches_in_month": 60,
+        "top2_selected": 12
       }
     }
   ],
@@ -3825,7 +3849,7 @@
     "Single Match EV: 0.2760 (💰 POSITIVE (potentially profitable))",
     "Daily Combo EV: 0.6334 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
-    "Total Under2.5 matches analyzed: 1580",
+    "Total Under2.5 matches analyzed: 1590",
     "Adaptive fallback days used (strict<2.0): 4"
   ],
   "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fills nearest below-threshold odds when fewer than 2; hard floor >= 1.85"
