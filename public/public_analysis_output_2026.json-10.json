@@ -51,8 +51,7 @@
           "score": "0-3",
           "h2h_under": "80.00%",
           "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "was_converted": true
         },
         {
           "date": "2026-10-14",
@@ -61,38 +60,51 @@
           "original_odds": "1.33",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "2-2",
           "h2h_under": "66.67%",
           "status": "🟠",
-          "was_converted": true
+          "was_converted": true,
+          "score_source": "bettingclosed"
+        },
+        {
+          "date": "2026-10-16",
+          "match": "Ponte Preta vs Atletico Clube G",
+          "final_odds": "2.08",
+          "original_odds": "2.08",
+          "original_prediction": "Under2.5",
+          "final_prediction": "Under2.5",
+          "score": "",
+          "h2h_under": "85.71%",
+          "status": "🟠",
+          "was_converted": false
         }
       ],
       "single_stats": {
         "under_2.5_percentage": "0.00%",
-        "under_2.5_count": "0/2",
-        "average_odds": "2.83"
+        "under_2.5_count": "0/3",
+        "average_odds": "2.57"
       },
       "combo_stats": {
         "message": "No valid 2-match combos in 2026-10."
       },
       "filtered_stats": {
-        "total_matches_in_month": 6,
-        "matches_above_threshold": 5
+        "total_matches_in_month": 7,
+        "matches_above_threshold": 6
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "34.21%",
-      "under_2.5_count": "26/76",
-      "average_odds": "2.59"
+      "under_2.5_percentage": "33.77%",
+      "under_2.5_count": "26/77",
+      "average_odds": "2.58"
     }
   },
   "notable_analysis": [
-    "Single Match EV: -0.1142 (📉 NEGATIVE)",
+    "Single Match EV: -0.1281 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 204",
+    "Total matches analyzed: 205",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
