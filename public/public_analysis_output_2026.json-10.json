@@ -75,36 +75,47 @@
           "score": "1-1",
           "h2h_under": "85.71%",
           "status": "✅",
-          "was_converted": false,
-          "score_source": "bettingclosed"
+          "was_converted": false
+        },
+        {
+          "date": "2026-10-19",
+          "match": "Jong PSV Eindhov vs Dordrecht",
+          "final_odds": "4.99",
+          "original_odds": "1.33",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "69.23%",
+          "status": "🟠",
+          "was_converted": true
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "0.00%",
-        "under_2.5_count": "0/4",
-        "average_odds": "3.17"
+        "under_2.5_percentage": "20.00%",
+        "under_2.5_count": "1/5",
+        "average_odds": "2.95"
       },
       "combo_stats": {
         "message": "No valid 2-match combos in 2026-10."
       },
       "filtered_stats": {
-        "total_matches_in_month": 9,
-        "matches_above_threshold": 6
+        "total_matches_in_month": 10,
+        "matches_above_threshold": 7
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "33.33%",
-      "under_2.5_count": "26/78",
+      "under_2.5_percentage": "34.18%",
+      "under_2.5_count": "27/79",
       "average_odds": "2.61"
     }
   },
   "notable_analysis": [
-    "Single Match EV: -0.1290 (📉 NEGATIVE)",
+    "Single Match EV: -0.1092 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 207",
+    "Total matches analyzed: 208",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
