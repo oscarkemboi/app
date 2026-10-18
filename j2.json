@@ -1359,6 +1359,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-10-19",
+      "Team A": "FK Sutjeska Niks",
+      "Team B": "Bokelj Kotor",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Over2.5",
+      "Confidence": 0.9074975510626813,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.38,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-10-19",
+      "Team A": "Omonia Nicosia F",
+      "Team B": "Olympiakos",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.851675564948362,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.26,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
