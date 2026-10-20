@@ -1281,10 +1281,11 @@
           "original_odds": "1.33",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "0-1",
           "h2h_under": "69.23%",
-          "status": "🟠",
-          "was_converted": true
+          "status": "✅",
+          "was_converted": true,
+          "score_source": "bettingclosed"
         },
         {
           "date": "2026-10-20",
@@ -1295,6 +1296,18 @@
           "final_prediction": "Under2.5 (converted)",
           "score": "",
           "h2h_under": "69.23%",
+          "status": "🟠",
+          "was_converted": true
+        },
+        {
+          "date": "2026-10-21",
+          "match": "FC Tokyo vs Kashiwa Reysol",
+          "final_odds": "2.50",
+          "original_odds": "1.81",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "58.82%",
           "status": "🟠",
           "was_converted": true
         }
@@ -1308,8 +1321,8 @@
         "message": "No valid 2-match combos in 2026-10."
       },
       "filtered_stats": {
-        "total_matches_in_month": 11,
-        "matches_above_threshold": 8
+        "total_matches_in_month": 12,
+        "matches_above_threshold": 9
       }
     }
   ],
@@ -1324,7 +1337,7 @@
     "Single Match EV: -0.1092 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 209",
+    "Total matches analyzed: 210",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
