@@ -87,8 +87,7 @@
           "score": "0-1",
           "h2h_under": "69.23%",
           "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "was_converted": true
         },
         {
           "date": "2026-10-20",
@@ -113,34 +112,46 @@
           "h2h_under": "58.82%",
           "status": "🟠",
           "was_converted": true
+        },
+        {
+          "date": "2026-10-22",
+          "match": "Ajax vs Atalanta",
+          "final_odds": "2.77",
+          "original_odds": "1.69",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "50.00%",
+          "status": "🟠",
+          "was_converted": true
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "20.00%",
-        "under_2.5_count": "1/5",
-        "average_odds": "2.95"
+        "under_2.5_percentage": "33.33%",
+        "under_2.5_count": "2/6",
+        "average_odds": "3.29"
       },
       "combo_stats": {
         "message": "No valid 2-match combos in 2026-10."
       },
       "filtered_stats": {
-        "total_matches_in_month": 12,
-        "matches_above_threshold": 9
+        "total_matches_in_month": 13,
+        "matches_above_threshold": 10
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "34.18%",
-      "under_2.5_count": "27/79",
-      "average_odds": "2.61"
+      "under_2.5_percentage": "35.00%",
+      "under_2.5_count": "28/80",
+      "average_odds": "2.64"
     }
   },
   "notable_analysis": [
-    "Single Match EV: -0.1092 (📉 NEGATIVE)",
+    "Single Match EV: -0.0774 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 210",
+    "Total matches analyzed: 211",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
