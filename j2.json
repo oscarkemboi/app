@@ -1455,6 +1455,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-10-22",
+      "Team A": "Nordsjaelland",
+      "Team B": "CSKA Sofia",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.9324858049872855,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.35,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-10-22",
+      "Team A": "Getafe",
+      "Team B": "Lugano",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Over2.5",
+      "Confidence": 0.9078452970961458,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.12,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
