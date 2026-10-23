@@ -1519,6 +1519,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-10-24",
+      "Team A": "Palmeiras",
+      "Team B": "Bragantino",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.9786662220187351,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.09,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-10-24",
+      "Team A": "Ponte Preta",
+      "Team B": "Fortaleza",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.9647622098214885,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.02,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
