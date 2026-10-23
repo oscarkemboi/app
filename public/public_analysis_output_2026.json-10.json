@@ -111,8 +111,7 @@
           "score": "0-0",
           "h2h_under": "58.82%",
           "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "was_converted": true
         },
         {
           "date": "2026-10-22",
@@ -121,38 +120,51 @@
           "original_odds": "1.69",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "2-0",
           "h2h_under": "50.00%",
+          "status": "✅",
+          "was_converted": true,
+          "score_source": "bettingclosed"
+        },
+        {
+          "date": "2026-10-24",
+          "match": "Cardiff City vs Birmingham",
+          "final_odds": "3.40",
+          "original_odds": "1.52",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
           "status": "🟠",
           "was_converted": true
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "33.33%",
-        "under_2.5_count": "2/6",
-        "average_odds": "3.29"
+        "under_2.5_percentage": "42.86%",
+        "under_2.5_count": "3/7",
+        "average_odds": "3.18"
       },
       "combo_stats": {
         "message": "No valid 2-match combos in 2026-10."
       },
       "filtered_stats": {
-        "total_matches_in_month": 14,
-        "matches_above_threshold": 10
+        "total_matches_in_month": 15,
+        "matches_above_threshold": 11
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "35.00%",
-      "under_2.5_count": "28/80",
-      "average_odds": "2.64"
+      "under_2.5_percentage": "35.80%",
+      "under_2.5_count": "29/81",
+      "average_odds": "2.63"
     }
   },
   "notable_analysis": [
-    "Single Match EV: -0.0774 (📉 NEGATIVE)",
+    "Single Match EV: -0.0568 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 212",
+    "Total matches analyzed: 213",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
