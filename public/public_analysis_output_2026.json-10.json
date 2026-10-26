@@ -135,8 +135,7 @@
           "score": "1-0",
           "h2h_under": "100.00%",
           "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "was_converted": true
         },
         {
           "date": "2026-10-25",
@@ -148,36 +147,35 @@
           "score": "2-2",
           "h2h_under": "100.00%",
           "status": "🟠",
-          "was_converted": false,
-          "score_source": "bettingclosed"
+          "was_converted": false
         }
       ],
       "single_stats": {
         "under_2.5_percentage": "50.00%",
-        "under_2.5_count": "4/8",
-        "average_odds": "3.13"
+        "under_2.5_count": "5/10",
+        "average_odds": "3.06"
       },
       "combo_stats": {
         "message": "No valid 2-match combos in 2026-10."
       },
       "filtered_stats": {
-        "total_matches_in_month": 17,
+        "total_matches_in_month": 18,
         "matches_above_threshold": 12
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "36.59%",
-      "under_2.5_count": "30/82",
+      "under_2.5_percentage": "36.90%",
+      "under_2.5_count": "31/84",
       "average_odds": "2.64"
     }
   },
   "notable_analysis": [
-    "Single Match EV: -0.0356 (📉 NEGATIVE)",
+    "Single Match EV: -0.0260 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 215",
+    "Total matches analyzed: 216",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
