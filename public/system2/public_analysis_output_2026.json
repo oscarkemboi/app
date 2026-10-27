@@ -4081,6 +4081,54 @@
           "h2h_zero_perc": "0.00",
           "composite_score": 0.0,
           "status": ""
+        },
+        {
+          "date": "2026-10-27",
+          "match": "Blackpool vs Aston Villa U21",
+          "final_odds": "4.99",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        },
+        {
+          "date": "2026-10-27",
+          "match": "Koninklijke HFC vs Go Ahead Eagle..",
+          "final_odds": "4.61",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        },
+        {
+          "date": "2026-10-28",
+          "match": "Bayer Leverkusen vs Nurnberg",
+          "final_odds": "3.98",
+          "original_prediction": "Under2.5",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        },
+        {
+          "date": "2026-10-28",
+          "match": "Panathinaikos vs Aris Thessalonik",
+          "final_odds": "2.12",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "84.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
         }
       ],
       "single_stats": {
@@ -4092,8 +4140,8 @@
         "message": "No valid 2-match combos in 2026-10."
       },
       "filtered_stats": {
-        "total_under_matches_in_month": 170,
-        "top2_selected": 34
+        "total_under_matches_in_month": 190,
+        "top2_selected": 38
       }
     }
   ],
@@ -4113,7 +4161,7 @@
     "Single Match EV: 0.2760 (💰 POSITIVE (potentially profitable))",
     "Daily Combo EV: 0.6334 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
-    "Total Under2.5 matches analyzed: 1700",
+    "Total Under2.5 matches analyzed: 1720",
     "Adaptive fallback days used (strict<2.0): 4"
   ],
   "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fills nearest below-threshold odds when fewer than 2; hard floor >= 1.85"
