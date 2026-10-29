@@ -1353,8 +1353,21 @@
           "original_odds": "1.60",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "0-1",
           "h2h_under": "66.67%",
+          "status": "✅",
+          "was_converted": true,
+          "score_source": "bettingclosed"
+        },
+        {
+          "date": "2026-10-30",
+          "match": "Metz vs Pau",
+          "final_odds": "2.67",
+          "original_odds": "1.73",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "75.00%",
           "status": "🟠",
           "was_converted": true
         }
@@ -1368,8 +1381,8 @@
         "message": "No valid 2-match combos in 2026-10."
       },
       "filtered_stats": {
-        "total_matches_in_month": 20,
-        "matches_above_threshold": 13
+        "total_matches_in_month": 21,
+        "matches_above_threshold": 14
       }
     }
   ],
@@ -1384,7 +1397,7 @@
     "Single Match EV: -0.0260 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 218",
+    "Total matches analyzed: 219",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
