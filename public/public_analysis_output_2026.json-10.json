@@ -168,10 +168,11 @@
           "original_odds": "1.73",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "1-3",
           "h2h_under": "75.00%",
           "status": "🟠",
-          "was_converted": true
+          "was_converted": true,
+          "score_source": "bettingclosed"
         }
       ],
       "single_stats": {
@@ -199,7 +200,7 @@
     "Single Match EV: -0.0046 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 220",
+    "Total matches analyzed: 221",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
