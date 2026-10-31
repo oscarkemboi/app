@@ -4,27 +4,28 @@
   "months": [
     {
       "month": "2026-11",
-      "matches": []
+      "matches": [],
+      "single_stats": {},
+      "combo_stats": {},
+      "filtered_stats": {
+        "total_matches_in_month": 1,
+        "matches_above_threshold": 0
+      },
+      "message": "No matches in 2026-11 with odds >= 2.0."
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "48.08%",
-      "under_2.5_count": "25/52",
-      "average_odds": "2.56"
-    },
-    "combo_stats": {
-      "combo_under_2.5_percentage": "23.81%",
-      "combo_under_2.5_count": "5/21",
-      "average_combo_odds": "6.93"
+      "under_2.5_percentage": "37.65%",
+      "under_2.5_count": "32/85",
+      "average_odds": "2.64"
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.2315 (💰 POSITIVE (potentially profitable))",
-    "Daily Combo EV: 0.6503 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: -0.0046 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 330",
+    "Total matches analyzed: 221",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
