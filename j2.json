@@ -1807,6 +1807,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-11-02",
+      "Team A": "Inter Turku",
+      "Team B": "Gnistan Helsinki",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.8705180132672505,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.39,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-11-02",
+      "Team A": "GAIS Goteborg",
+      "Team B": "AIK Solna",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.8028185511058432,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.25,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
