@@ -8,7 +8,7 @@
       "single_stats": {},
       "combo_stats": {},
       "filtered_stats": {
-        "total_matches_in_month": 2,
+        "total_matches_in_month": 3,
         "matches_above_threshold": 0
       },
       "message": "No matches in 2026-11 with odds >= 2.0."
@@ -25,7 +25,7 @@
     "Single Match EV: -0.0161 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 222",
+    "Total matches analyzed: 223",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
