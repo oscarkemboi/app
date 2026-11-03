@@ -1386,14 +1386,30 @@
     },
     {
       "month": "2026-11",
-      "matches": [],
-      "single_stats": {},
-      "combo_stats": {},
-      "filtered_stats": {
-        "total_matches_in_month": 3,
-        "matches_above_threshold": 0
+      "matches": [
+        {
+          "date": "2026-11-04",
+          "match": "Slavia Praha vs Arsenal",
+          "final_odds": "3.30",
+          "original_odds": "1.54",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "50.00%",
+          "status": "🟠",
+          "was_converted": true
+        }
+      ],
+      "single_stats": {
+        "message": "No matches with valid scores in 2026-11."
       },
-      "message": "No matches in 2026-11 with odds >= 2.0."
+      "combo_stats": {
+        "message": "No valid 2-match combos in 2026-11."
+      },
+      "filtered_stats": {
+        "total_matches_in_month": 4,
+        "matches_above_threshold": 1
+      }
     }
   ],
   "yearly_stats": {
@@ -1407,7 +1423,7 @@
     "Single Match EV: -0.0161 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 223",
+    "Total matches analyzed: 224",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
