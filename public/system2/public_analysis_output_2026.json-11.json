@@ -51,37 +51,89 @@
           "h2h_zero_perc": "0.00",
           "composite_score": 0.0,
           "status": ""
+        },
+        {
+          "date": "2026-11-03",
+          "match": "Kataller Toyama vs Vegalta Sendai",
+          "final_odds": "3.21",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "0-0",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": "✅"
+        },
+        {
+          "date": "2026-11-03",
+          "match": "Suchitepequez vs Malacateco",
+          "final_odds": "2.58",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "1-0",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": "✅"
+        },
+        {
+          "date": "2026-11-04",
+          "match": "PSV Eindhoven vs Club Brugge",
+          "final_odds": "4.73",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        },
+        {
+          "date": "2026-11-04",
+          "match": "Oxford United vs Reading",
+          "final_odds": "2.13",
+          "original_prediction": "Under2.5",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
         }
       ],
       "single_stats": {
-        "message": "No matches with valid scores in 2026-11."
+        "under_2.5_percentage": "100.00%",
+        "under_2.5_count": "2/2",
+        "average_odds": "2.90"
       },
       "combo_stats": {
-        "message": "No valid 2-match combos in 2026-11."
+        "combo_under_2.5_percentage": "100.00%",
+        "combo_under_2.5_count": "1/1",
+        "average_combo_odds": "8.29"
       },
       "filtered_stats": {
-        "total_under_matches_in_month": 20,
-        "top2_selected": 4
+        "total_under_matches_in_month": 40,
+        "top2_selected": 8
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "49.41%",
-      "under_2.5_count": "84/170",
-      "average_odds": "2.58"
+      "under_2.5_percentage": "50.00%",
+      "under_2.5_count": "86/172",
+      "average_odds": "2.59"
     },
     "combo_stats": {
-      "combo_under_2.5_percentage": "24.39%",
-      "combo_under_2.5_count": "20/82",
-      "average_combo_odds": "6.70"
+      "combo_under_2.5_percentage": "25.30%",
+      "combo_under_2.5_count": "21/83",
+      "average_combo_odds": "6.72"
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.2760 (💰 POSITIVE (potentially profitable))",
-    "Daily Combo EV: 0.6334 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: 0.2930 (💰 POSITIVE (potentially profitable))",
+    "Daily Combo EV: 0.6992 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
-    "Total Under2.5 matches analyzed: 1770",
+    "Total Under2.5 matches analyzed: 1790",
     "Adaptive fallback days used (strict<2.0): 4"
   ],
   "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fills nearest below-threshold odds when fewer than 2; hard floor >= 1.85"
