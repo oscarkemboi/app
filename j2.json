@@ -1903,6 +1903,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-11-05",
+      "Team A": "Hapoel Beer Shev",
+      "Team B": "OFI Crete",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.877752862717845,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.24,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-11-05",
+      "Team A": "Sydney Olympic",
+      "Team B": "Oakleigh Cannons",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.7307848332324267,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.38,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
