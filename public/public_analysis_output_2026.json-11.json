@@ -15,8 +15,7 @@
           "score": "1-2",
           "h2h_under": "50.00%",
           "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "was_converted": true
         },
         {
           "date": "2026-11-05",
@@ -41,32 +40,46 @@
           "h2h_under": "75.00%",
           "status": "🟠",
           "was_converted": true
+        },
+        {
+          "date": "2026-11-07",
+          "match": "FBC Melgar vs Juan Pablo II Co",
+          "final_odds": "3.88",
+          "original_odds": "1.44",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
         }
       ],
       "single_stats": {
-        "message": "No matches with valid scores in 2026-11."
+        "under_2.5_percentage": "0.00%",
+        "under_2.5_count": "0/1",
+        "average_odds": "3.30"
       },
       "combo_stats": {
         "message": "No valid 2-match combos in 2026-11."
       },
       "filtered_stats": {
-        "total_matches_in_month": 6,
-        "matches_above_threshold": 3
+        "total_matches_in_month": 7,
+        "matches_above_threshold": 4
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "37.21%",
-      "under_2.5_count": "32/86",
-      "average_odds": "2.64"
+      "under_2.5_percentage": "36.78%",
+      "under_2.5_count": "32/87",
+      "average_odds": "2.65"
     }
   },
   "notable_analysis": [
-    "Single Match EV: -0.0161 (📉 NEGATIVE)",
+    "Single Match EV: -0.0246 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 226",
+    "Total matches analyzed: 227",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
