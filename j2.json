@@ -2063,6 +2063,54 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-11-10",
+      "Team A": "Boston River",
+      "Team B": "CA Torque",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Over2.5",
+      "Confidence": 0.952963478772423,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.2,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-11-10",
+      "Team A": "Chapulineros",
+      "Team B": "Cordob\u00e9s",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.8797158021166404,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.0,
+      "Actual Score": "1-1",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": true,
+      "Profit": 100.0
+    },
+    {
+      "Date": "2026-11-11",
+      "Team A": "Deportiva Once C",
+      "Team B": "Atletico Naciona",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Over2.5",
+      "Confidence": 0.6170615217185766,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.08,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
@@ -2079,14 +2127,21 @@
       "total": 2,
       "profit": 231.0,
       "win_rate": 100.0
+    },
+    "2026-11": {
+      "wins": 1,
+      "losses": 0,
+      "total": 1,
+      "profit": 100.0,
+      "win_rate": 100.0
     }
   },
   "yearly_stats": {
     "2026": {
-      "wins": 7,
+      "wins": 8,
       "losses": 0,
-      "total": 7,
-      "profit": 811.0,
+      "total": 8,
+      "profit": 911.0,
       "win_rate": 100.0
     }
   }
