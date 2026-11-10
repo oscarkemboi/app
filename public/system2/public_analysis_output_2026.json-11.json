@@ -219,6 +219,54 @@
           "h2h_zero_perc": "0.00",
           "composite_score": 0.0,
           "status": ""
+        },
+        {
+          "date": "2026-11-10",
+          "match": "Leicester City vs Walsall",
+          "final_odds": "5.46",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        },
+        {
+          "date": "2026-11-10",
+          "match": "Stevenage Boroug vs Fulham U21",
+          "final_odds": "5.46",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        },
+        {
+          "date": "2026-11-11",
+          "match": "Deportiva Once C vs Atletico Naci..",
+          "final_odds": "2.12",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "63.16",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        },
+        {
+          "date": "2026-11-11",
+          "match": "A.D. Isidro Meta vs Platense",
+          "final_odds": "2.43",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "50.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
         }
       ],
       "single_stats": {
@@ -232,8 +280,8 @@
         "average_combo_odds": "8.29"
       },
       "filtered_stats": {
-        "total_under_matches_in_month": 90,
-        "top2_selected": 18
+        "total_under_matches_in_month": 110,
+        "top2_selected": 22
       }
     }
   ],
@@ -253,7 +301,7 @@
     "Single Match EV: 0.2930 (💰 POSITIVE (potentially profitable))",
     "Daily Combo EV: 0.6992 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
-    "Total Under2.5 matches analyzed: 1840",
+    "Total Under2.5 matches analyzed: 1860",
     "Adaptive fallback days used (strict<2.0): 4"
   ],
   "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fills nearest below-threshold odds when fewer than 2; hard floor >= 1.85"
