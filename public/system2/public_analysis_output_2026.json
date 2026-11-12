@@ -4506,6 +4506,30 @@
           "h2h_zero_perc": "0.00",
           "composite_score": 0.0,
           "status": ""
+        },
+        {
+          "date": "2026-11-13",
+          "match": "Limavady United vs Cliftonville",
+          "final_odds": "3.35",
+          "original_prediction": "Under2.5 (converted)",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
+        },
+        {
+          "date": "2026-11-13",
+          "match": "Puerto Rico vs Dominica",
+          "final_odds": "3.25",
+          "original_prediction": "Under2.5",
+          "score": "",
+          "team_zero_perc": "0.00",
+          "h2h_under_perc": "100.00",
+          "h2h_zero_perc": "0.00",
+          "composite_score": 0.0,
+          "status": ""
         }
       ],
       "single_stats": {
@@ -4519,8 +4543,8 @@
         "average_combo_odds": "8.29"
       },
       "filtered_stats": {
-        "total_under_matches_in_month": 120,
-        "top2_selected": 24
+        "total_under_matches_in_month": 130,
+        "top2_selected": 26
       }
     }
   ],
@@ -4540,7 +4564,7 @@
     "Single Match EV: 0.2930 (💰 POSITIVE (potentially profitable))",
     "Daily Combo EV: 0.6992 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 Under2.5 matches per day by ranking score (Team Zero% + H2H Zero%)",
-    "Total Under2.5 matches analyzed: 1870",
+    "Total Under2.5 matches analyzed: 1880",
     "Adaptive fallback days used (strict<2.0): 4"
   ],
   "selection_criteria": "Top 2 per day by H2H Under % with odds >= 2.0; fallback fills nearest below-threshold odds when fewer than 2; hard floor >= 1.85"
