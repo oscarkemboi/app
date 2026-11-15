@@ -2239,6 +2239,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-11-16",
+      "Team A": "Leones de Rosari",
+      "Team B": "Sportivo Barraca",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.9574347172456905,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.18,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-11-16",
+      "Team A": "Somalia",
+      "Team B": "Ghana",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.9158259307468574,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.41,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
