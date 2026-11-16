@@ -111,36 +111,47 @@
           "score": "0-3",
           "h2h_under": "100.00%",
           "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "was_converted": true
+        },
+        {
+          "date": "2026-11-17",
+          "match": "Uruguay vs Dominican Republ",
+          "final_odds": "4.50",
+          "original_odds": "1.37",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "100.00%",
+          "status": "🟠",
+          "was_converted": true
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "40.00%",
-        "under_2.5_count": "2/5",
-        "average_odds": "3.00"
+        "under_2.5_percentage": "33.33%",
+        "under_2.5_count": "2/6",
+        "average_odds": "3.01"
       },
       "combo_stats": {
         "message": "No valid 2-match combos in 2026-11."
       },
       "filtered_stats": {
-        "total_matches_in_month": 16,
-        "matches_above_threshold": 9
+        "total_matches_in_month": 17,
+        "matches_above_threshold": 10
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "37.36%",
-      "under_2.5_count": "34/91",
-      "average_odds": "2.66"
+      "under_2.5_percentage": "36.96%",
+      "under_2.5_count": "34/92",
+      "average_odds": "2.67"
     }
   },
   "notable_analysis": [
-    "Single Match EV: -0.0047 (📉 NEGATIVE)",
+    "Single Match EV: -0.0140 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 236",
+    "Total matches analyzed: 237",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
