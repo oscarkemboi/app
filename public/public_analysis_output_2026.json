@@ -1502,10 +1502,11 @@
           "original_odds": "1.37",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "5-0",
           "h2h_under": "100.00%",
           "status": "🟠",
-          "was_converted": true
+          "was_converted": true,
+          "score_source": "bettingclosed"
         },
         {
           "date": "2026-11-18",
@@ -1514,10 +1515,23 @@
           "original_odds": "1.69",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "1-0",
           "h2h_under": "0.00%",
+          "status": "✅",
+          "was_converted": true,
+          "score_source": "bettingclosed"
+        },
+        {
+          "date": "2026-11-19",
+          "match": "Fredericia vs Hillerod Fodbold",
+          "final_odds": "2.62",
+          "original_odds": "2.62",
+          "original_prediction": "Under2.5",
+          "final_prediction": "Under2.5",
+          "score": "",
+          "h2h_under": "33.33%",
           "status": "🟠",
-          "was_converted": true
+          "was_converted": false
         }
       ],
       "single_stats": {
@@ -1529,8 +1543,8 @@
         "message": "No valid 2-match combos in 2026-11."
       },
       "filtered_stats": {
-        "total_matches_in_month": 18,
-        "matches_above_threshold": 11
+        "total_matches_in_month": 19,
+        "matches_above_threshold": 12
       }
     }
   ],
@@ -1545,7 +1559,7 @@
     "Single Match EV: -0.0140 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 238",
+    "Total matches analyzed: 239",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
