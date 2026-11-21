@@ -2415,6 +2415,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-11-22",
+      "Team A": "Sestao",
+      "Team B": "SD Amorebieta",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Over2.5",
+      "Confidence": 0.9719424504847215,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.13,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-11-22",
+      "Team A": "Criciuma EC",
+      "Team B": "Fortaleza",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Over2.5",
+      "Confidence": 0.9669820170799637,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.38,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
