@@ -156,10 +156,23 @@
           "original_odds": "2.11",
           "original_prediction": "Under2.5",
           "final_prediction": "Under2.5",
-          "score": "",
+          "score": "1-0",
           "h2h_under": "100.00%",
+          "status": "✅",
+          "was_converted": false,
+          "score_source": "bettingclosed"
+        },
+        {
+          "date": "2026-11-23",
+          "match": "Sepsi vs Rapid Bucuresti",
+          "final_odds": "2.22",
+          "original_odds": "1.99",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "57.14%",
           "status": "🟠",
-          "was_converted": false
+          "was_converted": true
         }
       ],
       "single_stats": {
@@ -171,8 +184,8 @@
         "message": "No valid 2-match combos in 2026-11."
       },
       "filtered_stats": {
-        "total_matches_in_month": 22,
-        "matches_above_threshold": 13
+        "total_matches_in_month": 23,
+        "matches_above_threshold": 14
       }
     }
   ],
@@ -187,7 +200,7 @@
     "Single Match EV: -0.0097 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 242",
+    "Total matches analyzed: 243",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
