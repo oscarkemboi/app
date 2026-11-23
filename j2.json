@@ -2479,6 +2479,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-11-24",
+      "Team A": "Darlington",
+      "Team B": "Southport",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.9644129794005628,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.2,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-11-24",
+      "Team A": "Hibernian",
+      "Team B": "Dundee",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.8807360020209719,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.19,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
