@@ -1541,8 +1541,7 @@
           "score": "1-0",
           "h2h_under": "100.00%",
           "status": "✅",
-          "was_converted": false,
-          "score_source": "bettingclosed"
+          "was_converted": false
         },
         {
           "date": "2026-11-23",
@@ -1555,34 +1554,46 @@
           "h2h_under": "57.14%",
           "status": "🟠",
           "was_converted": true
+        },
+        {
+          "date": "2026-11-24",
+          "match": "Benevento vs Empoli",
+          "final_odds": "2.75",
+          "original_odds": "1.70",
+          "original_prediction": "Over2.5",
+          "final_prediction": "Under2.5 (converted)",
+          "score": "",
+          "h2h_under": "66.67%",
+          "status": "🟠",
+          "was_converted": true
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "33.33%",
-        "under_2.5_count": "3/9",
-        "average_odds": "3.10"
+        "under_2.5_percentage": "40.00%",
+        "under_2.5_count": "4/10",
+        "average_odds": "3.00"
       },
       "combo_stats": {
         "message": "No valid 2-match combos in 2026-11."
       },
       "filtered_stats": {
-        "total_matches_in_month": 23,
-        "matches_above_threshold": 14
+        "total_matches_in_month": 24,
+        "matches_above_threshold": 15
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "36.84%",
-      "under_2.5_count": "35/95",
-      "average_odds": "2.69"
+      "under_2.5_percentage": "37.50%",
+      "under_2.5_count": "36/96",
+      "average_odds": "2.68"
     }
   },
   "notable_analysis": [
-    "Single Match EV: -0.0097 (📉 NEGATIVE)",
+    "Single Match EV: 0.0057 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 243",
+    "Total matches analyzed: 244",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
