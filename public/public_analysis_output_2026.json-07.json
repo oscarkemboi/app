@@ -142,16 +142,16 @@
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "37.50%",
-      "under_2.5_count": "36/96",
+      "under_2.5_percentage": "37.11%",
+      "under_2.5_count": "36/97",
       "average_odds": "2.68"
     }
   },
   "notable_analysis": [
-    "Single Match EV: 0.0057 (💰 POSITIVE (potentially profitable))",
+    "Single Match EV: -0.0064 (📉 NEGATIVE)",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 245",
+    "Total matches analyzed: 247",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
