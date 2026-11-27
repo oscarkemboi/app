@@ -1565,8 +1565,7 @@
           "score": "5-0",
           "h2h_under": "66.67%",
           "status": "🟠",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "was_converted": true
         },
         {
           "date": "2026-11-25",
@@ -1578,8 +1577,7 @@
           "score": "1-1",
           "h2h_under": "80.00%",
           "status": "✅",
-          "was_converted": true,
-          "score_source": "bettingclosed"
+          "was_converted": true
         },
         {
           "date": "2026-11-26",
@@ -1588,38 +1586,39 @@
           "original_odds": "1.45",
           "original_prediction": "Over2.5",
           "final_prediction": "Under2.5 (converted)",
-          "score": "",
+          "score": "1-3",
           "h2h_under": "62.50%",
           "status": "🟠",
-          "was_converted": true
+          "was_converted": true,
+          "score_source": "bettingclosed"
         }
       ],
       "single_stats": {
-        "under_2.5_percentage": "36.36%",
-        "under_2.5_count": "4/11",
-        "average_odds": "2.93"
+        "under_2.5_percentage": "38.46%",
+        "under_2.5_count": "5/13",
+        "average_odds": "2.90"
       },
       "combo_stats": {
         "message": "No valid 2-match combos in 2026-11."
       },
       "filtered_stats": {
-        "total_matches_in_month": 27,
+        "total_matches_in_month": 28,
         "matches_above_threshold": 17
       }
     }
   ],
   "yearly_stats": {
     "single_stats": {
-      "under_2.5_percentage": "37.11%",
-      "under_2.5_count": "36/97",
+      "under_2.5_percentage": "37.37%",
+      "under_2.5_count": "37/99",
       "average_odds": "2.68"
     }
   },
   "notable_analysis": [
-    "Single Match EV: -0.0064 (📉 NEGATIVE)",
+    "Single Match EV: 0.0008 (💰 POSITIVE (potentially profitable))",
     "Strategy: Select top 2 matches per day with highest H2H Under % and odds >= 2.0",
     "Note: * indicates Over2.5 predictions converted to Under2.5 odds",
-    "Total matches analyzed: 247",
+    "Total matches analyzed: 248",
     "Matches converted from Over2.5: 0"
   ],
   "conversion_info": {
