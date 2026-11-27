@@ -2607,6 +2607,38 @@
       "Year": "2026",
       "Win": null,
       "Profit": 0
+    },
+    {
+      "Date": "2026-11-28",
+      "Team A": "Lokomotiv Plovdi",
+      "Team B": "Spartak Varna",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Over2.5",
+      "Confidence": 0.9705948377112859,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.2,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
+    },
+    {
+      "Date": "2026-11-28",
+      "Team A": "Colchester Unite",
+      "Team B": "York",
+      "League": "N/A",
+      "Prediction": "Under2.5",
+      "Original Pred_": "Under2.5",
+      "Confidence": 0.9263056933252798,
+      "Possible Score": "1-0 / 0-0",
+      "Odds": 2.12,
+      "Actual Score": "",
+      "League Rank": 1132,
+      "Year": "2026",
+      "Win": null,
+      "Profit": 0
     }
   ],
   "monthly_stats": {
